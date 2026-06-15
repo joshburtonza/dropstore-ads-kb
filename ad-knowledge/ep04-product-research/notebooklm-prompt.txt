@@ -1,0 +1,15 @@
+NotebookLM Audio Overview, customisation prompt for Episode 4
+
+Paste this into the "Customise" box before you click Generate on the Audio Overview.
+
+Create a premium audio deep-dive for the DropStore community: an audience of South African e-commerce and dropshipping store owners who already run a store and want to choose better products. Two hosts, conversational and credible, like two experienced operators talking shop over coffee. No hype, and no "in today's fast-paced world".
+
+Focus the whole episode on the single source document. The core idea to land: stop chasing viral, saturated products picked on vibes, and start choosing products on margin, problem, and difference, in that order. Margin comes first. If the math does not work, nothing else matters.
+
+Rules:
+- Explain every piece of jargon in plain language the first time it appears (contribution margin, AOV or average order value, saturation, the kill condition, the ad library, unit economics).
+- Use South African context throughout: rand, VAT, local shipping and failed-delivery realities, and why a high average order value matters more here because shipping is a fixed cost.
+- Do not invent statistics or specific numbers that are not in the source. The only numbers used should be the illustrative examples already in the document (the R450 versus R300-landed margin comparison, and the cents-in-the-rand figures), and make clear they are illustrative.
+- Keep it tight, roughly 10 to 12 minutes.
+- End with one clear, motivating takeaway the listener can act on this week: the weekly product research routine, run in order, with the kill condition written down before any money is spent.
+- No em dashes anywhere in the narration style. Use natural spoken pauses, commas, and full stops.

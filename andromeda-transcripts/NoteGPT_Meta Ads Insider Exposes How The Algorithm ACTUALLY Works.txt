@@ -1,0 +1,184 @@
+
+00:00:00
+Andromeda, Gem, and Lattice were the   biggest Facebook algorithm changes that   I have ever seen. Today, I sat down for   the last 25 minutes with a Meta   executive who was responsible for these   massive algorithm changes. So, in this   video and interview, I was able to ask   my most personal questions on how the   algorithm has changed, how we should be   thinking about it from Meta's   perspective, not just what's in their   white papers, not just what they tell us   publicly, but a true behind-the-scenes   understanding of the internal people who   have actually built the algorithm   themselves. Matt Steiner, welcome in.   How are you?   >> I'm doing well, thank you. Great to be   here. I appreciate you having me on the   show.   >> There's a lot of questions that I want   to ask you today. You have a pretty   major role on the Meta side of things   and specifically in the realm of known   things like Andromeda and the algorithm   in general, which has a million   questions. I could have asked so much to   you today, but what I really wanted to   focus on was a group of questions that I   think are going to be most impactful to
+
+
+00:00:59
+  selfishly some of the brands that I work   with and also ideally a lot of people   that are watching this right now.   There's a lot of confusion on the   algorithm. There's a lot of confusion on   what goes on. Can you just tell the   world what you've done on your side on   the Meta end, what you do, what you're   responsible for, cuz I think people   being able to hear the answers from the   source is is very rare and in your case   going to be pretty unique.
+
+
+00:01:21
+  >> Great. Yeah, thanks. Happy to. So, my   name is Matt Steiner and I support   monetization infrastructure, ranking,   and foundational AI at Meta. This is   effectively the set of systems that are   retrieving which ads can be ranked for a   person that shows up and then ranking   those ads, trying to pick the best ad   that will both maximize the value for   advertising partners as well as deliver   the best experience for the people who   are seeing the ad, really trying to   match people to their interests and   products and services that they will   love.   >> Which is   a good segue to say this is what people   have known to be this is Andromeda,   right? In a way. So, I want to actually   ask you that question. What is   Andromeda? Why was it built? And how is   it impacting advertisers so far from   what you've seen?   >> Yeah, it's a great question. So, when   you think about ranking for advertising,   the first step is to select the ads that   are candidates to be shown for the   person who's appeared on a meta property   and there's an ad slot to fill. That is   where Andromeda comes in. Andromeda is
+
+
+00:02:21
+  our retrieval system that's been   co-designed, the hardware, the software,   and the machine learning model to   optimize performance for retrieval and   specifically personalized retrieval.   With the rise of generative AI tooling,   advertisers have created a lot more   creatives, whether that's creative   backgrounds or creative copy and mixing   them all together in large number of   variations.
+
+
+00:02:47
+ That kind of Cambrian   explosion of creatives made that   retrieval problem much more difficult   for our advertising system. There were   just so many more ads to consider when   determining which ones to rank. So, we   built Andromeda, which is a much more   capable hardware system powered by   Nvidia GPUs on a custom hardware skew,   plus a machine learning model that is   tailored to work really well on that   hardware system, and the hardware system   was selected to work really well with   the model.
+
+
+00:03:16
+ So, we can maximize the   performance in personalizing which ads   to show for you. Cuz if you think about   ad retrieval, a bunch of advertisers are   going to try to target me with an ad,   but not every advertiser that tries to   target me with an ad has a product that   I'm interested in. My interests are a   subset of the advertisers who've   targeted me with their products.
+
+
+00:03:34
+ And so,   Andromeda is really the sophisticated   hardware and machine learning model that   selects of the advertisers who've   targeted products at me, which ones am I   most likely to be interested in. And   then those progress further to the   ranking stage, which is where you hear   about our investments in the generative   ads ranking model gem and the adaptive   ranking model which we just started   discussing a couple weeks ago.
+
+
+00:03:58
+  >> Yeah, cool. I want to hear a bit more   about gem as well, but I have a question   on on the Andromeda side or maybe even   like a summation of things as keeping it   as simple as possible, right? Like   people started making more ads, a lot   more ads, right? People went down the   route of essentially saying, "Hey, we   have something that works.
+
+
+00:04:13
+ Let's go make   20 versions of it." Not old school. I   remember the days you'd have one ad and   you'd just smash it. You'd spend as much   money as possible against it. And I   think that that shifted naturally.   There's reasons for that, right? We see   less fatigue on on ads when we do that   and we see more scale when we actually   have more variations of ads.
+
+
+00:04:29
+ I think   there's a misconception. I know you're   not totally tuned in on the creative   side of but I do think there is a   misconception that now in this Andromeda   era that building iterations and and   building versions of good ads doesn't   work. And what I hear from what you've   just said, which is perfectly described   of you know, what I've read and and   understood is that it's not about you   can't build variations, it's just that   they're going to literally be retrieved   and perceived by the meta algorithm in a   different way.   >> That's a good description. I think the   way the Andromeda system would look at   this is if you create 25 versions of an   ad, maybe only three of those would be   appealing to me potentially and a bunch   of them may not be appealing to me   because of the types of content that I   look at, because of the backgrounds that   it appears on, whether the color   matches, the specific context that the   ad appears in. So, a particular subset   of those is going to be relevant to me.   Not all of the creatives that you've   created variations for may be relevant   to me. And Andromeda is going to
+
+
+00:05:28
+  retrieve the ones that are most likely   to perform for me. And some of the ones   that will perform for me may not perform   for you and some of the ones that   perform for you may not perform for me.   Um so, as a result, Andromeda is   selecting the most likely candidates.   It's good to have a reasonable candidate   set of ads creatives for Andromeda to   consider across your various audiences.
+
+
+00:05:48
+  at the same time. Creating a an   extremely large number of them probably   isn't going to help you more than having   a reasonable diversity of ads.   >> That is the part that I'm so happy you   just mentioned, right? Like creative   diversity doesn't mean that you have   like all these like crazy different ads   all over the place.
+
+
+00:06:04
+ Some that are, you   know, built for for one avatar and some   built for a totally different avatar   that has nothing to do with your brand.   And I think people get that so confused   these days. And what you just described   is like, "Hey, you could build more. You   should probably build more." I won't put   words in your mouth on that, but from my   perspective, you should probably   continue to build more diverse ads or   clusters of diverse ads.
+
+
+00:06:26
+ And even if you   build 20 and three get run, three get   delivery, that's almost to be expected   here because a lot of the work that   would have been done by spending is now   potentially saved and done by the loads   of computer rooms   >> [laughter]   >> that Meta probably has somewhere that's   doing a lot of that processing up front,   right?   >> Yeah, yeah, that's exactly right.
+
+
+00:06:47
+ The   machine learning models, they're very   good at figuring out what works and what   doesn't work and optimizing for what is   working, right? So, they'll attempt   delivery on all the variations of the   creative, then they'll figure out which   ones are working best, and they'll start   moving the advertising dollars to the   ones that perform best for you.
+
+
+00:07:04
+ And that   doesn't necessarily mean that the other   creatives were bad. It's just that they   were lower performant, and as a result,   you probably don't want your dollars   spent on those lower performing   creatives. The machine is doing the   optimization, and it's doing the   optimization based on real-world   performance data.
+
+
+00:07:20
+ And that's what really   the machine learning models are best at,   and that's why we have all of these   large and powerful computers that were   very fairly expensive sitting in those   server rooms.   >> I'm sure. How does Gem and and Lattice,   which are two other products or or   whatever we call them, services,   products that that Meta has developed   over really 2025 and into 26, how are   they playing in this Andromeda era?   >> That's a great question.
+
+
+00:07:43
+ So, uh Lattice   is effectively our model consolidation   technology. Previously, you would have a   variation of a machine learning model   that was extremely specific. This model   is predicting clicks on Facebook. This   model is predicting clicks on Instagram.   This model is predicting conversions on   Facebook.
+
+
+00:08:02
+ This model is predicting   conversions on Instagram. It turns out   that if you take all of those machine   learning models and you collapse them   into one model all of the training data   that used to go into those four models   into the one model, the performance of   the one model is better than the   performance of each of the individual   models because that larger model is able   to learn from more data, more of your   interests, more of your interactions   with businesses, products, services, et   cetera.
+
+
+00:08:29
+ And that just improves the   performance for the advertiser as well   as the experience for the person who is   seeing an ad. You're going to see a more   relevant ad because we consolidated   these models and the training data used   on these models to drive better outcomes   for advertisers. So, that's Lattice. Gem   is a quite a bit further expression of   that where we're creating this large   generative recommendation model that is   really our foundation model that all of   our other models kind of learn from in   that kind of second stage ranking   environment. And then we try to take   that super large foundation model, the   generative ads recommendation model, and   we build a LLM scale and complexity   inference model out of that foundation   model and that's what we started calling   the adaptive ranking model where some   number of people interact with brands   and content a lot, have a lot of   interest, they interact a lot on the   platform, they purchase more than other   folks, they have longer sequences of   interactions, we can learn more from
+
+
+00:09:28
+  about them and make better   recommendations for them from their more   more interactions on the platform. Other   folks, they don't interact as much as   brands, they don't purchase as much.   They have shorter interaction sequences,   interaction histories. So we don't need   to use as much compute in recommending   an ad for them because there's just not   as much input data.
+
+
+00:09:46
+ And so adaptive   ranking model allows us to dramatically   scale up on the kind of power user   segment and produce substantial   improvements in performance for those   users who are engaging a lot with brands   and content etc.   >> Woah, okay. Super good explanation. I've   not heard that explained. So I need   things sometimes in the simple version   and and Matt that was the simple version   of something that's extremely complex   and I really do appreciate it cuz that   to me is like simply put that is tying   together the mass adjustments that   Andromeda as this this era that we're   in. It's kind of like I don't want to   say like the sidekicks but like they   don't they all work together. They they   have to work together. Which is really   cool. I want to ask you a question   around what my audience has observed,   what we've observed on a lot of the   brands that we work with for context,   right? We work with around 100 brands   right now. We're spending millions of   dollars every month across the meta   suite. And then we also have a lot of
+
+
+00:10:45
+  folks that watch in different modes that   essentially like absorb a lot of what's   going on and they see they're feeling it   and not necessarily spending hundreds of   thousands of dollars a month, maybe   spending a couple thousand dollars,   5,000 or whatever. So something I've   heard more is that brands are reporting   increased delivery volatility.
+
+
+00:11:01
+ So just   overall volatility of ads. Big shifts in   in where the spend goes. Sometimes where   they feel like campaigns are   destabilizing especially without obvious   triggers. Like they're not seeing like   hey I changed something on site that   day. They can't figure out what changed   in that period of time.
+
+
+00:11:19
+ So my question   is this known? Is this the trade-off   that we just have to take for faster   optimization cycles where volatility is   actually the feature potentially and not   the bug.   >> Yeah, this is really great question, and   we have heard the same question from a   number of our advertising partners, as   well.
+
+
+00:11:38
+ And it's really important one that   goes to how the auction actually works.   So, because we are running a very large   number of auctions in real time every   second, and you have a very large number   of bidders who are bidding every second,   the more advertisers on the platform,   and the more frequently they change   their bid prices or bid volume, the more   changes that everyone sees in the   auction dynamics that play out in the   marketplace. It's like the stock market.
+
+
+00:12:05
+  There are a bunch of different tickers,   a bunch of people, retail investors,   institutional investors, they're bidding   up the prices of the stocks or down the   prices of the stocks in real time as   they think those stocks are more or less   valuable to those investors. The same   effect is playing out in the advertising   auction.
+
+
+00:12:19
+ There are a bunch of people,   and maybe some information comes in that   this customer is much more likely to be   interested in the product or service   you're offering, maybe you increase your   bid because they would purchase from you   if they saw your ad. Or maybe some new   information comes in, and they just   bought a refrigerator, they're unlikely   to buy a new refrigerator soon, and that   customer is no longer as valuable to   you, and you change your bid.
+
+
+00:12:39
+ So, as   better information propagates throughout   the ecosystem, more advertisers are   changing their bids more frequently   based on what they learn about customers   and their desires. So, those bid changes   at volume create the volatility that   people experience on their campaigns cuz   it's a dynamic marketplace that is   optimized for delivering the best price   for each advertiser.
+
+
+00:13:01
+ And so, as you   change your bid, different people and   conversions will appear to you, not just   because of the changes that you've made,   but because of the changes that   everybody else is making in response. Uh   so, volatility and uh associated price   optimization are the opposite end of the   spectrum of low volatility and higher   prices.
+
+
+00:13:19
+ So, you kind of have to decide   which matters more to you, lowest prices   or um low volatility, cuz they're on   opposite ends of the spectrum.   >> Uh which is like essentially the more   you're spending and the more conversions   you're driving, the less overall   volatility you will have because in a   very simple term, the algorithm will be   more confident in the decisions that   it's putting in front of you.
+
+
+00:13:40
+ And then   one or two or 100 people or 1,000 people   that may have been considered to   purchase that drop out of your funnel   because there's a signal like they   bought that refrigerator, that's not   impacting your total funnel. When you're   spending less or when your average order   values or cost per acquisitions are   significantly higher, you then therefore   have to just accept that you have to   deal with volatility because the   algorithm isn't just going to endlessly   keep spending on people who are no   longer actually a part of your your true   purchase funnel anymore.   >> Yep. Yep. Yep.   Um as we are now again in this like   Andromeda era that everybody talks about   and we see people get more comfortable   with how advertising is supposed to work   and basically how to treat the algorithm   now. I would love to understand a bit   more on Meta's long-term vision of the   advertiser's role. Is there, you know,   an end state where we just hey, here's   my 10 creatives, here's my 100   creatives, go rip it, Meta. Like what do
+
+
+00:14:40
+  we do? I'd love to understand just like   POV on that. And I know there's no   perfect vision, but an idea would be   nice.   >> Yeah, I mean it's a great question. I   think if you look at the trends of the   industry, the machine learning models   and the computers, they're just getting   better at what computers do.
+
+
+00:14:52
+ They   compute things. They compute things   quickly. They can make uh dynamic   decisions based on really good data   really quickly. And I think we're   entering an area era where humans are   never going to outperform the machines   at that type of work again. Humans are   never going to out optimize the machine.   They're never going to move the budget   as quickly, as responsively to price   changes up or down uh kind of based on   the conditions of the auction market on   Meta or really anywhere else, right? But   what are humans really great at? Humans   are great at coming up with novel ideas   to test new messages for your brand, new   messages for a particular audience, and   then looking at the performance data and   reasoning about why did this message   work with this audience, and why did   this message not work with this   audience. The computers are not going to   be able to reason about that with   human-level intuition. So, humans are   really great with coming up with the   ideas, and they're really great at   connecting the performance ideas with   hypotheses about why a particular   message worked for an audience,   resonated with that audience, drove
+
+
+00:15:51
+  conversions with the audience, and why a   particular message may not have. And   then, once you have some hypotheses from   looking at the real-world performance   data, you can create variations on your   message, on your audience, and try   again. Right? So, really this is a   long-term human and machine partnership   where the humans are doing the ideating   about the initial messaging, and then   reasoning about the performance data   with human intuition and insights, and   then starting the process over again.
+
+
+00:16:16
+  While the machine handles all of the   computational optimization that they're   so good at.   >> I'm going to start using computational   optimization in my my daily language.   Can we expect massive changes like this,   um, or do we generally feel like, "Hey,   this this big new era that we're in in   the algorithm, this is here to stay.
+
+
+00:16:32
+" I   know some brands feel like they don't   have enough time to actually adjust   before the next big thing actually rolls   around.   >> This is a really interesting question,   and and I think if you look at the   broader trends in the computing   industry, algorithmic advances are   moving faster than ever before.   >> Yep.
+
+
+00:16:49
+  >> The pace of AI innovation is absolutely   astoundingly rapid. New papers are   coming out literally every day about   breakthroughs in specific components of   artificial intelligence and machine   learning models, and how that drives   performance in real-world applications.   We, of course, are focused on delivering   the best results for our customers and   the best, uh, kind of experiences for   people that see the ads.
+
+
+00:17:10
+ And so, we're   trying to incorporate as many of these   technological breakthroughs as we can,   as quickly as we can, because that   produces better results for our   customers. So, I think it's safe to say   that the pace of innovation will   continue to increase, will continue to   drive as much innovation as possible   into real-world performance benefits for   advertising partners and for people that   see ads.
+
+
+00:17:31
+ And that's going to come with   an associated need for advertisers to   understand what the opportunities are   with these new algorithmic advances and   system changes and how to really take   advantage of those to get the best   return on your advertising spend and the   results for your business. I wish I had   some better news that things will slow   down, but I don't think they will.
+
+
+00:17:52
+ I   think they'll continue to accelerate and   hopefully that produces massively better   results for your businesses, but it will   come with a cost of needing to keep up   with all of the changes that are   happening in the world.   >> Yeah, um probably good news for me   because I'll try to keep updated on   everything and keep folks updated on on   everything.
+
+
+00:18:12
+ Um but it is challenging,   right? There's no doubt about that. And   I think just like a reminder to everyone   watching this is that from my   perspective, I I won't speak for you,   Matt, but from my perspective, all   advertising platforms, Meta, and   anywhere else you're advertising, the   objective is quite simple, I think. I   think Meta's job is to get you to want   to spend as much money as possible.
+
+
+00:18:32
+ And   that want is the keyword. You want to   spend as much money as possible when   you're getting the business result as   closely as possible to your target or   exceeding, right? So, any change, like I   would be stunned if Meta ever made an   algorithmic change or a major sweeping   change just because it feels good or to   try to move things forward.
+
+
+00:18:54
+ Like   everything is rigorously tested.   Everything is meant to literally put   more dollars or confirm more objectives   for whatever the advertisers are trying   to do, right? So,   >> Yeah, that's exactly right. Every change   is AB tested and we only launch things   that move our our metrics in a positive   direction.
+
+
+00:19:13
+  >> Mhm.   >> Cool. Matt, thank you very much for a   rapid-fire of five or six questions   here. I do appreciate what you do. I'm   loving the Andromeda era right now. I'll   admit it was a little tough to get used   to a few things on some smaller brands   that we work with, but um you know, for   those that that we've battled through,   it's it's nice now.
+
+
+00:19:32
+ We we have what I   think and what many advertisers out   there have experienced now are more   comfortable in in what's working and how   to approach things. So, yeah, keep   rocking on. Thanks for helping us make   more money.   >> Great. Thanks thanks for your time.   Great chatting with you, Sam, and have a   great day.   >> Thanks, Matt.
+

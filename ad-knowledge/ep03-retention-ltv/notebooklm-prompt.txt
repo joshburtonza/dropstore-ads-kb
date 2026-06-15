@@ -1,0 +1,17 @@
+NotebookLM Audio Overview customisation prompt for Episode 3.
+
+Paste this into the "Customise" box before you click Generate on the Audio Overview.
+
+Create a premium audio deep-dive for the DropStore community: an audience of South African e-commerce and dropshipping store owners who already run a store and want to level up. Use two hosts, conversational and credible, like two experienced operators talking shop over coffee. No hype, no fluff.
+
+Focus the whole episode on the single source document. The core idea to land: the cheapest revenue is the customer you already have, and repeat buyers raise the ceiling on what you can afford to pay to acquire new ones.
+
+Rules:
+- Explain every piece of jargon in plain language the first time it appears: CAC or cost to acquire, LTV or lifetime value, breakeven tolerance, lifecycle flows, the five flows, and UGC.
+- Spend real time on why retention raises your breakeven tolerance, using the two-store comparison from the source so listeners feel why a higher LTV lets you outbid competitors.
+- Cover the five flows (welcome, abandoned cart, post-purchase, replenishment, win-back) and the review and UGC loop, in plain practical terms.
+- Make the email-versus-WhatsApp section concrete for South Africa: open rates, data costs, prepaid and mobile-first buyers, chat-based commerce, and the permission rule that you get blocked if you abuse WhatsApp.
+- Use South African context throughout: rand, VAT, local shipping and payment realities.
+- Do not invent statistics or specific numbers that are not in the source. The only numbers used should be the illustrative examples already in the document, and flag them clearly as examples.
+- Keep it tight: roughly 10 to 12 minutes.
+- End with one clear, motivating takeaway the listener can act on this week: switch on an abandoned cart message now, then run the weekly thirty-minute retention routine and judge the business by repeat rate.

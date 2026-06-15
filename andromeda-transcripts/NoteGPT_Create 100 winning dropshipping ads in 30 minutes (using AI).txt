@@ -1,0 +1,408 @@
+
+00:00:00
+This is easily one of the most important   trainings you're going to watch. The new   Andromeda update for Facebook is super   important and if you're doing drop   shipping, you have to understand this if   you want to be successful. So, today I'm   going to show you how you can create 100   drop shipping ads in 30 minutes or less   using AI and it's 100% Andromeda proof.
+
+
+00:00:17
+  So, before we begin, if you want to see   numbers like this, $5,000 in a day,   $5,000 in a day, or even $30,000 in a   week, you're going to want to pay very   close attention and maybe even watch   this video back two times. All right, so   let's jump straight into it. So, what is   the new update with Andromeda?   Basically, Facebook doesn't like you   creating a ton of different variations.
+
+
+00:00:38
+  They want to see concepts instead. So,   not only am I going to teach you the new   update and how to separate yourself, I'm   also going to teach you in just a moment   towards the end of this video, how to   actually set the campaigns up so you can   be successful. So, back to this   variation versus concept.
+
+
+00:00:53
+ What is the   difference between the two? Well, most   of us when we talk about drop shipping   and creating variations or split tests,   we normally change one or two things   like the ad headline or maybe like a   picture or two. This is considered a   variation. The problem with this is that   Andromeda now can analyze ads way faster   than ever before.
+
+
+00:01:12
+ And what they'll do is   that they'll take the same exact   variation ads and just show them to the   same person. And this is going to hurt   your performance because the same person   seeing the same exact ad with a slightly   different headline is going to create ad   fatigue a lot faster and it's not going   to get them to buy.
+
+
+00:01:27
+ What Facebook wants   you to do here is start to create   different concepts. If we think about   consumers and how people buy things, a   lot of the times we need to see the same   thing but in different ways for us to   purchase. Right? If I'm seeing the exact   same ad every single time, I'm just   going to get sales blindness where I   just I've seen that a million times, I'm   just going to scroll past it.
+
+
+00:01:46
+ Even if I   need the product and even if I'm   interested, I'm just going to ignore it   if it looks exactly the same with a   slight variation. What Facebook wants   you to start doing now is creating   different concepts. Right? So this is a   different concept because this is a   review a client testimonial and this is   a different concept because this is us   versus them.
+
+
+00:02:06
+ Same exact product   communicating the same exact solution   which is removing your sciatica or   getting rid of your sciatica and getting   proper sleep at night with this knee   pillow. But it's presented to the   customer in two different ways. And this   is important because customers are on   different sales cycles.
+
+
+00:02:21
+ Some customers   know a lot about the product and you   need to use a sales cycle like or sales   ad like this one here to convert them.   Others may not know too much about the   ad and or about the product rather and   this type of ad would be better at   converting to them. What Facebook wants   to do is have you have a portfolio of   different ad angles and concepts so they   can circulate different ads to different   people at the different times in the   buying decision.
+
+
+00:02:47
+ So that's why in this   video I'm going to break down exactly   how you can create a ton of different   ads quickly so you can be more   profitable. Now real quick, this video   is all about picture ads, but videos   also do the same thing. So rather than   just changing the hook of the video, you   want a different concept.
+
+
+00:03:04
+ Maybe a UGC   style video, a founder video, an in an   infomercial, or something else like text   on screen, right? So that's all very   important. All right, so let's jump into   exactly how to do this. The three or   actually four tools you'll need is   Hicksfield, Creative OS, Claude, and   Chat GBT.
+
+
+00:03:23
+ ChatGBT is going to be a   little optional, but I think it's still   overall important to the concept. Um, so   let's get straight into it. So, for the   sake of this, we're going to use one of   the stores that I've kind of put   together here, Evelyn. This is selling a   remmineralizing tooth powder for grown   adults that have noticed their enamel   decaying, maybe tooth sensitivity,   cavities.
+
+
+00:03:41
+ Um, so it's just a it's just a   replacement for toothpaste. So, what   we'll do is first open up Claude and   we're going to create a project. This is   important to create projects because we   want to first train the algorithm and   the AI to understand who we're selling   to, what we're selling to, so it can   help create different angles for us to   make this super easy.
+
+
+00:04:00
+ The next step is   to go in the description of this video   and go to my scripting document that I   have here and copy this exact prompt and   paste it into Claude AI. So, it's very   important that you feed the algorithm or   the AI here with as much information as   possible. So you'll see in the prompt   that you can grab from the document that   I'm going to give it some information to   start off with.
+
+
+00:04:19
+ First thing is I'm going   to provide it the Amazon listing or the   description. Um I'm also going to give   it a Reddit form as well so we can talk   about people with remineralizing um you   know how they struggle with their enamel   cavities. To do this you literally go in   and type in your problem and then put   Reddit at the end of it.
+
+
+00:04:36
+ And then I have   a form here. I'm just going to copy this   link here and it's people just talking   about remmineralizing their teeth and a   whole bunch of different stuff. So,   we're going to provide that as well. And   then we also want to go to the very   similar Amazon listing like this one   here that I'm using.
+
+
+00:04:49
+ And we want to get   the reviews as well. I use this tool   called Amazon Reviews Exporter. And it's   going to download uh about 100. I guess   it can't do more than 100. So, about 100   of the most helpful reviews. So, if I go   down here, it's going to download this   and turn it into a file. I'm going to   take that file and slap that right on   into Claude AI as well.
+
+
+00:05:10
+ So, it takes a   few seconds. We're going to do it right   here. It's extracted 80 90 and then   boom. And then I can just go here and   slap that in there as well. So, we have   a Reddit form. We have the Amazon link   and the the product description if you'd   like. And a Reddit form all about   different information about our product,   different problems that people have   within this.
+
+
+00:05:32
+ And and now we're going to   hit submit. And this is going to provide   a ton of different information and get   it ready to start creating a ton of   different ads. I'm also going to do the   same thing in chat GBT as well. Now, for   those of you that are using Claude or   Chad GBT and you're saying to yourself,   do I need both? I highly recommend you   do have both.
+
+
+00:05:51
+ But if you want to pick   one or the other, just go with Chad GBT.   The reason why I like using both is   because some of the ads that we create   is going to require a little bit of   copyrightiting and that's where Claude   is a little better. But when it comes to   Chad GBT, the reason why we're using   this is because we're going to be   actually creating all the image ads in   something called Higsfield.
+
+
+00:06:07
+ But before   we generate the images, I like to use   chat GBT to help me prompt exactly how I   want to turn those images and use them   for my own brand. But um it's very   important that you do train both AIs to   know exactly what your product's about.   That way it actually understands how   it's going to create the copy and the   messaging for you.
+
+
+00:06:28
+ Also important to   note, if Chad GBT says, "Hey, we can't   scrape the Amazon link for you." Just   literally copy the the description and   then it'll it'll do all that stuff for   you. And I believe Claude should be   almost done here as well. Um, sometimes   it fails to fetch things, so it might   actually go and do the research for you.
+
+
+00:06:46
+  So, just give these a couple of seconds   and we should be good to go. Now that   Chad GBT has pretty much gone through   and done everything here. We have a   product summary. We understand the key   benefits, all the information that we   need, the biggest takeaways. It's going   to provide some different angles and   concepts.
+
+
+00:07:02
+ We're not going to actually   use any of this right now. We just want   the AI to know and we also want   ourselves to know as well. So the next   tool we're going to jump into is   Creative OS. This is a tool that   provides the best and most viral picture   ads that are being ran by other brands.   And the the name of the game here is   just by pulling whatever is doing really   well and using that concept for our own   ads as well. So you're going to log in.
+
+
+00:07:28
+  Uh, I believe they do have a free trial   that you can start off with and then I   think the monthly subscription is $20 or   $49. Either one is pretty good. So,   let's jump straight into it. Right. If I   go on the rightand side here, all I like   to basically do here is filter by the   most popular ads.
+
+
+00:07:43
+ These are ads that are   absolutely crushing it for other   competitors and brands. And even here at   the top right hand side, we can see that   there are different types of ads. You   have back in stock, you have beauty,   before and after. We can hit this this   drop down here. And this right here are   all different concepts, right? So,   different concepts that we can use and   quickly be able to test with our   product.
+
+
+00:08:05
+ Um, I actually really like   these here. So, all I'm going to do is   find something that I really like. And   then what we're going to do is tell Chad   GBT, hey, take this concept from a   competitor and here's a picture of my   product and I need you to swap out the   product and swap out the benefits and   features and align that with the product   that I'm looking to sell.
+
+
+00:08:25
+ So, let's   actually do that. Let's take this for   example. We're just going to download   this one here. It's also important that   you have a very clean picture of your   product as well. This is super easy to   do. You can literally just find a   product photo from AliExpress or   wherever you got your product from, from   your supplier, and just have them slap a   logo.
+
+
+00:08:44
+ You can literally go in chat GBT,   hey, put a logo on this product. That's   literally what I did. As you can see,   it's basically the exact same here. And   I just went in chat GBT took this and   said, "Hey, remove the just ingredients   logo and put my logo instead." And then   now that you have a clean picture of   your product, you want to slow slap that   as well in the chat GBT prompt.
+
+
+00:09:04
+ So,   we're not going to generate the images   in Chad GBT. We just need help with the   scripting and prompting. So, I'm going   to tell Chad GBT, I'm going to upload a   picture of my product, and then the   competitor ad. I'm going to say, image   one is my product, and image two is the   competitor picture ad.
+
+
+00:09:18
+ I need you to   create a Higsfield prompt that   accomplishes the following. Recreate   image two, which is the competitor's ad,   but have the messaging in line with my   product and swap out the competitor's   product images with my product. Be sure   to follow the concept colors and style   exactly how the competitor has it.
+
+
+00:09:32
+ So,   this is why we need to prompt the AI   with information and knowledge about our   product and the industry because now   it's not only going to be able to create   the prompt for us that we can throw in   Higsfield, the messaging and copy that's   on the ad here, we're going to want the   AI to replace this as well that aligns   with our product.
+
+
+00:09:48
+ So, this is very very   important that it knows exactly what to   do. And sometimes it's important as well   that we we we get really clear. So,   right here it says prenatalss. We want   to make sure that all the messaging and   copy aligns with the remineralizing   toothpowder and not the competitor's   actual product.
+
+
+00:10:06
+ So, I'm going to add   that in there as well. And now, Chat GBT   is going to give us the prompt, right,   which is amazing. Boom. Generates the   prompt in a matter of seconds. And now   we can copy all this and load it up into   Higsfield. So, this is Higsfield. The   images that I have here that I was   generating was for another training I   was doing with my students inside of my   school community.
+
+
+00:10:25
+ But now that you have   the prompt, you're just going to paste   the prompt in and paste the images. And   as you notice here, Higfield has a   couple of different models that you can   use to generate images. And I'm going to   show you exactly how I like to do this.   So, copy the exact prompt from Chad GBT   into Higsfield.
+
+
+00:10:39
+ Make sure you upload   your images. And then there is a couple   different models. Like I mentioned, I   like to test off with Nana Banana. I'm   going to select that. I'm also because   I'm on the I'm on a specific plan that   allows me to get unlimited for Nana   Banana. I'm going to make sure I select   unlimited, which makes it so I only can   generate one image at a time, which is   fine.
+
+
+00:10:58
+ And then I'm going to change the   dimensions here to a one by one. And   then I'm just going to hit unlimited.   All right. So now that's going to start   generating an image. While that's going   as well, I'm going to also test out flux   context max. Make sure to change this   here. This is actually going to take   some credits though.
+
+
+00:11:14
+ So we're going to   generate that. Um, and then sometimes   I'll mess with these other ones, but   these are two normally the more   consistent ones. Flux tends to generate   a little bit faster than Nana Banana.   Um, but Nana Banana, in my opinion, is a   little bit more consistent. So, you're   going to notice the first set of time,   the first couple times doing this,   there's going to be a couple errors and   issues, and all you got to do is just go   back in and tweak a few things.
+
+
+00:11:35
+ Um, but   it's really cool because it generates   realistically good photos. Um, and even   in Chad GBT as well, we can we can do   that as well. So, here's the first first   image, right? So, it has other   toothpaste. Evelyn for mineralizing   tooth powder supports natural enamel. So   as you can see here the the messaging is   messed up here.
+
+
+00:11:54
+ Gentle on sensitive   teeth contains fluoride chemicals. So   the concept and the ideas there they   just messed up with the the text. Flux   context isn't the best right now with   with generating text. Not as good as   Chad GBT and the other ones. But um it   it can be really good. Let's take a look   at Nana Banana.
+
+
+00:12:12
+ Nana Banana looks a   little bit better. Right. So this one   has um the tooth powder, right? So this   one's contains fluoride. They misspelled   fluoride and synthetic chemicals. Can   cause gum irritation, acid reflux. Okay,   so this is good. Supports natural   enamel, reminds of calcium, calcium and   clay, gentle and sensitive.
+
+
+00:12:27
+ So this is   good. All you would need to do is go   back here into instruct and then tell it   what to say. And if I would go in and   literally tell it exactly what to say on   the left side, on the right side, then   it's good to go. So it did the the heavy   lifting for me. I just got to go in and   tweak a couple things.
+
+
+00:12:44
+ But as you can   see here, this is super easy. and you it   took a couple seconds to do this and I   have one concept and this is considered   an us versus them ad and now I would go   in and generate another one. We can't   sleep on chat GBT's ability as well.   Chad GBT takes so much longer but   they're more consistent with the text   and the wording while the other AI   models are a little bit faster, but when   you have certain ads with a lot of text,   that's where it could get a little   tricky.
+
+
+00:13:09
+ I did pick one of the hardest   images to replicate with all the extra   text. Um, so that's where Hexfield can   be a little behind, but Chad GBT, that's   where Chad GBT can come in. As you can   see here, it generates everything here.   Um, they will have some issues here like   this sensitive spelled with a five. Um,   the other text looks fine, but again,   you just go in and just give the prompt,   hey, fix this or hey, make sure the   image of my product looks exactly like   this.
+
+
+00:13:34
+ And honestly, you go in, you tweak   it a couple of times, you're good to go.   Now, what I would do next is, okay, I   have an us versus them. Let's get   another ad going. All right, another   concept, right? What people would do in   the past would take this exact ad and   then change a little bit of the copy or   the headlines.
+
+
+00:13:50
+ No, we need a whole new   concept. So, let's pick something a   little less intensive with the text and   all that stuff. Um, this could this   could be really good because um this is   remin   that that could work really well. Um, we   could scroll a little bit. Flow, no more   acne or your money back. That could be   good.
+
+
+00:14:10
+ Um, so we want a different   concept.   This could be good here. I like this.   I like this because it's like the it's   like more reviews. 60-day money back   guarantee. That's good.   Crack skin. That could also be good   here.   Yeah, there's a lot of good ads here   that I I like. Um,   cool. This is this could be good as well   for the remineralizing powder.
+
+
+00:14:41
+ Honestly,   this is all really good. Greens powder.   This is more reviews. So, if you're like   looking, you're not sure, let's do we   could do before and after.   And now we have a ton of before and   afters.   That could be good.   We can do what other concepts do they   have? They have Black Friday could be   good.
+
+
+00:15:03
+ They even go down into the niche,   um, which is pretty sick.   So, I'm just going to pick one just   because um a before and after. So, the   other one was us versus them. This is a   before and after. Let's do this as well.   Let's do this ad as well. Okay. So,   we're just going to again upload the   picture of the competitor's ad and our   product.
+
+
+00:15:26
+ In a matter of seconds, it's   going to give us a prompt for Higsfield.   We're going to copy that, go over to   Higsfield. Um, we're gonna remove this   one and then just throw in the   competitor's ad. Remove the script.   Paste that in. Wait for the ad to fully   load. It loaded. Boom. Hit that. And   then we're also going to do Nana Banana   because it's free as well.
+
+
+00:15:46
+ And sometimes   after doing a couple regenerations, it's   going to get it perfectly. So, we give   it a couple seconds here. And while   we're at it, let's just go here. I'm   going copy that same script. And then,   might as well just do Chad GBT as well.   Generate an image. And then I just paste   that in.
+
+
+00:16:01
+ And then now the whole concept   here is that you can quickly generate   ads. While Chad GBT is going, Higsfield   is also going. Um, boom. So Hicksfield,   as you can see here, Flux generates   really quickly, but it's not always on   point. Um, so like you can see this one   here didn't do a good job. It didn't   even show my product, but this one did.
+
+
+00:16:21
+  So let's see. A lot of text again. Um,   let's see if it get nailed the text this   time around. Yellow teeth and surface   stains, sensitive to hot and cold, weak   enamel. So again, we'd have to go in and   fix that and fix this as well. Again, to   quickly fix it though, you just go in   here and say on left side   point number three, right? So this is   the left side of the picture.
+
+
+00:16:42
+ This is   point number three.   Three should say and then boom, boom,   boom, you'd say whatever. Um, but the   concept is there. We'd also want to tell   it to remove this as well. Let's see   about this one from Nana Banana. Nana   banana looks a little better. weakened   enamels and cavities, gum inflation,   bleeding, after evolence, naturally   whiter. Boom, boom, boom, boom.
+
+
+00:17:02
+ Yeah,   perfect. This one doesn't even need to   be edited, unless I'm missing something,   but this doesn't even need to be edited.   There you go. Right. So, matter of   seconds, you got that going. And let's   see what Chad GBT is doing. Um,   something as well is you want to also be   clear sometimes with Chad GBT, you, as   you can see here, when you throw in a   prompt, it it automatically generates it   in the image format it sees best.
+
+
+00:17:22
+ while   Higsfield you can pick the different   image formats here. So when you're doing   this through Chad GBT just say hey um   generate this in a 2000 by 2000 pixel   format if you want it to be square but   it being like this is fine. Yellow teeth   surface sensitive to hot and cold weak   enamel and cavities gum inflation   bleeding. Boom. Right.
+
+
+00:17:43
+ So that took a   few seconds. I mean that's not really   taking too long. You can see here if you   just set up a 30-minute timer, you get   really good at this and you train your   AI like I did, it should be really easy.   Then you just go back and create OS. All   right, so we've done a us versus them.   We've done um a before and after.
+
+
+00:17:59
+ Now   let's do a customer review or something   else. And you can just keep creating   different ones. And the name of the game   here is okay, we want to test, right? We   want to continue to test. This is a nice   before and after. Rather than taking   this before and after and slightly   changing one setting here or one feature   here, we we want another whole different   type of before and after.
+
+
+00:18:21
+ So we'd come   here. Um we look for before and after.   Um   could have sworn it was just right here,   but is this in alphabetical order? It   is. But so where's before and after?   I I could literally just be missing   right now. But you would sit here.   There's an us versus them, right? So we   have an us versus them as well.
+
+
+00:18:40
+ Don't   make your us versus them the same   picture with slight different v   variations. Let's make a whole different   con concept for us versus them. Right   now, let's find a new us versus them.   This could be a new one. Right. Um I   don't really think this is the best   example of us versus them. Oh, I have   before and after already selected.
+
+
+00:18:59
+  That's why I can't I didn't see it. So,   we have a before and after here. There's   some more different variations of a   before and after. This one is just text   on screen. We can maybe show a picture,   right? Um, there's a lot of different   things we can do and that is the way you   want to create image ads moving forward.
+
+
+00:19:17
+  Now, let me show you. I can load this up   in an ad account and the different   content strategy that I would be doing.   So, Facebook's all about consolidation.   Now, they want you to kind of tighten up   on your campaigns. Before you can launch   three, four, five, six different   campaigns and let them fly.
+
+
+00:19:31
+ Now, they   really want no more than two campaigns,   right? So, you really want a testing   campaign and you want a uh scaling   campaign, right? and they're both CBO   campaigns and they are the only   campaigns you really need to scale your   brand. So, here's how I'm going to do   it, right? I highly recommend you do the   same.
+
+
+00:19:48
+ So, your campaign structure should   go as following. Set up a CBO testing.   Okay, CBO campaign. The adset level, you   could start off at $100 a day. The adset   level should be one country, right? So,   if you're in the UK, do the UK. If   you're in the US, do the US. One   country. I've seen people start off with   four different countries, the top four.
+
+
+00:20:09
+  highly recommend you focus on scaling on   the number one country first. Then down   the line you can test different   countries. But for now, um I highly   recommend you keep your countries   separated in different campaigns. So   just start off with the US and then go   from there. Do not touch the gender. Do   not touch the age.
+
+
+00:20:24
+ I don't care if   you're selling women's clothing. Do not   go in there and say female only. It   doesn't matter. Let Facebook know   exactly who you know they'll find your   target audience for you. And you're   going to set up five to 10 different ads   under the same adept. Each of these   being different concepts,   okay? Different concepts.
+
+
+00:20:42
+ This is super   super important. You want to do   different concepts because now Facebook   will be able to figure out which target   audience of yours will respond better to   the different concepts. And this is the   testing campaign because we're only   going to have one ad set and all the ads   under one ad set.
+
+
+00:20:58
+ We're not going to   have different concepts as different   adsets in the testing campaign. We're   just going to constantly be throwing new   ads under the same adset for a couple   reasons. One, this is a testing   campaign, right? So, there's going to be   different audiences that interact with   your con your ad differently.
+
+
+00:21:14
+ And we   want to make sure that we're feeding   that adset enough data and spend so can   optimize and get the 50 conversions a   week and get out of learning phase. If   you're you're separating different   adsets under the testing phase, there's   a good chance that you're not going to   be spending as much.
+
+
+00:21:28
+ Your budget for   testing should have be about 20 to 30%.   Obviously, in the beginning, it's just   going to be 100% of your budget. But the   goal here is to launch an ad set with   five to 10 different ads. You can mix it   up with some pictures, some videos. You   can have it all pictures, all videos. It   doesn't really matter.
+
+
+00:21:43
+ Just have a   variety of different ads under the same   ad set like I just showed you.   Obviously, the goal would just be   picture ads here. So, from there, you're   going to find one of these ads, which   are different concepts. one of these are   going to just start outperform the other   and it should be profitable for you.
+
+
+00:22:02
+  Now, if one starts to get a ton of   spend, I recommend you let that ad spend   the equivalent of the AOV of your   product. So, if you're selling back to   randomizing toothpowder, right? If I'm   selling something for $29.99, um   realistically $60, right? Because this   is going to be the number one uh option   that I want people to pay.
+
+
+00:22:21
+ I'm going to   let the ad spend $60 and if it doesn't   get any buying intent, like no add to   carts, no purchases obviously, then I   turn it off. But if it gets $60 in   spend, no purchases, but it got like   two, three add toarts, the ad to cars   look good, the ad metrics look good, I'm   going to let it spend one more day, and   if it doesn't get any sales the next   day, then I turn it off.
+
+
+00:22:41
+ Right? And   you're just going to do that. And you   want to test different concepts until   you find one that is converting for you.   Okay? So now, let's say ad number two or   concept number two is cooking for you.   What you're going to do is duplicate   this ad, right? You ideally would want   like three or four of these to be doing   good or at least two of them to be doing   good.
+
+
+00:23:01
+ Let's say you have two of these   doing really good for you. You're going   to duplicate this into a CBO campaign   under its own concept,   right? And basically, let's say this   concept is a before and after, right?   You're going to duplicate that into a   CBO campaign under one adset. You're   going to title this a before and after.   And now you're going to start creating a   ton more before and afters.
+
+
+00:23:27
+ These before   and afters are not going to be   variations. Okay? Remember variations.   These are variations. We're not just   going to create a bunch more that look   like this where it's we're just changing   headlines. We want to create more um   different concepts. So we'll take this,   right? Let's say this is the the winner.
+
+
+00:23:46
+  Actually, let's say this is the winner.   Now, we're going to create more that   don't look exactly like this, but are   still following the same formula where   we're showing us versus them. And we're   going to create a ton more different ads   under that one ad set. Now, we're going   to start segmenting ad sets   based off of the concept.
+
+
+00:24:03
+ So, this is a   winning concept one. This is your before   and after or your us versus them. Now,   this should be, you know, this should be   the same ad two should be the same ad   two that was doing well for you. And   then you're just going to create a bunch   of different uh different concepts or   sorry different variations of this   concept,   right? Where it's like if we go back   into Creative OS, right? This is the   before and after section.
+
+
+00:24:27
+ We'll do this   would be one, this would be two. Notice   these are not the same, right? Yes,   there's a before and after of someone   there, but they look completely   different. This could be another one.   This could be another one. Right? That's   the difference. We're not creating   variations. We're creating different   concepts.
+
+
+00:24:42
+ Hopefully you guys are   following along. Hopefully guys that   makes sense. And I'm sorry if I'm   confusing. You might have to rewatch   this a couple times. But basically, um,   we're going to then scale with that   winning concept. Now, your goal as   you're scaling is you're going to be   increasing your budget. Most of your   budget should start being allocated into   your scaling campaign.
+
+
+00:25:00
+ So, let's say you   have a budget of $700 a week, right?   That's $100 a day. Once you find your   winner, you're going to start to ramp   up, right? You're going to duplicate   this campaign. And now you're going to   go from $100 a day to $200 a day. Right?   So this is going to be at 100. That's   going to be at 100 assuming you found   the winner.
+
+
+00:25:23
+ The conversion on that on   that particular ad is profitable. You're   a profitable rorowaz. So now you're   going to be at $200 a day, right? You're   going to scale that in there. You're   going to create some more concepts under   this winning concept under this one ad   set. Again, you're not changing the   anything.
+
+
+00:25:38
+ The adset should never be   touched. Do not ever touch your adsets.   It should always be,   you know, um what is it called?   Advantage plus, right? So, I I hope you   guys aren't still wondering like, should   I then No, do not touch the adset. The   adset should always be the thing. Uh the   same thing, Advantage Plus. So, then   you're going to create all these   different concepts and you're going to   be spending $200 a day.
+
+
+00:25:57
+ Let these ads   and these campaigns do good for you,   right? Let them just kind of chill there   for a day or two. Let them stay   profitable. Assuming this is still   profitable, you can now turn off this   one.   and just keep loading up new concepts,   right? And you might even want to take   this turn this off and then start   uploading new testing um variations of   this same concept.
+
+
+00:26:21
+ So, if this was the   the us versus them, I would create more   us versus them and throw them in here   and see how they do. Okay? And then as   you start as this stays profitable, this   starts to scale, you're going to keep   upping your budget, right? So now this   is going to stay at $100 a day.   And now this is going to go from $100 a   day to maybe $150 a day.
+
+
+00:26:41
+ And as you   continue to scale, scale, scale, the   next week you're going to try to look   and find a new concept. So let's say   this is us versus them.   In your testing phase, you should have   found another winning concept, right?   You would have turned this one off and   now you would have another concept that   should be doing good for you.
+
+
+00:27:03
+ whatever   that concept is. Let's say this is a UG   uh not UGC, but let's say this is a   before and after.   You're just going to do the same thing.   You're just going to take this winning   scaling um CBO campaign. You're going to   create a new ad set and under that new   ad set, it's just only going to be   before and after ads.
+
+
+00:27:24
+ And now we're   going to start organizing these adsets   with the winning campaigns. And then   every time you are every once a week,   you should be adding new winning   concepts into the scaling. And every   single day or every other day, you   should be adding new ads into the CBO.   Anything that gets the spend of the um   AOV of your product, every ad that gets   $50 to $6 in spend, whatever the amount   you're selling your product for, and it   doesn't look profitable, you turn it   off.
+
+
+00:27:55
+ And you should be always cycling   new ads into this testing campaign. And   you should only increase the budget of   this if you have a ton of ads that are   doing good and they're not getting   spent, right? Like if you have a ton of   ads in here or you have one or two   particular ads in here that are getting   all the spend all the time and the other   ones aren't being properly tested,   that's when I would start increasing the   budget a little bit so Facebook can   start allocating some of the spend other   places.
+
+
+00:28:21
+ But what should happen after   about a week and a half or so, this   adset should be out of learning phase   and should be active. and every time you   learn a new ad or upload a new ad   rather, it's either going to quickly um   be a profitable be profitable for you or   it's just not going to perform and you   just turn it off.
+
+
+00:28:37
+ So, as you can see   here, you're giving every single ad at   least the AOV of your, you know, the the   same price of the AOV of your product   and should be getting a a good amount of   spend. If it's not spending, don't turn   it off, right? Whatever is getting all   the budget should either be in your   scaling campaign because it's profitable   or it should be turned off.
+
+
+00:29:00
+  And then you are just going to keep   adding. You're not going to create any   new adsets. You can keep throwing a   whole bunch of different concepts here.   So under this one adset, you might have   like three us versus them. You might   have two before and afters. You might   have one customer review.
+
+
+00:29:12
+ You might have   a couple different ones. Um and that's   fine, right? Because at the end of the   day, it's constantly going to be cycling   through and figuring out what's working   for you. And then in your scaling CBO   campaign, that's where you can really   start doubling down on the different   concepts for you.
+
+
+00:29:27
+ So only two campaigns,   they're both CBO campaigns, right? Only   the CBO scaling will have separate   adsets for those concepts. So you can   keep them organized. You can think of   them like folders, but your testing CBO   will always be one adset with a ton of   different ads. You literally just go   into the ads set level or the ad level   rather and then just click new ad or add   ad whatever it's called or create new   and then you just upload the new the new   picture and let it go.
+
+
+00:29:54
+ If it's get spend   and it's profitable great throw it into   the the winning concepts. If not turn it   off and you just boom boom boom. Here's   the thing, right? You can do this every   other day every day because you have so   many ads to work with. you have   literally hundreds of ads that you can   create constantly create and these are   winning ads from your competitors or   people in the you know that are also uh   running up brand brands as well.
+
+
+00:30:18
+ So,   it's going to be one of those things   where it's like as you scale and start   to spend more money, it's going to be   even more important. When you're in the   beginning, you don't need to be adding   new ads every single day, right? Your   budget is, if your budget is a smaller   budget, you're do you're testing between   50 to $150 a day.
+
+
+00:30:34
+ I would not be adding   new ads in every single day. Okay? Just   start off slow. Take your time. Add uh   like two to three ads once a week and   let let them spend, right? because it's   at this daily spend, it's going to be   really hard for your ads to get $60 in   spend before you know um you figure out   what what's working, what's not working.
+
+
+00:30:59
+  So, I would definitely make sure that   you you take it slow. But once you start   ramping this up and your your testing   CBO might be at like $200 a day and then   your scaling might be at like, I don't   know, $600 a day.   That's when you're going to be needing   to add new ads quickly. But by then   you'll already know what works and you   just you let things ride.
+
+
+00:31:19
+ If things are   working well, great. And the moment you   start to see your ads start to fatigue,   that's when you got to really ramp up.   The goal though is to never be kind of   waiting for that to happen. You should   always have the new batch of ads that   are performing for you ready to go.   So, a little bit confusing.
+
+
+00:31:34
+ Hopefully   you guys understand. Rewatch this a   couple times. If you have any questions,   you can always shoot me a message. If   you want personalized coaching and   learning how to scale to $1,000 a day   with drop shipping and you don't want to   pay high ticket prices for mentorship,   feel free to join the social brands   club.
+
+
+00:31:50
+ It's a community I run slowly but   surely growing. I'm helping people as   much as possible find winning products   and understand how to test and scale   with ads. Biggest thing is that I host a   weekly call every single week and I'm in   the DMs managing and messaging you guys   every single day and helping review uh   your ad account, your store, everything   that you need to be profitable.
+
+
+00:32:08
+ So, I'll   leave a link in the description if you   guys want to join that. And with that   being said, I'll see you guys all in the   next one.
+

@@ -1,0 +1,204 @@
+
+00:00:00
+Hey guys, L from Ecom Zone. In this   video, I'm going to talk to you guys   about how to structure your Facebook ads   for drop shipping in 2026, especially   with the Android Meta update. So, over   the past 6 years or 5 years, I've been   running my Shopify drop shipping brand   and I've generated over $5.
+
+
+00:00:15
+7 million   from my brand. So, in this video, we'll   talk about CBO or So, if you don't   know what that is, then definitely stay   tuned for this. how many adsets we need   in our campaigns and how many ads should   we include in each ad set and then we're   also going to go through the structure.   So, let's go through it.
+
+
+00:00:34
+ The first one's   how many products do you plan to   advertise? So, a lot of people will   start one product store. So, if you're   starting with one product store, then of   course you only have one product to   advertise. Now, I do not recommend you   run one product stores just because the   success rate is very very low and the   failure rate is very very high because   you're relying on one product.
+
+
+00:00:53
+ What I   suggest you do is start a store with at   least 5 to 20 products and this is   called a niche store.   So, I actually have a friend who started   one recently, 5 to 20 products in a   niche store. And what he did was he   ordered all his products into his own   home. Then he took his own professional   pictures with lighting, nice camera, and   now he has a website that looks very   branded and professional.
+
+
+00:01:22
+ It definitely   helps convert and build that brand. So   people think, "Oh, I'm actually buying   from a brand and not a drop shipping   website." So even if they find your   products elsewhere, they're like, "hm,   is this brand the actual brand or the   one on Amazon?" And normally they'll   actually go to you because your website   looks branded.
+
+
+00:01:42
+ So definitely stick to   five to 20 products. If you want to add   more, you can. It just depends on how   much time you have and how fast you are   with uploading products. Now let's just   say you upload like 50 products. The   thing is you're not going to be   advertising all these products. You're   going to actually pick some hero   products.
+
+
+00:02:02
+ So, what you want to do is   pick hero products, and those are the   ones that you think it's going to do   well when you're running ads. Now, hero   products, the minimum AOV or the average   order value needs to be at least £50 or   $50, whatever it is, US dollars that is.   So, if you found a product and you think   it's hero product, but it's only like   $25, I would not advertise that because   Facebook is just too expensive to   advertise cheap products.
+
+
+00:02:29
+ So do keep   that in mind. Next is how many   subcategories do you have in your store?   So let's just say you're starting a   jewelry brand, right?   And you have necklace,   rings. You know what? I'm just going to   do the diagram. And and then earrings,   right? Necklace, earrings, rings. So you   got three subcategories.
+
+
+00:02:50
+ Now, what you   want to do is create one campaign for   each subcategory. Now, at the beginning,   that's a bit too confusing and   overwhelming, especially when you're   starting out with Facebook ads. So, what   I would suggest you do is just start off   with one subcategory. So, maybe that's   necklaces, maybe that's rings, or maybe   that's earrings.
+
+
+00:03:09
+ So, just start with one   and just focus on that first. So, that's   that with the products and your   subcategories.   Now, let's talk about CBO or So,   CBO stands for campaign   budget   optimization.    stands for adset   budget   optimization. This is terrible   handwriting. I'm using a mouse for this.   So, what is the difference here? So,   campaign budget optimization versus   adset budget optimization.
+
+
+00:03:45
+ Campaign   budget means you set the budget at   campaign level. So when you're running   ads, you have a campaign and within the   campaign you have the adsets and within   the adsets you have the ads. And so if   you set the budget at campaign level,   let's just say it's $100. What Facebook   will do is it will distribute $100   amongst your adsets, right? So, you   don't actually get a choice on where   that $100 goes unless you put a minimum   spend on these adsets.
+
+
+00:04:15
+ So, let's just   say your minimum spend on these free   adsets is 20%. So, each one has 20%. So,   $20   $20   $20. That means Facebook has $40   left over to play around with, right?   because you put 20% minimum spend in   these ones. So that's that with minimum   spend and campaign budget. Now adset   budget optimization is when you put the   budget on the adset level.
+
+
+00:04:46
+ So campaign   will be nothing but the adset one, two,   and three adsets in the campaign, right?   This is the campaign.   You want to set the budget at this level   here. So it'll be like maybe $10,   $10, $10. So then each adset will spend   $10. Now each day will vary in spend   because Facebook's new update, I think   it's been like a year now, basically   it'll spend on average $70 a week, but   each day will be different depending on   the audience interaction and how good   that day is.
+
+
+00:05:25
+ Now, if they think Monday   will perform better than Saturday, it   will spend more on Monday. So don't be   surprised if this $10 spends like $15   because basically it thinks it's going   to find you more sales on that specific   day. So that's that with that. Now what   is the difference between campaign and   adset? Like why use both? So I prefer to   use both because one campaign is the AI   advantage plus   optimization that Facebook loves.
+
+
+00:05:57
+ So   this is the campaign that they actually   like with their new algorithm. However,   I prefer because I like to test   interest   and I also have control of where I put   my budgets, right? I also have control   of how I scale these adsets. So if adset   3 is doing better, I could just scale   this adset.
+
+
+00:06:21
+ Now the problem with a CBO   is if this adset is doing well, right?   Let's just say this one's doing well and   then this one's doing bad, right? And   this one is also doing good and the   overall rorowaz is profitable. What   you're going to do is you're going to   scale this budget, right, for the   campaign now. Let's just say you bump   this up to 150.
+
+
+00:06:42
+ Right?   The thing is Facebook will still spend   money on this second adset and you don't   know if it'll increase spend. So that   $50 might go into this adset here.   Facebook does that sometimes and that's   why I sometimes don't like CBO is   because you don't really have control of   where that increased budget goes.
+
+
+00:07:02
+ It   could go to the worst adset and you have   you can't do anything about it. And   that's why I prefer sometimes and   that's why I have campaigns for both. So   if someone asks you or tells you like   you should do CBO only, I I probably   wouldn't listen to them. I would test   out both because you just never know one   might work better for you than the   other. So that's the and CBO.
+
+
+00:07:25
+ Now,   how many adsets should you run in each   one? So in a CBO,   you can start between two to five   adsets, but I normally like to start   with two because all you need is one   broad and one intra stack.   right   now. you can start with as many as   you want. It's it's just infinity, but   you really don't want to go above like   10 because otherwise there's too many   adsets to manage.
+
+
+00:07:58
+ So, probably just to   10 max. Uh, but you over time you can   keep adding more adsets into this   because again, your budget is set at   adset level. So, it doesn't matter how   many adsets you have in this campaign.   it doesn't affect each other if you bump   up the budgets or add more adsets in   there.
+
+
+00:08:18
+ Now, let's just say you add more   adsets into the CBO campaign. Well,   Facebook will have to distribute that   $100 or $150 into that new adset, right?   Maybe that new adset that you just added   uses up all the spend and these ones has   no more spend. It does happen. So, this   is why there's benefits to both campaign   structures.
+
+
+00:08:41
+ So, how many adsets? Just   start with two if you're running CBO and    You can start with like five. You   can even start with two if you wanted.   It really it doesn't really matter, but   two to five to 10.   Now, the difference between this is   you'll have one broad or maybe two broad   and then maybe three interests, right?   If you have five adsets   now broad, the audience would just stay   the same. not much change.
+
+
+00:09:11
+ Interest is   where you're going to change up the   interest. So, if you're selling jewelry,   maybe this one's targeting at necklaces   or jewelry specifically. This one maybe   is like fashion   um or things that your audience is   interested in. So, maybe they're   interested in Starbucks or something,   right? Just whatever they're interested   in.
+
+
+00:09:35
+ And maybe this one you're   advertising to girls, so most girls like   cats. So maybe you advertise the cats. I   don't know. Basically, you want to kind   of mix up. You don't want to just target   necklace, jewelry, earrings because at   the beginning, you want to test   different interests in way different   niches.
+
+
+00:09:52
+ So one's like necklace, one's   fashion or what they're interested in,   and the other one is another thing that   they're interested in. Next is how many   ads should you start off with? Now, some   people start off with one ad, and that   is wrong, guys. Do not start with one ad   ever. That's like the worst idea ever   because you're putting all your eggs   into this one basket and you're forcing   Facebook to spend on this one ad.
+
+
+00:10:16
+ And if   it's bad, well, what happens? Facebook   has to still spend money on it. So,   you're wasting money. So, what I suggest   you do is start with five ads.   These five ads will be different   concepts. So concept one, concept two,   concept three,   concept four and five. Right?   Now what is a concept? A different   concept can be like maybe this one's an   image. Maybe this one's a video.
+
+
+00:10:50
+ Maybe   this one's a UGC video. Maybe this one's   a carousel. Maybe this one's an image,   but it's a more natural image. And this   one's more like a studio shot image. So,   you're testing way different concepts.   And the reason why you want to do this   is because each product and niche is   different.
+
+
+00:11:09
+ You just don't know how your   customers would react. And also, the way   you execute it would affect the outcome.   So, definitely test different concepts.   And if you're too lazy to do this, well,   you're just going to waste money on ads.   That's just how it is. That's the harsh   truth. So, five ads. And you can   actually just create more if you wanted.
+
+
+00:11:28
+  If you want 10 ads if you have time, go   to 15 ads. But at first I would start   off with either five or 10. If you have   15, just leave the five outside uh ready   to pump in when necessary. So that's   there is how many ads you should start   off with. And let's talk about the   structure.
+
+
+00:11:46
+ So this structure is very   simple. This is CBO campaign with one   broad adet, one interest adet, and   they're called pack one. The reason why   this is called pack one is because all   these ads that you just created belongs   to pack one and they'll sit in here.   Now, if you created 10 ads, then they   can all sit in this pack one.
+
+
+00:12:05
+ So,   instead of 1 2 3 4 5, you'll have 10   ads right inside this pack one and then   the same 10. So, these 10 ads will be   the same as these 10 ads. That's why   they're both called pack one. The only   difference guys is one is broad and one   is interest. So the difference is this   is very general.
+
+
+00:12:27
+ So you leave the age as   it is. You do not touch the age. Gender   you do not touch interest. You do not   add any. So literally you don't touch   anything on adset level. Just make sure   you are optimizing for purchase event.   Okay? I cannot stress this enough. When   you're running ecom ads, you want to   only optimize for the purchase event.
+
+
+00:12:52
+  Not add to cart, not check out, not view   page, nothing like that. Only purchases   because that's what you want. You want   people to buy. And a lot of you guys   have wasted money running ads to like   the add to cart page. That's just a   waste of your money. You do not want   that. Just optimize for purchases.
+
+
+00:13:11
+  Interest adset, leave the age as it is,   so don't touch it. gender, leave it as   it is. Even if you're selling female   jewelry, do not target women. Just leave   it as it is and target both male and   female. And then as for the interest,   this is where you're going to add like   the jewelry.   Um,   I don't know, Starbucks or whatever it   may be or like fashion brands, right?   This is where you're going to add the   interest and that's the only difference.
+
+
+00:13:41
+  As for the countries, I'd normally   recommend just US, UK, Canada,   Australia, and Germany. Just those five   countries for both AdSense. Now, what   should this budget be for your CBO   campaign? I normally recommend you start   off with $50. However, it depends on   your capital and how fast you want to   test and how confident you are.
+
+
+00:14:04
+ Now, the   reason why we start off with 50 is that   it gives Facebook enough money to spend   and optimize. Now, it also depends on   your average order value. Let's just say   you're selling something for like, I   don't know, like $300. Well, $50   campaign will take you longer to get a   conversion, right? Because it might take   you six days.
+
+
+00:14:24
+ However, this isn't   guaranteed. It's just like a rough   estimate. So, if your AOV was, I don't   know, 75, then on average, it should   take you 1.5 days to get a sale. But   normally, at the beginning, it's not   like that because one, you don't know if   your ads are good. You don't know your   pricing is good.
+
+
+00:14:41
+ You don't know if your   landing page is optimized for sales,   etc. And that's why you need money to   run ads and also drop shipping. And as   for your budget, it also depends on your   overall capital. So, let's talk about   capital. Let's say you start this   business with $1,000, right? So that is   5% of your capital, your budget, right?   Which is not bad.
+
+
+00:15:06
+ That means you have   leeway for like, I don't know, 20 days.   So 20 * 50 equals $1,000. That means you   have 20 days runway to run ads. Now, the   problem with this is that if you only   have $1,000   and you run your ads for 20 days, right?   that means you would have spent $1,000.   But if you don't have like a regular   income stream, which I always recommend,   right? I don't know what it is.
+
+
+00:15:34
+ Maybe   you work a 9 toive job, a part-time job,   or whatever it may be, but it is   important you have a regular income   stream to top up on this capital. The   reason why I say you need a regular   income stream is because you won't have   any money left to cover your cost of   goods   or your UGC content or your sampling   content, right? When you make a sale   within those 20 days, right? So, let's   just go down here.
+
+
+00:16:08
+  Let's say on the 10th day   of running ads, you spent $500 total on   ads   and you made a sale of, I don't know,   120, right? So, you're nowhere near like   profitable or breaking even. However,   you need to start fulfilling these   sales. Let's just say this was two   sales, right? $60 each. So, you got two   sales.
+
+
+00:16:34
+ Now you need to order these on   AliExpress before this money gets you.   So Shopify and PayPal will not release   these funds immediately. Most of the   times they will hold onto your money and   this is because of scammers during co   scammers took advantage of drop shipping   and basically what they did was well   they actually just took advantage of   e-commerce.
+
+
+00:16:55
+ So they ran ads to a website   people bought but they never shipped   anything out. So they just ran off with   the money because payment providers   release the funds too early. And so what   payment providers do now is they hold   the funds for a week, two weeks, four   weeks, whatever it is, whenever they   think they're safe and they have to go   ahead to release the funds to you.
+
+
+00:17:15
+ So   yeah, blame the scammers for these   payment holds. So payment holds,   something to be aware of. Now, let's   just say you do not get this money until   the 20th day, guys.   So, this $120 that you just made a sale   for, you will not get that money until   day 20. So, you have 10 days left of   running ads.
+
+
+00:17:41
+ Maybe you get more sales,   but you won't get this $120. So, what do   you do? You need to spend money from   your capital into your cost of goods on   AliExpress. So, you're going to have to   pay for these cost of goods. Maybe it's   like $50, right? So, $50 again. And then   if you keep making more sales and you   have paying more ads, you get where the   problem comes in because you're not   actually receiving any of the sales   money because of payment holds.
+
+
+00:18:10
+ So   that's why it's so important you have a   regular income stream. So I'm kind of   going off track here, but it's very   important that you guys actually   understand this because it all ties in   together, especially when you're running   ads. So that's that with the campaign   level, the budgets, and the broad adset   with the interest adset.
+
+
+00:18:31
+ Now with your   ads again, you could test images,   image, carousel,   videos,   flex,   catalog ads. So there's so many formats   that you can uh test out on the ad level   and you can include all of them within   this ad set. And then once you've built   out this adset, you're just going to   duplicate it and just add interest   within the adset. And there you have it.
+
+
+00:19:03
+  You have two adsets. So make sure you're   testing different concepts in this pack.   Okay guys, at the beginning it's very   important that you're testing concepts.   Concepts take up about 80% of your time   and variations at the beginning is only   20%. because you're trying to find the   winning concept, right? Once you found a   winning concept, then it's flips.
+
+
+00:19:28
+ So   once you found a winning concept, the   amount of time you spend on concepts is   only going to be about 20%. And then   you're going to spend more time on your   variations for that winning concept.   So that's why it flips when you start   scaling. So this is scaling and this is   testing.   testing, scaling.
+
+
+00:19:52
+ So, you're still   testing for new concepts, but you're   spending a lot of time creating   variations of that winning concept, the   one that's getting you profit and sales.   And that there, guys, is how you   structure your ad account. And of   course, you can set up campaign if   you wanted. It'll be a similar   structure, right? Just campaign,   broad asset, interest adset.
+
+
+00:20:16
+ Instead of   $50 at the campaign level, it could be   $20 at this level, $20 at that level,   and then you have your 10 ads. Again,   it's as simple as that. There's not much   difference to it. And that there, guys,   how you structure your Facebook ad   account in 2026 for drop shippers. If   you found this video helpful, smash that   like button, subscribe to my channel for   more content, and if you have any   questions about drop shipping, Facebook   ads, or anything like that, leave in the   comment section below. Peace.
+

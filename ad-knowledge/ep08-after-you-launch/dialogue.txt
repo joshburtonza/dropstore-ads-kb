@@ -1,0 +1,83 @@
+Alex: So this is the part nobody wants to hear. You have launched your ads. Now what.
+
+Sam: Now you do almost nothing, which is the hardest thing in the world for a new store owner.
+
+Alex: Right. The instinct after you press publish is to manage it. Check it every hour, nudge the budget, swap an audience, switch off the ad that has not sold yet.
+
+Sam: And every one of those moves can reset the learning. People do not realise the system needs data to find your buyer, and the only way it gets that data is by spending and watching what happens. A purchase is the last step in a long chain.
+
+Alex: Walk me through the chain.
+
+Sam: Someone sees the ad and scrolls past. They see it again. They tap through, look, then leave. They come back, add to cart, hesitate, and only then buy. That can take days and a lot of impressions for one person. If you have only spent a few hundred rand, the machine has barely met anyone yet.
+
+Alex: So rule one is leave it alone. For the first few days, watch, do not touch.
+
+Sam: Watch, do not touch. But before you even trust what you are watching, you have to confirm the tracking is honest. That is the pixel gut check.
+
+Alex: Explain the pixel for someone who has never opened that screen.
+
+Sam: The pixel is the bit of code that reports what happens on your store back to Meta. Who viewed a product, who added to cart, who bought. If it is lying to you, every decision afterwards is built on a lie. So you go into Events Manager, which is basically the tracking control room, and look at the purchase event.
+
+Alex: And you check what exactly.
+
+Sam: Three things. One, browser events and server events should roughly agree. Browser is tracked from the shopper's phone, server is sent straight from your store's backend, which is more reliable because ad blockers cannot strip it out. They will not match perfectly but should be within ten to twenty percent. Two, server events should actually show up at all. If there is nothing on the server side, your tracking is only half connected and performance suffers. Three, the big one, the purchase count in Events Manager should match the order count in your Shopify admin.
+
+Alex: Because if Shopify says twelve and the pixel says three.
+
+Sam: Then Meta thinks your ads are working far worse than they really are, and it will not push them. And if the pixel says twenty and Shopify says twelve, you are double counting and you will scale into a number that is not real. Ten minutes on day one saves you weeks of chasing ghosts.
+
+Alex: Okay, tracking is honest. Now what do I actually look at, because everyone just stares at ROAS.
+
+Sam: And ROAS is the worst thing to stare at early. ROAS is return on ad spend, revenue divided by what you spent. It matters in the end, but it is a lagging number. It only fills in once purchases happen, which is slow.
+
+Alex: So what is the early signal.
+
+Sam: The leading metrics. Cost per add-to-cart and cost per checkout initiated. An add-to-cart is someone putting the product in their basket. A checkout initiated is someone starting to pay. Both happen way sooner and way more often than purchases, so they tell you the funnel is healthy before the sales catch up.
+
+Alex: Like watching the water flow before the bucket fills.
+
+Sam: Exactly. If you are getting add-to-carts at a sensible cost, say thirty to sixty rand depending on your product, the buyers are likely on their way, so be patient. And that is just an illustrative figure, your margin sets the real line. If you have spent five hundred rand and not one add-to-cart, that is a genuine warning, not impatience.
+
+Alex: Now here is the mindset shift I think trips people up the most. Judging individual ads versus judging the whole account.
+
+Sam: Stop grading every ad pass or fail. The number that pays your bills is the whole account. Total revenue against total spend, or your blended cost to get one customer. Inside a healthy account some ads look like losers and some look like heroes, and that is normal. To find the winners you have to spend on a lot of things that turn out not to be winners.
+
+Alex: You called that the learning tax.
+
+Sam: It is the price of discovery. You pay it once to find the one or two creatives that carry you for months. So zoom out and ask if the account is near your target, not whether ad four had a bad Tuesday.
+
+Alex: And once you have a few days of data you break it down.
+
+Sam: Breakdowns. You slice performance by age, gender, placement, which is where the ad showed like feed or Reels, platform, which is Facebook versus Instagram, and audience. You are hunting for mismatches. If you sell premium skincare and your buyers are clearly women thirty to forty-five, but half your budget is going to men under twenty-five, that is leakage. The money is landing on the wrong people.
+
+Alex: And a local note here.
+
+Sam: Check placement and platform carefully in South Africa, because data costs and device habits mean our audience can behave differently to the overseas case studies. Trust your own numbers, not a guru in another country.
+
+Alex: Now pausing. People pause way too much.
+
+Sam: Way too much. Two reasons it is wrong. First, only consider pausing an ad once it has spent about twice your target cost per purchase with nothing to show. If you are happy paying two hundred and fifty rand for a sale, give it until about five hundred before you call it dead. Below that you do not have enough information. Again, those are example numbers, use your own.
+
+Alex: And the second reason.
+
+Sam: A high-spending ad that looks like it is losing on its own might be holding up the whole account. It introduces people to your brand who then buy through a different ad. Pause it and your total sales can drop even though you only removed a so-called loser. Big brands run thousands of ads and are slow to kill anything because they manage a system. Pause with a scalpel, not a hatchet.
+
+Alex: Then when you do make new creatives, there is an order.
+
+Sam: Horizontal first, then vertical. Horizontal is breadth. Many different concepts and angles. One leads with price, one with a problem, one with a customer using it. You are fishing to find which angle the market wants. Most flop. Then vertical is depth. Once an angle works, you make many variations of that proven winner, different opening lines, different first three seconds. The mistake is going vertical too early, making twenty versions before you have proven the concept.
+
+Alex: And you do not have to invent it all yourself.
+
+Sam: No. The Meta Ads Library is a free public tool showing every ad any business is running. Look for the ones that have been live a long time, because nobody keeps paying for an ad that loses money. A long-runner is almost certainly profitable. Find them in your niche, pull out the template, the hook and the structure, and adapt it to your product and your audience. Do not copy word for word, take the skeleton and put your own flesh on it.
+
+Alex: Last piece. Scaling.
+
+Sam: The opposite failure of panic pausing. Something is working profitably day after day, and the owner just lets it sit at a tiny budget out of fear. That is leaving money on the table. When something has proven itself, scale on purpose. The cautious way is small steady steps, fifteen to twenty percent every few days so the learning survives. The bolder way is leaning harder into the winners, but that has more variance. Either way it is a deliberate decision, watching as you go, not one big jump.
+
+Alex: So bring it home. What does the week actually look like.
+
+Sam: Two named days. One upload day, where new creatives go live and only on that day. One deep-dive day, where you do the pixel check, read the leading metrics, pull the breakdowns, judge the account, and decide what to pause, scale, or leave. Every other day you watch and wait. No edits, no panic.
+
+Alex: Leave it alone long enough to learn, check the numbers are true before you trust them, judge the system not the soldier, kill slowly, scale deliberately.
+
+Sam: And run your week on rhythm instead of reflex. So do this today before you close the laptop: open your calendar and write in your upload day and your deep-dive day for this week. That one action turns all of this from advice into a habit.

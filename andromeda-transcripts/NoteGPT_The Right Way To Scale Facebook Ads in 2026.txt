@@ -1,0 +1,108 @@
+
+00:00:00
+If you've ever raised Facebook ad   budgets and watched your CPA spike,   rorowaz drop, and performance die   overnight, then this video will fix   that. This new Metadama update isn't the   problem. The real problem is most   advertisers are scaling budgets in a way   the algorithm simply can't support in   2026.
+
+
+00:00:16
+ In this video, I'm breaking down   when not to increase budgets, the exact   percentage increases that don't reset   learning phase, and the exact scaling   method and framework we use to manage   over $600 million in ad spend at our   agency. If you bought anything online in   the last year, there's a very real   chance you bought it from one of our   ads.
+
+
+00:00:34
+ And the same scaling systems and   psychological triggers that made you buy   are exactly what I'm going to show you   how to use in this video. Most   advertisers don't realize they're   breaking the algorithm while trying to   scale. Their strategy looks something   like this. They're only scaling with one   to two ads. They're spiking their ad   spend by 100 to 500% in a single day   after seeing good performance.
+
+
+00:00:53
+ They're   not cycling in new creatives weekly. or   they're segmenting the exact same   audience by creative type. So, just to   show you what this looks like that a lot   of people are using these strategies is   they have the same audience multiple   times and they only have one creative in   here.
+
+
+00:01:09
+ The other thing they're doing is   the moment that they see a good rorowaz,   they're taking their budgets from say   $20 a day to $90 a day and then from $90   to $250 per day or they simply are just   scaling with one to two ads and they're   simply just not cycling in new   creatives. And this strategy is broken.   And the problem with this is if one ad   fails, the whole audience will take in   performance.
+
+
+00:01:30
+ And then spiking cost by   100 to 500% in a single day, if that   performance doesn't hold after you've   scaled too quickly, you've now burnt   that entire ad budget. And not cycling   in new creatives causes ad costs to rise   quicker, rorowaz to drop faster,   preventing long-term scale. And   segmenting that same audience by   creative type, ad budgets go up, forcing   spend to overlap between audiences,   raising your own CPMs and ad cost.
+
+
+00:01:52
+ So   instead, this is the setup we use at my   agency with all of my private clients,   from big brands to even smaller everyday   brands that are taking the internet by   storm. So now we're going to hop into my   screen and show you exactly how to do   this from start to finish. So that way   you know how to scale with this setup,   covering everything from the strategy   and all the things you need to know.
+
+
+00:02:12
+ So   first things first, you've seen on   YouTube that other people are   recommending the one campaign method.   That specific strategy works if you   already have a very dialedin ad account   or already spending a ton of money on   ads where Meta can automatically take   the reigns and do it all for you. But   for the average marketer and somebody   who's trying to get up to those,000   2,000 even $5,000 days, there's a   strategy before that that absolutely   crushes it and allows you to get to   those stages. And so step one of our   scaling strategy is the four campaign   method. And this is where you'll have a   creative testing where you dedicate   budgets towards new creatives only.   Inside of your creative testing, you'll   have multiple audiences in here with   multiple unique new creatives that   you've never tested before. This does a   few things. This allows you to dedicate   budget to ads that normally wouldn't get   spend in your other campaign. Because   all of us have seen one ad eat up a ton   of budget and our other creatives not   get performance. This ensures that we're
+
+
+00:03:12
+  sending budget to new ads, allowing us   to find what works. Once we identify   specific winners where we're getting   eight, six, 15x rorowaz on these   creatives, we're simply going to move to   step two, which is copying these and   moving them into our scaling audiences,   which are retargeting advantage plus.
+
+
+00:03:31
+  This allows them to automatically start   taking off with additional spend. And it   provides us with multiple ads that are   getting even spending. You no longer   will see an ad that is spending a,000   bucks and a bunch of other ads that have   only spent $5. Now what you'll see is   all of these ads are spending a 100red,   200, $300 and getting even spend because   we've already validated them, proven   them, and now they're taking off inside   of our advantage plus inside of our   interest testing, which makes our   audience more stable for scaling. And   the best part about this is is because   we have so many creatives in here, if   one ad fails, we have 11 more ads to   keep going. If another fails, we have 10   more to keep going. And because we'll   always be cycling in new creatives every   week, we will never have to worry about   performance fluctuations and we can   constantly be vertically scaling our   budgets, which moves us into step three,   where on the audience level, we'll   initially be scaling by ads set where we
+
+
+00:04:29
+  can actually move the budgets up   vertically in increments every 3 days of   20%. This ensures that you don't reset   learning and you can gradually get out   of it while stabilizing performance to   its maximum efficiency. And as you get   to higher scale and you start crossing   multiple hundred day daily spins on   audiences, 200 daily spins, you can   migrate that to a CBO and continue that   performance.
+
+
+00:04:52
+ At that point, we move into   step four, which is where we can begin   to increase our budgets in increments   after $500 daily in spend by 100, $250,   $500 every 3 days. This ensures that we   can rapidly scale up our budgets because   we have a fresh cycle of creatives   coming in. We have stable performance   and at this point it's very unlikely   even if you were to reset learning phase   by increasing this much.
+
+
+00:05:16
+ It will come   back out of learning immediately and   allow you to continue scaling. And the   final step to this is when we're looking   at scaling, it's not always necessarily   about raising spend to get more revenue.   There are in unique cases ways to scale   revenue without scaling spend. And the   way we do that is by our final step   looking at something called microbudget   shifting.
+
+
+00:05:38
+ And this is where when you're   on your adset level or your campaigns,   you can see some audiences are   performing better than others. So we   have one that's spending $65 a day at a   6x. We have another audience spending   $120 a day at a near 12x rorowass. So   you might ask the question, why would we   even be spending 65 on this if we're   getting twice as good as performance out   of here with half the cost per result?   Well, rather than necessarily turning   that audience off, what we'll do is   we'll take $25 from here and rotate it   over to this audience. So, we're   spending the same amount of money daily,   we're just moving budget towards what is   already stabilized, and able to hold a   much better performance in terms of cost   and rorowaz. This allows us to scale   revenue, increase our return on ad spin,   lower our cost per acquisition without   spending a single penny more. And as   performance stabilizes, we can then   continue to scale up vertically. And in   2026, creative is everything. And   without it, it makes it almost   impossible to scale. And where it gets   really crazy is when you introduce the
+
+
+00:06:38
+  right creative in the right creative   volume with proven psychological   triggers and most likely the same   psychological triggers that have worked   on you without you even knowing by our   brands or others. So, here we are inside   of foreplay looking at the ads from a   brand called Rise and they're running   over 5,500 active Facebook ads right   now.
+
+
+00:06:58
+ And what you'll find is every   creative is 100% unique. And the reason   this is so important is because this   ensures that we're constantly hitting   different formats that appeal to   different people. Some people care about   features and benefits of a product. Some   people are logical thinkers and want to   know the science behind the product.
+
+
+00:07:18
+  Some people need to be educated and want   to discover and learn how to use the   product. Some people want a full product   demo to get comfortable with how the   product works before they even buy. and   others simply only care about whether or   not individuals have recommended this   product or left good reviews stating   that the product is as advertised.
+
+
+00:07:35
+ And   these are both different personas, but   also different types of ways that people   psychologically think about buying. And   having these different creatives   triggers each of those emotional moments   for people to make a decision on whether   or not they'll purchase. And sometimes   it's not as straightforward as somebody   only wants to see a features and   benefits ad.
+
+
+00:07:57
+ They need to see every   creative format to flow through the   process to cover every objection they   need to buy. And so this ensures that   we're showing multiple unique creatives   appealing to all of those different   psychological reasons that people make   decisions. And so by having all these   unique creatives where we have our   features and benefits, we have a product   walkthrough UGC video, we have a 200,000   plus five star reviews, we have   ingredient breakdowns, special offers,   and as you'll notice, no creatives are   alike. Every format is different. And   this is all by design. And if we look at   another brand here, Loop, where they   have multiple different creatives, they   have testimonials, they have videos, UGC   creators, they have special offers with   three pairs in one box. They show how to   use the product, they show comparisons   breaking down the other alternatives   that people might use. They show   lifestyle shots to paint the picture of   who their audience is. And most   importantly, they identified personas to
+
+
+00:08:57
+  target audiences beyond just the core   audience that predominantly buys from   them. This allows them to take spend   levels from $1,000 days to $5,000 days,   even 10, $50,000 days in spend. And the   way you do this is not just by unique   creative formats. It's by building out   custom personas that are totally   different from every audience.
+
+
+00:09:18
+ And the   easiest way to understand these   different personas is by quite literally   when we look at loop earplugs, we can   see their personas quite visibly already   put on their website and they break   these down in their ad creatives so   effectively. The first persona is the   work from home audience.
+
+
+00:09:33
+ Somebody who's   trying to focus, dive deep into their   work. The other person is somebody who   simply goes to concerts and they want to   block out that noise for ear protection.   Another person is who's trying to   improve their better sleep, improve   their fitness by getting better sleep   quality by reducing the noise.
+
+
+00:09:49
+ Another   person is socializing. They're in social   environments. They still want to have   conversation, but they want to block out   all the noise around them so that way   they can be more present. And then we   have parenting. So that way they can   move on with their daily life without   having a ton of stress.
+
+
+00:10:03
+ All of these   personas are very different. Somebody   who's going to concerts and partying on   the weekends might be very different   from somebody who's a parent. Somebody   who's in fitness and trying to maximize   their sleep quality might be very   different from somebody who is always   going to socializing and networking   events.
+
+
+00:10:19
+ And same thing from the work   from home office persona. Each of these   personas appeal to different   demographics and allow them to scale   spend in multiple audiences at once. Now   for the third step with your creatives   is creative volume. It's not just about   having different personas. It's not just   about having unique formats.
+
+
+00:10:35
+ You could   have three, five, 10 personas with three   to five, 10 different ad formats, but   the final stage that brings this entire   plan to fruition so that way you can   maximize your scaling plan is by having   creative volume. And the way that these   brands are doing this, like HOS, where   they have 220 active ads, they're   leveraging UGC creators where these   personas are there, they have different   ad formats, and they're able to have   hundreds of people in their community   making videos for them every single day   where they're launching tons of   different ads, and they have multiple ad   accounts where they have over 11,000   active ads as we speak right now. with   all of these different unique creatives   in high volume. This ensures that Meta   always has an arsenal of the maximum   number of creatives to deploy, ensuring   that all spin levels are met and   performance never spikes, never drops,   and stays consistent on an uptrend. And   you'll see this like our client Ki   Eyewear, who went through our
+
+
+00:11:35
+  mentorship, has 740 active ads and is   scaling like crazy using this exact   strategy. In 2026, creative volume wins,   but only if you follow all of the other   steps that I've mentioned in today's   video. So now I just broke down my   entire scaling strategy with Facebook   ads in 2026 where I covered the account   structure, how to increase your budgets,   the four campaign method, how you can   micro shift your budgeting, creative   rotation, persona expansion, the 3-day   scaling method, and once you pass $500 a   day, how you can rapidly increase   budgets, horizontal and vertical   scaling, as well as the creative   diversity, ad formats, and creative   volume you need to scale. And if you   want to see exactly how we are doing our   targeting after this new Andromeda   update, I put everything for you in this   video right here.
+

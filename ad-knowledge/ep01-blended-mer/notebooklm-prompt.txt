@@ -1,0 +1,16 @@
+NotebookLM Audio Overview — customisation prompt for Episode 1
+
+Paste this into the "Customise" box before you click Generate on the Audio Overview.
+
+---
+
+Create a premium audio deep-dive for the DropStore community: an audience of South African e-commerce and dropshipping store owners who already run ads and want to scale. Two hosts, conversational and high-energy but credible, like two experienced operators talking shop over coffee.
+
+Focus the whole episode on the single source document. The core idea to land: stop trusting the ad platform's ROAS number when you scale, and start judging everything by blended MER against your breakeven.
+
+Rules:
+- Explain every piece of jargon in plain language the first time it appears (blended MER, breakeven ROAS, the pixel, the learning phase).
+- Use South African context: rand, VAT, local shipping and payment realities.
+- Do not invent statistics or specific numbers that are not in the source. The only numbers used should be the illustrative examples already in the document.
+- Keep it tight: roughly 10 to 12 minutes.
+- End with one clear, motivating takeaway the listener can act on this week (the weekly blended-MER routine).

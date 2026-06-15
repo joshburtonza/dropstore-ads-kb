@@ -1,0 +1,276 @@
+
+00:00:00
+In this video, I'm going to show you the   exact meta ad strategy that we use for   our clients doing 50K a month all the   way up to our clients doing 1, two, and   $3 million a month. First, I'm going to   show you the exact campaign setup. Then,   I'm going to teach you how to actually   understand your customer.
+
+
+00:00:15
+ This is   probably the most important part because   if you don't understand your customer   the way you actually need to, your   campaign structure and the creatives you   make are not going to matter. Then after   you properly understand your customer,   I'm going to walk you through exactly   how to structure your creatives and give   you my testing framework.
+
+
+00:00:33
+ And at the end   of the video, I'm going to give you an   extremely valuable archive of the exact   creative types that are working right   now. These creatives are going to work   for all levels of awareness. And these   are going to be top of funnel, middle of   funnel, and bottom ofunnel creatives. So   make sure you stick around for that.
+
+
+00:00:48
+ And   here's the thing, the new meta update,   Andromeda, is here. And the way that we   approach scaling has changed. The   algorithm now demands a lot more   creative diversity and creative volume   to be able to scale your budget   efficiently. So, the strategy I'm about   to show you is exactly what we've been   doing since the update, and it is up to   date in fall of 2025.
+
+
+00:01:08
+ And listen, guys,   this is not theory. My company actually   makes creatives and runs ads for six,   seven, and 8 figure direct consumer   brands. And this is exactly what we're   doing with real clients who are scaling   their spend and maintaining their return   on ad spend. And we're about to dive   into the computer, but I just wanted to   say one last thing before we dive in.
+
+
+00:01:30
+  Please save this video, archive it, like   it, however you can save it for later.   Just do not lose it because this is   going to be the most valued dense   YouTube video I have ever made. And I   promise you, if you do everything I say   in this video, it will drastically   change your business.
+
+
+00:01:45
+ So, let's jump in   the computer. So, first things first,   I'm going to show you the exact campaign   setup. We're going to keep this super   simple. You're either going to have one   campaign or two campaigns. The second   one down here is optional, and this is   going to be for bigger brands. If you're   a smaller brand, you can run everything   through this one CBO.
+
+
+00:02:04
+ So, we're going to   hop into Ads Manager. I'm going to show   you exactly how to set this up right   now. So, this main CBO, we're just going   to run a sales campaign.   regular sales campaign. And then we're   just going to title this either test CBO   or main CBO. Just depends on if you're   going to be running the two campaigns or   if you're going to be running the one.
+
+
+00:02:28
+  Like I said, smaller brands. If you're   doing sub 100K a month, keep it simple.   Just run the one CBO. If you're doing   multiple six figures a month, obviously   you're going to have, you know, more   complexity in your ad account. But for   this one, we'll just call it testing   CBO.   And we're going to turn off Advantage   Plus catalog ads on this campaign.
+
+
+00:02:48
+  And then we're going to keep the   campaign budget. I've we've started this   as high as like $250 a day, $300 a day.   Um but if you're, you know, on a limited   budget, you do 50 to 100 bucks a day.   And then on the ads set level, you need   to call each ads set um whatever batch   you're doing, maybe the date and then   maybe like the specific angle or   whatever.
+
+
+00:03:14
+ And then obviously you want to   turn this off. Make it website.   And then this is just like a random ad   account. It doesn't even have the pixel   or anything just for the sake of the   video. Um and then this is one thing   that you could do too. This is optional,   but right here where it says audience,   show more controls, and then exclude, if   you're going to be doing both campaigns,   um if you're going to do this CBO and   scale with an ASC campaign, you can come   in here and exclude um purchasers.
+
+
+00:03:45
+ If   you're not, if you're just going to run   the one CBO, you don't have to do that.   But that's essentially it, right? We're   just doing a CBO, not an ASC, just a   manual sales campaign CBO. And then   underneath this, you're going to have   your batches. And then underneath here,   we are going to push tons and tons of   creatives.
+
+
+00:04:06
+ You want to have anywhere   from 10 to 50 creatives per adset. Now,   post Andromeda update. All right. Now,   I'm going to teach you how to properly   understand your ICP or your ideal   customer or customer profiles. And I'm   also going to teach you how to break   those down into segments and angles that   you can use for ad creatives.
+
+
+00:04:26
+ Like I   said at the beginning of this video,   this is probably the most important part   because it doesn't matter what your   campaign structure looks like and it   doesn't matter how pretty your ads are.   If you do not have a fundamental   understanding of what is making people   buy your products, right? This is a   quote that I like to live by.
+
+
+00:04:42
+ If you   sell to everybody, you will sell to   nobody. And I've explained this a couple   of times before on YouTube, and I love   to use this example. If you haven't seen   the movie Limitless, essentially the   context of the movie is at the beginning   there's a guy who is just a complete   loser and he goes to a diner with a   friend of his and his friend tells him   to try this Limitless pill.
+
+
+00:05:06
+ And the way   the friend frames the pill is if it's   going to help him finish his book,   right? He doesn't tell him that it's   going to give him superpowers or it's   going to make him the smartest person in   the world. He just tells him that it's   going to help him accomplish the goal   that he wants to accomplish, right? So,   long story short, at the beginning of   the movie, this guy's like a complete   loser living in like a studio apartment.
+
+
+00:05:28
+  His girlfriend breaks up with him. He   takes the pill and then he finishes his   book. He's riding high, but then he goes   from a complete loser to a complete   Chad. And after he writes the book, he   goes on to be like a stock trader and   like a massively successful guy. But   anyways, the point of this is, and the   reason that this is a good example is   because I like to use this because   essentially what this pill does is it   gives you superpowers.
+
+
+00:05:55
+ And if you were   selling this pill, you would probably be   running around with a sign that says, I   have a pill that's going to give you   superpowers. But nobody's going to buy   that. They want to buy the outcome that   the pill is going to get them. And   everyone's ideal outcome is different.   That's what you need to understand about   this.
+
+
+00:06:12
+ That's why I use this as an   example. So, let's say we were selling   the Limitless pill, right? It's a pill   that has unlimited possibilities. It can   solve every single problem, but we need   to dial in customer profiles, segments,   and angles so that we can make ads   targeted directly to people who we can   solve their desired outcome.
+
+
+00:06:32
+ Does that   make sense? So, the pill unlocks total   mental performance. So, we're trying to   imagine in our head, who would want   this? Who wants to unlock peak mental   performance, right? They look like, you   know, they're a 30-year-old high   performer. They work really long hours.   They feel like they're stuck at 80% of   their potential.
+
+
+00:06:53
+ They're the people who   are just looking for that next leg up,   that next supplement, right? They drink   tons of coffee, but they crash super   hard, might have bad sleep. They're   obsessed with productivity and leveling   up. And they think in goals, deadlines,   and metrics, right? So that's at the   crux of it.
+
+
+00:07:10
+ Who we're trying to sell to   is these people, right? The people who   feel like this, think these things, live   this way, right? So next step is we need   to create segments, right? So we could   sell it to stock traders, authors,   politicians, entrepreneurs. We could   also sell to people trying to get into   Harvard, things like that.
+
+
+00:07:31
+ People want   to get into Ivy League schools, people   who want to unlock mental performance.   But if we were just making ads to   everybody saying unlock your mental   performance, a stock trader is not going   to watch that, right? A politician is   not going to watch that. So what we need   to do after that is pull angles   from pain points.
+
+
+00:07:54
+ Each segment reveals   to us a specific emotional or   performancebased   angle. And I did have um examples below   this the first time that I presented it,   but instead maybe you can pause the   video right now, pull out your notes app   and do this for your brand right now.   So, first things first, define your ICP.   Second, you need to create segments or   potential customer profiles and then   pull angles from those pain points.
+
+
+00:08:22
+ I   hope that you guys understand that. If   you don't understand that, you might be   cooked because that is probably the most   important part of this video. So, next,   now that you understand those customers,   you need to figure out how to make   winning ads. So, I'm going to show you   how to make winning static ads and how   to make winning VSSLs, as well as how   exactly to structure your creative   output and your creative testing so that   you can have, you know, new predictable   winners going into your ad account every   single week. So, first things first, we   need to break this down into two   different things. Variables you can   control and variables you can test. You   can 100% control your output and you can   100% control your quality, right?   Because all you have to do is do the   work, set up the system or work with us.   The variables you can test are customer   profiles, angles,
+
+
+00:09:20
+  and creative types. So, these are fixed.   We know that we can control the output.   If we want to make 10 static ads this   week, we can make 10 static ads this   week. If we want to make high quality,   low quality, short, long, whatever, we   can control those things. And then the   things that we're going to be testing is   the customer profile, the angle, and the   type.
+
+
+00:09:40
+ Where this becomes a problem is if   you don't have consistent output, that's   a problem. And if you're not able to   make highquality creatives, and what I   mean by that is not just making it look   pretty, but understanding your customer   and what drives them to actually   purchase something, then you're cooked.   That's why it's so important that you   have a system in place for output and   you understand what actually makes   people buy stuff so you can make quality   ads, not just pretty ads, quality ads,   right? And then the variables we're   going to be testing here are customer   profiles, angles, and types. Okay? So,   let's get into it. So now I'm going to   walk you through the testing structure   for the first 1 to two weeks. And   remember this is going inside of the CBO   that we created at the beginning of the   video. So the first 1 to two weeks we   are going to be flooding the ad account   with creative diversity. Okay? And this   is something that's changed as of   recently post Andromeda update. We did   not used to test with this insane amount
+
+
+00:10:38
+  of creatives, but we've noticed that the   algorithm is actually really really   good. Now, like I said earlier, we have   a client who just started a new CBO for   through 42 creatives in it. Started the   budget at $250 a day and immediately   within the first week, it's at like a   56x rorowaz. So, you can do this.
+
+
+00:10:52
+ Don't   think in your old brain. Remove those   biases or thoughts from your brain. This   works, trust me. And the reason that it   works is because we are testing so much   volume and so much diversity, which is   exactly what Meta wants. So what we're   going to do is we're going to pull   anywhere from three to five angles   and underneath each angle we are going   to have a lot of creative diversity.
+
+
+00:11:18
+ So   what we can do is each one of these   angles adds diversity and then each one   of the creative types needs to be   different as well. This is going to be   maybe static ads. This is going to be   UGC and then this is going to be VSSLs.   And you can mix and match that however   you want.
+
+
+00:11:38
+ I just made it this way so you   can get like a visual representation of   what like creative diversity is going to   look like. Right? So, when testing this   way, what we've noticed is our hit rate   depending on the week or the client is   usually anywhere from like 15 to 18%.   And I'm not going to do the math right   here, but typically this is what it   looks like.
+
+
+00:11:58
+ Let's say this angle we have   nothing work at all. This angle we have   nothing work at all. This angle, our   statics absolutely kill it.   This angle we have this UGC video is   good. This static is good and this VSSL   is good. And then maybe on this angle we   have just one VSSL that works. Right?   Then we have learned something which is   going to allow us to then increase our   hit rate and add more winning ads to our   ad account every single week.
+
+
+00:12:29
+ Right? So   what did we learn? We learned that we   have three angles that work.   We have one, two, three, four, five, six   winners. And that is good because we   learned what angles worked, what   creative types worked, and it's also   good because we just have new winning   ads in our ad account, right? So, you're   probably thinking that's all great, but   what kinds of creatives do I need to   run? Don't worry, I'm about to tell you   right now.
+
+
+00:12:55
+ So the first type of creative   is going to be a more top offunnel   static ad, right? A lot of statics will   live in the middle of your funnel. VSSLs   and UGC content prospect and then maybe   somebody who's already super interested   in your product or brand gets cleaned up   by a static ad. These are important   because they're super cheap and easy to   make and they actually can do some heavy   lifting.
+
+
+00:13:17
+ So this is just an example that   we made of a take on an us versus them   ad. This is like a problem solution ad.   Another one that I really like is   curiosity based statics that lead to a   quizfunnel or a listical. Those   absolutely rip for us. Um, but   essentially this first creative type, we   can just call this top offunnel static,   right? Or just something that people are   maybe not aware of your product and you   can sell them through a static ad.
+
+
+00:13:44
+  That's going to be the first creative   type that works well for us. The second   is going to be more maybe middle/bottom   offunnel static ad. These are things   like social proof ads, offerbased ads.   You know, if you just launch stuff like   this, it's probably not going to work   that well.
+
+
+00:14:01
+ But if you launch it in   unison with tons of UGC, tons of VSSLs,   tons of topunnel, um, static ads, it's   going to work. And these honestly are   probably going to be some of your   highest return on ad spend creatives   just because, think about it, if someone   sees a two-minute long VSSL that you   make and then they get hit with an   offerbased static ad, it's probably   going to work.
+
+
+00:14:20
+ Same thing for they see a   super long UGC video, then they get hit   with a social proof ad. Duh. It's   probably going to work, right? And why   these work? Trust from peer-to-peer   validation. And then this one is   addressing the main purchase barrier. I   put this one in here because I really   like this one. This is one we did for   our client.
+
+
+00:14:39
+ Um, there was a big price   objection on um the landing page or   people were just complaining about   price. And then we added buy now pay   later payments. didn't make any changes   to the landing page and saw a pretty   decent um conversion rate increase just   because we had offerbased ad creatives.   Right? The third type is UGC.
+
+
+00:14:58
+ And I will   not lie, I'm no UGC expert. I don't run   a UGC agency. But just for media buying   and seeing what works in the ad account,   I will say that probably whitelisting   and UGC like mini VSSL style stuff works   really well. Another thing that works   well is just like basically them   ranting. Like I don't know why it works.
+
+
+00:15:19
+  It doesn't make a whole lot of sense,   but it does work. Just give an   influencer um your product that's like   in your niche and knows how to speak to   your ICP and just tell them to just   rant. I don't know why it works. It does   work. I didn't put it on here because it   might not work for you, but I have seen   it work quite a bit.
+
+
+00:15:35
+ But these um   whitelisting UGC reviews,   um this is going to be their personal   experience with the product. They're   going to highlight the USPS. This is   really good for brands of all sizes. It   doesn't matter if you're a small brand   or a big brand. And then why it works is   it just has a lot of social proof and it   has a really native feeling.
+
+
+00:15:53
+ CPMs are   going to be lower on stuff like this. Um   your hook rates are going to be really   good on stuff like this. So whitelisting   UGC review style creatives. And if you   don't know what whitelisting is, this is   essentially where you get access to   their um pages. And the ad when you're   scrolling through and you see an ad for   a brand, but it's on like an   influencer's um page, that's   whitelisting.
+
+
+00:16:16
+ The next is going to be a   mini VSSL. Um, and I didn't go I   actually deleted but in this I had um   VSSL structures but essentially you want   to follow like a VSSL style format of   you know a hook some type of story um   revealing your unique mechanism solution   maybe testimonials or social proof and   the point of it is that it's building to   an offer at the end and again it still   has that same social proof and native   feeling.
+
+
+00:16:42
+ So if you're going to do UGC I   would do one of those three kinds. uh   whitelist with a review of your product,   mini VSSL, or just having them rant. The   fourth creative type is when we get into   VSSLs. And I myself am a huge proponent   of VSSLs, especially founder story VSSLs   because I'm not going to lie, basically   all of my business was built on me   making VSSLs for our business.
+
+
+00:17:07
+ I love   it. I know how to do it. I know every   single week that I make a VSSL, I'm   going to have a VSSL that makes me a   bunch of money. Um, and the reason that   it works is because it's a personal   narrative from brand owner or CEO.   Things that you can do is why I built   this company. You can have that as like   a super good top ofunnel BSL.
+
+
+00:17:24
+ And this   is probably actually not probably, this   is the highest converting format for new   brands because what we talked about   earlier, the variables you can control   are the output and quality. And the   easiest creative type for you to control   the output and the quality is literally   you being in the VSSL, right? I don't   know why people don't do that.
+
+
+00:17:44
+ If you   can communicate to your ICP, if you have   the ability, you look like them, you   talk like them, you have the same   problems as them, and you're not doing   founder story vs, you're leaving like   $50,000 a month minimum on the table by   not doing that. And the reason that it   works is it puts you as an authority   figure.
+
+
+00:18:02
+ It's very authentic and it   builds a connection with your customer   base.   The next is going to be prospecting   VSSLs. This is probably like a true true   VSSL, two three minute long VSSL. The   degree of difficulty of making a good   one of these is pretty high, but when   done correctly can massively change your   business.
+
+
+00:18:24
+ We have made a couple of ESLs   for clients that have pulled more than   $100,000 in ad spend very profitably   over like 6 months periods.   Extremely extremely powerful creative   type. These are typically story driven   and they appeal to more broader   audiences, right? They can appeal to a   large amount of people like a big   painful problem that people are having.
+
+
+00:18:49
+  And a structure that I like to use is   super simple hook. Tell a little brief   story. The unique mechanism problem and   unique mechanism solution is basically   like that creatine creative that I   showed up there. Like why are you still   drinking chalk? So, like if you ran a   creatine gummy brand, your unique   mechanism solution is gummy and the   problem is that powdered creatine just   tastes like Um, and then you add   risk reversal and testimonials at the   end.
+
+
+00:19:18
+ And then why this works and why   it's such a heavy hitter is it can turn   a totally unaware person from just   somebody scrolling through Instagram   into someone who's going to buy from   your brand. Not a lot of other types of   creatives can do that at scale,   especially. And the last creative type   is going to be more bottom offunnel   focused um video creatives.
+
+
+00:19:35
+ Can do like   a lifestyle video, quick edit, product   showcase. Point of this is it's selling   the identity and it feels more native to   the feed. Um or you can do a more bottom   ofunnel mini VSSL. You can make these,   you know, offerbased or just like go   really hard with hard selling your   product for people who are already maybe   product aware.
+
+
+00:19:56
+ Um, and those are   basically the creative types that you   can use up here for this original   flooding your ad account with creative   diversity.   And also, even if you don't have, you   know, super specific stuff like this   very structured approach, it would   probably be good for you to set up that   campaign that I told you in the   beginning and then just put tons of   creatives in there, right? And then you   can start making stuff like this now   after after you finish this video.
+
+
+00:20:24
+ And   then after you have created all these   creative types, you've flooded the   account with that creative diversity,   then is when you're going to build the   creative pipeline that's actually going   to allow you to scale to a million   dollars a month. That's the that's the   title of this video, right? And each   week after this, week three through six,   you need to continue testing new   concepts each week, iterating winners,   and scaling your budget simultaneously   with creative volume.
+
+
+00:20:54
+ And that's   important. Once you make that first   winning creative, that doesn't mean you   need to keep scaling your budget as hard   as you can every single day, right? You   need to keep doing exactly what got you   there. You need to keep adding new   winning creatives into the ad account   every single week.
+
+
+00:21:11
+ So, the way that I   like to do this, and this is super   simple, and consistency is the main   thing here. It is simple. This is not   rocket science, but those variables that   I told you you needed to control earlier   in the video, your output and the   quality of the creative, those are   imperative for this to work. So, the   first thing you need is to set up two   creative pipelines.
+
+
+00:21:36
+ And this is after   those first week or two where you're   just flooding the ad account with tons   of creative volume, right? because in   that first one or two weeks, you should   learn what types of creatives are   working best for you, what angles are   working best for you, things like that.   So, by week three, you can create a   pipeline A and a pipeline B.
+
+
+00:21:52
+ And   essentially, pipeline A is just going to   be iterations of winners. And pipeline B   is going to be you testing totally new   stuff. This could mean you're testing a   totally new angle or it could mean   underneath the angles that you already   have there working okay you're testing   wild totally new unique creative types   right and then over time week three week   four week five week six you're typically   going to have a lot higher of a hit rate   in this pipeline a you're going to get   to the point where you're just   downloading information so fast that you   understand exactly what it takes to make   a winning creative at least that's how   it works for us typically Typically, we   get a client to like week six. We're   making multiple multiple winning ads   every single week, and it is no problem   whatsoever for us to continue scaling   their budget. So, you made it to the end   of the video. Let's say you're 6 weeks   from now. You're absolutely killing it,   and you're wondering, how do you
+
+
+00:22:51
+  continue to media buy the account? I'm   going to give you if you are doing less   than $100,000 a month in revenue, I   would say stick to that CBO that we set   up in the beginning. If you are doing   more than $100,000 a month in revenue,   and this is super variable, guys, right?   I've seen ad accounts where people are   doing 350K a month and they have the one   CBO.
+
+
+00:23:12
+ I'm just trying to give you guys a   rule of thumb so I can set you off and   you can do this well on your own or if   you end up working with us, you   understand what we're doing and why   we're doing it, right? So, if you're   doing 50, 100, 150k a month, staying in   the one CBO is fine. If you're doing   more than that, $250, $500, $500,000 a   month, what you can do is take the   winners from that CBO and scale them in   an ASC campaign and continue adding all   of your new tests into your CBO.
+
+
+00:23:42
+ and the   winners at the top of that CBO that are   pulling a lot of spend and doing really   well, you can move those into your ASC   campaign and be a little bit more   aggressive with vertically scaling that   budget. So, if you made it to the end of   the video, hopefully now you understand   your customer, you understand how to   make winning static ads and what types   of static ads work the best.
+
+
+00:24:02
+ You   understand how to make video ads, what   video ads work the best, and you   understand how to structure your ad   account. All of these things combined,   when done correctly in unison, can build   you a $1 million a month sales channel   through meta ads. But if this seems   daunting and you do not want to do all   this yourself, good news for you.
+
+
+00:24:22
+ You   are in the right place because this is   exactly what we do. We've been doing   this for 3 to four years now. We've   spent tens of millions of dollars on   ads. We've made thousands of creatives.   We've scaled brands past a million   dollars a month to multiple seven   figures a month. So, if you want a   partner to lock in with and who will do   this with you and for you, just click   the link below.
+
+
+00:24:45
+ There's a video on the   page that explains exactly what we do   and you can book a free ad account and   creative pipeline audit with me. I'll go   through your ad account. I'll go through   your current creative process and we   will build a creative pipeline live and   I will make a plan of exactly what we   can do for you.
+
+
+00:25:01
+ So, if that sounds good,   the link is below. And if you made it to   the end of the video, comment best ad   structure. Can leave any thoughts,   questions that you have. But if you made   it to the end of the video, comment best   ad structure. And like I said, if you   can't implement all this right now, or   if you're planning on implementing this   over the next 6 weeks, save the video,   like the video, archive it, send it to   your buddy.
+
+
+00:25:24
+ However you can save it so   that you can come back to it and   remember it, please do. This is a very   valuepacked video. I don't expect you to   be able to do everything that I said in   this video. tomorrow, right? I can send   you off on the right path with that   campaign set up and those creatives that   you need to make, but you should come   back to the video over time and   understand how to iterate and remember   some of those best practices that I laid   out in this video.
+
+
+00:25:48
+ So, like I said, if   you want a partner to go through this   with you, um, click the link in the   description below. You can book a free   ad account audit with me. And if you   made it to the end of the video, please   comment best ad structure or ad   structure or best ad or something so   that I know that you made it to the end   of the video.
+
+
+00:26:06
+ Hopefully that was   valuable for you. I appreciate you guys   taking the time and let's absolutely   kill it this Q4. See you.
+

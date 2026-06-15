@@ -1,0 +1,172 @@
+
+00:00:01
+In this video, I'll be running through   the concept of measurement systems that   exist within marketing. So, how you can   move from correlation, which is usually   just looking at an attributed number in   the platform, to moving into causation.   So, having confidence that when you   spend more money on Tik Tok, it causes   an actual increase in new customer   acquisition.
+
+
+00:00:17
+ And what is that   incremental cost per new customer? This   will be building on a previous video   that we put out called you are getting   this wrong. And this was around the   concept of most marketers using   correlation rather than causation. And   so most of their decisionm frameworks   are fundamentally wrong or they're   building false assumptions into their   day-to-day activities.
+
+
+00:00:35
+ The framework I   want to run through this video is being   stolen by Niko Newman who's an associate   professor at Melbourne Business School.   And so all credit to this framework goes   to him. But I think this is a really   good way to conceptually look at and   think about moving towards causation   from correlation based marketing.
+
+
+00:00:53
+ And so   what we're going to do is spend this   video starting at the bottom of the   pyramid and moving our way up. The   bottom of the pyramid represents   qualitative data, ultimately really poor   trustworthiness for a causal claim. And   then as we move up, the trustworthiness   of the result increases to the point in   which we can trust it quite a lot.
+
+
+00:01:13
+ So   starting at the bottom, the worst   measure for whether there's a causal   impact of making a change is expert   opinion and anecdotal evidence. So, this   is like watching a YouTube video that   I'm making right now and me saying that   Tik Tok ads are great. You should run   them.
+
+
+00:01:29
+ You'll get a really high ROI and   then using that as a basis for   causation. When you go and run Tik Tok   ads and revenue goes up and you go, "Oh,   yep. There must be a direct link there   because I watched a YouTube video on it   or I've heard some expert opinion around   this particular topic." That obviously   lacks really any uh quantitative data   and just becomes completely qualitative   and is not something you should really   do.
+
+
+00:01:50
+ Funny enough, most really entrylevel   marketers within their first 3 to 12   months really this is 99% of what   they're relying on because as they're   starting to learn the tools, as they're   starting to become indoctrinated within   the ideas uh that exist within media   buying or e-commerce, what ends up   happening is they're very reliant on   other people's opinions to be able to   prove causation when things move rather   than using their own measurement   systems.
+
+
+00:02:14
+ From here we move up one step   and that's where we move into simple   correlation count or average without   adjusting for third variables. Now what   does this actually mean? Well, we can   look at this in terms of attribution. So   looking at a lastclick attribution   model, but this is also making a change.   It might be a budget change and then   just looking at average sales before   that change, average sales after the   change.
+
+
+00:02:36
+ And so we're doing a very simple   correlation analysis. Is sales higher or   is it lower? Now the issue there is that   we're not adjusting for third party   variables. And this is where you get a   lot of uh confounding variables that   exist when you try to impact when you   try to measure causation. Sorry. And a   very obvious example of that is   seasonality.
+
+
+00:02:56
+ And so if you go and make a   change and then sales go up in the   following two weeks, was it just because   it's end of financial year sales and how   do you actually take that out or adjust   it out so you can get a good measure of   experimentation over time? So this is a   significantly better meas measure than   just qualitative data, but it's   observational.
+
+
+00:03:14
+ There's no control groups   and there's also no adjusting for third   party variables. So how do we improve   one step from here? Well, we can move up   into adjusting for third party   variables. This is normally done in the   context of an MM. So a marketing mix   model or a multi-touch attribution model   as well something like triple whale   where it's taking into consideration uh   multiple different platforms in the   customer journey there.
+
+
+00:03:35
+ Now they both   have different advantages and   disadvantages but looking at MM are   generally a multiple regression or   structural equation modeling which is   adjusting for third party variables. So   really easy way to think through this is   that with simple correlation we are   doing an unbelievably rudimentary   analysis that is going to be riddled   with error.
+
+
+00:03:58
+ Now if you're a really small   business that's doing almost no revenue   you can actually get away with simple   correlation because there's almost no   revenue. And so if you go and are doing   $100 a day in revenue and you start   spending on Facebook ads and your   revenue goes to $1,000 a day, you can   probably draw a pretty easy correlation   there because there's not many third   party variables that are impacting the   business.
+
+
+00:04:16
+ But as you start to grow and   grow, particularly as you become an   eight figure and then a 9 figure   business, there's so many third-party   variables that are impacting daily sales   that it becomes very very difficult to   be able to pull out and extract the   actual impact that a particular paid   media campaign is having within the   broader context of the business.
+
+
+00:04:34
+ And so   this is where people try to solve that   through MMSM or multi-touch attribution.   But it ends up also causing larger   obuscation of what is actually occurring   um because they're just not great. Now   they're not bad. They're much better   than simple regression. It's better than   expert opinion, but it's still not   fantastic.
+
+
+00:04:53
+ In fact, very often you will   go into an ad account or you'll go into   a a multi-touch attribution model and it   will say that a platform is delivering a   9, a 10, an 11x when in reality if you   actually put that into a better   measurement system like a geo holdout   test, you'll find out that the   incremental ROI might sit closer to a   2.5 or a three.
+
+
+00:05:12
+ So you have significant   overattribution here because it's not   correctly adjusting for incrementality.   Incrementality being would that purchase   have occurred if the ad was not served?   And if yes, then it wasn't an   incremental purchase that should not get   attributed to that particular platform.   When we're looking at adjusting for   third party variables here, just to um   sit here for a little bit longer in an   MM, the idea is that you're adjusting   for as many factors as possible.
+
+
+00:05:40
+ And so   a good example of this is that if you do   a spend increase and then after that   spend increase revenue went up, an MM   should take into consideration well was   there a change in the product portfolio.   Was there an increase in email cadence?   Was there a change in audience targeting   on meta? Was there a change in seasons   that generally causes lift hair? And   then with consideration of all of that,   an MM should be able to identify   actually no.
+
+
+00:06:06
+ The revenue increase had   nothing to do with the spend increase.   It was because you increased email   cadence and you did a product launch.   And when you do those two things,   revenue generally increases by about   this amount. And that is what uh that   revenue increase was caused by.   And then we move up a step further. We   move into the yellow zone.
+
+
+00:06:25
+ And this is   where you start to go into quasi   experiments based on partly   observational data. And so this   ultimately is still better than MMSM.   It's better than multi-touch   attribution. It's better than uh   lastclick attribution, but it's still   not the holy grail, which ultimately   we're going to get to at the very top.
+
+
+00:06:44
+  But these quasi experiments kind of get   quite confusing. And to be honest, I'm   not going to spend a whole lot of time   here because even my upskilling and   understanding of these particular uh   experiment designs is not great at all.   But to really quickly just explain them   so that you can have context, matching   and waiting estimator and double   debiased machine learning.
+
+
+00:07:04
+ This is real   data science and starts to become very   difficult to just do by yourself as a   marketer internally. But the idea here   is you take a raw group and you match   people that are similar. You also   allocate weightings so the particular   groups aren't under represented within   the model.
+
+
+00:07:21
+ You then have two different   machine learning models. One generates a   propensity score. The other one   generates an outcome prediction. And   then using the two models, you look at   the residuals of the two models and how   they move together. And that gives you   causation as the two models effectively   negative out error together.
+
+
+00:07:40
+ They   predict each other's error. Now I   explain that at a grade five level   because my understanding of this is at a   grade five level. Moving into uh   difference in difference. This is easier   to explain. So this is measuring the   difference in the differences as you   make a change within a particular   campaign.
+
+
+00:08:00
+ um you can use a model like   causal impact to be able to measure   difference indifference uh within an   experiment and so the idea here is that   you take campaigns let's say you haven't   ran Tik Tok before and then you start   running Tik Tok and the idea is you   future predict predict what revenue is   going to be and then you see whether   there's a difference when Tik Tok is   introduced and if there is a difference   then you measure the   And then that is your lift associated   with that change.
+
+
+00:08:32
+ And so if you make a   large structural change, it allows you   to measure the before and after without   just looking at simple correlation or   averages, but instead using a predictive   model to what future revenue was going   to be. And you can do that based on um   splitting states etc. And then that   allows you to have an output.
+
+
+00:08:51
+ The next   one above that is regression   discontinuity design. This is where you   create an assignment rule which is   effectively a threshold and then you   introduce the threshold or you change   the threshold and then you measure the   what's looked at as the control group   that sits around that particular   threshold.
+
+
+00:09:11
+ So really easy example of   this is that you could take all of your   customers who have an annual spend last   year of let's say greater than $2,000   and you can give them a free gift. And   then what you would want to do in the   next year once you've told everyone   about that is compare the spend next   year for those at 1,980   and those at 220.
+
+
+00:09:35
+  That's effectively a random control   group. But what you're doing is you're   measuring do we get much lift from those   above 2,000 because they're getting   placed with a new offer. And so you're   taking effectively like a random sample   size of people that are all clustered   together and you're treating half of   them to some kind of difference and   seeing whether they actually go and   spend more.
+
+
+00:09:56
+ The common example that's   given here is in exams. And so you go   and take a class, anyone above a 70   score gets privately told before the   exam or weeks before that, hey, by the   way, if you get above 70, you will get   some kind of gift, maybe a $50 voucher   or something. Anyone below 70 does not   get told that there's a $50 voucher if   they get above a 70 score.
+
+
+00:10:22
+ And then you   look at everyone who on the last few   tests got between 68 and 72 or maybe 66   and 74. So right in that band on that   cutoff and you measure how much lift do   we get on those people that were above   70 that were actually told about the uh   voucher and then below 70 did they move   at all? And then you can use that as an   ability to generate a regression model   to be able to understand the difference.
+
+
+00:10:50
+  And so here's a very very simple example   of that which is that you have a   treatment $50 bonus. You tell everyone   above 70 that hey you'll get a bonus if   you get above 70. And then you do a   regression analysis on a very similar   linear regression on the people under   and the people above and you see if it   has an impact at the cutoff and you can   obviously say in this case that it did   have an impact.
+
+
+00:11:11
+ There's a significant   jump here that would not normally occur   within a random sample size of students   having a test. And so this can also get   translated into marketing in uh   different ways that the design of the   experiment is set up. And then all the   way at the very top you get what's been   labeled as a true experiment which is a   geoloyft hold out.
+
+
+00:11:32
+ I won't go into   geoloft holdouts in too much detail   because we've probably made seven videos   on the concept by now. Uh the basic   premise here is that you are selecting   ideally multiple states that can be   predicted on future revenue using other   states performance and then you make a   change to those states.
+
+
+00:11:52
+ Maybe it's the   introduction of Tik Tok spend. Maybe   it's an increase in advantage plus   spend. Maybe it's a switch in all of   your attribution optimization to   incremental attribution within a   particular um selection of states. And   then using the counterfactual being all   of the other states that are predicting   performance in real time, you can run   that experiment and you get a control   variable in conjunction with a treatment   group which gives you a direct   incremental ROI or an ability to   determine deviation from the expected   range of outcomes over the course of a   particular time period. Now, why are 99%   of marketers, 99% of e-commerce brands   stuck down here in just simple   correlation and counting averages? And   the reason being is that this is really   ultimately kind of fine if you're a low   seven figure brand. You just don't have
+
+
+00:12:52
+  that much volume running through the   business and you just don't have any   confounding factors that exist and   different marketing efforts all going   simultaneously or new products drops on   an ongoing basis that you need to   control for all of those variables.   You're just probably too small and so   you can actually get away with that.
+
+
+00:13:07
+ But   as you start to achieve scale, you need   to go into better measurement systems   because the obuscation of what is   actually occurring from all of these   different marketing channels starts to   increase in complexity. Now even then   the reason why a lot of brands   particularly 8 figure and nine figure   brands I've seen almost none of them   ever running true geolytic experiments   um over the course of the year is   because number one it requires a bit of   an understanding as to how to actually   structure and set these up so that you   can get accurate results which is a   skill that doesn't currently lie in a   lot of agencies but I'm sure that will   progress over time. Um and then number   two is that there are actually multiple   downsides to running geolyft experiments   instead of using just basic correlation   and attribution over time which is that   for example an MM model will give you   real time every single day ROI figures   from each channel that it's estimating   whereas a geolyt experiment will give
+
+
+00:14:04
+  you an ROI number at a specific time   period in the past that may not hold uh   accurate right now because ROI obviously   fluctuates over time dependent on a lot   of different factors. And then on top of   that, to get this read, you need to do a   large budget swing in a particular area   on a particular experiment.
+
+
+00:14:24
+ So you need   to have the ability to take risks and to   take big swings and also put experiment   design in place that's going to lead to   a higher success rate of actually   running these experiments. Now, that is   somewhat being solved for at the moment   by Meta's native incremental   attribution, which I think is fantastic   because you're effectively always   running holdouts because it's always   holding out 10% of your target   demographic and giving you a real-time   incrementality read.
+
+
+00:14:50
+ Um, but ultimately,   there's still going to be some downsides   to inplatform incrementality reads,   which we have an entire video on, which   is right here. quasi geolo lift   incrementality versus uh true   incrementality and meta's conversion   lift experiments versus real conversion   lift experiments. So all of the   downsides here still translate and   apply.
+
+
+00:15:13
+  But there's still absolutely no reason   as to why you shouldn't be getting these   reads on an ongoing basis, particularly   as an 8 to9 figure Australian brand who   will need to begin bridging into new   channels, whether that is Tik Tok,   whether that is out of home, whether   that is YouTube.
+
+
+00:15:26
+ And these platforms are   very, very hard to measure the impact of   if you're just looking at sole   attributed figures. Tik Tok   overattributes by a crazy multiple   because you just end up placing in front   of people that you were placing in front   of it anyway on Instagram and then   you're just claiming all of those   conversions through two channels now   rather than one.
+
+
+00:15:47
+ And then in conjunction   with that, if you go and place on   YouTube, you have the opposite effect   where you actually have really poor   attribution. It's very difficult to   measure the real read and lift on a   channel like YouTube. So if you want to   actually deliver an increase in paid   media spend in the A&Z region, you need   to do it through some kind of ability to   run a true controlled experiment over   time.
+

@@ -1,0 +1,192 @@
+
+00:00:00
+99% of Shopify store owners are using AI. Completely wrong. They're copying and pasting product descriptions into ChatGPT and getting back the same generic slop as every other store in their niche. Meanwhile, a small group of store owners have figured out how to plug in claw directly to their store. They're getting things done in 30s that you should take their team maybe three hours.
+
+
+00:00:21
+I'd say team is probably just you doing this for three hours. Bolt catalog cleanup, real customer segmentation, product copy that is actually based on what's already converting. So in this video I'm going to show you the exact setup, the three workflows that save the most time and make the most money. And I think the one mistake that turns this whole system into just a gimmick. Let's go.
+
+
+00:00:44
+I'm co-founder of Big Branding, where a Shopify focused agency. We've built, audited, rebuilt hundreds of stores, mostly clothing brands and boutiques. We also run the Osso programs, private community Shopify clothing brand owners with over 300 members in it right now. Now, the workflow that I'm about to show you is what we use and what I use every single day to run our agency, to run our content, to run a fine stores.
+
+
+00:01:08
+This isn't theory. These are actual things that we have put into practice. So let's first talk about the setup. I think the thing that 99% of store owners are missing, instead of doing the copy and paste or downloading CSV files or taking screenshots of the analytics, you don't want to do any of that. What you want is an actual true connection between them.
+
+
+00:01:28
+So doing those things is not really a workflow, it's just a lot of other times it's just slow typing really. So to me the actual unlock is going to be that connector. So once you actually turn that on, cloud can read your products orders, customer inventory, analytics. This like all of it, it can read but it can not only just read.
+
+
+00:01:46
+It can actually do so. Let me show you real quick how we can set this up. So I'm going to treat this as you're just a new, new real, real beginning. So first thing, if you don't have the desktop or the the subversion of cloud, that's the person that I need you to go get. So go to cloud AI for slash download.
+
+
+00:02:06
+And then in here you can actually download that desktop version, download the Mac OS and that will download and install cloud on your computer. And as always you have your three versions. Let's chat code and code. Once you hit code you can click customize. And then here you can click connectors. And as you can see we already have Shopify plugged in,  but you probably won't.
+
+
+00:02:30
+So what you need to do is just add a connector, click on Browse Connectors and you type in Shopify here. Then click on Travel File. And then for you it will say connect. So not disconnect because I'm already set up. And then just kind of follow the process. It will make you log in on your browser and just accept it.
+
+
+00:02:50
+Once you're fully connected, it will then get you to this screen. And in here you will see there are a bunch of stuff that cloud code can do for you, for me, and for this store. I'm always I'm going to keep them as always, allow. So it can just do these things without having to sort of like asking permissions to, for example, search products.
+
+
+00:03:16
+Like every time that I ask it to search for a specific product, I don't want it to, you know, ask me back like, hey, are you okay with me? Search. Like, I just want to say yes. Allow all on all of these if you are. I would say weary about certain things. I would say there may be some things here on the right and delete that.
+
+
+00:03:36
+Maybe you can put them as like needs approval. So that just means that when cloud code is going to make an action or make something happen, it will just ask you for permissions to proceed. So yeah. Once you have this pace, that means that you're connected. And then you will also see on your Shopify store under apps, you should see this Shopify Cloud Connector app.
+
+
+00:03:57
+That also is a good indication that you have everything connected properly. And that's really all you need to do. That will give you the full power of what we need to do here. And I think this is where a lot of tutorials will probably stop and say like, hey, now you can basically just ask  questions about your store.
+
+
+00:04:14
+And I mean, that's cool, but I feel like that's that's just the beginning. So let me show you what this connection actually unlocks. Now let me show you what all of this actually unlocks. So workflow number one, bulk product operations I would say in just plain English. Right. This is the kind of thing that normally could take someone who's just starting out like maybe half a day to do.
+
+
+00:04:35
+Right. Like you open the product screen, you hit filter, you maybe export a CSV file, you try open it in Excel. It looks like trash. You try to open it in Google Sheets. It looks a little bit better. The formatting. This is all off. You try to reimpose it, you cry a little bit. You know the routine. Hey, now watch how this could look like with this new connector.
+
+
+00:04:56
+All right, so I have a dummy stored here. What I've done is I have just tagged two products with fall 2024 tag, both of these ones right here. Just to kind of show you some of the capabilities in here. So I have these two products here tagged just to show you I'm going to do a test with pricing. So I'm going to reduce the pricing on these.
+
+
+00:05:19
+So there are seven 4995. And then this one is $1,025. Let me go back here to plot code. What I did is I just verified to make sure that I am connected to that particular account. Reason being is we have hundreds and hundreds of different stores that we have access to. So I did have to make kind of reconnect to make sure that I was connected to the right, correct store for this particular session for you.
+
+
+00:05:48
+If you only have one store, then you don't have to worry about that. If you do manage multiple stores, you will have to kind of reconnect and connect again in order to manage things, maybe even have the cloud account, haven't haven't gone around to how to how to how to get that to happen. But we're going to do here as a test is just yeah, find any product.
+
+
+00:06:08
+Every product tag would fall 2024 and reduce prices by 12%. Enter. All right. So it looks like it already found the products the oxygen and the liquid. There's the pricing. There's a new price plan is at 12%. And it looks like it's now update now okay. Both borrowers successfully updated with no errors. So let me go back over here.
+
+
+00:06:30
+Let me just refresh this. There it is 902 I don't have to go back a product to the liquid. Yeah. 659 that's what we had. So as you can see before, right before we had this, you probably have to either DOS manually or you had to rely on some kind of bulk edit app in order to make this happen. So this is just a very quick scenario with just two product.
+
+
+00:06:57
+But imagine if you have hundreds of products that you're trying to do a store wide sale, right? And you're trying to set up like the slashed price on your like a pair at price. You could do that. You could tell it to switch to compare that price to the original pricing, reduce price by 12% or whatever percentage you want, and you can do it in bulk with a lot of different products.
+
+
+00:07:18
+This is just a very quick example, but it can do that. Like we're talking about one sentence confirmation, and it's just that  the catalog is going to be cleaner because now you can do the bulk product operations. And I just so just want to say that this pattern works for almost anything that you want to do across multiple products all at once.
+
+
+00:07:43
+So again here maybe wanting to update the description, you want to update product titles, you want to take every product from a vendor that's still in draft and publish them. You want to pull every product missing a description and have Claude write one based on the title and the vendor, and maybe the product type.
+
+
+00:08:03
+You can also audit your tags so you can show me every product without a category tag. You can tweet products with zero images or missing alt text and then flag them all into one list. I mean, the possibilities of of editing your products is pretty much endless. And if you're one person stored, this literally gives you a tool like Operations Manager Power.
+
+
+00:08:29
+You will have simply a team that that can do all this work for you. I mean, you will be saving our and our support, but this now workflow number two is I think we're actual margin list like customer intelligent most stores. And honestly, most of you have a customer list that you barely even touch. And then you say in the same email blast to pretty much everyone.
+
+
+00:08:54
+Same subject line, same offer, same send time. That's the fastest way to torch your sender reputation and also leave money on the table. The unlock here is that claw can actually read your real customer data. It can segment it for you, and then write to that segment in your actual brand voice all in one conversation.
+
+
+00:09:15
+All right. Let's go check this out. All right. So let's see how far we can we can push this. When it comes to customers there's a lot of things that we can do here. So I'm going to attempt this I want to say pull my top 25 customers by lifetime spent who haven't order in the last 60 days. Once they create a segment again, this would be more if you're actually utilizing the segments here within Shopify.
+
+
+00:09:43
+And if you're utilizing something like Shopify messaging, right, to send all your emails, prototype, and then draft a ring age email that sounds like our brand with a personalized, open and soft offer. Let's just try and see if we can actually do it in Shopify messaging and shop part. All right. Let's go ahead. Enter on that.
+
+
+00:10:11
+Okay here we go. Now we have always usually do always allow. So if I do run some action similar to this in the future it will just keep going and create enzymes to create it. Looks like it gave me the list here. Again we're on a test store, so it obviously like the test store has a lot of just test orders in here.
+
+
+00:10:36
+So they're not it's not in the correct information. But you see here's the list I do want to check if it was able to actually create a segment inside of inside of trouble. Fine. Because if that segment is created then it will automatically update. So it's a segment that's sort of like live. So yes, it's like live in the dynamic segment, which is great.
+
+
+00:10:58
+And it looks like yeah, for the email, it wasn't able to go into the messaging and create that, but it did create the subject line, the copy of the email. Just let me know that. Yeah this is good. And if I if you if it wants to format it for you you can also do that. Let me go back over here and list  refresh the data here.
+
+
+00:11:19
+And yeah. Now under customers and their segments we will see. Yeah labs high value customers 60 plus days 90% of customers created 1st May not go. So there it is. So as you can see cloud was able to pull all the customer data, create the segment inside a cloud, then actually create the segment inside here in the back end of Shopify.
+
+
+00:11:43
+Then it actually wrote the email for us in our brand boys, and it didn't get us to the last step, right, to actually put this into Shopify messaging and kind of say that, I mean, there may be a workaround there, but we'll have to kind of keep pushing a little bit harder to see what we can achieve. But again, this is something that you can do.
+
+
+00:12:06
+And with these segments, I mean, you can do a bunch of different really cool things. We can, you know, have segments of customers who plays exactly, maybe one order over the over 90 days ago. You can do customers who started, you know, maybe half subscribe to email this month and have them purchase. Yet you can do customers in a specific country.
+
+
+00:12:26
+You can do customers we bought from maybe some of a specific collection, right? Or maybe they haven't reordered  in the last 30 days. Like whatever you can, you can do a lot of different segments and actually have messaging and communication that is directly, you know, you talk, you're talking directly to now sort of like one person.
+
+
+00:12:47
+And that's the beauty of creating these segments. And for the ability of Claude to actually go and read the data and get you the exact people that you need and the exact copy that our lastly, workflow number three, I think this is the one that almost nobody is doing, but it's important to not even just do it launch, but potentially multiple times throughout your year, right? When you ask a generic AI to just write a product description, you're going to get a very generic product description, because AI just has no context. And I think context is the most important thing here. It just doesn't know your brand. It doesn't know your customer, it doesn't know what's already working on your store. So let me actually give you a couple of ideas here on how to have this workflow that will write product descriptions that will actually sell and not only sell to real customers, but also sell to air agents that are now browsing your stores
+
+
+00:13:49
+every single day. All right, now here's the part of the video where I told you were going to say the most time here, because every single story that I've seen is making this mistake. And it's the reason most of them basically give up on these AI tools, or they still use them, but then they start complaining that it's just not it's not working as good as it used to.
+
+
+00:14:08
+I think the mistake is actually treating Claude like right. One off questions. New chat every single time. No context. This is not how this tool went. The actual unlock is teaching Claude what your brand sounds like, who your actual customer is, what your goals are this quarter, and then handing it Shopify Connect at Workspace that already knows all of that.
+
+
+00:14:31
+Now let me show you what projects is inside of Claude. That way you can set this up once and then you can use it forever. I say forever, but it's really going to be for two weeks until they make some kind of crazy upgrade and update. And then we have to kind of make a new video for you. So make sure that you subscribe.
+
+
+00:14:46
+Well, let's get into this. All right. So let's see what we can do with product descriptions here. Again I think that the the beauty of this is that it can read all of your top performing product descriptions, right. And then rewrite some of the worst performing ones. So what I'm going to do here is I just want to read my top converting product page, tell me why it works.
+
+
+00:15:11
+Now rewrite the worst converting one in the same structure. So the beauty of this is that again, we're not just having a generic like writing a proper description for this product. We're literally saying, hey, what's actually working on my store? Tell me why it's working, and let's use that same structure to then rewrite some of my maybe worst converting product descriptions.
+
+
+00:15:38
+All right. So let's see what we have here. Again this is for our store. So it does not take the clothing. But we can see some of the differences in here. So it looks like our Avatar clarity blueprint under 52 orders I'll come in. The title promise in 30 minutes removes friction. There's an emotional concept, not a product category struggling avatar.
+
+
+00:16:00
+It's a framework name that creates a density outcome. First bullets. Every bullet starts with an active verb. Wow. So yeah, it's able to again analyze all that. And it looks like our profit forecast calculator is under converting. This is just describing the products instead of the person using it. Every bullet is a feature Google sheet calculator.
+
+
+00:16:24
+So what six previous scenarios. Why do I care? Editorial yellow toes. Nobody buys Yelp okay, perfect. So let's rewrite that profit forecast calculator and the same structure as a blueprint. There it is well up to. I'll go ahead and push this live. And then we'll we'll actually  review with the team to make sure that this is all accurate and good.
+
+
+00:16:49
+Let's say push this live. All right. There you have it. So again this I think is the true power of of Claude when it comes to anything copy related on your website. Right. Like AI, it's not just writing copy. AI is doing the conversion rate optimization and the back end like doing the actual work. And the output is going to be a copy variant that you would actually want to like shipped.
+
+
+00:17:18
+Watch Australia want to make it live. And obviously this workflow can scale for a lot of different things. Like you can think about email subject lines, description, ad copy, FAQ, content,  hero sections, you know, maybe collection page descriptions. Like there's really the possibilities are endless when it comes to this kind of stuff and trying to model it after, like what's working in terms of sales in the back end of your store.
+
+
+00:17:47
+All this stuff used to require a copywriter, a Crow consultant, an agency. But like everything now with like one prompt and I think the right context and that's really the right word here is like, you really want to give it the right frame of reference, the right context in order to make better decisions and make updates on the back end.
+
+
+00:18:09
+Now we're talking a lot about Cloud and Shopify and these workflows, but if you still haven't checked out our video on how you can show up better on AI platforms like ChatGPT, like for Flexity Much Fun Copilot, then definitely go check out that video. And again, thank you for watching. Make sure that you subscribe to hit the like button.
+
+
+00:18:30
+That's the easiest, fastest freeway to support us. If you enjoyed this video, I'll see you in the next one.
+

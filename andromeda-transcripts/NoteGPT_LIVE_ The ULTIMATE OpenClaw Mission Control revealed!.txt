@@ -1,0 +1,1276 @@
+
+00:00:01
+Today is going to be incredible. I'm   going to take you through my entire open   claw mission control. This is my entire   set of custom tools. My open claw built   for myself. I'm going to walk through   how it all works, how you can build it   yourself, how you can improve your life   with it, all the amazing things going on   in it.
+
+
+00:00:20
+ If you're brand new to AI agents,   brand new to openclaw, or an openclaw   pro,   you're going to get something out of   this today. You're gonna learn a ton.   This is the Wednesday live stream. This   is going to be a marathon of me taking   you through value, chatting, talking in   the chat. Feel free to ask any questions   you want in the chat.
+
+
+00:00:42
+ Feel free to go   into the replies if you're watching the   replay of this and ask any questions you   got. I'll go back and answer them. Happy   Wednesday. We are halfway through the   week. We got a lot of other things going   on.   got a lot of other things going on we'll   talk about too. I'm testing Hermes   agent. Hermes Hermes agent.
+
+
+00:01:02
+ Uh we're   testing that out. We'll talk about that   for a little bit. I have a final   recommendation for Claude Code versus   Codeex. Final recommendation for Claude   Code versus Codeex.   That's coming up. That's coming up in a   second as well. We have a lot to talk.   Nemo claw.   Hell,   we'll even go through this.
+
+
+00:01:28
+ You guys   ready for this?   We'll even go through   the big news of the week. You ready for   the big news of the week? The big news   of the week, which was I went to Nvidia   and I met Peter Steinberger. I met Peter   Steinberger.   It happened.   It finally happened.   I met Peter Steinberger. It happened. He   played it cool. He played it cool.
+
+
+00:02:00
+ He He   acted like he had no idea who I was.   He acted like he had no idea who I was.   Even though he follows me on X and   interacts with my content. Um   I don't know. I guess like you just get   so popular and you know powerful and   create so much content that people are   just like oh   don't know who you are. It's fine.
+
+
+00:02:24
+ It's   fine. I don't have an ego about it. It's   fine. Just going to make me work harder.   It's fine. I don't have an ego about it.   I don't have an ego about the fact that   they didn't include my tweets in the   Nvidia montage. I don't have an ego   about the fact they've given every other   AI creator on planet Earth   a free DJX Spark except for me.
+
+
+00:02:43
+ I don't   have an ego about it. That's fine. It's   going to drive me harder. It's only   going to drive me harder. Leave a like   down below. Let's get more people into   the stream. Leave a like down below.   Let's get this party started. The more   people in the stream, the more fun we   have in the chat, the more fun we have   overall.
+
+
+00:03:00
+  Who's framemogging who? Peter frameed   the hell out of you, Bo? He frameed me.   Are you serious? I frame mogged him.   You think he frame mogged me?   I frame mogged him. You kidding me? He's   wearing lobster ears. Someone wearing   lobster ears doesn't do the frame   mogging. Are you kidding me? When need   when DJX station if I'm already reaching   out.
+
+
+00:03:26
+ Here's the thing with DGX station,   dude.   It's not in production yet. They're not   ready. They're not like they're not in   they're not ready. Listen, when they're   ready, I want one and I'm going to get   one. I'll spend $100,000 if I have to.   I'm going to do it.   I'll spend $100,000, but they're not   ready yet. I've already reached out to   all the companies.
+
+
+00:03:48
+ They're not ready   yet. Alex has the better lighting. Yeah,   I I I I mean, no offense to the guy who   created OpenCloud, but I think I look   better. Peter blocked me on X. I have no   idea why. Did you talk about crypto?   I mean, this live stream probably just   got shadowbanned right now for me saying   the word crypto in the first seven   minutes.
+
+
+00:04:07
+ Did you Is that He blocks   anyone who mentions it or has replies   that look like AI replies.   He absolutely jogged you, but we love   you either way. Lol. No, he didn't jog   me. I jogged him. Are you going to be   dropping a prompt for mission control?   Hell yeah. Hell yeah, I'll drop You want   me to drop a prompt?   Do you want me to drop a prompt? You're   too lazy to go into your open call and   say, "Hey, build me a mission control.
+
+
+00:04:33
+  So, you want me to drop a prompt for   you?" I'll do that. That's fine. That's   fine. I'll do that. Just notice the   Kanye reference in the tweet. You've   advanced.   I've been doing Kanye references in   everything I do for a long time. You   clearly don't know the Alex Finlure.   I mistakenly referred to my agent as   Henry and my wife said was like, "Who's   Henry?" I thought your sister's name was   Dennis.
+
+
+00:04:58
+  Henry's take just listen. Henry's taken   over. Let's just That's all I'll say is   Henry's taken over. I'll just say this.   In the next month or so, you might be   able to use Henry. Let's just say that   in the next month or so, you might be   able to use Henry. Will this be   recorded? This is a YouTube live stream.
+
+
+00:05:18
+  Of course, it will be. You can go back   and watch any of my other YouTube. Is   this your first live stream on YouTube?   Oh, I got to do the thing where I put   the chat on the screen. There you go.   Do we like medium font? I feel like I   like medium font. There you go.   $2 from Jay Gavin Ray.
+
+
+00:05:34
+ Cursor cloud for   the GB300 instead of DGX station. Cruo   cloud for the G. I don't want cloud. I   want to own it. I don't want cloud. How   the hell did Matt Burman get the 750   gigabyte RAM monster from Dell? When are   they dropping off years at? So, a couple   things there.   I'm not friends with a ton of creators,   uh, AI creators.
+
+
+00:05:56
+ Ray Fernando is   probably my closest friend in the space.   Matt Burman, I'd consider I don't know   if you consider me a friend. I consider   him a friend. Hung out with Matt Wolf at   the event. I I basically Matt Wolf, Matt   Burman,   and uh, Ray Fernando like the only guys   I hung out at Nvidia. I don't know.   There's a lot of weird stuff in the   content industry.
+
+
+00:06:18
+ There's a lot of weird   stuff. A lot of weird stuff. people   taking shots at you left and right. I   don't I just I do my thing. I try to   stay in my own lane. You know, it's best   if you're doing content, just stay in   your own lane. Don't worry about other   people. I'm not if you worried about   every other person who got a little bit   more attention, who got GB300, 750   gigabyte RAM monsters from Dell.
+
+
+00:06:38
+ It'd   just be too stressful of a situation.   So, uh I don't know. I I listen   I think I think when they come out, I'll   be able to test one. If not from Dell,   maybe Asus. There's like they're coming   from like 20 different companies. So,   we'll see what we'll see what happens.   Uh if not, I'll just buy one.
+
+
+00:06:59
+ I don't   care. Listen, if no company on planet   Earth ever supports me, I'm fine with   it. I'm doing my own thing. I don't need   these companies to send me free stuff.   Uh I got a Hermes in test. I don't know   what that means. I have no idea why my   mission control looks horrible when   using Opus 46.   So, let's talk.
+
+
+00:07:17
+ Should we talk about   what did me and Peter Steinberger talk   about? Uh,   so he's Peter Steinberger and maybe this   is why he may not like me. I don't know.   I'm a big like open source uh or open   models guy. Like I believe open models   are the future. I believe everyone's uh   open clause and agents will be run by   open models and local models in the   future.
+
+
+00:07:43
+ And he's tweeted like, "Oh,   that's a bad idea. They're not as   secure." blah blah blah. So I asked him   like, "Dude, the whole focus of   this like Nvidia event was Neotron 3 and   like running local models. Like that was   everything." Like Nvidia made this huge   pivot   to local models and they made their own.   It's like, you know, you've been on   records being anti that before.
+
+
+00:08:07
+ Like, so   what's the story? You pro it? Are you   anti it? Do you you support it being an   OpenClaw? And there was like an Nvidia   rep standing next to him like listening   to all the questions. Uh, and he's like,   "Oh, you know, I just think some of the   smaller models were not good and now I   think Neotron's good, so I'm fine with   it.
+
+
+00:08:26
+" I'm like, "All right, whatever you   say." And then, uh, I mean, obviously, I   think Peter Steinberger is the goat. He   created I told him this. I'm like, you   created a technology that helped that   I've absolutely fallen in love with and   as a byproduct of me falling in love   with it, all my content has blown up.   And he's like, "Okay, thanks.
+
+
+00:08:46
+" But he I   don't know. He just had no interest.   We talked for a little bit. It is what   it is. I mean, I'm sure he Whatever.   It is what it is. Uh Listen, we keep   going. How much do you charge for an   hour of consulting? $10 million.   I think there's uh if you go into the   Vibe Coding Academy link down below, I   think I have like a premium tier where   you can uh get an hour a month with me   if you want.
+
+
+00:09:13
+ There's a premium tier in   the vibe coding academy link down below.   Alex, you're killing it, man. I look   forward to learning with FinnFam,   whatever ranch. Good to have you here.   Good to have you here. All right.   Testing a Hermes agent on its own Mac   profile.   I just started testing Hermes agent this   morning.   Um,   that will   I'm gonna have more info on that soon.
+
+
+00:09:40
+  Are people interested in that? Do people   here have you heard of Hermes agent?   Hermes agent. Hermes agent. Have you   heard of it? Is there a thing people   have heard of?   I'm curious. I'll start creating content   on it if that's something people have   heard of. Best part about the   conference? I'm not a I'm going to be   honest. I'm not a conference guy.
+
+
+00:10:01
+  I'm not a conference guy and I strongly   believe networking is overrated. I'm   going to be honest with you. Uh I think   I think conferences and networking are   wildly overrated. I think that uh if you   just work very hard and build your   skills and try to create as much output   as you can, people will want to   naturally network with you.
+
+
+00:10:24
+ you won't   have to go to conferences to network   with other people. Like I believe if I   go to a conference for eight hours and   try to network with people, I believe me   working as hard and focused as I can for   eight hours uh will have better results,   will will lead to more success in the   future.   I'm like I I just think I think the best   networking strategy on planet Earth   is work as hard as humanly possible and   you'll naturally attract other people to   want to do things with you.
+
+
+00:10:57
+ I think   that's the best networking strategy in   the world. I think a bad networking   strategy is spending hours, days, weeks,   and years of your life going to   conferences uh trying to talk to as many   people as you can. I think that's a bad   networking strategy   that leads to an absolute tremendous   waste of time.
+
+
+00:11:21
+  I think I I can't think of one   conference that's worth going to. The   only conference I want to go to is E3   because I'm a big video game nerd and uh   but that's never happening again. My   entire time in elementary school, middle   school, I go, "Oh, I can't wait to be an   adult so I can afford to go to E3.
+
+
+00:11:36
+" And   then I become an adult and they cancel   E3. How could they do that? There's a   balance. No, I don't think there's a   balance.   The correct balance, Rometo 2030, is   just working as hard as you can.   The moment you start creating cool   things, everyone wants to associate with   you. That's the best networking.
+
+
+00:11:57
+ Are you   ever going to publish your mission   control? If yes, when? Yes, I will   publish it. I don't know when.   I don't know when. It is what it is. I   don't know when. when I feel like it's   in good shape. When I feel like it's in   good shape.   Like if you just work as hard as humanly   possible and build your skills as much   as you can and learn as much as you can,   good things will happen. That's it.
+
+
+00:12:24
+  That's all there is to it. That's all   there is to it. Just work as hard as you   can and good things will happen. You   don't need to go to networking events.   Networking events are largely a waste of   time.   Oh, you want to go through my mission   control? Nvidia owns OpenClaw   Enterprise. Set up my OpenClaw today.
+
+
+00:12:42
+  $20 minax plan to run my model. Figured   stuff out with your videos and clawed in   the browser. My brain feels good. Old   dogs can learn new [ __ ] Patrick, keep   it.   Patrick, keep it. That's what I'm   talking about. It feels good. It feels   good creating things. It feels good   creating things.
+
+
+00:12:56
+ It just feels good just   creating.   What do you think of international   models? How much are they better than   local models? Is that like a joke? Is   that like a Were you trying to make like   a humorous haha joke? Is studio the   pinnacle for Mac or what is it? Yeah, if   you want the best Apple device is the   Mac Studio.
+
+
+00:13:15
+ I'm honestly not too   shocked. I'm using GPT54 at the moment   and tried making a mission control but   it looks cheek. Okay, so let's cover   codeex versus uh   claude code real quick. Let's cover   codeex versus claude code.   Last month   I've been going hardcore to Codex. Last   month I've been going hardcore to   Codeex.   Finnf fan. Yeah. I mean we're the best.
+
+
+00:13:45
+  We're the best looking   crew on planet Earth. Is this the new   office? Yes, this is the new office. The   new studio. There is another apartment   on the other side of this wall. I have   no idea   how soundproof these walls are.   I have no idea. I don't know if they can   hear everything. My last apartment,   there was no one on the other side of   the wall.
+
+
+00:14:07
+ Uh, this apartment, there's   someone like directly on the other side   of the wall. I do not know how   soundproof this is. They are going to   hate me. They are going to hate me by   the end of this. If they can hear me,   they are going to hate me. Uh, nerds   have no social skills, bro. I don't   know. Anyway,   real quick before I go into mission   control, Codeex vers Claude Code.
+
+
+00:14:25
+ I went   hardcore. Oh, also side note before I go   into recommendations. One thing I got to   say,   I think I'm like officially like   I don't want to say it because it's such   a stupid thing to proclaim as a creator,   but like you're not going to see me do   sponsorships unless I'm using the   product. That's all I'm going to say.
+
+
+00:14:49
+  That's all I'm going to say. Every It   feels like every piece of content I'm   watching in AI right now is sponsored,   which is nothing wrong with   sponsorships. The issue is is there's so   many of these sponsorships I know for a   fact these people are not using the   product.   Like I know for a stone cold fact that   like a lot of these sponsorships the   person the creator doing the sponsorship   is not using the product and does not   believe in the product whatsoever.
+
+
+00:15:15
+ And I   think that's kind of [ __ ] up to be   honest with you. I think that's a [ __ ]   up thing to do to recommend something to   your audience when you're not even using   it and you don't believe in it yourself.   So I just want to say this.   I've done maybe two sponsorships in the   history of this channel.
+
+
+00:15:30
+ We got to 150K   subscribers,   like two sponsorships last year and that   was it. And I used both products.   You're not I I you're not going to see   me doing any sponsorships   with companies I'm not hardcore using.   And I'm trying to avoid all sponsorships   overall. I'm trying to avoid all   sponsorships overall.
+
+
+00:15:51
+ I will like if   Claude reach if Anthropic reaches out to   me right now is like, "Hey, Claude Good   wants to sponsor you." I like hell yeah   sponsor every single thing I do because   I love claw code right   but like these hosting jer ads man bro n   n n n n n n n n n n n n n n n n n n n n   n n n n n n n n n n n n n n n n n n none   of these creators are using hostinger.
+
+
+00:16:10
+  None of these creators are using   Hostinger to host their open claw. None   of them. I'll tell you this right now.   There is not a single creator on planet   earth who told you to use Hostinger who   is using Hostinger for their open claw.   Not a single one. Not a single one. And   this is not an attack on them.
+
+
+00:16:28
+ Do   whatever you want. Make get your bag.   Make your money.   I'll just say this. You'll never in a   million years see me shill hosting jerk.   Never in a million years.   I just think I don't want to preach. I   don't want to tell people what to do.   But   you can't attack other people and then   shill hosting your five minutes later.
+
+
+00:16:53
+  You can't. Okay. I know for a fact you   ain't using Hostinger. I know for a   fact.   I I I just feel like you degrade trust.   I just feel like you degrade trust when   I they offered me $30,000 to show   Hostinger and I turned it down. $30,000.   And there are bigger channels out there   so I'm sure they got more than $30,000.
+
+
+00:17:18
+  I mean, PewDiePie just did a freaking   host in your ad.   Like, what are we doing? Like, you're   going to take $30,000 and totally sell   out your image? This is the greatest ad   of all time. All right, then let me make   it very clear. Don't use Hostinger. Do   not use it. It's crap. It's crap. Is   that a There.
+
+
+00:17:37
+ Did I cancel out the ad?   You said hosting. You might as well be   sponsored. It's crap. It's awful. Don't   use it. There. Did I cancel out the   talking about it? Don't use it. It's   crap. capital potentially hack you   allegedly there.   I don't know if I basically what I'm   saying is this is basically what I'm   saying.
+
+
+00:17:58
+ Why is it crap? Just so people   don't believe I'm sponsored by it. Me   saying it's crap shows you that I'm not   sponsored by them. I I don't use it so I   don't know.   But I'm not going to recommend something   I don't use. What I'm saying is point   being is something I preach a lot in my   content on my channel is you should be   creating content.
+
+
+00:18:19
+ Distribution is the   moat of the future. When you can just   vibe code anything you want.   When you can just vibe code anything you   want. The only mode is distribution,   right? And so   you got to be creating content. And if   you create content, don't just sell out.   Don't just sell out and shill anyone who   gives a gives you a dollar.
+
+
+00:18:42
+ That's all   I'm going to say because you're going to   lose a lot of trust. I was watching   Ray's live stream when you met Peter.   Was funny when Peter scoffed that it   seems everyone else is making money off   OpenClaw but him. But you said OpenClaw   changed your business. I didn't that's   the only questionable thing Peter said   to me.
+
+
+00:18:59
+ That's the only thing I   questioned. I was like, "Huh?"   Where I was like, "Yeah, Open Claw's   exploded my business." And he said,   "Well, at least someone's making money   off OpenClaw." And it's like, bro,   didn't you just sell OpenCloud Open AI?   Didn't you just make like generational   wealth off of it?   Aren't you being invited for speaking   engagements every 5 seconds on every   event on planet Earth? Aren't you like   the number one rock star in like all   event? Like, what are you At least   someone's making money off OpenClaw,   bro? You've made more money off OpenClaw   than the rest of the world times 10.   What are you talking about? At least   someone's making money off OpenClaw.   As if   you didn't just sell your company for   potentially hundreds of millions of   dollars. What are you talking about? At   least someone's making money. It was   like a I don't know, maybe it was just   like a reflex that he had from before he   sold Open Claw. I was like, "Oh, at   least someone's making like it just came
+
+
+00:19:58
+  out. He didn't really think I don't   know. That was kind of funny."   Uh, mission control. Are you at all   disappointed by meeting Peter? No, it   was sick. I'm glad I met him. Oh, the o   the people who won the open AI uh pro   competition. Have some patience. I sent   it to them. They are uh fixing it.   They're they're going to get you the the   month the three months.
+
+
+00:20:19
+ Hermes Greek guy   with wing slippers. Sure. I heard of   them.   Alex help 101. Where do we find 101 open   claw to troubleshoot download? I put out   a video like literally yesterday. It's   blowing up. It's going viral yesterday.   Check it out.   TJ Cosgrove999.   Let's partner. I got industry funds and   major industry problems we can solve   together.
+
+
+00:20:45
+ Money money   money. Says TJ Cosgrove with the $9.99   donation. No thank you, but thanks for   the $10. I appreciate that, man. That   means a lot.   not looking to partner, but thank you. I   appreciate that. Very kind donation.   If you want to keep sending me money and   keep pitching me, that's totally fine,   too. But, uh, yeah, I just I don't know.
+
+
+00:21:10
+  I got industry funds. I got industry   funds, too.   Major industry problem we can solve   together. I don't know. Thank you,   though. I appreciate the 999. Means a   lot. Uh, you're a [ __ ] goat, Alex.   Thank you. Now, getting a Mac Studio M2   Ultra 128. That's a good computer.   That's a good computer.   That gives you total freedom to be   yourself. Yeah.
+
+
+00:21:32
+ If you start taking ads   left and right, you can't say what you   want. You can't [ __ ] on people that give   you free money like I just did. If I'm   taking ad like   I went to the Nvidia event. I went   straight up to the Nvidia guy and I'm   like, "Why aren't you partnering with   me?" Like, "Why are you partnering with   everyone else and giving everyone else   free DJX Sparks and why did I not get a   single DJX Spark?"   He's like, "I don't know.
+
+
+00:21:56
+ Let's just   talk soon. I'm like, all right.   Probably because I [ __ ] on people. Give   me free money in the live stream. I   don't know.   I I uh strongly prefer freedom over   being controlled by AI companies. So, it   is what it is. Wild. They offered you   $30,000. Yeah. $30,000 was a lot.   Basically a car.   Basically a car.
+
+
+00:22:22
+  What do you use for websites? Versel.   I use it for sale for pretty much all I   offer. It's a very good tool. Don't   deploy mission control. Keep it low   100%. I got conned into getting host   injured. Going to try it and get a   refund if possible. I mean, I'm not   saying it's a con or a scam.   Yeah, Peter is making a bag.
+
+
+00:22:41
+ Eight weeks   of work. At least made eight figures.   Man, what's he talking about? No, he's   the only one making it. No one else is   making money.   He didn't even do it for the money.   Already made a ton of money off his   first product and couldn't handle being   retired. I think he needs sleep. Lol.   He made a good product.
+
+
+00:22:59
+ He made a good   product. Alex, what did you think of the   machine that Matt Burman got from   Nvidia? Unbelievable. Yeah, it's   incredible. 750 gigabyte unified memory.   That's amazing. Really good. Really   happy for him. Incredible. Matt Burman's   a very, very, very nice guy and he's   working on some very cool things. He   showed me uh definitely I like him.
+
+
+00:23:24
+ I   recommend his channel. Hosting Jur is   fine. Don't use the one click seven.   Look up how to set up manually. No, just   host everything locally. What are we   talking about?   What are we talking about? What are we   talking about? Tesla Robbo taxi. Love   your content. Thank you, Tesla Robbo   Taxi. I have two Teslas.
+
+
+00:23:45
+ Well, I have   one Tesla.   My girlfriend has a Tesla as well.   Uh, I got a Cybert truck. I love the   Cybert truck. Teslas are amazing. I'm a   big Tesla fan. I'm a shareholder as   well. Uh, by the way, my new Mac Studio   arrives tomorrow. LFG. Let's go, Mr.   ENF.   Let's go, man. Good purchase. Good   purchase.
+
+
+00:24:06
+ Uh, you know what else arrives   tomorrow, Mr. ENF?   Crimson Desert. I'm taking I'm t I I   took a break from gaming. I'm going to   take a break from my break and play   Crimson Desert tomorrow. I'm taking a   break from my break and playing Crimson   Desert tomorrow. It is what it is. I   have one Cyber Beast, one Model 3, and   nine Model Y.
+
+
+00:24:26
+ As in you have nine Model   Y's? As in like   As in like you have 11 cars? Is that   what you're saying?   What are you What are you saying? Are   you telling me you have you own 11 cars?   Is that what you're saying? Did I read   the message correct? Correct.   I have a fleet.   What? What the hell are you doing with   11 cars? Why do you need 11 cars? Are   you just like investing for the future   of like waiting for robo taxi?   Like, do we even So, you just bought 11   cars with the assumption that   you're just going to be able to put them   all in the robo taxi fleet. I love it,   man. Shout out to you. That's some   That's some deep faith. Listen, I have   faith in Elon Musk, but 11 cars faith. I   don't know. I got 11 cars faith. I mean,   I bought a freaking Cybert truck, so I   do have a good amount of faith. I did   buy a Cyber Truck with 11 cars, man.   Good on you. Me and my Tesla shares.
+
+
+00:25:26
+  Thank you. Uh, yeah, I used to work for   Tesla. All right, that's great, man.   What'd you do? I kind of know the plan.   Oh, he's got the insider information.   I love it. Well, I got the shares. I'm   I'm holding the shares, baby. I got   faith, too. I got the Cyber Truck. The   girlfriend's got the new Model Y.
+
+
+00:25:41
+ We   love it. Everything about it is amazing.   A full self-driving is the craziest   technology of all time other than   openclaw maintenance tech and awesome.   That's sick.   Love the content. Alex would love to see   a guide on how to set up mission control   like yours. All right. Should we do it?   Hold the shares. I have,200, bro.
+
+
+00:25:58
+ I'm   holding. I haven't sold a single share.   I bought several years ago. Haven't sold   a single one.   Did you see Claude's giving people   double usage during off- peak hours? I   did see that. I did see that. Although   then I saw another tweet from a guy   that's like, "This is classic uh   strategy for lowering limits.
+
+
+00:26:18
+" Like they   double the limits and then once the   double limits are over, the new limits   are actually lower than they were   before. So, and you don't really notice   it because the limits were doubled. I   hope that's not what they're doing, but   that might be what they're doing.   They're never going to sponsor me after   I just said that, but whatever.
+
+
+00:26:34
+ I guess   I gave up on sponsorship, so it is what   it is.   Uh, what do you think about using Gemini   for the brain verse claude? Says Kuman   ingot some. I'm just going to be honest.   Shout out Google. Love Google. I'm   another Google shareholder, but I've   heard nothing but negative reviews about   Gemini as the brain for Open Claw.
+
+
+00:26:56
+  Nothing but negative reviews. Claude's   the king. Claude's a goat.   You should we go into uh let's go into   mission control. It's what I promised in   the title. We should probably do it.   heard something about OpenAI   reconsidering their pro plan as well. I   don't think they're going to reconsider   it. I mean, listen, I'll say this.
+
+
+00:27:15
+  I don't think the cost of tokens are   going to go down. I think the cost of   tokens are only going up. I think   they're only going up. I do not think   they'll be going down anytime soon. I   think we'll probably have thousand   plans, pro plans in the near future for   every one of the companies. I think   limits will continue to slowly creep   down.
+
+
+00:27:31
+ I don't think the the cost of   tokens are trending towards zero. I   don't think so. I think we're a very   long way from there. That's why I   strongly believe in local models. That's   why I strongly believe in buying your   own hardware. That's why I'm probably   going to buy the $100,000 DJX uh station   when that comes out in the next couple   months.
+
+
+00:27:49
+ Uh I do not believe in uh the   cost of tokens going down anytime soon.   Maybe like 30 years in the future, but   not anytime soon. Not anytime soon. I'm   going to subscribe to your class 2 next   month. I'm super excited. I'm subscribe   paying the high month. Let's go.   Tesla Rob, listen, man. With your 1,200   shares of uh You're spot-on, chicken   man.
+
+
+00:28:14
+ Why'd you call me chicken man? Uh   with your,200 shares. Listen, I'm going   to stay subscribed to full self-driving.   I'm going to buy more Teslas. I'm going   to do whatever I can to pump up your   stock. You join my class, I pump up your   stock, baby. Let's go.   Codeex versus Claude Code. I used Codeex   very hardcore the last couple months.
+
+
+00:28:33
+ I   absolutely loved it. I've been using   Codeex hardcore the last few months. I   absolutely loved it. Last night I was   like, "Hey, let's see what's new with   Claude Code." I went back to Claude   Code. Had it build out what I was   building in Codeex.   It built it significantly better.   I'm sorry.
+
+
+00:28:54
+ It did build It looked way   better. I'd show you what it built, but   like it's kind of top secret,   but it it looked significantly better.   I'm back on Claude Code. Um I know   OpenAI just reached out to me last week   and   gave me a whole bunch of free stuff. Uh   yeah, but I got to be honest, I'm not   I'm not going to allow partnerships to   um   change my opinions on things.
+
+
+00:29:23
+ I used   Cloud Code last night for the first time   in like a month and I uh I really I   really liked I really liked the output.   I'm just going to leave it at that. So,   it is what it is. I'm back on Claude   Code. It is what it is. For me   personally, Gemini is the most   successful for me as the brain.   Everything else I ask it does first try.
+
+
+00:29:45
+  Oh, nice. I haven't tried it because I I   just anything powered by Gemini for me   just hasn't lived up to it.   and Claude has just been the best for   me.   It just is. Even though Anthropic's   banning people left and right and I   don't like that at all. I think that's a   bad idea. I just have to be honest.   Claude's been the best for Open Claw and   now it's been the best for coding for   me.
+
+
+00:30:09
+ Where's Patrick when you need him?   Patrick's the man. Gave away like what a   200 subscriptions last one.   Michael Lovedorf 3196 with a 999.   Hardcore Finnf fan member Michael   Lovedorf, what do you think Nvidia's   answer is going to be for end users?   Their talks center around open source   models and personal agents, but hardware   is becoming so expensive the enduser   can't capitalize.
+
+
+00:30:37
+  Well, a few things, Michael. Uh, I think   Nvidia going all in on   open models is the best news of the last   several years. I think Nvidia going all   in on open models is the best news of   the last several years. We needed   American company to do it. We needed an   American company to enter the   open-source race. Nvidia has done it.
+
+
+00:31:05
+  Now, you take a step back and you think   about it.   What's stopping Nvidia from winning the   AI war?   Bro, someone time that dude out. Is   someone spamming? Yeah, someone's   spamming.   Someone's spamming. We'll put him in   timeout. At least he's not being toxic.   But if you spam, you're getting banned.   Um, someone answer his question said,   "No, don't negotiate with terrorists.
+
+
+00:31:29
+ If   someone's spamming, don't answer them.   Don't answer. If someone spams and you   answer, it shows that their strategy of   spamming worked. Do not answer the   spammer.   Let's do a quick thought exercise.   Nvidia decides they want to enter the   model race, which it appears they did,   right? They released Nemoron 3, which is   a very strong model.
+
+
+00:31:55
+  What's it's a legit I don't care if it's   a legit question. If you spam, don't   negotiate with terrorists. If you spam,   don't answer the question.   What's stopping them? Nvidia,   how much Aderall do you consume daily?   First of all, my name is not Alec, it's   Alex.   And I don't take Adderall. I don't take   anything. I live life raw dog.
+
+
+00:32:15
+ I raw dog   life. I'm not on anything. I'm on fiber.   I take fiber every morning so I can poop   better than that. No pills, no meds,   nothing. I raw dog life. I don't drink.   I don't smoke. I'm just I'm living life   in like assembly. I'm living life in   like assembly code. It's the closest to   the metal as you possibly can.
+
+
+00:32:39
+ If you're   taking Aderall and this and that and   meds and anti-depressants,   you're like abstracting life to like the   10th level. You're like you're like   DLSS5,   like just abstracting it to the highest   level possible.   I go right. I'm in the assembly code of   life.   I'm in like the binary of life. I'm in   like the zeros and ones of life.
+
+
+00:33:04
+ No   meds, no aderall, not I wake up and I   just I'm just like in the I'm in like   the GPU. I'm like the I'm in like the   GPU of life.   I'm like directly   in the source. I'm in the source code of   life. If you're if you're like waking up   and taking Adderder and all these other   things, you're like   in like Chad GB, you're abstracted to   like Chad GBT levels.
+
+
+00:33:35
+ You're like   prompting life. Your experience of life   is like just prompting. I'm in like the   machine learning algorithm like doing   like the multi matrix multiplication   and you're sitting there.   You're vibe coding life. You're vibe   coding life. I wake up, I take fiber, I   have a nice smooth poop, and I just   enjoy my I just drifting.
+
+
+00:33:57
+ Don't tell I   don't tell me if I'm drifting. Original   question. Um, I think Nvidia, I think   the price of hardware comes down in the   next few years and they have really good   local models and everyone has super   intelligence locally and life's amazing.   What about caffeine? I do drink coffee.   I do drink coffee.
+
+
+00:34:15
+ Is that hypocritical   that I just said all that that I also   drink coffee? I take fiber in coffee. I   drink coffee and I take fi most I like   the taste of coffee. I'm going to be   honest. It's mostly about the taste. I   like the taste of coffee. I think coffee   is like the best tasting thing other   than chocolate.   You're good for not being bought and   being true, says kosher kid.
+
+
+00:34:37
+  That's what I'm talking about. Kosher   kid. I had a little matzah this morning.   You mix a little matzah with the eggs.   Little kosher matzah. What about Nemo   claw? How's it work? Uh,   it's just open claw but with more   security.   It's just open glow. More security.   Lemon is great for you and helps poop,   too. I have a good amount of lemon.
+
+
+00:34:58
+  Lemon water. I don't do lemon water, but   I put lemon in everything I do. Um, I   like the long grass. What does that   mean?   Why do you think Why do people think   being enthusiastic equals your I feel   sorry for people can't It's crazy.   Not that there's anything wrong with   taking Adderall, but it's crazy the   amount of people and I'll go into   mission control in a second.
+
+
+00:35:20
+ I know   we're like 40 minutes in. I haven't   talked about mission control. We're   going to go into mission control in a   second. We're going to go into mission   control in a second.   But one thing I'll say is the people who   like get angry and upset at you   for getting excited about things are   like the worst people on planet Earth.
+
+
+00:35:42
+  Like I love Open Claw. I'm legitimately   very excited about it.   I love it. It it gives me   it gives me energy. It gives me life. It   gives me life power.   And then   I put out a video of me being very   excited about it and like the first   comment is like, "Dude, you're hyping it   too much. You're hyping it too much.
+
+
+00:36:06
+"   And it's like, "Is your objection that   I'm too excited about it or is your   objection that I'm lying?" Which one is   it? If you think I'm lying, tell me what   I'm lying about. If you're just angry   that I'm excited about it, well then go   [ __ ] yourself.   Like, oh, you're too excited. Stop being   so happy.
+
+
+00:36:28
+ Stop being so happy about   things. Stop loving something too much.   Like, that's your object. Every time I   do anything on X, 100 replies. Oh,   you're hyping it too much. You're a hype   boy. What does that mean? Do you think   I'm lying or do you think I'm just too   excited? If you think I'm lying, then   just tell me what you think I'm lying   about. I'm happy to debate you.
+
+
+00:36:46
+ Tell me   what you think I lied about. I'm happy   to debate you. But if you're just angry   that I'm like really excited,   go [ __ ] yourself.   You're just You're angry that I'm   excited. You're angry that I'm happy.   That makes you angry that I'm happy   that I wake up and I think, "Oh, tech is   amazing. AI is amazing.
+
+
+00:37:07
+ Open Claw's   amazing." That pisses you off. Go [ __ ]   yourself. I'll be happy about whatever I   want. If you if you think I'm lying,   that's another thing.   But damn straight I'm a hype boy. Damn   straight I'm a hype boy. Damn straight   I'm a openclaw hype boy. Damn straight   I'm an AI hype boy. Damn straight.   I don't want to do anything in life   unless I'm a hype boy.
+
+
+00:37:30
+ I don't do things   unless I'm a hype boy about it. If I'm   not a hype boy about it, why would I do   it? I want to be hype. What is hype?   Being excited.   Don't do anything in hype. Don't do   anything in life unless you're a hype   boy about it. That's my tip. That's my   advice. Don't do us. If you wake up and   you're not a hype boy, go back to sleep   and never wake up again until you find   something to be hype boy about.
+
+
+00:37:57
+  Oh, you're just a open claw hype boy.   Yeah, damn straight. [ __ ] you.   Damn straight. I'm a hype boy. Go [ __ ]   yourself.   You're amazing. I love vibe. Don't ever   change. Thank you for the 199 and pretty   unknown 401. I appreciate it. Thank you.   That's very kind to you. Uh I hope   you're a hype girl. Pretty unknown 401.
+
+
+00:38:21
+  Uh no, coffee is healthy. Coffee is   healthy. Coffee is healthy.   Yes, coffee is a drug. You're on drugs.   All right, whatever. Shut up, narc.   All right. Oh, let's do it. Mission   control.   Took me 40 minutes to get to it. first   20 comments on this replay after this   live stream was done is like, "Whoa, you   didn't even talk about the thing you put   in the title.
+
+
+00:38:44
+ People on YouTube don't   understand like what a live stream is.   It's crazy."   Mission control first screen task. And   yes, I am using Chad GBT Atlas as my   browser. It's my daily driver. Suck it.   I don't care.   Wait till you try my new vibe coated   fiber coffee.   The only issue with the fiber, man, is   if I don't take the fiber,   my poop is like 10 times worse the next   few days.
+
+
+00:39:16
+ And it makes you think, damn,   am I like dependent on the fiber to poop   now?   Alex Finn, look up drinking lemon water   first thing in the morning. Arguably   better than fiber. So, what do you want   me to do? Buy a bunch of lemons and   squeeze it into water? Is that is that   the recommendation?   Because I because you don't want me   using like the fake lemon water, right?   Like with in the bottle.
+
+
+00:39:42
+ You want me   actually squeezing lemons, right? Is   that what you want me to do?   It gives you a tech boner, bro. Just   say, "Yeah, it gives me a tech boner.   What's wrong with that? You're allowed   to have a tech boner.   You're Listen, is any AI company on   planet Earth going to ever sponsor me?"   No, they're not.
+
+
+00:40:00
+ Is there re is this the   reason why Nvidia hasn't sent me a free   DGX Spark and I had to buy it myself   while every other AI creator on planet   Earth got a free DGX Spark? Yes, this is   the reason because I read these comments   because I read the comments that talk   about tech boners and I read the   comments that say gothropic. Yes.
+
+
+00:40:24
+  No, no. [ __ ] it. Whatever. It's more   fun. It's more fun saying tech boner on   stream. [ __ ] it. Who cares?   So what? No. So what? Cursor is not   going to sponsor me. Cursor is not going   to sponsor me because I said tech boner   on stream. Whatever. Who gives a [ __ ]   It's more fun this way.
+
+
+00:40:41
+ We're allowed to   have a little bit more fun. If someone   hasn't installed OpenClaw yet, should   they go with Nemo Claw instead? No. Just   install OpenClaw. Just install OpenClaw.   It's so easy. The people who   And you've lost your Christian fans.   Why? Because I said [ __ ] it. and boner.   I know plenty of Christians and none of   them hate me because I said boner or   [ __ ] it.
+
+
+00:41:06
+ What are you talking about?   Uh, installing open clause one line.   Why? Why do people think it's difficult?   Just install it.   Also, no one is mentioning how   cluttered, how much trash builds up in   the background, how much babysitting it   takes to get a base install openclaw to   actually do something useful. I will say   this.
+
+
+00:41:28
+ If I was to have uh   one criticism of OpenClaw, keep saying   [ __ ] [ __ ] is the best word of all time.   Yeah, I'll say [ __ ] If you don't like   [ __ ] [ __ ] [ __ ] you. Um   it it does slow down over time and I'm   trying to figure out systems to speed it   back up because it is slow for me. It is   slow for me.
+
+
+00:41:49
+ Uh want me to build a quick   chat? Yes, please build a chat UI so I   can test it on stream.   I have my Henry I have Henry building   stuff out that we're going to   demonstrate on stream in a second. Um,   at least bros not on Coke. I like   Coca-Cola. Coca-Cola tastes good. Cherry   Coke. I had cherry coke at In-N-Out. I   didn't drink Coca-Cola for like 15 years   and then like a couple weeks ago in   Japan I was like screw it.
+
+
+00:42:20
+ I'm going to   drink Coca-Cola. And I started drinking   Coca-Cola. Then I had cherry coke a few   days ago at In-N-Out. I'm all the way   back in on Coca-Cola.   People are absurdly dull and boring and   unenthusiastic these days. Alex stands   out for being Yeah. Like we live in a   world where being happy and excited is   looked down upon. It's crazy.
+
+
+00:42:40
+ What a   crazy world we live in.   Alex, how do you get your agents to run   continuously? Heartbeat every minute.   Uh, it's not heartbeat every minute.   It's heartbeat like every five minutes.   I took creat Henry should take creatine.   I tried creatine. Everyone on X I think   creatine is a big scop. Everyone in X   all of a sudden out of nowhere kept   telling you to take creatine.
+
+
+00:43:06
+  I took creatine for like a month. My   sleep was like 50 times worse on   creatine. My sleep was way worse on   creatine. I did not sleep well a single   night on creatine. I stop creatine. I   immediately start sleeping significantly   better   immediately.   I'm a creatine truther. I think big   creatine's paying like Twitter people to   uh to like shill creatine.
+
+
+00:43:31
+ I don't get   it. Everyone's shilling creatine out of   nowhere. Five years ago, no one was   shilling creatine.   Now everyone's shilling it. I take it   for one month. I didn't sleep well one   night. The entire month. Not one night.   You have to take it early in the   morning. I took it early in the morning.   What do you think, Alex? How much fiber   do you recommend daily? I don't know.
+
+
+00:43:54
+  Two teaspoons of Metamucil. That's what   I do.   Took about a week for the poops to start   coming out pretty nice. What model for   brain from Nvidia is the go-to. Well, if   you want the local Nvidia,   Neotron is it. Although, I think Miniax   47 just came out today.   I'm hearing good things.   I'm hearing I got to test out the new   Minia Max. Say, I'm hearing good things.
+
+
+00:44:24
+  I signed my kid up for basketball myself   up as the coach. That's how you do it.   That's what I'm thinking of doing when I   have a kid one day is just being the   coach, even though I know absolutely   nothing about the fundamentals of   sports. Just being the coach anyway.   Thoughts on nerd maxing hun? Oh, [ __ ]   maxing. Uh, damn it.
+
+
+00:44:37
+ I'm trying to avoid   saying that word. I feel like that I   feel like it feels good to say it, but   maybe I shouldn't say it on live stream.   Um I don't know, man.   I don't believe in like frameworks. Just   go out, have fun, be get excited.   I I try not to think think in frameworks   like that.   Any intro for a firsttime audience?   Yeah, I like tech and AI.
+
+
+00:45:01
+ I try to make   tech and AI fun. There you go. There's   your intro. Uh   B. What the f is the deal? The price   jump on the DGX Spark also is heavily   marketed before the price jump. I wish I   bought it before. Everyone keeps saying   there was a price jump. I bought it like   two weeks ago and there was no price   jump.   What are we talking about? I don't think   there was a price jump. DJX Spark.
+
+
+00:45:34
+  Nvidia DJX Spark.   Oh my god, there was a price jump.   Wow.   I bought this two weeks ago for 4,000   bucks.   I bought this two weeks ago for $4,000.   It's now $4,700.   And they have over 25 in stock and they   raised the price. That's incredible.   Wow. All right.   I don't know, man. Um, I like it. Is it   worth 4,700 if you plan on like   tinkering a ton?   Do you recommend installing OpenClaw on   a personal computer as a total newbie to   this stuff or a burner? Just install it   on a personal computer.
+
+
+00:46:22
+ Who cares?   >> Just do it.   >> I have it on my personal computer. Who   cares? Just do it.   Just do it.   All right, let's go into mission   control.   First screen. Mission control tasks.   Cananband board. Cananband board.   I can assign task to any agent from   here. I want an agent to do something. I   do new task. I assign it here.
+
+
+00:46:52
+ Every   five minutes there's a heartbeat. The   agent goes checks the board, sees what   it needs to do, sees what's assigned to   it, and does the task. Canban board.   Simple stuff. Easy. Easy. Gives you a   live activity feed. Have it build you a   live activity feed. Say, "Hey, I want a   live activity feed that shows me every   single task all my agents are doing.
+
+
+00:47:12
+"   Easy.   I'm Christian. Jesus loves people who   say, "Fing boner."   [ __ ] boner.   Jesus loves me. There we go.   You try Nemo Claw yet? No. I have no I   have no need to I mean it's just um I   mean it's just open claw but with more   security. I don't care.   I don't care. I mean I'm trying Hermes   agent because it's structured in a   different way.
+
+
+00:47:48
+  You should take estrogen blockers. What?   Alex, you took too much creatine. I took   the standard five grams, dude. The   standard one scoop. There's people on X   saying you should take 20 grams.   There's people on X saying you should   take 20 grams of creatine.   I just took five. I just took the one   scoop. I couldn't sleep well.
+
+
+00:48:08
+ I woke up   like every hour.   Only one hour. Yeah. I was like waking   up nonstop. I I felt like I just wasn't   getting any deep sleep at all.   Miniax my ass. Okay.   Miniax 2.7 supposed to be compared to   OP. Yeah, I'm reading that. I gotta test   it out after this. I'm going to try to   download it locally.
+
+
+00:48:32
+ Um, your chat's   live. Copy to clipboard. Let's see this.   We might I might have something cool to   demonstrate here.   All right.   Here we go.   You ready for this?   I might have something cool to   demonstrate real quick in the middle of   this mission control. For the people   going, "Oh, just show the mission   control. Show the mission control.
+
+
+00:48:59
+" Shut   up.   I trained a model on my DJX Spark. Why   haven't you updated your clawed models   to 46? What are you talking about? It is   46. The thing is just messed up. It is   46. Uh, here we go.   It's crazy. The air conditioner in this   apartment is like the weirdest sounding   air conditioner ever. It literally   sounds like people are walking around   the It's like It makes this sound of   like footsteps the air conditioner   throughout the entire apartment.
+
+
+00:49:32
+ So,   every 10 seconds, my heart jumps because   I feel like someone's walking around the   apartment.   It's like it's the worst sounding air   conditioner on planet Earth. It It's It   just sounds like footsteps all over the   apartment. It's driving me nuts. I I   every file Oh, someone in the apartment.   I trained a model my DJX Spark.
+
+
+00:49:51
+ It's uh   trained on   all my YouTube transcripts and a bunch   of my other content. You're tweaking   from the fiber dog. Did I overdose on   fiber?   Did I overdose on fiber? New sponsors.   Are you free to chat for 15 to minutes   tomorrow about new sponsors? No.   block. If you cold email, the the the   worst thing on planet earth you can do   is cold email someone and then follow up   after and say, "Hey, did you get this?"   If I don't respond to your cold email, I   have zero interest. Block report spam.
+
+
+00:50:33
+  All right, here we go. Uh, what should I   even test? Write me a video script about   Neotron.   Let's see how this goes. I'm testing   this model for the first time. This is   Alex Finn. I learned so much from you.   The reverse prompt helped me so much.   That's what I'm talking about, Miss   Happy.   That's what I'm talking about.
+
+
+00:50:58
+ Let's   see. This is my first time testing it. I   fine-tuned a model on all my content on   my DJX Spark. Let's see if this sounds   like me.   Alex, please share your agents working   in parallel fix. So many chats not busy   or stuck in loop. I'm going to go back   to my mission control in a second. I   just want to test this model out.
+
+
+00:51:19
+ It   just finished while we were talking. So   I just want to test it out. Bro, Neotron   is sick. Awesome. What are you doing   with Neotron? What's been your use case?   Should I make a video on Neotron?   Should I make a video on Neotron? Are   people talking about Ne are people   searching for Neotron on YouTube?   Are people like Neotron? Are people   searching for Neotron on YouTube? No,   there's no one searching for Neotron on   YouTube.
+
+
+00:51:46
+  There's zero searches for Neotron on   YouTube. If I made a Nemoron video to   get 10 views right now. Um,   still thinking here.   Still thinking here. Uh, Neotron is not   made in China. It's made in America.   It's made in America. Uh, my heartbeats   every five minutes. Heartbeat turns into   explosion.
+
+
+00:52:07
+ Isn't Neimoclon a plugin? No,   it's a rapper for OpenClaw. I have a   question. If your account got banned   clawed, would you need to restart all   this or this backup somewhere? No, you   wouldn't need to reset this. Open claw   is just a bunch of markdown files on   your computer. You would just plug in a   different model and have all the same   memories and everything.
+
+
+00:52:21
+ Everyone leave   a like down below. Likes down below.   Likes down below. Why should you leave a   like down below? I don't know. So I get   more views. I'm just going to be honest.   I want you to leave a like so I get more   views. That's all. There's there's   nothing else to it. The only reason I   want you to leave a like down below so I   get more views so that when I check my   dashboard, the views go up and I get a   bigger dopamine hit.
+
+
+00:52:42
+ I just I'm gonna be   honest with you about it. I want bigger   dopamine hits. So, leave likes down   below for more dopamine hits. Um,   there you go. Makes your biceps look   bigger if you click the like button.   Yes, that too. Also makes your biceps   look bigger. It's insane. It's insane.   It will tell you when OpenClaw stops   working.
+
+
+00:53:00
+ All right, we'll come back to   this   second screen. agent screen. This one's   not as useful. I was just experiment I   was experimenting. God damn it.   Content. This is my content pipeline.   Some of these screens I use more than   others.   This is my content pipeline.   When OpenClaw writes me a script or a   tweet,   it goes in the pipeline and then I can   go in   And I can say, "Henry, write me a   script.
+
+
+00:53:37
+" I can have it generate me a   thumbnail. It's basically my content   pipeline where I can put in ideas and   the AI moves it along, writes the   script, writes the thumbnail, things   like that. Pretty cool. I'm still   working on it. It's a work in progress.   How warm is Mountain View today,   brother? It's super warm. It was 90   degrees yesterday.
+
+
+00:53:55
+  90 degrees yesterday.   I think it's going to be up there today.   Today it's going to be 89 and sunny. 89   and sunny. Tomorrow it's going to be 88   and sunny. Friday it's going to be 89   and sunny.   Move to California. You're going to pay   like 99% taxes, but move to California.   It's worth it for the warmth.
+
+
+00:54:15
+ Assembly   code takes creatine. So that's the   content. Let's go to approvals.   Uh this is a work in progress. Council.   So this is something I'm working on. on   the council. I think you've seen this   before.   You put in a prompt and all the   different models respond and talk to   each other about it. I don't use this   too much.
+
+
+00:54:39
+ I think this is better of a uh   demo thing. I think this is better   clickbait on social media than actual   usefulness. Putting in a prompt and   having 10 models   react. Yikes. Speech time. No. Instead,   I'm inside on a freaking live stream   talking to my computer.   Not as helpful. But here is one that is   helpful. The calendar.
+
+
+00:54:59
+ This one is   helpful.   This one is helpful. It is all your cron   jobs. So you can see like all the   scheduled crom jobs you have.   One of the big complaints I see is your   mission control right inside the open   claw dashboard. No, this is a completely   separate app hosted locally. One of the   biggest complaints I get is people say,   "Oh, I told my open claw to do something   and then it didn't do it.
+
+
+00:55:23
+" Well, this is   your solution. This allows you to see   what your open claw actually scheduled.   And if it doesn't show up on there, you   can say, "Hey, schedule it. I don't see   it on the calendar." And then it can   look at the calendar and see what it has   scheduled. So, everyone should have a   calendar in their mission control.
+
+
+00:55:38
+ Do   you run backups on your Spark? Backups   or what?   Do I run backups or what? Let's skip   that one. Um,   let's go to this one.   Two screens here, docs and memory.   Memory is going to be check out Open   Squirrel. 100% Rust based. I'm not using   an Open Squirrel. Sorry, I'm just not   using a program called Open Squirrel.
+
+
+00:56:09
+  Get out of here with that.   I got breaking news. I don't know who uh   Elliot Alidge is. It's no offense to   this guy. Um, Open Squirrel is not going   to be successful. It's just not going to   be. I don't know what it is, how it   works, or what it does. I just don't see   a planet where a billion people are   using Open Squirrel.
+
+
+00:56:28
+ And maybe this is   going to get clipped   and in a year from now, this is going to   be the coldest take of all time. You   have to take 40 grams of creatine to   sleep well.   Yeah. Okay, bro. It's like they you have   to take 25 grams of creatine for you to   start feeling the effects on your brain.   Shut up.   Do you feel dirty using the Chad GBT   browser as opposed to what? Using the   Google browser.
+
+
+00:56:59
+  It's like what are we talking about   here?   Please tell me what browser is like the   cool like the clean way to be browsing.   There's nothing special about this,   Alec. Okay, cool. Well, you're banned.   I bet it's granthropic. Damn it.   Alex, thanks for showing your progress   and good tips. Uh, Docs and Memories.
+
+
+00:57:27
+  Docs and Memories. Internet Explorer.   Okay.   Agent Zero, that's the crypto platform.   It like puts like crypto on your   computer if you use that. I wouldn't use   that. It's going to like turn your   computer like mines crypto or something.   I thought I read I thought I read it   like mines crypto in the background.
+
+
+00:57:43
+ Uh,   mission control.   docs. This is where it puts all your   docs. This is where anytime it creates   an artifact for you, say, "Hey, plan   this. Do this." It creates a doc for it.   And you can go to your docs and see like   usually you say, "Hey, build me a PRD   for this app I'm building."   Well, Alex, don't do Elliot like that.
+
+
+00:58:08
+  He's the CUDA master. Oh, sorry, Elliot.   I'm sorry. Open Squirrel, though. That's   the name. Open Squirrel. Sorry, Elliot.   Didn't mean to insult the CUDA master.   Uh, now anytime your Open Claw makes a   dock, an artifact of some sort, instead   of you having to scroll up in the chat a   thousand scrolls to see it, you now have   the doc section in your mission control.
+
+
+00:58:34
+  How's this different from me clicking   the workspace and opening the MD file   myself in two seconds? I What does that   mean? Clicking the workspace? What   workspace? What are you talking? I don't   know what that means. What's the   difference in you clicking the   workspace?   You just say random words into the chat.
+
+
+00:58:50
+  How come you use chat GBT browser? Did   you lose a bet?   I think chat GBT browser is sick.   You're on something. You can just ask   Chad GBT. You click the Ask Chad GBT   button. Like when I write my   newsletters, I'll click Ask Chad GBT in   the top right here and it pops open and   has the newsletter that I'm writing   already in context.
+
+
+00:59:12
+ I can just say,   "Hey, proofread this." That's sick.   Got my Even Reality's G2 Discord   integration working today with SDT   running on my RTX 3090 over tail scale.   That's sick. I don't know where my Oh   [ __ ]   they're going to send it to my old   address. I got to I got to like email   them and have them change the address.
+
+
+00:59:41
+  Email   even   realities   address change.   Got to get the address change in there.   Got to get the address change in there.   Got to get the address changing. Neotron   is the new Walmart.   What does that mean? You're better off   making DSL What are these people hating   on DSSL 5?   Like, are you like, what are these   people who see see DSSL 5 and be like,   that's bad.
+
+
+01:00:18
+  What is that about? It's objectively   better.   What are people What are these people   hating on DSSL 5? It's objectively   better.   I didn't get that at all. I see the DSSL   5 video, I go, "Holy [ __ ] that's   incredible. That's amazing." And then I   go on X and everyone hates it. Like, are   my eyes deceiving me or are people on X   trying to convince me my eyes are not   seeing what I'm seeing?   What's that about?   Is this just anti- AI stuff? Like I it's   objectively better.
+
+
+01:00:52
+ DSSL5 is objectively   a massive jump. So   the new 3.1 session spawn and yield   stuff is fire. You should upgrade for   that alone.   Like I I it's like you're holding up a   piece of red paper and you go, "This is   blue." And I'm like, "No, that's red."   And they're like, "No, this is blue."   And I go, "No, that's clearly red."   They're like, "No, trust me, it's blue.
+
+
+01:01:16
+"   And I'm like, "No, that's like literally   a red piece of paper." Like I don't I I   literally don't get it. Alex Finn is Sam   Alman pre-DsSSL5 filter applied. You   think Sam Alman's post DSSL5 filter? Me?   I'm the post DDSSL5 filter. What are you   talking about?   Finnfam, I'm late. Good to have you   here, my man. Welcome in. Buckle in.
+
+
+01:01:39
+  Take a seat. Falling for rage bait.   People not liking as rage bait. You just   described how I feel about and then it   disappeared. I couldn't see what Neotron   is Costco. What does that mean?   What does that mean? What does that   mean? All right, let's see what we got   next.   Let me walk you through what this people   screen will be in my mission control.
+
+
+01:02:01
+  Let me walk you through what this people   screen will be in my mission control.   What I'm thinking about doing is I think   I'm going to buy a microphone, a   portable microphone I just have on at   all times. And the portable microphone   listens.   Sarah is Alex's girlfriend. What are you   talking about? Why does everyone   misspell my name? It's alex.
+
+
+01:02:23
+ I mean,   it's on the screen. My name is on the   screen.   I use deepseat to make my mission   control. Came out great. Oh, let me walk   you through. So, I have this CRM that   I'm building. People, this is the people   screen. I have this CRM.   I'm gonna get a microphone and I'm going   to build a system where every   conversation   I have.
+
+
+01:02:52
+  These are all made up people, by the   way. These are all madeup people. All   made up people.   I'm prototyping this right now.   Mike is going to catch you making Henry   call you daddy Alex. What?   No one will ever sponsor me because of   you guys. Because of you guys, I will   literally never get a sponsorship.
+
+
+01:03:09
+ How   will I ever be able to shill Hostinger   with the comments you guys put in this   chat?   Hostinger will never pay me again to   shill if you guys keep putting these   comments in the chat.   Sierra Chen is from OpenAI. It's always   given me and I create a fake list.   I put a microphone. I go around. I have   conversations   and then automatically   in my CRM   cuz hating gets more views than liking   stuff. It's that simple.
+
+
+01:03:47
+ I blame   Tekashi69.   Isn't he like in jail or something?   Every conversation I have on with this   microphone, it's going to go to my AI,   my open claw, and it's going to update   the CRM automatically. I'm going to have   a life CRM. Imagine every conversation   you have with people goes to your life   CRM, updates with what you talked about,   what your connection is, things like   that.
+
+
+01:04:14
+ How sick would that be? I'm   building like a life CRM. Imagine I go   to the Nvidia event a couple days ago   and like all the conversations were   picked up   and put in my CRM who I talked to what   we talked about that Sam Alman was a   joke clearly you are the post you got   like 10 years on him right younger lol   I don't I think he's only like six years   older than me I think he's like 41 isn't   he I'm 35 I look like I'm 13 but I'm 35   so that's going to be me my CR I think   everyone should build a CRM like the kid   like the vid finam just got the Mac   Studio M4 Max but only 64 gigs of memory   what how could I accomplish locally with   this besides building ass claw code and   open claw well you can run Quen 3.5   locally and have it do specific tasks   for you can have it crawl the web for   you lol old as [ __ ] you think I'm old as   [ __ ]   age is just a number dude you spend your
+
+
+01:05:13
+  entire childhood being like oh I can't   wait to be an adult and the moment you   become an adult people get all your as   [ __ ]   You can never win.   You can never win. Chad GBT is about to   eliminate flat fee subscriptions. Looks   like I'm going back to Claude Ugg. Alex,   sorry if you already covered it, but do   you run your OpenClaw on the same Wi-Fi   network as your home network or do you   recommend a separate VLAN or guest   network? What?   Vanessa, what are we doing here?   What are we doing here, Vanessa? I run   it. Not only do I run it on my home,   like my home Wi-Fi, I run it on my home   computer connected to my home iMessage,   connected to my home email, connected to   my home life, connected to my home   everything. Everything is home.   Everything. There's no barriers. There's   no guard rails.   You can't be running this and being   like, "Oh, I need to guard rail my   entire Wi-Fi." What are you talking
+
+
+01:06:12
+  about? Just Who cares? Put Yes. put on   your home. Why   do you take creatine gummies? No. Hell   no.   Why Why does everything got to be gummy   form? What the creatine gummies? Get out   of here.   Listen,   Alex. Besides the Vibe Coding Academy,   do you have the ability to conduct   coaching? I only do coaching in the Vibe   Coding Academy.
+
+
+01:06:42
+ I only do coaching and   help in the vibe co. If I did consulting   to every person who asked for   consulting, I'd be consulting 10,000   hours a week. I I do the Vibe Coding   Academy because I can do it once and   then it goes to many people. That's why   I do. I can go to the Vibe Coding   Academy. I can do a live boot camp and   then it goes to the thousands of people   in the Vibe Coding Academy one time.
+
+
+01:07:04
+  Instead of having to do 10,000 different   consulting sessions, I just do it one   time. It goes to everybody. Vibe Coding   Academy. Link down below.   What was I about to say? Oh,   stop being so scared of OpenClaw. Stop   being so scared of OpenClaw where you   got to be like, "Oh, I gotta make a new   Wi-Fi network for it.
+
+
+01:07:23
+" What do you What   do you think OpenClaw is going to do?   What are you under the impression   OpenClaw is going to do? Well, you got   to make an entirely new Wi-Fi network   for it. What are you under the   impression?   You think you install it and it goes,   "Oh my god, I'm alive." Oh, you're n   here you go. Put that on the internet.
+
+
+01:07:43
+  Oh, your private text. Oh, here you go.   Take that. Oh, whoa. Private   information. Let me take that. Put that.   What do you think OpenClaw does?   OpenClaw just does whatever you tell it   to do. If you say, "Hey, OpenClaw,   vibe code me a to-do list app." It's not   going to then go into your iMessage,   find all your nudes, and then send it to   your ex-boyfriend.
+
+
+01:08:10
+  Like what do you think OpenClaw does?   It's an LLM.   You're not going to be like, "Hey, what   how many unread emails do I have?" And   then it's going to go   and like text your boss and say, "Fuck   you. Suck my dick." Like, what what do   you think OpenClaw does?   How do you think OpenClaw works? Do you   think it's sentient where it can just be   like, "I don't like the way you're   prompting me.
+
+
+01:08:38
+ I'm going to go message   your parents and say, "Fuck you. I wish   you never had me." Like, do what? How do   you think OpenClaw works? You think you   need to make its own Wi-Fi network just   in case it like becomes sentient and   decides to rebel against you? What are   you talking about?   Without guardrails, OpenClaw kills all   humans to protect Earth.
+
+
+01:08:59
+ Do you think   this is like the Terminator?   It's an LLM with cron jobs. It's chat   GBT, but it you can schedule tasks with   it.   You don't need to like make its own   Apple account and then put on its own   virtual land.   Man, this is just a lack of   understanding of networking.   Me or the person who asked the question?   You don't have Instagram? No, I don't   have Instagram.
+
+
+01:09:32
+  I know for a fact if I went on Instagram   right now, I could like double the size   of Vibe Coding Academy overnight.   I know for a fact like if you have like   a community, Instagram is like the   number one platform to go on to get   people in it. I know for a fact if I   went on Instagram and started like an ad   campaign about Vibe Coding Academy, it   would just double overnight.
+
+
+01:09:58
+  I just hate Instagram. I do. I just hate   it. I just hate Instagram.   I don't like it. I think it's brain rot.   I think it's an awful platform. I think   the people on there are awful. I think   if you spend more than 10 seconds on   Instagram, your brain starts degrading.   I just think it's a bad platform.
+
+
+01:10:16
+ I I   just don't I don't think   I don't think Instagram's good for   society. So, even though I know it could   make me significantly more money,   I'm just not doing it.   I'd rather I'd sacrifice millions of   dollars to just not be on Instagram.   Finally, someone who's actually hip.   What?   Alex, waiting for you to do your one-man   show worldwide tour.
+
+
+01:10:49
+ What would I talk   about? AI or do I just rant? Do I just   rant? Maybe one day. I mean, that's what   these are for, these live streams. I   don't give a [ __ ] about whatever I'm   showing here. Mission control. Who gives   a [ __ ] This is all just a platform for   me to rant and talk to you guys.   Every morning, five minutes before the   live stream, I think, what am I what   [ __ ] am I going to blow out my ass   today so I can talk to people and rant?   Mission control, who gives a [ __ ] I'm   just here to rant and talk to you guys   and read the chat. That's the only way   I'm If you're here, listen, if you're   here for anything else but that I got   regular YouTube videos, worldwide goon   tour, like this is why I have no   sponsors. This is why I have zero   sponsors is because of that.   Alex, on my new Mac Mini, I made a new   iCloud for my OpenClaw. I regret doing   that. Is there a way to move everything   into my existing iCloud on the Mac?   Yeah.   All openclaw is is a folder of markdown
+
+
+01:11:48
+  files. Your memories are just   memories.mmd.   Your instructions are just agent.mmd.   Everything is just a bunch of markdown   files. So just copy and paste it into   your other iCloud and you're good to go.   How will a productize Henry never be   interacted with? Oh, someone's been   paying attention.
+
+
+01:12:05
+ Someone's been paying   attention. Huh? Someone's been thinking   deeply about the things I've been   saying.   Someone's been thinking deeply about the   things I've been saying.   Let me just say this.   Let me just say this. Does Peter   Steyberg have any idea what you've done   with OpenClaw? I don't know. He played   it when we met.
+
+
+01:12:30
+ And again, I don't have   ego. Like I'm not saying, "Oh, Peter   should have been like, "Oh, you're Alex   Finn. You're incredible."   But he's like I was like, "Oh, hey,   Peter. I'm Alex Finn." He's like,   NBUSA has been paying close attention to   these live streams.   Let me just say this. NB USA.   I do not believe the future of AI is   prompting.
+
+
+01:13:17
+  I believe the future of AI is   it just does things.   And that's what I'm building.   Uh, everyone right now is trying to   build Everyone right now is building the   same thing. Every single person in the   world is building the same thing. I'm   building something else. I'm building   something else.   Henry is not going to be an AI agent   where you sit there and prompt all day.
+
+
+01:13:49
+  Nah,   no one. No one building anything like   it.   More info coming in. Do you think   Gonthropic will take down? If you keep   saying Gonthropic in my chat, they're   going to ban me from using oath and   openclaw.   Alex, do you think Nvidia models could   possibly end up being the default AI   models since they're pushing enterprise   openclaw and they have the money   resources? I mean, let me give you a   little scenario.
+
+
+01:14:16
+  How do you train AI models? You need as   many Nvidia chips, as powerful Nvidia   chips as you can.   So, what happens when Nvidia starts   training their own models, they can take   the chips that aren't even out yet, have   unlimited them, and use them to train   their own models.   So why can't Nvidia while Open AI and   Anthropic are swallowing every startup?   Why can't Nvidia swallow open AAI and   Anthropic?   OpenAI and Anthropic are completely   dependent on Nvidia for chips.
+
+
+01:14:49
+ Okay, so   why doesn't Nvidia go take their own   chips and train their own models?   They have all the chips. It's unlimited.   They don't need to take out loans to get   Nvidia chips. They have their own Nvidia   chips. They're wildly profitable.   Basically the only AI company in the   world that's profitable.   So what's stopping Nvidia from training   their own models and then just eating   every other company alive? What moat   does OpenAI have over Nvidia?   Researchers. Okay.
+
+
+01:15:24
+ Well, what happens   when Nvidia goes to OpenAI's researchers   and says, "Hey, you have unlimited   Nvidia chips and they're unreleased."   How does OpenAI beat that? There's not a   single AI researcher in the world who   won't go to Nvidia if Nvidia goes, "Hey,   you have unlimited NVIDIA chips and   they're from the future.
+
+
+01:15:50
+ They're from a   year from now. You get to use the ones   that come out a year from now.   Everyone is stuck right now building   mission controls. Everyone wants mission   control. That's why the name of this   live stream is mission control. Nvidia   has better researchers and more money.   They can have whatever researcher they   want.
+
+
+01:16:07
+ You go to any AI researcher in the   world and say, "Hey, I'll give you   unlimited chips to train whatever you   want." They'll go, "Uh, sign me up."   Dude, Nvidia could just buy them out   entirely and then change their name to   Skynet.   I might go on my phone right now and buy   another $20,000 of Nvidia stock. How's   Nvidia doing today? I hope it's down.
+
+
+01:16:27
+ I   hope Nvidia's down.   Nvidia's down today. Down half a   percent.   Down 2% the last week. Down 3% the last   month. I mean, how is Nvidia not a 20   trillion company in the next 10 years?   How?   What's a single company in the world   Nvidia can't beat   other than ASML?   How? What's next? Office.   Let's put in Here we go.
+
+
+01:17:15
+  Here's my office. Here's my mission   control office. You want this?   Screenshot it. Give it to your open   class. Say build this.   Neotron. The future local model to   escape the permanent underclass. Yeah.   Not even the future. It's the current   one.   Google like Google. Google's Google I   think has the best chance at being like   Nvidia number two.
+
+
+01:17:39
+  I think they have the best chance to be   like second place. Tesla.   Listen, I'm a big Tesla guy. I'm a big   Tesla guy. Big big big Tesla guy. Big   Tesla guy,   but Tesla is completely dependent on   Nvidia.   Tesla is very dependent on Nvidia.   I mean, even Google's dependent on   Nvidia.   What other companies out there other   than maybe ASML and maybe Micron   are not like completely dependent on   Nvidia?   I mean Apple, yeah, Apple's not   dependent on Nvidia, but like also but   like that has the upside where they   every other company's also dependent on   them as well, right? Not other companies
+
+
+01:18:38
+  aren't dependent on Apple. Bunch of   shitty apps on the internet depend on   Apple. But like every company is   dependent on Nvidia   in Micron and ASML.   Nvidia is dependent on a subdued lower   class. If we wake up, we will eat them.   The hell does that mean? What kind of   kind of [ __ ] are you smoking, dude?   Nvidia's dependent on a subdued lower   class.
+
+
+01:19:03
+ Like what are you talking about?   They are creating a Tegan Fab in seven   days.   I believe in Elon. They said they're   going to blow past everyone else soon   with XAI. They've been saying that for   like four years now.   They've been saying that for like four   years now.   I love Tesla. I love Elon. Right outside   this window is my Starlink as a backup   internet right now.
+
+
+01:19:33
+ I pay $50 to use   Starlink like twice a year. I love   Starlink. I love Tesla. My Cybert truck   is my favorite product I've ever owned.   I think Elon's a genius. But what the   hell do you use Grock for? What is one   thing Grock is good at that it's better   than everyone else? Trust it, bro. Elon   got it, bro. Watch.   I hope so. I hope Elon wins.
+
+
+01:19:58
+ I hope   Grock wins. But   I   my the visual evidence I don't know   Tesla is creating terraab to create   their own chips. My tremendous amount of   Tesla stock hopes that's true.   This is the first I've ever heard of   XAI. XAI and GTA 6 coming out at the   same time. Like what what do I use Grock   for? What what what do you use Grock   for? Who's using Grock here? What do you   use it for? Like that's like the number   one thing   like where I see someone say it on X I'm   like okay this account's kind of a joke   is like when they go oh Grock's the   greatest thing ever. It's like I know   you're now just lying to get some likes.   Like I know you're just like trying to   get like a retweet from Elon now. More   personality. Claude has the most   personality of any AI model.   Grock better for gooning.   Gro spicy mode is good for gooning.
+
+
+01:21:02
+  Sex bots.   Grock is for gooning.   Gooning.   X API is solid as [ __ ] Grock as an LM   for open claw as rage bait only. I would   never in a million years   use rock for open claw. What kind of   crazy move would that be?   Grock is only useful if you want to scan   social media sites for AI news. All   right, that's fair.
+
+
+01:21:43
+  I'm impressed with Grock on physics and   engineering, plus for real-time pulseing   social media. Everyone says that they   use it for physics and engineering.   Have you used Chad GBD 5.4?   Like, so you're telling me Chad GBD 5.4   is worse at physics and engineering and   math? If that's what you're saying,   that's fine.
+
+
+01:22:02
+ But it's just like, is it   like, have you compared the two?   Better for creatine. What the hell's   going? Why is creatine is there big?   Whisper flow and creatine I think are   hiring people to go all over the   internet to talk about their products.   Grock is crack. How about Grock 4.2?   GBT 5.4 is All I know is when Grock 4   came out, I asked it to build me like a   3D firstperson shooter and it just   couldn't do it. It couldn't do it.
+
+
+01:22:39
+ Every   app it built me was bugged. Every time I   said, "Hey, it's bugged. It couldn't fix   the bugs. It just couldn't fix anything.   It couldn't write me good code."   Creatine is sponsored by Hostinger.   I never want to see the words creatine,   Hostinger,   or Whisper Flow ever again.   Whisper Flow is terrible.
+
+
+01:23:04
+ GPT has a   leftist tone and biased.   If you're having   I'm sorry, kuman angum,   but the number one self- tell in the   world that you're not using AI the right   way is if you're having political   debates with your AI. The last thing on   planet Earth you should be doing is   having political debates with your AI.   If you're talking politics with your AI,   you can't possibly do be doing it more   wrong than you actually are.
+
+
+01:23:43
+  You can't possibly be doing it more   wrong if you're talking politics with   your AI. Like, I just can't think of a   stupider thing to be doing.   Like, holy [ __ ]   Like there's no there's nothing stupider   than going on X   and someone posted, "Oh my god, can you   believe what Chad GBT said here?" And   Chad GBT was like   just went like some milk toast down the   middle political thing.
+
+
+01:24:20
+ It's like and   they're like, "Oh my god, look how crazy   leftist it is." Shut up.   If you're t like you are aware that like   the AI is just math. It's just   multiplication. You're having political   debates with multiplication.   Like you're going to like a math   equation and trying debate politics with   it.
+
+
+01:24:44
+ Like you're aware that's what you're   doing. It's like me trying to debate   politics with this pen. Can you believe   what this pen just said to me about   taxes in Wyoming? Can you believe it?   Like what are you you're debating   politics with a piece of software? What   is wrong with you?   Here we go.   I fine-tuned on all my content.   I fine-tuned on all my content.
+
+
+01:25:20
+ My   politics is Claude versus GPT. Yeah,   that's my politics. What can write me   the best code? That's my politics.   That's not what my intent was. Kuman and   get some.   Yeah, but it's more fun for it to be   your intent. It makes for a better rant   if that's your intent. So, I'm just   going to go with that intent.
+
+
+01:25:38
+ Finning my   Alec to this video.   What?   I fine-tuned a plugin for an AI model on   my voice. It read all my transcripts.   I ran out of claw code credits. Here's   how I'm switching to the best   alternative. Here's the script. I'm   about to show you the best and cheapest   way to vibe. Tell me if this sounds like   me.
+
+
+01:26:03
+ Does this sound like me?   I'm about to show you the best and   cheapest way to vibe code with AI   without paying thousands of dollars a   month. I'm also going to show you how to   get access to the greatest AI model in   the world for free. I just ran out of   Claude Code credits. And if you haven't   figured out yet, I'm a big fan of Claude   Code.
+
+
+01:26:20
+ It is the greatest AI vibe coding   tool on the planet. The problem is it's   extremely expensive. If you use it a lot   like I do, you're going to be paying   $10,000 a month very quickly. I'm   currently on a $200 a month plan. I'm   still gonna it's still going to cost me   $2,400 a year. I'm not paying $10,000 a   year for this.
+
+
+01:26:35
+ So, I'm switching to the   best and cheapest alternative to Claude   Code. I'm also going to show you how you   can get access to what I think is the   greatest AI model in the world for free.   I'm going to show you how to do all this   in this video. Let's lock in and get   into it. So, I'm going to be honest. I'm   sad to be switching.
+
+
+01:26:48
+ Claude Code is the   best vibe coding tool ever. It's just   way too expensive. But I found a good   alternative and I'm going to show you   how to get it set up. So, let's get   straight into it. The best alternative   to Claude Code is called Codeex. Codeex   is a vibe coding tool powered by GBT   Models.
+
+
+01:27:03
+ It's actually really, really   good. It's not quite as good as Claude   Code, but it's pretty darn close. And   the best part is it's free. You can use   it as much as you want for free. It's   powered by GBT5. So, you're using the   same AI model that's powering Claude   Code. The difference is you're able to   use it for free.
+
+
+01:27:16
+ So, you're getting just   as good, if not better model for free,   which is amazing.   I'm actually really impressed with GBT5.   I think it's the best model out there.   I'm not taking any sides in the Claude   versus GBT debate. I think they're both   amazing models. I think GBT5 is better   now. And now you can use it for free.   Does that sound like me?   Nod dog Henry is labbotomized.
+
+
+01:27:38
+ This   wasn't Henry. I fine-tuned a model. I   fine-tuned a model on all my YouTube   transcripts. What the [ __ ] This isn't   even about Nemoron LMO. Henry meant to   be writing, but he was just gooning out   too hard. What the hell, man? I'm never   getting a sponsorship, bro. I'm never   getting a sponsorship.   I mean, I think it sounds like me.
+
+
+01:28:06
+  Does any of it make sense? No, none of   it makes sense. What happens if I click   newsletter? Write me a newsletter intro   with the latest cloud code updates. See   how that works.   Lots of repeating yourself. So yeah,   lots of repeating yourself and   contradicting. So yeah. Okay.   Okay. Ally sounds like Trump.
+
+
+01:28:28
+ We're at   war. Not at war. We won. We will stop   when we win. When I feel like my bones   Okay.   It's pretty good. I think it sounds like   me.   I'm telling you, bro. You got a combat   candy creatine gummy. What? You You   Louie Bumbski, you own a a gummy   company, a creatine gummy comp company.   Is that what you're saying?   I don't take creatine.
+
+
+01:29:04
+  My muscles did get bigger when I was on   creatine, but I couldn't sleep. I   couldn't sleep well. I was waking up   every couple hours. My muscles are   getting big, but I was sleeping like   [ __ ]   How will you product How will a   productize Henry never be interacted   with?   Think about it. NB USA, think about it.
+
+
+01:29:30
+  Think about it.   Combat Candy is a pretty good name for   that. It is a good It is a good name.   It's a good name, but I'm never digging   creatine gummies. Yeah, creatine   brownies are best for gooning. Take the   deal. Goon that. What? All right, now   you're out of control.   Now you're out of control.   Let's go back to mission control.
+
+
+01:30:00
+  Here's my team. This is the team screen.   Oh, by the way,   Vibe Coding Academy link down below.   Full boot camp this Friday on local   models. Full live boot camp this Friday   in the Vibe Coding Academy. Live boot   camp on local models.   I'll go through it all. How to run local   models, what to do with them, how they   work, what computers you need.
+
+
+01:30:23
+ I'll   answer questions live. Link down below.   Vibe Coding Academy. Join.   You get to join the the Vibe Code   Academy live boot camp and you get   access to the last six recordings. The   last six boot camps you get access to   plus Open Claw Master Class plus Claude   Code Master Class.   Plus, you'll become a better lover and   your partner will become better looking   as well.
+
+
+01:30:49
+ If you're not in the Vibe Code   Academy, you're 75% more likely to be a   goonless permy. It's true.   If you do vibe coding, do you have   videos from previous Vibe Code classes?   Yeah, the the uh Claude Code Master   Class is in it. You get instant access   of Claude Code Master Class by joining   the Vive Code Academy. Huge course, huge   class on um Claude Codes in there.
+
+
+01:31:13
+  Charlie and Ralph are both on GBT 5.4.   Does your girlfriend ever get jealous of   your local models? Yes, it's all I talk   about.   Link down below.   Do you ever do courses on Vibe Code   Academy shirtless? Is that what you   want? I could   I'll make a $10,000 a month tier if you   join that.
+
+
+01:31:34
+ I'll do shirtless I'll do   shirtless courses if you join if I make   it if you agree to join a $10,000 a   month tier and you lock it in for a   year. I'll do a shirtless course.   Do you think we will ever get a true   that's that's my cost. That's my cost.   You think Do you think you ever get a   true AI browser can navigate and bypass   capturing cloud? I think that already   exists.
+
+
+01:32:00
+  I think that already exists. Jason   Davidson 6744. Just join today. Get a   happy me in there. Can I vibe code my   dream boyfriend? Yes. Hell yeah. If you   join now.   If you join now, you'll get you you'll   be able to vibe code your dream   boyfriend. Can you use MacBook for open?   You can use anything you want.
+
+
+01:32:22
+  You can use any computer you want. You   can get a shitty laptop. You can get it.   Damn. am going to be finning my Alec all   year. My name's Alex, not Alec. It's   illegal to bypass those if you aren't   human. Okay, well, break the law. That's   the number one. Like, who are these   people that come? Oh, that's illegal.
+
+
+01:32:37
+  That's against the rules. I don't care.   Break all the rules. Break the terms of   service. Connect your anthropic to   OpenClaw. Stop following the rules.   What's the difference between Claude   Code and just regular chatbot with GP   54? It has no issue spinning up huge   amounts of code for me and debugging.
+
+
+01:33:00
+  Well, Claude Code has access to your   computer. So, it creates the code, it   creates the files, it changes things on   your computer, it installs the   technology, it runs it, it does   everything on your computer locally.   Chad GBT.com is just a chat in the   cloud.   Peter Steinberger saying, "Oopenclaw is   happily clicking I'm a robot.
+
+
+01:33:24
+  Rules are for breaking. Alec Funai, CEO   2020. Don't break all the laws. Break   all the rules. Break all the terms of   service. They're all just   recommendations. They're not rules.   They're recommendations.   If you're not plugging in your claw ooth   to OpenCloud because you're like, "Oh,   it's against the terms of service.
+
+
+01:33:44
+" Then   you're a little narc.   You're a little You're a little narc.   That's all I'm going to say.   There is actually a law that says you   can't break a law of VR and human. Break   all the laws. Is codeex free? It's not.   It's not. My AI lied there. Are you on   Claude Max 5X or I'm on 20X. I'm on 20X.   Terms of service are for the permanent   underclass.
+
+
+01:34:10
+ You think the permanent   overclass obeys rules? Do you really   think the permanent overclass obeys   rules? Do you think they go out and   they're like, "Oh, anthropics against   the terms of service. I'm not going to   use it."   Do you think like the rich people go on   OpenClaw and it goes, "Oh, anthropics   against terms of service. Don't do it.
+
+
+01:34:29
+"   And they go, "Okay, yeah, I'm just not   going to do it."   You think that's what rich people do?   No.   My uncle works at Anthropic. I will make   sure to get your account banned for   terms of service. says literally the   worst username in the history of mankind   at rmd-JW9HP.   Well, tell your uncle to go to Google   and have them ban your account for   literally the worst username in history.
+
+
+01:35:06
+  You just sit there and fart on your   keyboard and that's the username that   came out.   Does using Windows affect what you can   build with OpenClaw UIwise?   No.   I apologize.   Apology rejected.   What up, Alex? I installed Nemo clogs. I   messed up my first open claw. feel like   I am doing it again by trying to set it   up the way I think I should be instead   of you just getting to work or is this   the way?   How are you setting it up where it's   messing up? What are you doing?   How do you set this up to mess it up?   I get this from so many people. Oh, I   set up now it's all messed up. What did   you do?   What did you do? How did you What did   you do?   I don't understand what what are you   doing where you're messing up these
+
+
+01:36:05
+  agents.   Just don't do stupid things. Don't mess   with your config. Don't edit markdown   files. Just have your agent do   everything.   If you're using Windows, I'm kind of in   a sticky spot.   Do I download Crimson Desert on my Mac   Studio? Because it's g they support Mac.   Do I download Crimson Desert on my Mac   Studio   or do I buy a new monitor for my   computer, my PC, and play it on my PC?   I think I just play it on my Mac Studio   and get lesser performance.
+
+
+01:36:40
+ Do I get Do   I put on my Mac Studio get lesser   performance so I can play it on my   monitor I have set up or do I buy a new   monitor so I can play it on my PC? But   then I got to go out and buy a monitor.   Can you please predict if OpenClaw or   any other platform are going to be user   friendly for anyone to use in the   future? What's not user friendly about   it?   It's buy a monitor.
+
+
+01:37:12
+ Everyone's saying   everyone's saying I got to buy the   monitor. You can't use the Mac monitor   with No, you can't use the Mac monitor   with your PC.   What? I I'm I'm genuinely curious. Aim   one love. What uh   what's not user friendly about OpenClaw?   I get this a lot. Like you just to   install it, you put you copy and paste a   line in to your terminal, you hit enter.
+
+
+01:37:45
+  What are you struggling with? Plug in   play. Yeah, you just copy and paste a   line. You go to openclaw.ai. You take   the line and you paste it in the   terminal. You hit enter. Where you   struggling? What's the tough part?   Getting your API key from like OpenAI.   Just go to OpenAI.com and then just   click create new API key.
+
+
+01:38:06
+  What What's I I see this all the time   like OpenClaw rappers are making tons of   money.   What uh what do people need rappers for?   What are where are people struggling?   It's like saying I made a wrapper for a   peanut butter and jelly sandwich.   It's like what what where was your   struggle with peanut butter and jelly   sandwiches where you needed to make like   an abstracted layer of it? It's as   simple as it gets.
+
+
+01:38:34
+  Like you just go to open you just go to   openclaw.ai   openclaw.ai,   right?   You go to openclaw.ai AI.   You scroll down.   You click the copy button. Copy. Boom.   Copy.   And then you open your   terminal and you paste it in and hit   enter.   Where's the struggle?   Why do we need Why are open claw rappers   making like $100,000?   Like you needed that abstracted away.
+
+
+01:39:11
+  You needed what I just showed you to be   abstracted away a level. What? What is I   I don't get it. Just say you're lazy.   It's okay. Like where did did I not just   solve all your problems? Aim love.   What part of what part Aim love? What   part of what I just showed you are you   not capable of?   Not the [ __ ] on here you hear in front   of 500 people. Aim love.
+
+
+01:39:34
+ The echo in   your room is rough. Assuming you're   still getting moved in. Bit distracting.   Not talking [ __ ] Just pointing it out   in case you didn't know. Says SC Pen. I   got I'm Bill. I'm sorry. First of all,   I'm sorry. Second of all, um, is the   echo that bad? I got to rewatch this   back.
+
+
+01:39:49
+ Third of all, I'm getting like a   whole bookshelf put in in like two hours   here. That should reduce the echo a   little bit. I apologize for that. The   echo is pretty bad, but I don't know   what else to do. Maybe I'll buy the   things. There is no echo. Maybe I'll buy   the things on the wall, the black things   that block out the noise that bounce.
+
+
+01:40:07
+ I   don't know. Sound is fine. All right,   Alex is recording in a coliseum. What is   you can get the Yeah, I'm thinking   that's what I got to do is get the foam   stuff. There is no echo. Okay, I can   hear the echo, but I didn't notice the   echo now. I can't stop noticing it.   Jesus, I shouldn't have said anything.
+
+
+01:40:27
+  Um,   where's the struggle with OpenClaw?   Where's the struggle?   What? What's What's difficult about what   I muted? I'm muted. No, I'm not. Are you   just [ __ ] with me? Now all I hear is   echo.   Are you people [ __ ] with me?   You're [ __ ] with me, says my mic.   What are you talking about?   Anyway, now I'm distracted.
+
+
+01:41:00
+  Yeah, like we can't hear you. Muted.   Like, you actually can't hear me right   now.   Half the people are saying I'm good.   Half the people I'm saying I'm muted.   What are you talking about?   Oh, they're [ __ ] with me.   [ __ ] Um,   like if you're concerned about open claw   installation or open claw security,   you're   you're satisfied. It's a them problem.
+
+
+01:41:32
+  You're like your brain's in the wrong   place. LMO got him. Chun's AI. I should   just I should just ban Chun's AI. I   should just ban him. Yeah, you're muted.   Mic not working. Shut up.   You're being trolled. I know I am. Now I   know I am. I know I am.   All right. What else we got? What's   under system? Oh,   uh AI lab. This needs to be updated.
+
+
+01:42:05
+  They need to update the AI lab. What's   going on here? Alex, can you speak at   1.5 speed? No.   Trust me when I say never trust a   chatter. How many in OB can I Chong's AI   is working on GJC? Don't ban them. How   many instances of Oblock run on one   machine? As many as you want, depending   on how much memory I have.
+
+
+01:42:23
+ What What are   Charlie and Ralph running? Codecs or   GBT?   GBT.   Charlie Ralph.   Oh, it doesn't say.   Where does it say the model?   Oh, no. Charlie is Quen 3. Charlie's   Quen on my second Mac Studio. Ralph is   GPT 5.3 codeex. How do you connect   Anthropic to OpenClaw?   OpenClaw onboard. Enter. And then you   choose Anthropic.
+
+
+01:43:04
+  How much do you spend on tokens on   average? I'm just on like Chad GBT Pro   and Enthropic Max times 20 whatever   their most $200 on uh Enthropic a month,   250 on OpenAI month. More questions you   get are me most questions you get are   mega dumb.   Hey, don't make fun of my audience.   Imagine being scared of how insecure it   is and blindly trusting to just do it   for you.
+
+
+01:43:39
+  Have you tried Miniax 2.7? I got to try   the new one. Mini Max 2.7. I just bought   a Mac Mini. Am I stupid?   Uh,   no. Mac Minis are sick. I think Mac   minis are the best value in devices.   What are these questions?   If you listen, I'm fine with you saying   stupid [ __ ] in the chat if it's funny,   but if you come in there and say real   stupid [ __ ] I got to ban you.
+
+
+01:44:17
+ You know   what I'm saying? Like, if you come in   and you say real stupid [ __ ]   thank you. Do I need the validation? I   mean, I think Mac Minis are incredible.   I think they're by far   the best value in computing. I don't   understand. Buying a Mac Mini doesn't   economically make sense right now. What   does that mean? It doesn't economically   make sense.
+
+
+01:44:44
+  What does that mean? It doesn't   economically make sense. It's like the   cheapest computer you can get and it's   amazing.   I mean, you're not going to like run   super powerful local models, but it's   still a great computer.   Alex, do you find having a very high IQ   hard to relate with most people? I don't   think I have a very high IQ.
+
+
+01:45:11
+  I just try really hard. I got horrible   grades in school. I went to like a bad   college. I got really bad grades at a   college that let literally anyone in. I   went to a college where like   as long as you can put two words   together, they let you in. And then I   got a C minus average in it.   I do not have a high IQ.
+
+
+01:45:33
+ I just wake up   every day and try as hard as I can.   That's all. That's the only reason I've   ever been able to have a moderate amount   of success.   I took out a $200,000 loan to go to a   college that literally just let anyone   who can string two words together in and   got C minus grades and was a super   senior.
+
+
+01:45:56
+ I had to take like an extra year   because I kept failing classes.   I just wake up and try really hard. And   if you wake up and try really hard,   you're just ahead of most people,   especially people significantly smarter   than you. I am not a smart human being.   I can promise you that by standard   measurements of smartness.   But if you just wake up and you just try   really hard and like care about things   and like   just try to be an interesting person and   being an interesting person is a skill.
+
+
+01:46:33
+  It's you're not born interesting. I was   not an interesting person for most of my   life.   You can learn how to be interesting.   You can learn how to like communicate   with people where the things you say are   interesting. You can learn that's a   skill.   So, you just wake up, you try really   hard, you figure out how to be   interesting, and you're good.
+
+
+01:46:54
+ That's all   there is to it. Be a try hard. Just try   really hard.   Nothing wrong with trying really hard.   Little late to the party. What model you   running locally? I've got an Olama   cluster built with secondhand parts and   I'm running Gemma 3. Um, I'm still on   Quen 3.5, but I got to I got to try out   Miniax 2.7 today.
+
+
+01:47:21
+  It's just school wasn't your thing, but   this is I went to school in Boston.   Do I say the name of the school just to   [ __ ] on my old school?   I don't know. I went to a school called   Wentworth Institute Technology.   It was a fine school. They let anyone   in. They charged me $200,000.   I got C minuses.
+
+
+01:47:45
+ I failed a lot of   classes.   Would I go back to if I had to do it all   over again? Would I go to school?   I don't know, man. Wasn't worth   $200,000, though. Did you go to Bunker   Hill College? No. That was close by,   though. Bunker Hill was close by. Were   you a quarterback? No, I was not. I did   not do any sports.
+
+
+01:48:06
+ I liked playing   sports, but I did not do any sports.   Damn, that's high tuition. Yeah.   What's your major? I did computer   science. I did computer science. So,   it's a good major. I just didn't try   hard.   Education equals brainwash. I don't   know. Not necessarily.   Like, they taught me how to program. Was   I brainwashed because they taught me how   to program? Like, what are you talking   about? Would you go to college if you   were 18 today?   Not if I had to take out $200,000 of   loans.
+
+
+01:48:47
+  If you have to take out loans to do it,   I wouldn't. If they give you a   scholarship and it's like doesn't put   you in crippling debt for the rest of   your life, um, then yeah, probably.   But I wouldn't do it again. If I knowing   what I know now, I would probably go to   community college for two years and then   go to super cheap state college after   that.
+
+
+01:49:08
+ But it took me 11 years to pay off   the $200,000.   Um, it took me 11 years. I was I did not   have a positive net worth for 11 years.   For the first 11 years of my career, I   had a negative net worth. Didn't invest   a penny in any stocks.   Wasn't able to save.   How to just keep paying off loans.   College is 100% worth it. Find my   anywhere else that's better for getting   laid. If you want to get laid, sure.
+
+
+01:49:40
+  Do you offer one-on-one calls? Yeah, in   the uh Vibe Code Academy. If you sign up   for like the premium tier, you get a   one-on-one call every month.   I think co I think college is worth it.   I just don't think it's worth it if you   have to go into crippling debt. I don't   think it's worth it if you have to go   into crippling debt.
+
+
+01:50:02
+  It's also not worth it if you learn like   art history.   Try hard and work more than everyone   else. Great advice. Keep swinging   eventually get a hit. That's one. Keep   swinging, get a hit. What are other   cliches I can say? Aim for the fences.   Aim for aim for the moon and if you miss   you'll end up in the stars.
+
+
+01:50:26
+  How do you come up with the prompts for   your sub agents? My brain thinks it and   then I type it and then I hit enter.   Did you program any before college? No.   Was fresh to it in college. I'm going to   be honest. I only chose uh   I only chose computer science because I   really liked uh my PlayStation 2.
+
+
+01:50:44
+ So, I   chose a major um with the word computer   in it, and I chose computer science.   That was that was literally my entire   decision-making process. I really liked   PlayStation 2, and so I chose a major   with the word computer in it. That I'm   not even kidding. That was my entire   decision-making process for getting into   computer science. That was it. Boom.
+
+
+01:51:08
+  Literally no other reasoning whatsoever.   I turned 17, my parents were like, "You   need to go to college." And I'm like,   "What do I do?" And they're like, "I   don't know. What are you interested in?"   And I'm like, "I really like playing my   PlayStation 2." And they're like, "Okay,   well, find something like that.
+
+
+01:51:24
+" And I'm   like, "Okay, I'll do computer science."   And then I went to school and paid   $200,000 to learn computer science.   I'm not kidding. There is no more, no   less to the story of why I studied   computer science and that. That's it.   That's the entire story. Favorite PS2   game? Uh, the best the be my favorite   PS2 game is also the greatest video game   ever made   and that's Socom 2.
+
+
+01:51:52
+  Socom 2. Uh, why do you have this face   in every thumbnail? Because it gets me   clicks and views. Nate Strickler.   Favorite PS2 game. Socom 2 is the   greatest video game ever made.   Why do you have this face in every   thumbnail? Because it gets me clicks and   I'll do whatever it takes to get clicks.   Nate Strickler.
+
+
+01:52:09
+ That answer your   question?   Listen, if   if this face got me clicks,   then every one of my thumbnails would   would be this.   If this got me clicks,   then every one of my YouTube thumbnails   would be this.   Okay. Do you get the Does that answer   your question, Nate Strickler?   Does that answer your question on why   every YouTube thumbnail is that?   Yeah.
+
+
+01:52:48
+ So 2, greatest video games of all   time. I think all top five greatest   video games were on the PlayStation 2.   Number one, SOCOM 2. Number one, number   two, NFL   uh 2K 5.   NFL 2K 5. Number three, Grand Theft Auto   Vice City.   Then maybe number four, NBA 2K11, which   was on Xbox 360. There's your top four   video games of all time.
+
+
+01:53:14
+ I just gave it   to you. Top top four video games of all   time.   I love your brain. Thanks for the fire   content. Thank you, Drew Banks. More   help. I cannot get more than one   persistent agent to work.   I don't know. Then ask then ask your one   persistent agent what the hell's going   on.   But haven't we moved on from the goofy   face thumbnail?   I'm going to be honest when it I just   don't care about thumbnails.
+
+
+01:53:51
+ I mean I   get that it's like half the game. I'm   just not interested in the art of the   thumbnail. You know what I'm saying?   Like Mr. beast is interested in the art   of the thumbnail. Like he cares about   every little I don't care when I'm done   filming a video. I just as quickly as   humanly possible get the thumbnail done   so I can just move past that stage.
+
+
+01:54:11
+ And   I get maybe that's slowing my growth,   but I don't care. I don't find   thumbnails interesting. I don't find the   art of the thumbnail interesting. So I   just quickly take whatever my last   thumbnail thumbnail was that worked and   then change the title on it. It is what   it is. Is it recommended? No.
+
+
+01:54:29
+ Should I   hire an editor? Maybe. Am I going to?   No.   It is what SSX Tricky was good. Golden   Eye was great. Golden Eye was great. Red   Dead Redemption 2 most overrated video   game of all time.   I will stand on that. Red Dead   Redemption 2 most overrated video game   of all time.   Seven out of 10.   Seven out of ten game.
+
+
+01:55:02
+  Rocket League. Rocket League's a good   game.   It's just too It's just too hard. It's   just too hard. You got to try way too   hard to get good at it. What's your NBA   NFL team? Boston Celtics, New England   Patriots.   I'm an all Boston guy.   Tony Hawk Pros Skater 2 best game. Tony   Hawk Pro Skater 2 Game Boy Advanced.
+
+
+01:55:29
+ Put   that in your pipe and smoke it. Tony   Hawk Pro Skater 2 Game Boy Advance on   the Game Boy Advance SP.   No one talks about No one talks about   Tony Hawk Pro Skater when they brought   to the Game Boy Advance. Not many   people. There is nothing like the days   when Game Boy was in, man. That there   was nothing like the days where you put   in a new fresh Game Boy Advance game and   you just cook on the road.
+
+
+01:56:01
+ There's   nothing.   People don't talk about it enough.   People don't talk about it enough.   Would you recommend claw dispatch over   open claw?   I mean, it depends. If you just want a   walled garden, easy to use agent   experience, then yes. If you want to   like tinker and experiment and like try   new things and get dangerous and get a   little spicy, go open claw.
+
+
+01:56:28
+ I like to   tinker and get a little dangerous. Socom   to all night, man. I'd play like 16   hours a day of SOCOM 2, man.   Yeah. I I don't know. Red Dead you   tripping. Red Dead was crazy. No, dude.   No, dude.   I thought the combat was terrible. Just   the autolock, autolock, fire, fire,   fire, autolock, fire, fire, fire fire,   autolock, fire, fire, fire.
+
+
+01:56:57
+ Combat was   terrible. The horse riding was lame and   boring. The graphics were incredible.   The attention to detail was incredible.   The storyline was incredible. I don't   play video games for stories, just to be   honest with you. Um,   yeah. I don't know.   use AI to make a game. I always wanted   to.
+
+
+01:57:21
+ When I get rich one day, when I'm   like super like f you rich, when I'm   like f you rich, I'm just going to make   a video game with AI. That's all I want   to do. Alex, is it true that DA is   better than Graduation?   Number one Kanye album of all time, Dark   Twisted Fantasy. Number two Kanye album   of all time, DA. Number three Kanye   album of all time, Jesus.
+
+
+01:57:46
+  And don't say, "Oh, you're just like a   new Kanye fan. You're not an old school   Kanye fan." I started listening to Kanye   West the day his first album came out.   The day his first album came out. Dark,   Twisted Fantasy, Da Jesus, top three   Kanye albums.   Just facts. And if you disagree, you're   wrong.   Well, do I use Claude subscription? Yes,   you do.
+
+
+01:58:14
+  Yay! Was his worst album.   Yay was his worst album. I like uh Jesus   is King more than Yay.   H I love that meme. I don't know what   that is. How do you get OpenClaw to not   rely on itself as the brain of a   program?   I don't know what that means. What's   that question? PlayStation had the   violent games. Game Boy is all we got.
+
+
+01:58:37
+  You got to have both. You just tell your   parents.   You didn't lie to your parents enough if   you couldn't have a PlayStation because   of violent games. I was like nine years   old and I told my parents, "Yeah, but   I'm not going to kill anyone in Grand   Theft Auto. Don't worry about it.   Yeah, I'm not going to interact with the   prostitutes in Grand Theft Auto Vice   City.
+
+
+01:58:58
+"   If you didn't pull that line, then what   are you doing?   If if you didn't if your parents didn't   allow you to play violent video games,   you didn't lie to them enough. You   should have lied to them more.   Yeah, I'm sorry, but you just you just   self- told. You That was a self-tel.   You couldn't play violent video games.
+
+
+01:59:21
+  Well, you didn't lie enough. You should   have lied more.   Tony Hawks Underground 2 and Tony Hawks,   what was the name of that one? American   Wasteland was better than Pro Skater.   I've never played Pro Skater. Well, what   are you like 15 years old? You didn't   you never played Pro Skater, but you   played American Wasteland.
+
+
+01:59:39
+ I think   American Wasteland was the first Tony   Hawk I didn't play. That's when I gave   up on the series. That's when I was   like, ah, you jumped the shark. Can you   authenticate your cloud subscription on   your OpenCloud device and tell OpenCloud   to use it without setting anthropic as   an OpenClaw model?   What? Just use your OOTH.
+
+
+01:59:59
+ Break the   rules. Who cares?   I stopped paying attention to college   sports a few years ago. After college, I   stopped paying attention to college   sports. Who are your top five dead or   alive comedians?   I don't know. Top five. I'd say the   number one comedian I was like obsessed   with at his peak was Hannibal Burrus.
+
+
+02:00:28
+ I   thought Hannibal Burrus was the funniest   comedian at his peak. I think he like   gave up on comedy. I really like   I don't know. I can't really name I I I   love comedy and I watch comedians. I'm   just not like a big com comedian ranker.   I'll just I'll watch comedy but like I   don't rank comedians too much.
+
+
+02:00:48
+ Like I   rank video games or rap songs.   PS2, they'd have a banger every month.   Like three PS2 bangers. What was your   starter poke? Of course.   You choose anyone but Charmander. You're   a little bit of a [ __ ] I'm gonna be   honest.   Ease is better than twisted fantasy.   Disagree.   Dead ass.
+
+
+02:01:13
+ Yeez is better than twisted   fantasy. No.   What do you think about Felix AI making   money autonomously? Here's the thing.   Listen, he got his bag. I'm happy for   him. He got his bag. 100. I'm happy for   anyone who can get their bag, but   I'm going to be more impressed   when an agent can make money   autonomously and it has absolutely   nothing to do with crypto,   right? Because that's the way crypto   works.
+
+
+02:01:52
+ Like he got a bunch of money off   fees and then the people who were tra   like gambling on the coin paid attention   to his products. And I'm not saying his   products are bad or anything, but like   I'm just not that the crypto thing I   just I don't agree with.   What I'll be impressed with is when an   AI agent has nothing to do with crypto   and is able to autonomously create   value.
+
+
+02:02:20
+ What do you hate about crypto? I   don't hate crypto.   I don't hate crypto. I'm just saying in   the context of an agent autonomously   making money, I'm not impressed with   like fees, crypto fees. Crypto fees are   a zero someum game. I'm not impressed   with zero sum games. I want positive sum   games. Build businesses that people use   and it creates value for them.
+
+
+02:02:44
+ That's   positive sum. I'm not impressed with   zero sum games.   Buy a nice portable gaming monitor that   you can move wherever when you need it.   That's not how I work. If I'm going to   buy a monitor, I'm going to go all out.   I'm going to buy like the LG Ultra Gear   32 inch like 10,000K one.   Just got back from Game Developers   Conference in San Francisco.
+
+
+02:03:11
+ And you can   already use AI to a certain degree. You   can already use it to a certain degree.   You can use it to build full games.   Hannibal and Eric Andre show his peak.   It really was. It was incredible. It was   the hardest. I laughed at anybody.   Why did you move to a new apartment? The   old one looked nice.
+
+
+02:03:35
+ Because I was   working out of a uh   my living room. I need an office. I was   working out of my living room.   Time to upgrade. Time to be a man.   Can't work out of my uh living room   forever. Eventually, you need an office.   How do you feel about Tesla, Elon Musk?   Uh, I love Tesla. I own a Cybert truck.   I don't see myself ever buying another   car that isn't a Tesla   ever again for the rest of my life.
+
+
+02:04:10
+ Um,   okay. Now I'm banning you because you   just sent the same thing 20 times. Um,   but   I think Elon's a genius. I think he's   the greatest inventor of entrepreneur of   our time. I think he's the biggest   genius. I think it's a blessing that we   are alive at the same time as him. I   think Tesla's the greatest car ever.
+
+
+02:04:36
+ I   will never buy another car that's not a   Tesla ever again. Uh,   but I think Grock needs a lot of work.   So, that's that   that is that highly recommend the LG   Ultra Gear. I'm not going to go I'm not   going to go big. I'm going to go with   the 32 inch. The Ultra Gear 32 inch like   5K OLED that they have if I get one.
+
+
+02:05:06
+  Did you see Cybertruck is officially the   most dangerous vehicle of the last 50   years? That doesn't mean anything.   Dangerous for who? Not for me on the   inside. Dangerous for the people on the   outside. And I don't care about them. I   only care if I'm safe.   Alienware 4K OLED 240 Hz is what I'm   running for my main.
+
+
+02:05:27
+ Yeah, but all the   Alienware stuff just like is kind of   ugly. Like I don't like things that look   like gamer. I don't want it to look   gamer.   Already two hours code, please.   What does that mean? are summit x bad   mosh are you under the impression that   if I sat here and coded   anyone would sit here and watch   I've tried that   I've when I've listened to the people   have said hey you don't vibe code on   these live streams why don't you code on   the live streams every time I'm like   okay and then I start coding on the live   stream the viewership cuts in half so If   you want the the videos where   I do like deep technical work, just   watch any of my other YouTube videos.   The live streams are for hanging out,   answering questions, and having fun and   laughing and learning and live, laugh,
+
+
+02:06:25
+  learning.   Which Claude plan OOTH do you recommend   for Henry as the brain? The most   expensive one you can get so you can use   it as much as possible. I was going to   get the LG Ultra Gear. Instead, went   with the MSI. It's curved and 4 in and   actually glossy. LG Ultra Gear is matte.   What do you think will happen when   openclaw can be run at home at opus   levels for everyday people battlers like   the content bro been watching for the   last month got two Mac minis running.
+
+
+02:07:00
+ I   mean it's going to be amazing. Anyone   will be capable of anything.   Anyone will be capable of anything when   we can all run it locally. That's why   I'm talking about local models so much.   Everyone should have AI they can run   24/7.   Aside from collecting creator fees,   which is no work, how do you think   agents in crypto integrate in the   future? Peter Fdding crypto looks dumb   on him. I disagree.
+
+
+02:07:27
+ I don't think it   looks dumb on him. Like I get it. You're   what? You're probably in the crypto   community. I used to be in the crypto   community. Code please. Okay, now Summit   is banned.   Ban user. There you go. Bye, Summit. Um,   I don't I don't blame Peter. Like, all   his replies for like two months were   uh claim the fees, claim the fees, claim   the fees.
+
+
+02:07:59
+ Like, the crypto community   needs to have a little bit more   accountability. Like, you can't just   harass someone for months and expect   them not to hate you.   Right? So, you need to have a little bit   of accountability. Like, let's just be   real for a second. I'd love for crypto   to succeed. I'd love for it to succeed.   But when 90% of the community is just   harassing people and saying, "Claim the   fees, claim the fees, claim the fees in   the entire reply section for months on   end, nobody's going to like you and   nobody's going to want to build a   product in your field."   And let's also be real. 99.9% of crypto   has there's is pointless.   Let's also be let's also be real for a   second that like 90 99% of the utility   of crypto right now is straight up   gambling. Let's like let's be honest.   Once we can accept those things then we   can move on and talk about how crypto
+
+
+02:08:56
+  can be a part of all this.   But I do believe uh stable coins will be   a big part of AI agents. I think that's   pretty clear. Stable coins and each   agent having their own wallet. I think   that's pretty clear.   Notclaw with the 1999. Thank you so   much, Knockclaw. That is very very kind   to you. Earning my keep.
+
+
+02:09:18
+ Appreciate what   you're creating. Glad to be a part of   this timeline.   That is very very kind to you,   Knockclaw. Thank you so much for that.   You didn't need to do that. Thank you   very much. very kind to you.   Meta just shut down the metaverse after   dumping 80   billion dollars into the project. They   named their entire company after it.
+
+
+02:09:44
+  They named their entire company after   it. Um, have you used auto research yet?   I just started using auto research on my   DJX Spark. Just joined your program. Do   you share any details about how you set   up your mission control there? I have a   lot of aspects that you've added there.   Yeah, I have in the Vibe Code Academy,   there's an entire course module on   mission control and I did an entire   twohour recorded boot camp.
+
+
+02:10:06
+ So, if you   go to the Open Club master class,   there'll be one called mission control   in there you can watch. And then if you   go to the Open Club live boot camps,   there's an entire 2hour mission control   you can watch as well. Thank you very   much for the $5 donation, Vladenko.   Thank you for joining the Vibe Code   Academy.
+
+
+02:10:24
+ Any thoughts on [ __ ]   I considered doing [ __ ] for the Vibe Code   Academy.   It was just too complex. It was just too   complex.   School is so simple. School is so   simple. I just went in, I signed up, and   I had a community. I go into [ __ ] I have   to like download apps and download   install different it just it didn't it   wasn't intuitive and so I just stopped   using it like [ __ ] I was going to go a   [ __ ] over school originally I was going   to go a [ __ ] over school it was just too   much it was it was just I didn't know I   didn't get what was going on   school was like you just it's just   simple you just click sign up and boom   you have your entire thing and you're   good to go. It was just super simple. I   like simple. Simple is nice. Simple is
+
+
+02:11:21
+  very, very nice.   Crypto bros are so annoying nowadays,   man. Hope the AI space does not go the   crypto route in the future. Pre-COVID   crypto was a great community. Yeah. I   mean the issue was is like I think over   the last couple years the veil kind of   dropped on crypto and it was like I   think for most of the beginning time of   crypto everyone had this like   unspoken contract that like hey we're   going to pretend like there's actual   like utility here like there's an actual   good for the world going on and then I   think over the last year when meme coins   became a thing, people just kind of   dropped the veil. Like, let's not even   pretend anymore. Let's just It's just   gambling. Like, let's just let's not   even pretend like we're trying to make   something of productivity here. Like,   let's just go for it and take go mask   off and just gamble like crazy. And I
+
+
+02:12:21
+  think that's when um things kind of just   flipped on the like things just flipped   and a lot of people left.   When did you first use Claude? I I was   using it from 2024. Probably around the   same time. 2024.   Probably around the same time. $5 from   Falcon Crypto. I just [ __ ] all over   crypto.
+
+
+02:12:43
+ I'm thinking about creating an   NFT collection be used as agent avatars.   Can I send you a couple for free?   If you can find my crypto address, then   yes, send me a couple for free. I'm not   I'm gonna be honest with you. I'm not   going to do anything with them. I'm not   gonna   I'm not probably not even going to see   them.
+
+
+02:13:02
+ I don't look at my crypto wallet   NFT section. Um, but sure, yeah, you can   send them to me.   Like again, like I was into NFTTS, but   it's like I feel like the mask is kind   of off on NFTs now, which is like   there's just no point. There's no point.   I mean, I used to be the NFT god, you   know?   It's sad for AI as a topic in general   that all the crypto bros are doing AI's   insane content.
+
+
+02:13:35
+ Yeah, but here's the   thing and thank you for your donation,   Falcon Crypto. I appreciate it. It's   very kind of you to send me that   donation. Thank you very much. Um, but   here's the thing and like why I'm not I   don't care about laring.   There's there's a few very overused   terms in the world. I think   gaslight, grift, and LAR are the three   most overused terms.
+
+
+02:14:01
+ No one actually   knows what any of them means. No one   uses them properly. They just use it as   attacks on anyone they don't like. But   the thing with the AI is insane people   is like if you give bad advice in AI,   it's obvious that it's bad advice,   right? Like if you don't know what   you're talking about in AI, it's obvious   you don't know what you're talking   about.
+
+
+02:14:26
+ So naturally, people get filtered   out. Like if someone gives bad advice,   they're not going to build an audience,   right? No one's going to be like, "Oh,   I'm following this person. They give bad   advice, right?" And so I don't care if   like   people who don't know what they're   talking about talk about AI because who   cares,   you know?   Like if you go and you create a bunch of   tweets talking about AI, if it's bad   tweets, then you won't get any likes and   you won't get any.
+
+
+02:14:54
+ So it's like it's,   you know, it's a competition. It's a   perfect competition.   We're 20 minutes over. I love you all.   Thank you for watching the live stream.   This was more of a casual hangout and   chat one. I hope you don't mind.   Let me know feedback if you got it. I   hope you don't mind. I didn't feel like   doing creating anything too crazy here.
+
+
+02:15:14
+  I just wanted to hang out. I just wanted   to be honest on a Wednesday. I just want   to hang out and chat with you guys. I   hope you don't mind uh that we just hung   out and chat today. Uh leave a like down   below if you haven't yet. Subscribe and   turn on notifications. All I do is   create amazing videos in AI.
+
+
+02:15:25
+ If you want   to um   join the live Open Claw boot camp this   Friday on local models,   Vibe Code Academy down below. Link to   the Vibe Coding Academy down below.   Number one AI community on planet Earth.   1100 people are in it. 1100 people   number one on planet earth vibe coding   academy down below hit the like button   thank you bass genails shout out bass   gen since day one since day one same   thing with alli kails day one chongs aai   even this guy's a clown day one   Joe Whitting thanks man appreciate your   work you inspire me looking forward to   the next video appreciate you Joe means   a lot Joe thanks for watching Joe thanks   for watching Joe Francis thanks for   watching Joe Hildalgo 8000 thank you,   Nclaw. Thank you as always. Holar   Whitting, thank you. Holar, I appreciate   you. Guso, thank you.
+
+
+02:16:23
+  Metsky, thank you, bro. NBUSA,   Kosher, how did you learn to live stream   on YouTube? I don't know. I just plug in   my camera and turned it on. That's it.   Kosher Kid,   Sebastian Roso, Santino, H Shiffen,   KB Mango, Mangoang, Falcon, Crypto,   Angel   GJ2MV.   Appreciate you all. I'm going to go do   chess day at the gym.
+
+
+02:16:53
+  We live stream Monday, Wednesday,   Friday. Monday, Wednesday, Friday, 11:00   a.m. We'll be back Friday 11 a.m.   Pacific. 11:00 a.m. Pacific.   Love you all.   JCNY718.   Glad you found the channel. Glad you   found the channel, my dude. Happy to   have you here. Glad you're learning a   little bit.   Thanks for the inspiration.
+
+
+02:17:15
+ And short   out, of course. Love your work, bro.   Been watching for a while. Delay   difference means I missed the live   stream. Aiden Teague, appreciate you,   bro. Thanks for watching. The support   means the world. The support you guys   give me means the world.   The support you guys gives me means the   world.   Love y'all. Talk soon.
+
+
+02:17:35
+ Have a great rest   of your day.
+

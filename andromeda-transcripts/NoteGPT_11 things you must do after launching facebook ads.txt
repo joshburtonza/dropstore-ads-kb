@@ -1,0 +1,168 @@
+
+00:00:00
+Most people launch Facebook ads and do   nothing but refresh the dashboard over   and over again watching $50, $100, $200,   $2,000 disappear only to reset the whole   account, start over from scratch, and do   it again and again and again. In the   last 12 months, me and my agency have   managed over $70 million for seven,   eight, even nine-figure brands, and I   can tell you with absolute certainty   that what you do after you launch your   ads is far more important than how you   set them up. So, here are 11 things you   need to do every time right after you   launch your ads. Number one, leave it   alone. Now, stick with me on this one. I   know it sounds crazy, but this is the   error that I see the most brands make   most consistently. People launch their   ads and they go in and start making   little itty-bitty tweaks all the time   only to find out that their original   setup, the original ads that they had,   were actually driving purchases. It just   took a little bit of time to actually   drive the revenue. See, the funnel is   not going to be instant. Just because   someone sees your ad for the first time   doesn't mean that ad is going to be
+
+
+00:00:58
+  good, bad, or drive a purchase or not.   What it just means is it's the first   impression. It may take three, five,   seven, 20 impressions to actually get   someone to purchase. In fact, on my very   own ad account, we know that it takes   more than a dozen impressions on average   to get someone to book a call with us at   The Moonlight ers.
+
+
+00:01:16
+ Now, number two is   something you're going to do on the back   end. This isn't going to interfere with   your ads, but it's going to make sure   that you're actually tracking things   properly. I call this the pixel gut   check. To do this properly, go into your   ads manager and click on the left side   where it says events manager.
+
+
+00:01:30
+ Once   you're in here, click on your pixel, and   then we're going to run a very simple   gut check. So, go ahead and click on the   purchase event here, and what we're   looking for first is the actual parity   between these lines. You could see   there's a blue line and a light green   line.
+
+
+00:01:44
+ We see in this case they almost   look exactly the same. This looks really   good. We click view details, we can see   just about every day the lines look the   same, and when we look at the actual   events received, we see 3,242 and 3,600.   Anything more than a 10 or 20% gap   between these numbers, and I would start   to get a little bit nervous that my   pixel purchase event isn't firing   properly.
+
+
+00:02:03
+ We should also always see   server events over browser events. Then   I'm going to do this exact same thing   and go down the list through initiate   checkout, add to cart, and so on. Now,   with each step of these, you're going to   see increased in the differences. It's   because of the way the pixels are being   sent.
+
+
+00:02:20
+ What we're just looking for is   consistency in the metrics. The purchase   is by far the most important one. After   we've gone through the initiate   checkout, the add to cart, we're   actually going to go back to the   purchase event, and all we need to check   is that this server events received,   which of course should be close to the   browser events received, is actually   matching what you have on your Shopify   or your e-commerce side.
+
+
+00:02:41
+ So, if you did   3,600 purchases just like this brand in   front of me did, then you should in fact   see 3,600 purchases on your Shopify   side. The third thing we're doing after   we launch our ads is we're doing another   gut check. This is a CPM, CPC, and CTR   gut check. This is going to be a   fundamental staple for how you're   setting up your columns and looking at   your data without overreacting too   early.
+
+
+00:03:04
+ To set this up, the first thing   we need to do is address which columns   we're using. So, you go ahead and click   columns right here and click customize   columns. Now, I've preset my columns   here, so you can just copy and paste   these, take a few screenshots, enter   these into your account yourself. What   we're focused on is amount spent, ROAS,   purchase conversion value, aka revenue,   purchases, CPM, CPC, CTR, frequency.
+
+
+00:03:25
+  Scrolling to the right, we're also   adding add to carts, initiate checkouts,   cost per add to cart, and cost per   initiated checkout. What we want to   focus on in this section right after   we've launched our ads is our cost per   initiated checkout and our cost per add   to cart.
+
+
+00:03:38
+ These are going to be leading   metrics to what's actually going to work   in our account. So, when we start to   evaluate what creative is actually   working, we're looking at our cost per   initiate checkout and our cost per add   to cart. Let me show you a very simple   example. So, I've just moved my columns   so you can clearly see three key rows.
+
+
+00:03:54
+  Purchase return on ad spend, cost per   add to cart, and cost per initiate   checkout. What you're going to notice is   pretty simple. The lower on average our   cost per checkout initiated is, the   better our return on ad spend is. This   is because it's a proxy to cost per   purchase.
+
+
+00:04:08
+ These are leading metrics that   we pay attention to. Which leads me to   number four, stop worrying about your   return on ad spend or even your core   KPI, especially on an individual ad   level. Your core focus at the start of   an account is to make sure the   account-wide   return on ad spend or cost per   acquisition, whichever is your KPI, you   want that to be hitting the goal   overall.
+
+
+00:04:31
+ We don't care about individual   ads, we care about the overall holistic   point of view. You should know that   you're paying an early tax when it comes   to running ads. And what I mean by this   is you're paying a stupid tax. You   literally do not know what's going to   work in your ad account just yet. So,   accept the fact that early days are   going to look worse until you start to   hit a few home runs and are actually   able to scale.
+
+
+00:04:54
+ Scaling does not just   mean scaling in total spend, it means   scaling in revenue as well, and that can   only happen when you identify winning   creatives. Number five, we're going to   do our first advanced breakdown. We're   going to stay in the ads manager for   this, and what we're going to do is in   the top right corner, we're going to   click breakdown, and then we're going to   go one by one through four different   breakdowns.
+
+
+00:05:12
+ The first is our audience   segments breakdown. What this is going   to show us, as long as we set things up   properly, is where our new audience   spend is, our existing customer spend,   and our engaged customer spend. Second,   after we look through audience segments,   we want to also look at age, and this is   going to give us a good gut check of if   we're spending our money on the   appropriate cohorts.
+
+
+00:05:30
+ If you're a brand   that should be selling to 65 plus, but   all your spend is going to 18 to 24, you   need to make a shift. After age, we're   going to do placement, which is going to   show us all the different placements in   Facebook ads. Then after placement,   we're going to do platform, which is   going to show us the differences between   Facebook, Instagram, and the audience   network for the most part.
+
+
+00:05:48
+ And then   lastly, we're going to type in gender,   which is going to show us the clear   breakdown between male and female to   understand if we're targeting the right   people. In this example that I have   here, we can very clearly see we spend   the majority of our cash on females at a   1.3 ROAS, and men only at a 0.
+
+
+00:06:02
+5 return   on ad spend. Keep in mind these are   one-day click attribution windows. I   would not recommend that. This is a very   large account in overall spend. And when   each of these breakdowns are made, it's   now your duty to understand that A, your   creative is either doing the right thing   or the wrong thing.
+
+
+00:06:19
+ It's either   targeting the right or wrong people for   you, or B, put restrictions on your ad   account based on what's working, what's   not working, or really making sure that   you're not going in the completely wrong   direction. This leads me to number six,   pausing ads. One of the things that I   see most commonly being an issue for   brands is they pause ads too early.
+
+
+00:06:37
+ So,   I want to make a case first for how   brands are pausing less ads. Now, I'm   not expecting you to be like Arctic Cool   or like Athletic Greens or like Alex   Hormozi, but what I do want to show you   is the trend that all of these ad   accounts have gone in in the last year.   Every account that I'm showing you here   has gone from a few ads, in this case   Alex Hormozi was running a couple   hundred ads, to over 4,000 active ads.
+
+
+00:07:01
+  In the case of Athletic Greens, they   went from running a previous year ago   around 2 to 500 ads to now over 7,800   ads. And Arctic Cool, who went from   around 100, 110 ads to over 2,091 active   ads. In all of these cases, the trend is   clearly up. These brands are not pausing   ads down, they're looking at the whole   ecosystem.
+
+
+00:07:22
+ So, if you are thinking about   pausing an ad, think twice, then think   again, then think again again, because   the last thing you want to do is kill   ads that are actually supportive and   actually helping your entire account. A   good rule of thumb to use is that if the   overall account is achieving the KPI   that you need, don't pause anything down   unless it's not relevant anymore.
+
+
+00:07:42
+  Second, if you're thinking about killing   a specific ad because your overall KPI   is not being achieved, only do so if it   has spent twice your target CPA and has   not driven any purchases. If it's   getting delivery, look into it and   figure out why is it getting so much   spend, make replications of that ad, and   then also create hooks that are   different around that ad to try to get   people hooked in to buy.
+
+
+00:08:03
+ Moving on to   number seven, create winning iterations.   After you've launched your ads, they've   been running for a period of time now,   you're going to start to gather some   data. Whether that's purchase data,   initiate checkout data, add to cart   data, something is there for you to sink   your teeth into.
+
+
+00:08:19
+ It is now your chance   to take the highest spending ads that   are also achieving your target and make   iterations of them. See, the objective   of Facebook ads is to first go very hard   horizontal, build as many concepts as   you can, build a variety of different   ads to see what actually takes. This is   very much like throwing spaghetti at the   wall to see what sticks.
+
+
+00:08:38
+ After that   process, now that you've launched your   ads and you have data, it's now time to   take the best ads and make as many   iterations and go vertical. Go deep on   those ads. So, for this process, you are   literally taking your existing ads,   finding the best ones, and then making   iterations on the concepts that you know   already work.
+
+
+00:08:57
+ Which very quickly brings   us to number eight, create home runs.   Now, the home run process is a little   bit different. For some people, it's   going to be complicated. For others,   it's going to feel like second nature.   So, what I like to do is look into my   competitor ad accounts. What you can do   is you can go into the Facebook ads   library.
+
+
+00:09:13
+ You can use a tool like Magic   Brief, Super Ads, Motion. It doesn't   matter, they're all the same. I use   Magic Brief because it looks good, and   you watching this will understand things   a little bit more smoothly. What I like   to do for Magic Brief is sort by   performance. This is going to show me   the ads that have run the longest, and   ideally that have the highest number of   impressions according to the Facebook   ads library.
+
+
+00:09:31
+ And what I can see is these   ads by Alex Hormozi share a common   theme. So, of course, I would watch   every single one of these ads, and I   would try to understand what is he   talking about here, what is the frame,   what is the hook, what is being sold to   who, can I replicate this for my own   business. We can see the same thing even   easier on the Arctic Cool side.
+
+
+00:09:47
+ We can   see groupings of ads that might be   pretty strong. These two up top here,   which look very similar, have run for   231 and 224 days apiece. We could find   groupings of ads that are clearly   templates, take those templates, modify   them for ourselves, and steal like   artists. Which brings us to number nine.   At this point, you're creating a lot of   ads, your account's going to get   fluffier and fluffier.
+
+
+00:10:09
+ So, what do we   do? How do we know when to actually   kill? Now, I just told you that you   don't want to pause ads in most cases,   and it's true. And I want to put this as   a second warning because it's so   important. You need to know precisely   when to kill ads and when to not kill   ads.
+
+
+00:10:23
+ A few things that I like to look at   that are leading indicators to if ads   are actually going to pick up and work   are things that we did earlier. Add to   carts, initiate checkouts, cost per   clicks, and CTRs. These are usually   leading indicators to understand if   purchases are going to come soon.   There's also a very good chance that a   high-spending ad is a supportive ad.
+
+
+00:10:40
+ So,   when you kill it, the whole account   might suffer. Something I like to do is   set a maximum or minimum threshold on   new ads or maximum threshold on existing   ads that are taking a lot of spend. This   softens the blow as opposed to pausing   the ads. Number 10 is focused on having   a consistent rhythm for yourself.
+
+
+00:10:57
+ This   is going to keep you accountable, and   it's really simple. What I like to do   personally is have one day of the week   where I primarily upload creatives. Of   course, I make exceptions, but for the   most part, I pick one day of the week   that I launch most of my ads. After   that, I pick another day of the week   that I do my deep dive analysis.
+
+
+00:11:14
+ And if   anyone on your side is running ads and   not looking into your account, then   please go to the moonlighters.com/apply   because you need someone in your account   looking every single day and following a   rhythm so that you're actually spiraling   in the right direction, not the wrong   direction.
+
+
+00:11:31
+ My schedule, Monday I like to   upload ads, Thursday or Friday I like to   do my deep dives. This is when I   actually look into the weeds, evaluate   everything, and create my creative plan   for the following week. Which brings me   to number 11, have a scaling plan. Now,   what I mean by this is quite simple. Be   prepared for good and be prepared for   really good.
+
+
+00:11:52
+ One of the biggest mistakes   that I see most advertisers take is they   do not strike   tend to increase spend 10 or 20% even in   their best of best times, ultimately   increasing their business 10 or 30% over   the course of a full year. And you also   will see big advertisers in your space   that were previously very small lapping   you over and over and over, and you're   wondering how on earth are they driving   so much revenue? How do all my customers   know about them so quickly? The reality   is they are striking when the iron is   hot. They are taking advantage of   seasonality, offers, trends, and   whatever else is working for them, and   they're doubling, tripling, quadrupling   down on it. One of my biggest regrets in   advertising in the first 10 years of my   career was not getting as aggressive as   possible. And now there's actually tools   that we can use that we've gone through   before like incremental attribution and   new customer breakdowns that can make   you even more confident in scaling. For   me, one of the worst things that I can
+
+
+00:12:52
+  do is leave money on the table, whether   it's Black Friday, a sale period   throughout the year, or if things are   just working. When that ad is hot, I   want to take what's for the taking and   leave nothing on the table. Don't   forget, word of mouth is the single   unmeasurable factor in all of   advertising.
+
+
+00:13:10
+ What you heard about from   your friends was originally influenced   by an ad or a piece of content at some   point earlier. And the more customers   that you have, the more people are   talking about your business. So, being   aggressive and having that scaling plan   when it's right for you in your business   is very important.
+
+
+00:13:28
+ Now, that just about   wraps up my 11 things that I would do   after the setup. But if you watched this   and you didn't set things up right, then   you should go click this video right   here where I go through my full account   structure. This is the M4 structure,   which is the latest iteration of how we   set up our accounts at The Moonlighters.
+
+
+00:13:46
+  Everything's for free. If you have any   questions, let me know in the comments   below. If you want to get an audit done   by The Moonlighters and my team, then   click the apply button down in the   description. That's all. I will see you   very soon.
+

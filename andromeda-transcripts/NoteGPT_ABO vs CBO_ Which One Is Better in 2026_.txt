@@ -1,0 +1,148 @@
+
+00:00:00
+After managing more than 300 million in   metas-pan, I can tell you there's one   setting that's responsible for more   wasted budget than anything else. I'm   talking about the CVO versus Savio   decision. I have seen brands feeding   thousands of dollars into ads that   should have been killed weeks ago. And I   don't want that to happen to you.
+
+
+00:00:16
+ By the   end of this video, you'll know exactly   what CVO and are, which one you're   using, when to use each, and which   structure will be most profitable for   your brand. If you're new here, my name   is Frank. I run and operate Red Melon   and for the last 8 years I've been   taking seven figureure e-commerce brands   to eight figures with meta ads, growth   consulting, and creative strategy.
+
+
+00:00:35
+ As an   example, for this client specifically,   we spent 217K at a 2.6 ROS and got back   563K   in sales just with a CVO setup. But we   also use AVO setups for our clients and   I'm going to show you that too and how   it performs. All right, let's start with   AVO, which stands for adset budget   optimization.
+
+
+00:00:57
+ In plain English, you are   the one decided how much each adset   spends. So, if you have three adsets in   one campaign, you might set one to $50 a   day, another to $100 a day, another to   $30 a day. You are allocating the budget   manually, adset by adset. This used to   be the default way everyone ran meta   ads.
+
+
+00:01:16
+ And back in 2019, 2020, it made   sense. The algorithm wasn't nearly as   good at distributing spend on its own.   So media buyers took control. The   problem, it means you are the algorithm.   You are the one checking performance   every day, shifting budgets manually,   pausing under performers, and increasing   what's working.
+
+
+00:01:35
+ Now, that's a lot of   work. And if you're running an   e-commerce brand, you probably have   better things to do with your time. So,   AVO gives you control, but control isn't   always an advantage, especially in those   cases where the algorithm can do this   faster and better than any human. Which   brings us to CVO. CVO stands for   campaign budget optimization, and the   difference is simple but powerful.
+
+
+00:01:56
+  Instead of setting a budget on each   adset, you set up one budget at the   campaign level. Let's say 500 a day.   Meta's algorithm then distributes that   500 across your adsets automatically,   sending more money to whatever's   performing best in real time. Think of   it like this. If you have four assets   and one of them is crashing it at a four   extras while the others are sitting at   1.
+
+
+00:02:16
+2, the algorithm will naturally push   more spend towards that winner. You   don't have to lift a finger. The reason   CVO works so well today is that Meta's   machine learning has gotten dramatically   better. It can read early signals like   fixates, autocar behaviors, even scroll   patterns way before you have enough data   to make a manual decision.
+
+
+00:02:35
+ It's   processing thousands of data points per   second. We are processing a spreadsheet   at 9:00 a.m. over coffee. Now, before   you think I'm about to tell you that CVO   is the answer to everything, hold on,   because there's a real problem with it   that trips up almost everyone. Most   media buyers who switch to CVO run into   the same issue.
+
+
+00:02:53
+ They upload new   creatives, launch a fresh adset, and it   gets almost zero spend. the algorithm   just keeps feeding budget to whatever is   already running and your new ads never   get a fair chance to prove themselves.   And when that happens, they think CVO is   broken, they switch back to and they   are right back to managing budgets   manually.
+
+
+00:03:12
+ I'm going to show you exactly   how to fix this later in the video. But   first, let's make sure you actually know   which one you're running right now   because most people don't. This is going   to take you literally 10 seconds. So,   first thing you want to do is go to the   ads manager and make sure that you are   looking at the campaign level here.
+
+
+00:03:26
+ Once   you are sure that you're looking at the   campaign level, I want you to look for   the column named budget. If you see a   budget number like the one I'm showing   you right now, 600 here, 600, 50, and so   on, that's campaign budget optimization   or CVO. That means Meta is managing the   budget distribution across the adsets.
+
+
+00:03:46
+  As an example, using CVO for this   specific client, we spent 217K   at a 2.6 RA and got back 563K   in sales. Now you're looking at another   account we are auditing at the moment   and as you can see in the last 7 days   they spent 14K and got 17K back at a 1.2   ROS with an AVO setup. And the way you   realize this is an AVO setup is   essentially make sure that you are   looking at the campaign level and when   you see the budget column you'll see   this text that pops up here using adset   budget. And the second thing I want you   to check just pick one random campaign   go to the adset level and look at the   budget column. If you're using an AVO,   what you'll notice is that the daily   average budget is visible here, and you   can even edit it. This doesn't   necessarily mean that AVO is a bad   choice for e-commerce, but I wanted to   show you an account that's using full   AVO setup. Now, if you're finding this   useful so far, do me a quick favor and   hit the like button. It helps YouTube   show this to more e-commerce owners who
+
+
+00:04:46
+  need it, and it helps me keep making   videos like this one. Now, you know the   difference, and you can spot it. The   real question is, which one should you   be using? Let's start with when CVO   makes sense and then I'll show you the   specific cases where I personally   recommend AVO.
+
+
+00:04:59
+ So here's my honest take   after running this across hundreds of   e-commerce brands. If you are an   e-commerce brands, CVO should be your   default. First, it creates a competitive   environment for your creatives. Every   new adset you launch has to earn its   spend by outperforming what's already   there.
+
+
+00:05:16
+ Your account naturally gravitates   toward your best ads over time. Second,   it saves you hours of manual budget   management. Instead of logging in each   morning to shift 50 here, 100 there, you   spend that time on what actually moves   the needle. Better creatives, better   offers, better landing pages. Third, it   scales more smoothly because Meta is   optimizing in real time.
+
+
+00:05:35
+ You avoid these   sharp performance swings you get when   you manually crank budget up 50%   overnight. Now, I don't want to pretend   that CVO is perfect for every situation.   There are specific scenarios where AVO   can make sense. But here's the catch. It   requires proper management for it to be   efficient.
+
+
+00:05:52
+ Let me walk you through   exactly when and why. All right, let's   be fair. AVO isn't dead. There are real   use cases where it earns its place, but   you need to understand what you're   signing up for. The scenario one is pure   creative testing on equal footing. Let's   say you're launching five completely   different creative concepts in the same   week.
+
+
+00:06:09
+ different angles, different hooks,   different formats, and you want each one   to get a fair shot at spend regardless   of what's already winning in your   account. This is where AVO can work. You   give each adset the same daily budget,   say $50 each, and you're guaranteed that   every concept gets tested equally. No   favoritism from the algorithm.
+
+
+00:06:25
+ Why does   this matter? Because in CVO, Meta might   look at early engagement signals like   click for rate, thumbstop radio, and   decide to pour all the ad spend into one   concept before the others have a fair   chance to prove themselves on actual   purchases. And high engagement doesn't   always mean low CPA.
+
+
+00:06:41
+ So, an ad that gets   a lot of clicks might eat up all the   budget, while a quieter ad that actually   converts better gets no ad spend. With   AVO, you're essentially saying, "I don't   want the algorithms to pick favorites   yet. Let me collect the data and then   I'll decide." The scenario two is   scaling individual winners   independently. Here's another situation.
+
+
+00:07:01
+  You find a creative that's working   really well inside a testing campaign or   a scaling campaign. With AVO, you can   scale that specific adset from 100 to   300 to 700 without affecting anything   else. You have surgical control over   budget per adset. So, if you're the type   of media buyer who wants to scale   winners individually and you're actively   managing the account every single day,   AVO gives you that precision.
+
+
+00:07:22
+ But here's   what I want to be upfront about. Both of   these scenarios require active hands-on   management. This is not a set it and   forget it setup. With AVO, you are the   optimization engine. You need to be on   the account daily checking performance,   shifting budget, pausing losers, and   scaling winners.
+
+
+00:07:39
+ If you're not doing   that consistently, AVO will silently   bleed your budget into underperforming   ads, and you won't even notice until   it's too late. And if you think you can   beat Meta's algorithm today, you better   be good. So if you don't have the time,   the team or the discipline to manage   budgets daily, is going to cost you   more than it saves you.
+
+
+00:07:57
+ That's the   honest truth. So AVO has its place, but   only if you manage it properly. Now CVO   has a catch. There's a lot of people   that don't like to use it. CVO has one   big objection. People say when I launch   new ads in a CVO, they don't get any   spend. And they are right. But let's see   if we can fix this.
+
+
+00:08:14
+ This is the part   that's completely going to change how   you think about CVO. When you launch a   new adset inside a CVO campaign, it has   to compete against everything already   performing. So, your brand new creative   might get $2 of spend and get killed   before it ever had a chance. Here's the   fix. Adset spending limits.
+
+
+00:08:30
+ And I'm   going to show you exactly how you can   set it up. So, the first thing you want   to do is pick a CVO campaign and click   on edit. Once you are able to edit, pick   one of the adsets. Scroll down until you   get to the budget section and click on   adset spending limits. You want to check   this box here.
+
+
+00:08:47
+ You want to switch from   percentage value to dollar value. And   finally, you will add an average daily   minimum in this specific new adset with   new creatives. A lot of clients ask me,   "What's the right amount to set up at   the average daily minimum box?" My rule   of thumb is to set this minimum at at   least 1x your target CPA.
+
+
+00:09:05
+ Let's assume   your target CPA is $50. So, let's set   the average daily minimum to $50 a day.   that forces Meta to give this new adset   at least $50 of daily spend so it can   actually collect meaningful data. And   here's the key. You don't leave that   minimum on forever. I run it for 7 days.   After 7 days, you remove the minimum and   let the adset compete freely.
+
+
+00:09:28
+ And after   7 days, there are three scenarios that   play out. Let me show you this. So, let   me explain with a graph. This axis   corresponds to ad spend. And this axis   corresponds to time expressed in days.   Let's go with the scenario one, which is   finding a winning ad. Winner ads will   behave like this.
+
+
+00:09:45
+ They'll start spending   the minimum and then they'll start to   pick up and spend more as the days go   by. What happened with this winner ad is   that it started spending the minimum and   then it took off way before reaching the   7-day window. So essentially, Meta gave   more ad spend to this ad because the   performance was strong.
+
+
+00:10:02
+ That's the   dream. That's the best possible scenario   that you can see. The scenario two is   the average performer. What happens with   average performers is it spend its   minimum daily budget hits roughly your   target CPA but doesn't pull extra spend   before the 7-day window as the winner   did.
+
+
+00:10:20
+ So the ad spend would look like   something like this. And then when you   pull out the minimum it could go one of   two ways. Either it keeps stable or it   slowly fades. Either way you got your   data. And the third scenario is the   underperformer. We're going to mark it   in red here. So what happens with the   underperformers is that they spend the   bare minimum within the 7 days window   and maybe even add two or 3x your CPA   which we can't see in this graph but   that's something that you could   eventually see in your ad account.
+
+
+00:10:50
+ But   when you remove the minimum after 7 days   the algorithm kills it naturally and   turns it spend to zero or almost zero.   But the good news is that you only lost   7 days of control spend instead of   endlessly feeding a loser in AVO. In all   free scenarios, you win. You either   found a scaler, got useful data, or cut   a loser quickly with limited downside.
+
+
+00:11:14
+  And that's the beauty of CVO with adset   minimums. You get the best of both   worlds. And notice what just happened.   We address the two main reasons people   use AVO. Fair testing and budget   control, but inside a CVO structure.   Adset minimums give your new creatives a   fair shot, and the 7-day removals gives   you a clear decision framework.
+
+
+00:11:32
+ You get   the data without giving up the scaling   advantage. Now, here's the thing. Using   CVO correctly is just one piece of the   game. The real lever for scaling your   account is making better ads   consistently. That's what separates the   brand stack at six or seven figures from   the ones breaking into eight.
+
+
+00:11:48
+ I made a   full breakdown of the exact system we   use to create winning ads every single   week. Watch it right here. Subscribe if   you find this valuable.
+

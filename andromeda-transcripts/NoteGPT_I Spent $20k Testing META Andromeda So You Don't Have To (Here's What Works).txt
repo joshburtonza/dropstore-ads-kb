@@ -1,0 +1,232 @@
+
+00:00:00
+If you feel like you've been battling   with Facebook over the last few months   to get consistently performing ads, then   this video is most likely going to help.   As some of you may have seen, Facebook   recently released their Andromeda   update, and it's possibly one of the   biggest updates they've ever released   and has a huge impact on how you   structure and design your Facebook ads.
+
+
+00:00:18
+  And I've obviously seen a bunch of   videos on YouTube talking about this,   but a lot of them come from the   perspective of high budget campaigns or   e-commerce campaigns. And so, in this   video, I'm going to talk specifically   about how this applies to lead   generation ads. So, if you're running   ads for clients or yourselves and you're   doing primarily lead genen ads and local   ads, this is going to be the video that   you're going to watch.
+
+
+00:00:35
+ So, grab a   coffee, sit back, and enjoy the video.   Let's crack on. So, firstly, here's what   happened behind the scenes. According to   Meta's own blog, which was published in   December 2024, so nearly a year ago now,   Meta was literally drowning in ads.   We're talking tens of millions of   published ads every single day.
+
+
+00:00:50
+ And the   algorithm just could not keep up with   that volume. So, what they did is they   partnered with Nvidia. Nvidia being the   AI company that we all know, the   technology and AI company. And according   to Nvidia's own press release, which I   will link in the description box   underneath this video, they built a   completely new system and called that   system Andromeda.
+
+
+00:01:07
+ So, this isn't just an   update. This is a completely rebuilt AI   system when it comes to optimizing your   ads. And this gave Meta over 10,000   times the computing power that they had   before. And Meta's engineering team has   explained there's a four-step process to   this Andromeda update. So, that is what   we're going to cover in this video.
+
+
+00:01:24
+ And   those four stages are retrieval, light   ranking, final scoring, and auction. But   the real game changer is in step one.   Meta has stated that the old system   looked at ads one by one. But the way   Andromeda does it now is it groups   similar ads together and instead it's   prioritizing creative diversity.
+
+
+00:01:41
+ So what   that means is if you're running the same   ad with five different hooks, there's a   good chance that they're all getting   lumped together. And that means that you   might not actually be targeting those   different user bases that you think you   are by just switching out your hook. So   let's take a look at my screen here.
+
+
+00:01:56
+ So   what I've done is I've got all of my   different pain points in the exact   process that I normally go through and   I've figured out kind of what are the   core pain points that trigger users to   purchase this product. And this product   is internal lifts company, right? What I   would normally do is I would take each   of those problems and I would create a   different hook and then I would attach   those different hooks.
+
+
+00:02:11
+ So it's quite   often the same video ad script. But the   way I'm changing that now is instead of   having the same video ad script, what   I'm actually doing is I'm creating a   brand new script for each one of these   hooks and each one of those scripts is   more or less focused around that one   core problem or painoint.
+
+
+00:02:26
+ So yes, it's a   little bit more work, but you only have   to go through this process in the   initial stages to understand which hooks   are generating you the most leads and   then from there you can create more   variations with those same script. So   how do you actually create that creative   diversity that we're looking for? Well,   there's three core ways of doing this.
+
+
+00:02:44
+  Number one, you have format diversity.   So that is for example using video ads,   using static ads, using carousels and   other variations such as gifts and short   animated videos to portray the same hook   or pain point that you have in your   original creative. The second thing is   angle diversity.
+
+
+00:02:58
+ So that is scripting   your ads to appeal to completely   different personas, different pain   points and different solutions. And the   last one is concept versus variation. So   how do we actually create this diversity   that we need? There's two main ways. The   first one is obviously format diversity.   So that is the format in which you relay   that information.
+
+
+00:03:14
+ That could be a static   image with a long copy. It could be GIF   ads. It could be talking head ads. It   could be voiceovers. It could be   textbased video ads. There's all sorts   of ways that you can actually format   things differently. And the second one   is angle diversity. So that is actually   scripting your ads to appeal to   completely different personas.
+
+
+00:03:29
+ So if we   go back to our scripts, we can see that.   So for example, with the product that   we're talking about, this is internal   lift company. This has multiple   different personas. One persona might   be, for example, somebody buying it for   themselves. Maybe they're getting older   and they want to install a lift so they   can stay within a home.
+
+
+00:03:43
+ And a second   persona might be someone purchasing it   or controlling that purchase for an   elderly relative. So those are two   completely different personas. If we   look at this one for example, danger of   stress using the stairs. I've written a   script here which starts with falls on   stairs sends over 250,000 Brits to A&E   every year most of them in their own   homes.
+
+
+00:04:00
+ If you or loved one grips the   rail every time you climb the stairs   gambling with your safety. So that's you   know very much focused around kind of   you know danger stress and it's a little   bit kind of fear induced and pain   induced right but this one for example   is barrier to caring for loved ones. So   for example helping a loved one upstairs   shouldn't feel like risking both your   safety for many carers the stairs are   the most stressful part of the day.
+
+
+00:04:18
+ So   the angle the persona is actually very   different although it's the same   painoint the persona that we're   appearing to is actually extremely   different. Right. And then finally we've   got space or layout limitations. So   essentially people purchasing it for   luxury reasons. Right. So this hook is   think your home's too small for a lift,   think again.
+
+
+00:04:34
+ But then alternatively to   those two scripts, we might create a   script which is focused around people   installing lifts for luxury purposes,   right? And that might be a completely   different persona as somebody who's   purchasing it, you know, for   accessibility reasons. And this applies   to pretty much any product. And so I'll   link one of my previous videos down   below where I kind of go through my hook   testing process.
+
+
+00:04:52
+ And I like to do things   just like scraping Google reviews to try   and find those different pain points and   personas. And so quite easily with a   product you can find, you know, five to   six different pain points which you can   use to generate hooks. And with each one   of those hooks, you can write an   individual script.
+
+
+00:05:05
+ You can take that   script and you can apply that script in   completely different formats. So I'm   going to play a few seconds or a few   different types of formats just to give   you some ideas. So this one right here   that I'm going to show you, this is a   voice overbased video ad. There's   actually no talking head at all.
+
+
+00:05:17
+ And   these voiceovers were generated using   AI. Thinking about upgrading your home?   Before you spend a single pound on   upgrades, come to the one place where   you can see, touch, and test it all in   real life. So, that's one format.   Another format might be something   similar to this one right here.   Again, you could take the exact same   script and use it in a textbased format   like this.
+
+
+00:05:45
+ Another format might be   something like this. If you can't turn   your neck without sharp pain, watch this   film. Chronic back pain doesn't just   hurt your body. It steals your life. If   you can't sleep properly, if you're   avoiding doing the things that you love   if you're constantly worried about when   the next flare up is going to hit.
+
+
+00:05:59
+ So,   as you can see, there is an unlimited   amount of variations that you could   create, right? Not only can you create   these variations with your video ads   specifically. So, for example, if we   take this image ad that I created from   one of my Canva templates, which is   inside of my private community, you can   see that I'm using the hook, which is   that homeowners save up to 30K on moving   costs.
+
+
+00:06:17
+ That's a strong hook and that's   kind of related to people moving for   accessibility reasons, so downsizing   their homes. And so obviously what I can   do here is I can match this image up   with a longer form ad primary text and   you know that's kind of using the same   hooks and angles as the video script   might use, right? This is a different   completely different creative format.
+
+
+00:06:34
+  And so what Facebook is basically   telling us is rather than how we might   normally split test our adsets and we   might kind of have different angles in   different adsets and you know test   multiple variations at the same time.   They're basically telling us they want   us to combine these into one adset.
+
+
+00:06:47
+ And   I know some of you guys might be   thinking that's quite scary as a concept   because as advertisers we like to have   some creative control. And I've been   experimenting with both of these. I've   been running ad accounts where I split   ads set down by different angles and I   might have for example one up to three   ads in one adset and I'm basically   forcing Facebook to split test my ads   for me.
+
+
+00:07:08
+ And I've also been testing it   where I just throw them all within the   same campaign, the same adset. I leave   everything as relatively broad and I   also leave Advantage Plus on and I have   all of my ads stuffed into one adset and   I let Facebook rip basically the Chad   style of advertising, right? And I'll   tell you the difference that I found.
+
+
+00:07:23
+ I   tend to find that when I combine things   together, I'm getting more longevity   within my ad accounts. I have to it's   less hassle. I have to make less changes   and in some instances, I'm actually   finding the results to be better.   However, what I am finding is Facebook   is still sometimes finding it quite   challenging to actually optimize my   budget effectively.
+
+
+00:07:40
+ So, what this   effectively means if I try and explain   this in diagram format, if I for example   given my campaign a $100 per day budget   on a CBO, right? So, for example, if we   explain this in a diagram format, if I'm   giving a campaign $100 per day of ad   budget and let's say I've got five ads,   what I will quite often find is 70 bucks   gets spent on one singular ad and maybe   the ad gets one lead.
+
+
+00:08:00
+ Another ad gets   $10 spent and one lead has come through   that ad. So, in my head, I'm thinking,   well, why is Facebook giving all of my   budget to this ad when this ad is quite   clearly outperforming that one, even   still with it being a relatively light   and small budget? And that's because the   algorithm isn't just based on leads.
+
+
+00:08:16
+ The   algorithm is based on lots of different   variables, right? If people are engaging   with one ad more than the other, if   they're clicking on it more regularly,   it doesn't necessarily mean it's going   to generate leads, but it can quite   often signify to Facebook that more   budget is being spent.
+
+
+00:08:29
+ So the general   rule of thumb, if you're going to be   applying this Andromeda update and   you're going to start what they call   consolidating more of your ads into the   same campaign and adset, my general rule   of thumb is to check this every 2 to 3   days. Okay? And my general rule is I set   myself a target cost per lead, right?   And my target cost per lead might be,   for example, $30.
+
+
+00:08:48
+ Okay? And you might   not know what your target cost per lead   is. So you might need to experiment a   little bit so you can kind of see what   is possible within your ad campaigns. So   if your target is $30 and you've had an   ad that's spent over $30, you've had no   leads, and your CTR is looking bad. My   general rule of thumb is if your CTR is   below 0.
+
+
+00:09:05
+8%, 8% I might turn that ad off   and let that budget get redistributed   amongst my other ads that are active   within the same adset. If my target cost   per lead was $30 and my ad has spent $30   but my CTR is north of8% and even north   of 1% I will let that ad spend up to two   times my target CPL before I'm turning   it off.
+
+
+00:09:26
+ And if you are on top of this   and you are essentially optimizing   within your adset, you want to make sure   that you're also replacing ads that get   switched off. So that means having a   reserved team of ads down here that we   can lean on. If you know we pause two   ads, we can then move two ads into our   campaign and we can essentially replace   the ads that got paused.
+
+
+00:09:44
+ You want to   make sure that you have a good volume of   ads and created diversity. And my   general rule for this is and again this   is my rule and it might be different for   other people advertising on the   platform. My general rule is for every   $50 of ad spend you probably want to   have five active ads. So that's   basically one ad for every $10 per day   of budget.
+
+
+00:10:02
+ Again, if you're spending   $1,000 per day, you're probably not   going to have a 100 ads, but you kind of   get the point. Up to, you know, up to   maybe a $100 to $200 per day. I tend to   have maybe one ad for every $10 to $20   of ad spend. Okay? And that's just   giving at least in the initial stages to   give Facebook some create creative   diversity so that they can do more   testing and kind of figure out what is   working.
+
+
+00:10:22
+ Another important thing to   mention is that Facebook has stated that   some ads might be acting more as top   offunnel ads. That means that is the   first ad that is kind of bringing them   into your advertising network by kind of   getting them to know your brand. And   some ads might be acting as more middle   or bottom of funnel campaign.
+
+
+00:10:38
+ So for   example, if you've got static image ads,   people might be seeing the video ads   first and then seeing the static image   ads second and therefore the video ads   for example might not have the best cost   per lead, but it might be bringing users   into your but it might be connecting   users with your brand so they later are   converting with those static ads.
+
+
+00:10:54
+ One of   the biggest Andromeda updates is kind of   this kind of movement away from   structured audiences and retargeting and   allowing more of the AI to control that   within one campaign and one ad. So that   means if we're talking from top to   bottom of the funnel, so for example,   top of the funnel being very very cold,   maybe less qualified audiences and   bottom of the funnel being more   qualified kind of more ready to buy   audiences.
+
+
+00:11:16
+ Obviously your language and   the way that you connect with those   people is going to be slightly   different. You can have ads that are in   all both of the all of these different   uh audience segments in the same ad set   and Facebook will kind of like figure   out for you where those ads sit within   the matrix and it will kind of like feed   them to the user at the right stage.
+
+
+00:11:32
+  Again, this is all what Facebook is   telling us. I still recommend that you   set up good audience segmentation. You   do use retargeting effectively because   it's still worth setting that up and   doing that. Okay. And if you're kind of   confused as to what those different   levels mean, here's my general rule of   thumb.
+
+
+00:11:47
+ top ofunnel users or cold users,   you want to use value based content,   problem solution and persona based   stuff. And primarily I'm using 30 to   60-second video ads or longer copy   formats for those. Middle of funnel is   more direct callout based ads. For   example, ads like this where I'm   directly calling out the problem and   giving them my offer directly within   that static image ad as opposed to it   being more kind of like pain, problem,   solution, and education which I would   include both of those variables in your   cold campaign. So that means whereas   before I might have had just like you   know 30 to 60second video ads top of   funnel I'm now starting to introduce   more variations in terms of the the   directness of those ads but making sure   that I have creative diversity and angle   diversity within those. So a good blend   of all of them is really important to   make sure that you're optimizing for the   Andromeda update. And the final main   point is the movement away from   interestbased targeting. Obviously,
+
+
+00:12:45
+  we've seen this change over the last   three to five years with Meta, where we   used to be a lot more specific with the   types of users we're targeting. Meta is   having a big push towards more broad   audiences, leaving that advantage plus   audience option toggled on and giving   Facebook more control.
+
+
+00:12:59
+ And essentially,   the way that we're targeting our ideal   users, something I've been saying for   over a year, is all done with your   angles and your creative, and it's not   done with the interests and the   audiences that you're setting up. So   that might be if you're using   interestbased targeting, try moving away   from interest based targeting.
+
+
+00:13:17
+ Even if   your product is super specific, super   niche, make sure you're calling those   problems and calling those users out in   the first 3 seconds of your video or in   the on your image ads or on the topline   of your copy, make sure you're using   that to call those specific users out.   Facebook is saying they're going to   figure out how to target those people   for you. So do not worry.
+
+
+00:13:33
+ This movement   towards angle and hookbased targeting as   opposed to inspace targeting is one of   the biggest updates with this Andromeda   stuff. And that is what I'm noticing   across the board. And this also helps to   generate better quality leads. Right? If   you're targeting specific personas by   their pain points that they're having,   you're going to bring people into your   funnel who have those specific problems.
+
+
+00:13:52
+  And they're going to be a lot more   qualified as opposed to just interests   and offers and stuff like that. It's   going to work a lot better in generating   a higher quality of user. So, let's do a   quick summarization. Step one, make sure   you're auditing your current ads. Try to   group those ads together if you can and   try and consolidate them into as minimal   ad sets and campaigns as you possibly   can.
+
+
+00:14:09
+ Number two, look for your best   performers. Create format variations of   those best performers. So, if you've got   a particular painoint which is working   very well as a video, turn that into a   long copy variation. Turn that into a   completely different video style, but   using the same script as you originally   use.
+
+
+00:14:24
+ Keep it in the same adset, chuck it   in, add more variations, and you'll be   on to a winner. Number three, continue   creating those persona based angles. Do   your product research, your review   scraping, use AI. Make sure that you are   actively playing on pain points that   your potential customers are having.   Number four, restructure your campaigns.
+
+
+00:14:40
+  Try and consolidate those campaigns into   as minimal ad sets and campaigns as you   possibly can. And keep an eye on those   performers and indicators. Make sure   that you are optimizing as you go. But   equally, make sure you're not doing too   much. If you've got some ads that, for   example, are performing reasonably well,   but not necessarily like setting the   world light, leave those ads running   because they might be supplementing   other ad campaigns.
+
+
+00:15:00
+ Of course, if you've   got ads that are completely and utterly,   you performing horribly and sucking up   your budget, of course, turn those ads   off. If you've got some ads that you   feel like might be supplementing others   and they're bringing leads in at maybe   like 20 10 20 30% over your target CPL,   if your overall CPL is looking good, you   can leave those ads on.
+
+
+00:15:16
+ And finally, try   launching your ads in batches. So, for   example, rather than launching one ad at   a time, turning it off, and choosing   another ad, and choosing another ad,   choosing another ad. Try starting with   five to 10 ad creatives, chucking them   all into an adset, and running them in   batches.
+
+
+00:15:31
+ And what you can do is you can   create ads in batches. So once you   figure out ones that don't work, you can   pause them off and you can introduce a   new batch of ad creatives. My biggest   takeaway from this is just add variants.   Like if you've got ideas, test those   ideas, test those formats. Having as   many creatives as possible is going to   help you, especially with this new Adama   update.
+
+
+00:15:47
+ And finally, if you want to   learn how to apply this stuff and you   want to get access to me directly, you   want to get access to my full meta ads   breakdown course which includes   everything from start to finish as well   as a 15 module creative ads course and   also get access to four plus weekly   coaching calls directly with myself.
+
+
+00:16:04
+ I   will leave a link down below to my local   ads accelerator where you can do exactly   that. And we have over 100 plus   advertisers and marketing agency owners   in there absolutely crushing it. For   example, Carlos, who just crossed   $27,000 per month for his advertising   agency by applying principles taken from   this community.
+
+
+00:16:21
+ Axel, who's doing over   $10,000 per month with one particular   niche, just delivering Facebook ads. And   Azan, who applied some of the ad   strategies and his clients closed over   $24,000 worth of deals in one week from   directly taken from the Facebook ads   principles taught in the course. So, if   you're interested in learning more about   that, click the link down below, find a   little bit more.
+
+
+00:16:40
+ Otherwise, make sure   you like the video, subscribe to the   channel so you don't miss future   uploads, and I'll see you guys in the   next
+

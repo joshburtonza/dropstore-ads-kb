@@ -1,0 +1,528 @@
+
+00:00:00
+Meta is in drama has changed everything.   And it seems like every week there's yet   another agency guru dropping another   really short video promising that you   can throw a few hundred dollars into the   machine and make a million. We all know   it's complete nonsense. So, in this   video, I'm going to show you how to   absolutely crush with a small budget   starting at $50 a day or even 50 a week.
+
+
+00:00:22
+  We'll start with understanding the   three-stage process to scale profits   without forcing sales. And I'm even   going to give you three simple tools   that can easily 10x your revenue without   a single extra dollar spent on ads. I'm   going to show you real-world ad accounts   and every button and setting that you   need to know and even show you how I   build ads so you can copy and paste your   way to success.
+
+
+00:00:43
+  This is the three-stage process to   driving sales not forcing conversions.   Stage one, build an audience. This is   the awareness and engagement stage.   Stage number two, we need to build   trust. This is the nurturing and   education stage. And stage three, we   need to make the offer. This is the   sales and retargeting stage.
+
+
+00:01:00
+ By shifting   focus from forcing conversions to   building the right audience first, we   make every ad dollar more effective and   scalable over time. So, let me show you   how to make that happen. First, this is   the engagement strategy. We're going to   run funnel developing targeting. And   we're going to integrate our engagement   and content with a conversion funnel.
+
+
+00:01:24
+  So, let's get started with stage one,   build an audience. So, we're going to do   that with engagement campaigns. The   first benefit is a much better audience   quality because the system has more   signals to optimize delivery. All   delivery starts with a do people like   this? If we can give the machine a   better idea of who those people are and   give the machine a much larger amount of   those individuals, what you'll get from   your organic efforts supports and makes   the job a lot easier for your paid ones.   Another impact is that you're going to   see lower cost per conversion because   warmer traffic requires less ad spend to   convert. And lastly, you're going to get   higher organic reach because improved   engagement triggers algorithmic boost in   the system. You could try all day to   make viral content or we can run a few   dollars to teach the machine who wants   to see our stuff. And instead of   reaching a million people who like our   video but never want to buy from us, we
+
+
+00:02:22
+  can reach a thousand people who are   ready to buy today. One of those is   money in the bank, the other one well,   makes us feel good but doesn't actually   make anything different in our lives.   So, step number one is building your   seed audience. To start, go to business   manager, click on the audience button,   then click on the create audience   button,   then click custom audience.
+
+
+00:02:46
+ From here,   you want to click on your custom   audience source and you can select your   Instagram account or Facebook page or   website. Now, on screen, what I'm   building here is an Instagram custom   audience to target everyone who engaged   with the Disruptor School Instagram   account. Let's get to a few best   practices and then get to step number   two.
+
+
+00:03:08
+ I always start with a 30-day   audience. If this works, you can scale   spend for a long time. If it doesn't   work, go to a 7-day audience. And if it   does work, we can add budget with   automated rules to expand scaling. Also,   we can add a 90 or 180 day OR EVEN A 365   DAY AUDIENCE. HERE are the three   audiences that you can choose for your   seed in order of quality.
+
+
+00:03:33
+  First is your followers.   And generally speaking, people who are   following you have probably been to your   website and absolutely have engaged with   you. This is the highest quality but   lowest quantity. These are the folks who   are furthest down in the trust and   engagement funnel.   The second quality audience is website   visitors.
+
+
+00:03:53
+ These folks have been to your   website but they might not be following   you. And odds are if they've engaged   with their Instagram account, they've   probably been to your website. So, this   is one tier below followers and   engagers, which brings us to the   engagers, which is the lowest quality   audience but the highest quantity   audience.
+
+
+00:04:10
+ And this is how we can begin   to look at our seed audiences when it   comes to quality. And to start with, I   would do a 30-day engager audience. That   is a good mid-level timeframe and gives   the machine as much data as possible.   That's a great place to start. Now, I   hope you're enjoying watching this video   as much as I enjoyed making it.
+
+
+00:04:32
+ And I   want to take a moment and just say thank   you for watching it. Go ahead and smash   the like button. Subscribe to the   channel if you haven't already. Ring the   bell so you don't miss any future   videos. And take a moment to join the   Disruptor Academy where you can get for   free all the assistance that you need   all the things we talk about in this   video. There's a link right there.
+
+
+00:04:49
+ All   right. With that being said, let's get   back to it. Step number two is creating   lookalikes from our seed audiences. To   do this, go to the business manager,   click on the audience button, click on   the create audience button, click on the   lookalike audience, select your   lookalike source, which is your seed   audience from step one,   then select your audience location, and   then select the number of audiences and   the size of the audience you want to   make.
+
+
+00:05:20
+ Now, a Disruptor School best   practice here is always start with a 1%   audience.   If this works, you can scale spend for a   long time. If it doesn't work, you can   go to a different seed with more data.   And if it does work, we can add expanded   audience to scale. We can always add a   2% audience or we can use a different   seed audience or we can move into new   countries.
+
+
+00:05:43
+ We can also find wins by   combining countries. And this is   something that I'm doing inside of my ad   account for Disruptor Academy and I'm   going to show you that here a little bit   later. Also, a quick note, when making   multiple audience sizes like selecting a   2% and a 5%, the bigger ones are   designed to exclude the smaller ones.
+
+
+00:06:00
+  So, what this means is if you make a 1%,   2%, and a 5%, that 5% audience is not   going to have the people in it that are   in your 1% or your two. So, they're   meant to be incremental to each other   not compounding. And to be completely   fair,   I don't really think you need to go past   the 1% anyway.
+
+
+00:06:16
+ That's going to   [clears throat] be more than enough   people. Step three is creating your   stage one campaign. For this, you want   to go to the business manager, click on   the create button, select the engagement   objective, choose manual engagement,   select ad setup, and then select the   conversion location as on the ad, select   the engagement type as a post   engagement, and then choose of the   original audience function, and then   select the audience that you ultimately   want to run with.
+
+
+00:06:47
+ Step number four is   making the ads. To do this, go to your   business manager, click on the create   button, select the Facebook page and   Instagram account that you want to run   the ads from,   select use existing post, and then   select the post from either Facebook or   Instagram. Then, scroll down and in the   call to action menu, select no button.
+
+
+00:07:11
+  We want somebody that clicks on this to   just go to our account or engage with   the content. Another Disruptor School   best practice here is to use the   Instagram post instead of the Facebook   post whenever possible when choosing   content to promote. Instagram posts will   get more engagement on Instagram than a   Facebook post repurposed for Instagram.
+
+
+00:07:34
+  And use the caption of the Instagram   post as your ad name to make it easy to   find later. Again, the no button option   for call to action is the ideal one for   this effort. We want to do one thing   very well. And the business goal here   more than anything is building trust and   engagement to develop an audience that   we can sell to later.
+
+
+00:07:55
+  Also, quick note, some posts will be   ineligible especially if they have   copyrighted music, third-party filters,   or any extras attached like a poll or if   they're carousels. Now, when you're   running all of these things, you're   ultimately going to need to make sure   that specific posts don't run away with   all the budget because this is also a   little bit of creative testing, which   brings us to step five, limits and   automated rules.
+
+
+00:08:21
+ It's actually pretty   simple. To do this,   I want you to go to ads manager, then   click on the more button, select custom   rule,   and to set up a rule, you need to add a   name and then apply the rule to the ad   level to all active ads, have your   action turn off the ad,   and then set your conditions.   After that, you're going to set your   time range and your schedule.
+
+
+00:08:49
+ And I   always basically say max time and run   continuously. Now, a couple of Disruptor   School best practices that are going to   save you a ton of heartache. First,   apply this rule to all campaigns,   to all active ads. One of the annoying   things with automated rules is that you   can't really change some eligibility   features.
+
+
+00:09:10
+ And we want to make one rule   that applies to everything so you don't   have to make the rule over and over   again. Now, if you scroll back and take   a look real quick, you're going to   notice the campaign name needs to   contain the words brain development. If   it doesn't, this rule won't apply. And   this is a very great way to run your   automated rules because you now can use   nomenclature to decide eligibility.
+
+
+00:09:30
+ We   can change the name of the campaign or   ad set or ad. And I often suggest to   people set your impression level to at   least 2,000 impressions.   More impressions takes longer to   complete and is more expensive but   you'll get better data. And I often use   5,000 or 10,000 impressions inside of my   ad accounts.
+
+
+00:09:53
+ And what that means is   every Every post that we're promoting   will get the same number of impressions,   more or less, meaning that we can   evaluate each one in our creative   testing process, which is basically what   we're doing here, against the same   yardstick. And that has become very   important when we get to stage two. And   stage two is all about building trust.
+
+
+00:10:17
+  And we do this through nurturing and   education. And I'm going to show you how   to do it every step of the way with a   ton of examples. So, first, select   select the ad you want to evaluate and   then click the preview button up next to   the beaker. When that loads, in the   upper right-hand corner, I want you to   click on the share arrow and then select   Facebook post with comments.
+
+
+00:10:38
+  Then, click on insights and scroll to   the bottom to see the number of follows   that post has driven to your account.   Now, a quick couple Disrupter School   best practices here. Make sure you can   organically log in to the Instagram   account you're running your ads from.   Otherwise, you won't be able to see that   insights section.
+
+
+00:10:58
+ The insights section   is very interesting with a lot of useful   data, but for this campaign, follows is   the only thing that matters. Now, I want   to let you know, you will see super   popular content get you zero followers.   Views aren't value.   Followers are potential customers. What   we're trying to do is scale our   business.
+
+
+00:11:21
+ So, step number two is scaling   and optimization. I want you to   duplicate posts that get followers into   a new campaign, or an existing campaign   if you've already done this step once   before. And remember, you can bookmark   this video. And there are timestamps   down below to make sure that you find   exactly the part you're looking for.
+
+
+00:11:40
+  Come back to this step over and over   again to make sure you get it right. And   if you have any questions, ask them in   the comments section down below and I'll   get you an answer right away. This new   campaign will have all the same   settings, except it will not have the   automated rule to turn the ad off.
+
+
+00:11:52
+ Now,   I want you to repeat step one once a   week and calculate the cost per follow   by dividing the number of follows from   the total amount spent. And ultimately,   we're going to cost average down our   average cost per follow by turning ads   off that have an above average cost per   follow.
+
+
+00:12:13
+ Now, Disrupter School best   practice here is to create a spreadsheet   to track your cost per follow. And what   I want you to do is basically say post   name and a link to it, number of follows   that post got, how much did you spend,   and what is the average cost per follow   for that post. Do that for all of your   posts.
+
+
+00:12:31
+ Also, remember that new posts   will appear to be far more effective   because they're carrying over organic   follows and any followers you got during   the first campaign. I want you to track   the amount of money spent and the amount   of follows for every post. Your average   cost per follow will be the total amount   spent from all posts divided by the   total follows from all posts.
+
+
+00:12:57
+  That is incredibly important. So, now   let's talk about creative strategy and   the tools to use. Starting with the best   kinds of content. And I want you to know   that this isn't about your conversion   ads. This is about your organic content   because you're going to start thinking   of your Instagram account as an   extension of your website and free ads.
+
+
+00:13:19
+  And you're going to reposition the way   that you think about making that content   cuz you're not trying to hack the   machine to get views. You want only the   best people to see your content and   future customers to want to engage with   that content and follow you and go to   your website and eventually buy.
+
+
+00:13:33
+ Again,   remember, views aren't value. Followers   are potential customers. If you get 5   million views from people who will never   buy from you, that isn't worth anything.   But if you get 100 views and 50 of those   people are ready to buy anything you   have to sell, that is money in the bank.   The first principle here is use   Instagram Reels because they offer   format that is naturally engaging due to   its short and dynamic content.
+
+
+00:14:01
+ Utilizing   Reels can increase interaction with your   audience, keeping them interested and   engaged with your brand. The second   principle is showcase your brand   personality. Highlight your brand's   personality. This makes your content   memorable and helps in building a   stronger connection with your audience.   Now, this doesn't mean that you need a   high production content or to make   highly branded decisions with every   piece of it.
+
+
+00:14:28
+ If you look at Dad Gang,   for instance, half of their content is   their customers just posting because   it's about capturing that virality and   community. If you look at Dog Sauce,   Dakota was just repurposing existing   memes, but they were all on brand. And   if you take a look at Pilates Punks,   there's a brand color and a font.
+
+
+00:14:46
+ And   after that, basically, every piece of   content is completely different from   another one, and they all work.   I also love Instagram Reels because it   supports multiple content types. From   behind the scenes footage and product   demos to tips and storytelling. We can   utilize various types of content, making   it easier to stay on brand and diversify   your content strategy without needing to   adapt to trends or chase virality.
+
+
+00:15:17
+  And our last principle   is incremental growth over virality.   Focusing on consistent, quality content   that reflects your brand's values and   message builds a more sustainable growth   trajectory. Virality is unnecessary when   paying for attention. Remember, quality   over quantity.
+
+
+00:15:36
+ I'm going to say this one   more time, views aren't value. Say   you're a local business like Pilates   Punks. If she got 5 million views in the   UK and Australia, none of them are going   to come and take a class in Studio City   or Echo Park in Los Angeles. Understand   the goal is to build the business and   your content is a vehicle to achieve   that goal.
+
+
+00:16:01
+  Next, let's focus on the cheat code of   ManyChat. You can sell in the DMs   automatically. I do it every single day.   I'm going to show you the exact script   that I use, and we're actually going to   demo our entire way through it. This is   everything you need to succeed. These   things print money on autopilot.
+
+
+00:16:23
+ The   first one is comment for a link.   Now, this is directly from my ManyChat,   and I use this to get more views on   YouTube.   When any user comments a specific   keyword on posts,   it will immediately send them a link.   It'll also tag them if they click on   that link. And that user is added to a   list of other clickers of links.
+
+
+00:16:51
+  And now they can be segmented for other   marketing efforts within ManyChat.   This is a ManyChat flow to grow   followers for value.   When a user comments on a post with a   keyword, this flow will check to see if   they're already a follower. And if they   are, it'll send them a link to the   website.
+
+
+00:17:09
+ And if not, it tells them they   need to follow and then asks them to   confirm. And then it checks and repeats   the process until someone does follow   for the link. This can be incredibly   valuable if you want to promote a lead   magnet with people who are also more   likely to see the rest of your organic   content.
+
+
+00:17:27
+ Why not have this in every   post? Now, you might say, "I'm not going   to do that cuz it's going to hurt my   views." But we're paying FOR VIEWS. WE   DON'T CARE ABOUT that anymore.   Now that we've decided to pay to play,   we can break all the rules when it comes   to going viral because we're not   concerned about viral. We want value.
+
+
+00:17:45
+ We   don't want to be popular, we want to   make money. And those are two very   different things. Now, I also told you   I'm going to show you an actual   conversation-based   flow that will do all of the selling for   you. And this is what it looks like. A   ManyChat automated conversation isn't   just a chatbot, it's a 24/7 lead   qualifier, traffic driver, and sales   accelerator. Here's why it works.
+
+
+00:18:12
+  Instant lead qualification. By asking   targeted questions, ManyChat can filter   out unqualified leads and only pushes   high-intent prospects to a sales team or   offers. You can have a personalized user   experience. The chatbot adapts based on   responses, guiding users through a   tailored journey that increases   engagement and trust.
+
+
+00:18:32
+  And this is traffic and sales on   autopilot. Instead of waiting for manual   responses, ManyChat instantly directs   interested users to the right product,   booking page, or sales funnel. And you   have much higher conversion rates.   Engaged leads who go through an   interactive conversational experience   are more likely to buy, book a call, or   take an action.
+
+
+00:18:51
+ With ManyChat, you're   not just automating conversations,   you're creating a seamless customer   journey that qualifies, nurtures, and   converts leads efficiently. Another   thing that I want you to focus on before   we get any further is, please leverage   Instagram broadcasts.   This is direct and personalized   communication.
+
+
+00:19:11
+ This personalized touch   can make your followers feel valued and   more connected to your brand, fostering   loyalty and encouraging conversions.   You get enhanced audience engagement as   well. Broadcasting enables real-time   interactions with viewers, which can   increase engagement rates. Interactive   features keep your audience involved,   boosting the overall engagement on your   channel.
+
+
+00:19:36
+ And you get increased   visibility for promotions. You can   announce new products, special offers,   or exclusive discounts. This is an   extension of more traditional CRM   efforts like SMS and email. This is a   very cost-effective marketing tool.   Again, it's basically just another email   or SMS, but now it's happening in the   DMs of Instagram, and people can opt-in   and opt-out.
+
+
+00:19:59
+ Like I use this on every   channel with every one of my brands.   It's free money. Remember, people can   opt-in to joining your broadcast   channel, and you can reach out to them   with questions or polls or content. You   can also let them know, "Hey, we have a   new offer." The amount of revenue that   you can drive just by sending DMs to   your Instagram followers who are already   opted in to seeing that type of   messaging.
+
+
+00:20:23
+  Before ever sending an email, setting up   an SMS, or building any sort of ad. That   amount of revenue can fundamentally   change the way you operate your   business.   That money is the money we can use in   our ads.   And I want you to remember that not   everybody opens email. You have to meet   your customers where they are.
+
+
+00:20:41
+  Not just in the way that makes sense for   you.   Now, I ignore every SMS that comes my   way, and I rarely ever look at my email.   I have an assistant who throws almost   all of it in the trash can before I ever   see it. But if I get a DM on Instagram,   I can't leave that on red.   Everybody is different.
+
+
+00:20:59
+ Make sure you're   talking to all of them. And this is   free.   Now, let's focus on repurpose.io.   First principle here is the unified   brand voice.   Consistent distribution of your   top-performing content across various   platforms helps solidify your brand   voice and messaging, making it   recognizable to your audience no matter   where they engage with your content.
+
+
+00:21:22
+ A   quick hack here that I'm using with   several brands right now that is   crushing.   You could push stuff out through trial   reels and then promote those with ad   dollars and see what works very well,   and then make that available on   Instagram and everywhere else. You don't   have to do this with every piece of   content that everybody can see.
+
+
+00:21:41
+ I have a   business right now that's pushing out 10   trial reels a day. The point is they're   getting five or 10 wins a week, and they   can push that out everywhere. And now   every channel looks better. The second   principle of this is quality control.   Spreading only the best, most engaging   content ensures that all material shared   across channels maintain a high   standard.
+
+
+00:22:05
+ The third principle of all the   best every way with repurpose.io is an   enhanced cross-platform presence. What I   love about repurpose.io is the fact that   you can automate the distribution of   content. You can say, "Share this post   everywhere." And it'll do it for you.   Full disclosure, my workflow is I post   everything as a YouTube short.
+
+
+00:22:26
+ The   YouTube shorts that do well get put on a   separate playlist, and every post that   goes on that playlist gets distributed   to every social media platform I have.   And now every piece of content I put out   everywhere is the best content. And that   has done absolute wonders for the rest   of my business.
+
+
+00:22:45
+ Real quick, if you like   this video, please go ahead and like   this video and subscribe so you don't   miss anything else, and share it with   all of your friends. YouTube loves that,   and that's how we help put back to   fiction so that everyone can see more   success and less stress. Also, check out   Disruptor Academy.
+
+
+00:23:00
+ We just launched a   brand new course on Andromeda One.   Literally soup to nuts, everything you   need from setup to scale. Automated   rules for low budgets, high budgets,   literally everything you need to see   more success and less stress. The link   is right there. All right, that being   said, let's get back to it.   Now, that brings us to stage three.
+
+
+00:23:20
+ Make   the offer. This is scaling your ads and   your bank account. Now, before we get   any further, I want to break down what   makes a good offer cuz this is the   secret to scalable growth.   A good offer isn't just something you   can sell.   It's something your audience already   wants and wants to buy from you.   But what separates a high revenue   business with no profit from growth   brands that regularly two or three X   every year is this.
+
+
+00:23:49
+  The offer creates repeat buyers. A great   offer doesn't just make a sale, it sets   the stage for the next purchase.   It builds long-term relationships. When   customers buy once and naturally want to   buy again, your business compounds its   growth without constantly chasing new   customers.   It increases LTV, not just revenue.
+
+
+00:24:09
+ Many   businesses scale revenue but fail to   scale profit because they rely on   expensive, one-time sales. Growth brands   win by making each customer more   valuable over time.   And it fuels sustainable scaling. If   every sale builds momentum for the next,   you don't just grow, you multiply.   That's the difference between a brand   that struggles to stay afloat and one   that doubles or triples every year.
+
+
+00:24:38
+ Now,   if you don't want to just grow, but you   want to multiply. If you don't want a   really high revenue number, but no money   in the bank. If you want to actually   scale what you have,   it's all about reinvesting your profit   and amplifying your business model. You   need a self-sustaining cycle. Reinvest a   portion of organic earnings back into   advertising to promote the very methods   that generated these profits, creating a   self-sustaining cycle of investment and   return.
+
+
+00:25:10
+  This is also great for risk mitigation.   By using only the profits for   reinvestment, you minimize financial   risk, ensuring that the business doesn't   spend more than earned. And this is   profit-driven growth. Focusing on   amplifying proven revenue-generating   strategies ensures that every dollar   spent is likely to increase future   earnings.
+
+
+00:25:30
+ This allows for continuous   scalability. Even minimal profit margins   can support growth as long as   reinvestment increases overall profit in   absolute terms. What I want you to think   about here is you don't need a three X   ROAS to grow your business. If you can   make $1 profit on every $100 you spend,   then that means every $1,000 you spend,   you generated $10 profit.
+
+
+00:25:55
+ And   eventually, that profit number is equal   to the same price as an additional sale.   So now you're not just generating   profits, you're amplifying sales volume,   and then things start to get really   crazy. That's what it's all about. And   what I love about this is the long-term   sustainability.
+
+
+00:26:14
+ Investing profits back   into the business is the growth strategy   that is directly tied to the company's   actual performance and success.   If you need to go viral to stay in   business, then you're probably going to   go out of business. Not everybody is   Skims, right? Like you can't rely on   that.
+
+
+00:26:34
+ Now, that might be your strength,   and if so, then you don't NEED THIS. YOU   ALREADY HAVE A MILLION-DOLLAR BUSINESS.   But if you don't really like social   media, if your posts don't go viral, but   you have a business that generates a   little bit of profit, doing this can 10X   that business.   That's what this is all about.   Now, I want to focus on understanding   broad retargeting. Now, I hear you.
+
+
+00:26:54
+ Wait   a minute. You're like, "Charlie, you   said don't do retargeting." If you've   ever watched any of my videos, you're   like, "It's all broad. It's all broad."   There is a very big difference   between broad retargeting   and funnel pixel event-based   retargeting.   Now, it's also all about trust. So let   me earn your trust by explaining the   difference so that you know this is the   secret weapon that you can rely on to   scale your business.
+
+
+00:27:24
+  You only need to convert the warmest   people to win.   If success means getting five, 10, or   even 25 sales a day, you don't need to   waste energy trying to go higher in the   funnel.   Instead, focusing on the people who have   already shown interest is going to be   way more profitable. Those who have   visited your site or engaged with your   Instagram and Facebook content.
+
+
+00:27:44
+ This is   the lowest friction audience convert   because they're already aware of you,   and many have already considered a   purchase.   Broad retargeting is the most efficient   use of budget.   Instead of spending money trying to   reach and convince completely cold   audiences who have never heard of you,   broad retargeting ensures that every   dollar is spent on people who are   already in your ecosystem.
+
+
+00:28:11
+  These people cost less to convert than   cold audiences, which means your CPA, or   cost per acquisition, remains low and   profitable.   Also, your retargeting pool grows every   day without you doing more work.   The magic of broad retargeting is that   it scales naturally.   If you're running ads on organic content   that build trust and awareness, your   audience of engaged users only gets   bigger every day.
+
+
+00:28:40
+  And this is true even without raising   your budget because also the machine is   going to understand who better to show   your content to. And because you're   growing followers, your organic posts   are just reaching new people anyway.   Doing nothing more will just bring you   more people all the time as long as you   maintain the quality and focus on cost   averaging your cost per follow down.
+
+
+00:29:01
+  If you get more followers, you're going   to get more earned reach. And by just   leveraging the brilliant basics that   we've already touched on, this is what   you are going to see.   More website visitors and social   engagement,   which equals more potential buyers. More   time has been spent on building trust   because you're not trying to get the   sale with the first touchpoint of   somebody seeing your business.
+
+
+00:29:23
+ It's not   handshake, buy from me. It's, "Here's   all my content. Oh, you liked it? You've   engaged with me? You followed me? You've   been on my website? Dude, by the way,   did you know I have this thing that you   might be interested in?"   That's a much easier sales pitch.   Right? It's inbound sales versus   outbound. You can do this.
+
+
+00:29:39
+ And broad   retargeting audiences are   self-sustaining.   This means your low-hanging fruit isn't   static. It constantly regenerates and   improves over time. Your constant   refresh also ensures the retargeting   audience never runs out of high-quality,   ready-to-buy customers. This is simple,   it's stable, and it's scalable.
+
+
+00:29:58
+ It works   even if you don't run aggressive cold   traffic campaigns. It converts at the   highest efficiency possible, and it   allows you to scale without wasting   money on unnecessary complexity.   So, now let me tell you what's the   difference between broad retargeting and   funnel-based pixel event style   retargeting, cuz it's very important,   especially on Facebook, but also just   understanding consumer behavior.
+
+
+00:30:26
+  And I'll bet you you haven't thought   about this before, or if you have and   you brought it up, nobody's giving you a   straight answer. So, that's what I'm   here to do today. All right, let's get   to it.   Funnel-based retargeting chases people   who already said no. Most cart   abandoners and checkout droppers already   decided not to buy.
+
+
+00:30:45
+  Your add-to-cart recovery rate is never   50%. Odds are the vast majority of   people who abandon cart are never going   to buy from you. Why are you using that   as the core of your audience to sell to?   That makes no sense. Broad retargeting   still reaches the potential buyers, but   without overpaying for people who have   already moved on.
+
+
+00:31:05
+  Instead of forcing ads onto people who   have left their cart, we let the system   prioritize users who are still engaging   with our brand across multiple touch   points. This keeps CPMs lower because we   aren't competing in high bid auctions   for checkout abandoners.   Remember, if somebody's abandoning cart   on your site, they're probably   abandoning cart on a couple of your   competitors' sites, too.
+
+
+00:31:24
+ And if people   are focused on retargeting add-to-carts,   if people are focused on funnel   pixel-based events,   they're paying an extreme premium, and   that person's probably getting spammed   from everybody.   But here's what's really important.   Let's say 10% of people who abandon cart   are actually going to buy, and you get   100 abandoning carts out of 1,000 people   that have been to your site or engaged   with your content.
+
+
+00:31:51
+  You could spend all of your money   on that 100 people, where 90 of them   will never buy.   Or, you could reach all 1,000 of those   people that are interested, including   the 10 who are going to buy.   And you're going to do so way more   efficiently, for a lot less money. And   that is very important.   Cuz you might also get 12 or 13 sales   instead of just the 10, and it cost you   less to do it.
+
+
+00:32:15
+ The people we do reach   are actively interested, meaning our ads   have higher engagement and conversion   rates. This tends to result in higher   incremental lift from our ad spend, cuz   every dollar goes to people who actually   want to buy, rather than chasing users   who have already signaled that they have   no interest at all.   And broad retargeting equals lower CPMs   and higher profitability.
+
+
+00:32:40
+  Ads reach people actively engaging, not   those who have moved on. This means more   sales, lower costs, and greater   profitability. Now, it's time to set up   our broad retargeting campaigns. So,   we're going to focus on what's the best   creative,   writing copy that converts, and the best   audiences to use.   Let's start with the best creative.
+
+
+00:33:02
+  The creative for the ads in your broad   retargeting campaigns should reinforce   awareness and stay top of mind. Use   assets with high brand recognition. Keep   messaging consistent with what they've   already seen to reinforce familiarity.   And hook with short-form video or GIFs   that grab attention without needing   explanation.
+
+
+00:33:22
+ Show how you make their   life better.   Highlight real-world application,   lifestyle shots, testimonials, or   products in use. Address pain points and   solutions, and make it instantly clear   how you help. And use social proof,   reviews, or before-and-after results to   validate your solution. Remember that   these people already know who you are.
+
+
+00:33:44
+  They've probably already been to your   website or engaged with your content.   These people are aware of what's going   on. The reason they haven't bought yet   is either they don't have the need yet,   or they don't know if they should be   able to trust your actual products.   Let's overcome that objection with your   content and your ads.
+
+
+00:33:58
+ They don't need to   stop somebody's scroll and get them   interested. We've already done that.   They just need to get them over the   hump, so that they know they can trust   you.   And lastly, provide a clear next step to   buy.   Call out why now. This is offer urgency,   limited stock, social proof, and   seasonal tie-ins.
+
+
+00:34:18
+ Use a direct call to   action that guides them back into the   funnel, like see what's new or get yours   now. And reduce friction. Show the   price, benefits, and easy checkout   options up front. Remember, we're no   longer trying to run ads to trick people   into buying from us.   We just need to get people who are   already interested to know that when   they're ready to make the purchase, it   should be from us.
+
+
+00:34:43
+  That's the barrier we're trying to   overcome. These creatives remind,   reinforce, and convert, keeping your   brand top of mind while making the   decision effortless and compelling. So,   now let's talk about how to write ads   that convert, and the copywriting that   actually makes money.   When you want to write copy that   converts, we need to understand there   are three things to focus on.
+
+
+00:35:04
+ First, the   headline of your Facebook ad.   This connects the creative to the offer.   Remember that you only have 40   characters max.   The headline should capture attention   and drive clicks.   Also, remember that the headline is not   shown on Instagram. So, if you need the   headline to win, remember that half of   the places those ads will go, it won't   show up.
+
+
+00:35:27
+  Next, we have our primary text, and this   provides context and previews the   landing page. So, that you know, when   somebody sees an ad on Facebook,   immediately the eye goes to the content,   and then we look down to the headline,   and then up to the primary text. The   purpose of the primary text is to be the   connective tissues, the context for   everything.
+
+
+00:35:48
+ And when somebody sees that   primary text and it's what they've see   on the landing page, then the primary   text that got that click is more likely   to get that person that goes to the   landing page to hit the add-to-cart   button.   Continuity matters.   Also, keep in mind that primary text   shows up to 125 characters before the   see more appears.
+
+
+00:36:07
+ And above the fold   matters most. But what's also really   important here, quick fun hack,   is that you can think of your primary   text as the conversation. The stuff that   shows above the see more can be the   hello,   and what happens below the see more can   be the close. If there are really   important details that you think   somebody needs to see because that's   what's going to get them to be   interested and go to your site, put it   below the fold if it would potentially   drive somebody away.
+
+
+00:36:39
+  This is the left right, right? This is   the jab jab hook, right? This is what we   really need to be focused on. And one of   the things that I used to do ALL THE   TIME BACK IN THE day is I would put a   link to the Facebook group in the copy   below the fold.   So, when somebody would read it, they'd   be interested and see more, oh, hey   look, I can join the Facebook group for   free to meet other people. Very cool.
+
+
+00:36:59
+ In   fact, this strategy has helped me build   communities of over half a million   people for brands before.   And what's great is that communities   sell products. And to be fair, that's   all we're really doing here, anyway.   So, don't be shy in making that primary   text a conversation.   Lastly, let's talk strategy.
+
+
+00:37:20
+ You want to   maintain continuity with the creative   and the landing page. The voice in our   content should match the brand or the   customer. What's important here is that   when somebody sees your ads, it should   sound like you. Or, it should sound like   them. If it sounds like anybody else, it   ain't going to do the job.
+
+
+00:37:38
+ It should   sound like you if you are trying to be   an authority. It should sound like them   as the customer if they're trying to see   themself as somebody to buy from you.   And the honest truth is, ads that do   both, having one ad that does one job   and one ad that does another, work very   well together.   Remember, it's not about finding the   best ad, it's about finding a system   that is stable, and scalable, and   predictable, so that you can grow your   business and see the success that you   deserve.
+
+
+00:38:07
+  And remember, do not sell to yourself.   It's the single biggest mistake   everybody makes.   Now, let's talk about writing copy with   AI. AI can feel fake and is easy to   identify if not done right. I want you   to focus on the business goal of the   meta ad that you're running.   Use your other marketing efforts as a   source, and use the words of your   customers and pages that convert.
+
+
+00:38:32
+ Now,   I've built a tool that you can use free   24 hours a day, 7 days a week. The link   is down in the description. It's on   ChatGPT. It's called the 322 Method Ads   Copywriter.   And I've used this myself to build   thousands of ads. And the brain behind   the GPT is a whole bunch of ads from   some of the best people in the business   that have driven millions of dollars in   sales.
+
+
+00:38:55
+ You don't need to be a good   copywriter. I've basically gotten the   world's best to do all the work for you   for free.   And in fact, I'm going to show you how   it works right now. So, what you need to   do is going to go to ChatGPT and scroll   on down to explore GPTs, and type in   322,   and that should bring up the 322 Method   Ads Copywriter from Disruptor School.
+
+
+00:39:18
+  And yeah, 10,000-plus positive reviews.   Like, this thing works.   And if you notice when this comes up,   it'll give you a couple conversation   starters. So, what we're going to do   today   is we're going to just start with your   LP,   and have a landing page be the source of   our information.   So, the LP we're going to use today is   actually my community on school.
+
+
+00:39:41
+ This is   Disruptor Academy. By the way, the way   I've built this community is exclusively   through the exact process that we're   using today. And I'm going to share what   the ad account looks like here in a   little bit. And I've actually used this   exact GPT and this exact process that   I'm going to show you to write the ads   to get people to join the program.
+
+
+00:40:05
+  All right, that being said, let's keep   going. So, I've copied the URL for this.   I'm going to go back to chat GPT and   we're going to pop in the URL. Boom.   Now, it's going to ask us a couple of   questions to make sure that we're on the   same page and that it knows exactly what   we're trying to do. Yeah, this is it.
+
+
+00:40:23
+  This is everything. Love it. Awesome.   Please let me know which specific   elements or aspects of Disruptor Academy   you'd like to highlight in the ad copy.   I want to talk about confidence and   success. Awesome. Cuz that's really what   we're trying to drive here.   So, got it. We're going to focus on   these.
+
+
+00:40:43
+ Now, it's referencing the website   as well as those points that I really   want to highlight and it's giving us ad   copy headlines to use.   Now, out of all of these, which ones do   I like the most? I like number one, turn   confusion into confidence. That's   fantastic.   And I think another one of these that I   enjoy is the meta ads finally made   simple, success starts here.
+
+
+00:41:10
+ So, we're   going to use this one and we're going to   use that one. Fantastic. Now, what it's   going to do is reference that website   and all of the information that it has   and it's going to build primary text for   us to use. So, when we go to build ads   using the 322 method, it's done all of   the hard work for us.
+
+
+00:41:29
+ And if we look   here, we've gotten our two headlines   that we like and it's giving us primary   text variations and letting us know what   these principles are based on. So, this   one is pain solution success. This is   authority and social proof. This is fast   results. This is FOMO and scarcity and   simple and direct.
+
+
+00:41:49
+ And it says, "Now,   you need two primary texts to complete   [clears throat] the 322 method ads. Pick   your top two or let me know if you'd   like another batch." Let's use authority   and social proof plus simple and direct.   You know, I'm not necessarily a hard   sales kind of guy. So, that's really on   brand for what we're doing.
+
+
+00:42:12
+  Now, it's building out the ads for us so   that we can copy and paste our way to   success.   And that's really what it's all about.   Plus, it's also letting us know that we   can use three different creatives, test   them in the ad campaign to see what   converts best and optimize based on   performance.
+
+
+00:42:28
+ It also says, "Hey, by the   way, if you need to know more, there's a   link here to a YouTube video so you can   learn more about the 322 ad." Which,   hey, go ahead and use this, click there   if you want. And also, there's a link to   sign up for our newsletter or join the   academy. This is great. Thank you.   That will work.
+
+
+00:42:46
+ Did we say that we're   going to delve into something? NO, THERE   ARE NONE OF THE KEYWORDS HERE. There's   no crazy use of emojis or any of that   other nonsense because it's using   real-world best-in-class copywriters   as the source data.   And it's going to make copy that sounds   like our website because it's using that   as the language profile and that's how   this all works.
+
+
+00:43:10
+ All right, now that we   have our copy and we know what kind of   content we should be focusing on, it's   time to create a broad retargeting   campaign. First, I want you to go to the   business manager, click on the create   button, select the sales objective, and   choose manual.   From there, we can set up our ad set by   selecting the conversion location,   selecting our data set, which is our   pixel.
+
+
+00:43:37
+  We also can select the conversion event,   which is probably going to be purchase   but might also be lead.   We want to choose original audience, not   the advantage audience, and then add the   seed audiences from stage one, the   things that we built our lookalikes off   of.   So, if you're noticing, basically what   we're doing is saying, "Take the seed   audience, build lookalikes of that seed   audience, use that to promote our   content to grow our seed audience, and   then sell to that seed audience.
+
+
+00:44:04
+" It's a   compounding flywheel of growth.   That's how this is all going to start   working. And I hope it's really starting   to click for you because it really is   just this easy.   So, step number two is we want to add   three 322 ads. So, first, what is a 322   ad? It's a structured way to build   high-performing meta ads by leveraging   meta's machine learning to optimize   creative elements effectively.
+
+
+00:44:29
+ They   consist of three creatives, two   headlines, and two primary texts. And I   want you to focus on concepts so that   all ads have congruency.   And why should we use 322 ads? Because   they rely on science and data instead of   luck. These ads optimize for the best   combination and it speeds up creative   testing and reduces false positives.
+
+
+00:44:53
+ It   scales efficiently and eliminates ad   fatigue. Now, if you want to know more   about the 322 ads, I'm going to link   another video in the description down   below. This is the single best ad you   can run on Facebook. I've been running   them for years. The best people in the   world, this is the platform they use and   you don't need to work any harder than   that to be successful.
+
+
+00:45:15
+ Now, I promised   that I was going to show you my ad   account. So, let's get to it. I'm going   to share my screen right now and we're   going to walk through the impact that   this has been able to have on me growing   my business and every single step of the   way that I just showed you is what I'm   doing.   And this is how powerful it can be.
+
+
+00:45:33
+ So,   we're about $6,300   so far into this. And if we look down to   the breakdown by week, we can see that I   started promoting my content towards the   end of October. All right, and then I've   been promoting it at roughly a couple   hundred bucks max a week. Not   backbreaking, between 20 and 30 dollars   a day, which I've scaled up because   things have worked for me.
+
+
+00:46:02
+  This is my engagement campaign,   everything that we talked about. So, now   let's take a look at what happened in   the first 30 days of this conversion   campaign. We went from 139 to 305, 485,   1,250, and then nearly $600 in just a   couple of days.   Which, obviously, is going to outpace   that.
+
+
+00:46:21
+ Now, what we notice here,   according to our 4 PI analysis, is that   our frequency went up   and then kind of leveled off. Awesome,   even though we tripled the budget. And   our CPMs did get a little bit higher.   That's okay. Well, look, we're selling   an info product and we're running static   creative   to an audience that is small.
+
+
+00:46:41
+ I don't   expect $8 CPMs. But, our cost per result   more or less pegged. In this last little   bit, it looked bad, I'll tell you. You   never trust the last couple of days when   doing this last 30-day analysis because   it always gives completely out of whack.   And remember that your Facebook ads are   not the only source of revenue and   attribution is not 100% accurate nor is   it inclusive of all the money you make.
+
+
+00:47:08
+  So, what matters here at the end of the   day, it cost me $66 to make a sale and   my GPT on that was $94.   Basically, because I had a couple people   spend a lot of money.   But, more importantly, if you look at   these numbers, these are healthy. These   are good.   This is how it works. Because I've built   an audience around some singular version   of what they should expect.
+
+
+00:47:34
+ When they   get more than they've paid for, they're   ready to come back for more. That's what   this is about. I have a full business   built around giving my audience what   they want.   And I have defined what that expectation   should be by my content. Which is why an   otherwise really ugly ad crushes.   Now, do you want to see what that ad   looks like that has delivered me nearly   a 10x return in the first 30 days? So,   if we go in here, you'll notice it's   basically all this one.
+
+
+00:48:09
+  So, let's dive into here. We're going to   go to here. I had to change this ad   because we changed the pricing. So, you   know, that's fun. But, this is basically   the ad. Let me show you. Lock in before   the price doubles.   Right?   Nothing fancy, nothing special. And this   is the creative.
+
+
+00:48:27
+ It doesn't even fit   perfectly on the screen.   Quite literally, what I did is I took a   picture with my phone of what it looked   like on my laptop and I tweeted it out   and I took a screenshot of it. If you're   following me   and you didn't know this offer existed,   this ad lets you know.   I fully expect this to be a   million-dollar business by the end of   the year.
+
+
+00:48:51
+ There's no reason why I can't   make this work. And this is how it   works.   Now, my process, school pays me out   every Wednesday.   So, I take 30% of that revenue, divide   it by seven, that's my new daily budget.   That's how this works. If you're ready   to go even deeper, take one more step   down this rabbit hole, I made another   video for you. It's right there.
+
+
+00:49:13
+  And I think you're going to love it. I   spent a lot of time and attention on   this one and I am super proud of it.   So, check it out and until next time,   I'll see you on the internet. Bye.
+

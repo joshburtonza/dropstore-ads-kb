@@ -1,0 +1,156 @@
+
+00:00:02
+Previously on the last lock in.   >> This is probably more exciting than   JGBT.   >> In a villa in the heart of Cape Town.   >> I don't think I'm leaving the room, bro.   >> A discovery was made that would change   everything.   >> Bro, this is going to be [ __ ] crazy.   Insane.   >> The boys were pushed to their absolute   limits.
+
+
+00:00:25
+ Bro, we wake up at like 7:00   a.m. We don't have to lose sleep until   like 5:00 a.m. cuz we cannot stop doing   this stuff.   >> Unlocking a power that defied reality   itself.   >> Wait, so the video wasn't real?   >> No, this is like fully AI.   >> Is this the end?   >> A mission so critical it demanded   unimaginable sacrifice.   >> Well, no, to be honest, I'm too locked   in at the moment for me to clean the   room. That's a lot of ROI activity.
+
+
+00:00:56
+  They weren't just writing code.   They were rewriting the rules.   And now the next phase begins.   By the end of March, it's done. It's   actually done. Like, what else is there   going to be to do?   What a nice surprise. I'm going dead as   [ __ ] my boy.   Your phone did spot driving by.   >> What up, G?   >> How are you, brother? Welcome back.
+
+
+00:01:37
+  >> Are you feeling good?   >> Good, bro. We love 83.   >> That's what I'm talking about.   >> My bro, come check this [ __ ] Crazy.   >> So, I just been   I'm deep. I'm so deep, bro. Yo,   >> what the [ __ ] is you over here doing,   bro?   >> I'm chopping through [ __ ] right? Like   just today.   >> Yeah,   >> I'm like I have to keep track of like   the things I do on my like little sticky   thing over here.
+
+
+00:02:04
+  >> Um so that I know like cuz I do so much   it's hard to keep track of all the stuff   that I'm doing. So like I've just set up   cuz I kept having this freaking issue   where like I didn't know how to get the   latest models. So I've created a thing   that runs every morning. it will go and   go on to like LLM arena all these other   ones and just search the news figure out   if any new models came out   >> it's got all these categories code   generation image gen image editing uh   speech text like video generation vision   all the key AI like services you need   >> it checks what's the latest one and then   if there's any changes or updates go and   research all the documentation bundle   that up into a little code snippet and   document that's in there so whenever it   builds something for me it's going to go   okay well what's the best model to use   great just check the docs bang there,   pull it in. So, it's running that every   morning, keeping it fully up to date.   And then also, I've done a um so it runs   a data audit cuz it's pulling in data   from all of my different data sources,   spreadsheets, like P&Ls, YouTube   Analytics, Bitly, pulls it in, but I'm   kind of concerned that it's not like
+
+
+00:03:03
+  super dialed in. So, I've got it doing a   daily data audit. So, it's like every   single morning   >> it does an audit, goes like, "Okay, I'm   going to look into all these things,   make sure that we've got things where   they need to be, and if they're not,   it'll go and fix it." And then it will   even suggest like how we could make the   system even better.
+
+
+00:03:17
+ And then so I can   just run, okay, like look at what the   suggestions have been over the past   week. Let's make a plan to make the data   tracking system even better. So my boy   >> and then I'm building out a full content   system now. So it's going to be able to   track all my ideas. I've got it running   through Telegram.   >> You set up freaking like a clawbot or   some [ __ ]   >> Uh no, this this is the thing.
+
+
+00:03:35
+ It's like   the clawbot thing is a like a scam. Like   it's it's a distraction for like this is   the source. Like clawbot is   >> local is like taking claw code   >> like ripping all the [ __ ] limbs off   >> and like sticking like shitty things   back on and duct taping it. So like cord   code has got the model then they built a   really good harness around it so it can   do all the web searching and file   building and stuff like that.
+
+
+00:03:59
+ So they're   taking just the model out of that out of   the harness that they put so much work   into and then you're basically like they   put a little shitty harness around it   that's this open source one and then you   have to add in all of these like you   have to add web searching back into it   right but this cco comes out the box you   know so   >> um   >> we've been about to go on a hook   generation around here I see like the   AAA model as the the business model like   the value creation is helping businesses   to understand and adopt AI   >> this is like a layer around it   >> it's like a business operating system so   Like even people like like Jordan Plat   had dinner with. He was saying like I I   need the [ __ ] I'm trying to get on it.   Um David Dalon, I was on a call with him   the other day and he's like, "Yeah, I'm   I've got my Mac Mini. I'm trying to get   the set up." Um every everyone's trying   to do it in a building system and just   >> Well, I'm trying to just be like the   go-to source of information on this.   This is so sick because it becomes like   this business   >> operating system that you can plug stuff   into. So once you've got your folders   set up and everything's working, you got   the right context in there, then it's
+
+
+00:04:59
+  like, okay, well, what am I trying to   do? Okay, I'm trying to generate more   leads. Okay, well here's like the three   things that we can like plug in and if   like Sedar's already done the work, I've   already done the work. You can basically   export   >> like I could export this AI docs thing   now, turn it into a skill   >> and then give it to the community.
+
+
+00:05:15
+  >> So it's like plug this in, run it, it's   going to set this up and you can set it   up to run every morning. So it's very   easy to make functionality then pass it   over to people.   That's the future, man.   Right. This is insane, bro.   Bro, you been   >> They thought we was done.   >> You've been cooking, my boy.
+
+
+00:05:36
+  >> They told me it was done.   >> I think it was the rain. I heard it was   raining when I was done, bro. That's   what it was. You [ __ ] locked it.   >> Rain.   >> Was it raining? No, bro. Being   >> bad. A bunch of bad habits with bad   magic. Can't disappear and reappear in   the same sentence. I'm bad at it.
+
+
+00:05:50
+ The   mad hat of the perk pack of the mom th   the perk mixed with the serve turn me   into a contract a straight so hot I   can't speak three weeks I still have   them at my peak   >> be huge because at the end of the day we   know that executives are highly   concerned with ROI and frankly gives it   gives the the agencies kind of the   confidence to be able to walk into those   rooms uh and and present the opportunity   >> what's going on was   >> w this is some futuristic this is some   futuristic [ __ ] man like   >> what are you guys seeking out on   >> so we're working on audit flow um our   SAS we're building we're working on   defining this final feature which is   going to be this like basically vibe   coding platform that takes in all the   information from the person's come this   is when AI agency does audit they follow   our morning side AI auditing process   builds out the whole uh they collect the   data along the way it they help we have   a opportunity generation system based
+
+
+00:06:49
+  off all of our morning side like IP that   recommends the best opportunities for   the business. They can go through them,   select them, it calculates the ROI for   the business based off of all the   questions and answers that they've got   prior and then we want instead of   turning that into a PDF like we do now   that they have like kind of a vibe   coding builder where it goes, hey, so   okay, I've just analyzed everything.
+
+
+00:07:07
+  I've got a good idea of each person,   what what came out of the interview from   the department level, like what's going   on there. Um, also the opportunities you   selected and then it goes into a   conversation of them chatting back and   forth to get clear on the scope for the   for the deliverable.
+
+
+00:07:20
+ So instead of   giving a PDF to the to the client, which   is like real low value, it's going to   give them a whole app like branded app   >> like a branded app   >> fully like custom and they'll be they'll   be able to click through it and then   they're going to be able to host the   domain and send it over to the client be   like, "Hey, here's your here's your   here's your console portal.
+
+
+00:07:37
+" And the   workflow we're going through here is   like this some futuristic [ __ ] man.   Because as you would have seen, I just   had that little thing down the bottom   >> is um is whisper flow. So when I turn   this on, I go this this this is the test   testing testing 1 2 3 and then I press   this.
+
+
+00:07:53
+ It processes it and drops it in   here. So here's a claude code session   that has full context of my businesses   and everything that we do where we're at   >> um strategy wise. Then I gave it a big   dump about uh the audit flow. Brought it   up to speed more on a flow. Gave it a   deep dive. So I went over to my audit   flow workspace which is here and I told   it to write a full kind of current state   update of what the app is, what it does.
+
+
+00:08:18
+  So I pulled that context from audit flow   cuz this has got all of the prompts that   are throughout the whole audit flow app.   Took that that like that that base of   context about what the app is. Chucked   that in. Nick gave one of his uh early   ones that we did. Uh we did a like a   lovable demo to do that same thing.
+
+
+00:08:35
+  Build a dashboard.   >> Mhm.   >> And he exported that code, sent it to   me. I gave it to Cloud Cod here. So, it   analyzed that code base of what was in   Nick's one. It analyzed all the   information about audit flow   >> and then all this other stuff that we   just dumped in here. Also, a resource   that Nick put out as a morning side lead   magnet.
+
+
+00:08:52
+  >> Uh where is it? Oh, I think I've deleted   it. But, um Nick put a whole bunch of   source in here and we gave that away as   a lead magnet. Um so, there's like how   to do these certain prompting steps. Um   what things to expect out of um these   are looms and stuff. Basically, chucked   with that in there.
+
+
+00:09:07
+ We've gone back and   forth and instead of me having like take   the fireflies from this, I just turn on   the whisper flow and because I'm playing   it out loud, it picks up Nick's voice.   So I'm like, "Yo, can you explain this?"   And then I can explain it and then we   just dump it in there.   >> And yeah, that's crazy, bro.   >> And like we'll be able to whip up a   basically development feature spec and   I'm going to be able to take this.
+
+
+00:09:26
+ I'm   actually going to jump back in the code.   I'm going to like try to ship a feature   for autoflow. I've got two features that   I need to build. Our developers off like   a day or two.   >> Yeah. And I'm going to try and get start   this end to end development AI   engineering pipeline that I've creat   the the build and then it just chops it   all into GitHub issues and then just   like crunches through these like plan   plans it builds it tests it ships it   like crunches through that over like a   day or two and we should be able to get   a new feature for this thing like   massive new update shipped within like 2   3 days while our developer is off.   That's just your boy on the keys. So,   I'm back, bro. Like,   shit's crazy, man. All right, so let's   see what this this guy looks like.   >> This is [ __ ] crazy, dude. This is   actually like having a human   >> who knows all this [ __ ] in the room with   us now.   >> Genius AI assistant, developer,   consultant, designer, who knows   everything about the business can   instantly search the web, do stuff, take
+
+
+00:10:26
+  actions, create diagrams, and it's just   like a co-working partner here. So, I   guess this is the way like a lot of work   is going to go for now is just like   heavily co-piloted where you're just   steering it.   >> I [ __ ] with the future of work, bro.   This is dope. It's like it's a   co-working session, bro.
+
+
+00:10:41
+ It's not like a   meeting and then both of you go away and   do [ __ ] It's like we could sit here and   cook up.   >> Like work becomes like multiplayer now,   you know? Like you get all the bros in   the room.   >> Yeah.   >> You get to all like throw in your ideas   and like jam out on it.   >> That is insane, dude.
+
+
+00:10:56
+ Um, let me just   let me just while while we're on the   topic of this, let me show you this   because I think I was telling you about   this the other day. It's it's related to   that index thing that you were just   talking about. Um,   >> oh, could you send me over that um that   claw or the freaking   >> Oh, [ __ ]   >> Now the system knows when I talked about   the coaching department   and how to look at the other files   related to it.
+
+
+00:11:25
+  >> Damn, bro. You just mogged me,   >> bro.   >> Code mogged.   >> Clogged.   >> Claw. This is   >> all right. We got to make that thing   clog, bro.   Easy,   easy.   >> Pull out your heart to wake up.   >> Finally.   >> About time.   >> Yo, what's up, boys?   >> What's up, buddy? Bro, you should see   the [ __ ] [ __ ] up, bro.
+
+
+00:12:20
+  >> I'm We came up with a term just before.   It's like mogging but with clogging.   >> Bro, we were clogging all day.   >> I'm going to clog this [ __ ]   >> I'm going to I'm going to clog you. Like   we allowed to get clogged.   Clogged. Okay, I like that.   >> All right, so we're going to write out   all the stuff that Ichi got done.
+
+
+00:12:37
+ New   systems, new learnings. I'm going to   write down mine as well. I'm   >> not sure if we want to put mine in the   video, but   >> Yeah. Is it too much sauce for the   video? For that, you got to subscribe to   my only fans   >> to get to get the full sauce.   >> Only only   >> clogans.   >> Only claws.   >> Only clog.   >> Permanent clogging.
+
+
+00:12:59
+  >> That's all we do. Like if there's an   open opportunity, we clog it.   >> Yeah.   >> All right.   >> No, I'm clogging in.   >> Bros are about to clog in for real.   >> That's what we call it.   >> The final clog in the final clogging. Uh   yesterday was the M tracker. I launched   89 sale optimized articles and [ __ ] You   remember   >> now it's for lead Gram and it just told   me here's where we stand.
+
+
+00:13:22
+ Month one   complete. 25 articles written, built and   pushed. So they're live now. 7,700 lines   of SEO content, 28 pages total, zero   build errors, push to GitHub, will auto   deploy. And now I show you the craziest   part of it. Do month two   with today. I will have 200 posted sale   content pieces and since yesterday what   changed okay if you want to see that the   sale dashboard is different now it also   covers all our products so I can just   switch through them and see it for every   SAS every business I have I see the data   in here and I've built a cave a status   cave which is now a tool directory bro   of all the [ __ ] that I have built and it   auto push always here so I have a   overview so I can go to the   >> dash this is what this this is exactly   what we're doing here the Exactly. And   now I have an overview because I was   losing control of what the [ __ ] I built.   >> I've started to run into issues where   like there's too much [ __ ] going on in   the workspace confusing   >> and since yesterday I'm like not super
+
+
+00:14:22
+  confident with like the search functions   for files at least in VS Code. I'm like   >> it's like kind of tricky.   >> It'll give you like not only the the   like I don't know how to search just for   the file name. It's just giving me like   all of these references. And for the   email agent that does my brand   partnerships, I also have a dashboard   for that.
+
+
+00:14:37
+ And I see which outreaches are   sent in talks, who's a hot lead, KD, hey   there, thanks so much for reaching out.   You get the message. That's all through   the emails. That's what the brand   collaboration AI is currently which   projects we're talking about that tool   dashboard. That's that's cool.   >> Uh this one, yeah, this is absolutely   fine. Then I have article factory.
+
+
+00:14:53
+ You   can create new articles now just with   this   >> thumbnail gallery. That's the one I   showed you where you can choose your   preference. I can say it like this,   this, and this, and then it spins out,     ideas, ideas, ideas, ideas, ideas, ideas, ideas, ideas, ideas, ideas,   >> this could go on for some time.
+
+
+00:15:07
+ But   >> yeah,   shout out, man. You know what I'm   saying? F.   Shout out my label. That's me. I'm in   this [ __ ] with TB. I'm in this [ __ ]   with I just pul me a real [ __ ] all in   my face. 500 rats in my safe. 500 rats   to the PL. What you know about showing   love? What you know about pulling up and   building? Made the [ __ ] fall in love.
+
+
+00:15:36
+  >> You look tired, bro.   >> I'm on the $200.   >> I think the locking's getting to me,   bro.   >> I didn't have a coffee this afternoon,   which is what I normally do to like push   me through till late now. So, I might   start crashing, but we'll see how we go.   Boys have got a bunch of updates. I've   asked him to get onto some thumbnail   generation stuff to increase bandwidth   there cuz I'm going to be putting out a   lot of videos.
+
+
+00:16:01
+ I'm going to be filming   like two or three every day in the   morning slot. So, I'm getting Sean to   hold me to that. But, I've been repping   out tons of content ideas, putting them   all in the notion. Uh, now it's just a   case of dialing in the thumbnail stuff   and also dialing in the editing process.   So, we're going to be building some AI   editing systems to try and get the   cutting done at least just instant cut   uh done in a few minutes and then we can   start to build B-roll systems on top of   that. So, I think the editing pipeline   is going to take quite a while. Maybe   like one or two weeks to really get   dialed in and then it's constant   optimization from there or like lesser   optimization,   but I mean it's a big part of it. So,   editing, thumbnails,   and also I've got my workshop starting   in my accelerator tomorrow. So, I've got   to prep for that. I've got to take all   of our conversations that I've recorded,   try to bundle it into some kind of   learning model so that I can start   teaching it properly. But, got some   banger YouTube videos on the way. Uh, I   got to create the webinar landing page   freaking tonight. I'm going to set up   the webinar, the Telegram, like email
+
+
+00:16:59
+  list, freaking everything. And I'll be   able to do that within like ideally an   hour or two. So, going to try to crunch   through that, get that set up, and then   we're going to drop that video, our   first video saying AGI is here. You   know, AGI is here, man. Changes   everything.   >> That's me. I'm in this [ __ ] with TB.
+
+
+00:17:20
+  I'm in this [ __ ] with 4.
+

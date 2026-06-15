@@ -1,0 +1,160 @@
+
+00:00:00
+Give me the next few minutes and I   guarantee you that you will learn   something that can dramatically improve   your return on ad spend in Facebook ads.   After generating over half a billion   dollars in Facebook ads over the last 11   years, I've basically boiled down   advertising to a science. And I found   that there are four main strategies that   you can use to profitably scale your ads   through the roof.
+
+
+00:00:20
+ The first core   principle is reducing your ad spend on   testing. So you want to minimize wasted   ad spend at all cost. So, the way that   we're going to do this is we are going   to set up a prospecting CBO campaign as   the primary testing mechanism in your   entire account. The way that this   campaign is going to work is that every   single time you launch a new round of   ads, we call them packs.
+
+
+00:00:39
+ So, think of a   pack as anywhere from four to six ads.   Anytime you're launching that new pack,   you implement them as a new ad set   directly in the campaign. So, what we   have here is our main campaign, which is   Moonlighter Broad Prospecting CBO.   Inside of the campaign, we have all very   normal settings.
+
+
+00:00:54
+ Some things that you   need to keep an eye out on are you want   campaign budget to always be on. The   next and only last thing that you need   to set at the campaign level is your   audience segment reporting. Just make   sure you have your engaged audiences and   your existing audiences set up. Where   this really gets interesting is at the   adset level.
+
+
+00:01:10
+ You're going to notice   right away looking at this, this feels   very overwhelming. There's 13 active   adsets here and the majority of the   spend is going just to the first two   adsets. We are completely comfortable   with the majority of the expenditure   going to just a few adsets. You might   say, "Well, what about something that I   worked really hard on? What about an ad   that I really want to make sure gets an   adequate amount of spend?" Facebook is   generally going to be right 90 plus% of   the time. Facebook is going to do a much   better job at reducing your wasted ad   spend and focusing on the best   performing ads. So, we have seen over   and over and over again across literally   over a 100 accounts at this point that   this system allows the best performing   ads to rise to the top. It just takes a   few extra days. So, deploying a little   bit of patience here works great. And   I'm going to share with you one hot tip   so you could actually force spend if you   really feel the need to. So you can go   into your adset and scroll down to the   budget and schedule section. Then you're   going to see ads set spending limits   right here. Click and select adset   spending limits and set a daily minimum.   Be very very careful here. In fact, in
+
+
+00:02:10
+  most cases, this minimum could be just   $10. You do not want to give this $50 or   $100 a day and force a bunch of spend on   it. It's going to significantly hurt the   rest of your adsets in this core   campaign. The reason this works so   incredibly well is because now we have a   hyperco competitive ad account.
+
+
+00:02:24
+ All of   our ads that are prospecting are   competing against one another,   ultimately only allowing the top   performing ads to actually rise to the   top of your account. The second   structural mechanism that I see to be   most important right now across nearly   every single e-commerce account that   I've ever audited and especially   accounts that we manage here at the   Moonlighters is you need to have a   scaling mechanism.
+
+
+00:02:45
+ A scaling mechanism   in short is a place to graduate your top   performing creatives. A scaling   mechanism has to be managed very   meticulously. You can't just take   creatives that you think are going to   work and throw them at the top. So, if   you've been watching my channel for a   little bit here, you've seen this chart   before, but this concept changes   constantly.
+
+
+00:03:01
+ What's critical here is we   need to have at all times, this is a   core fundamental for what we absolutely   need to have. We need to be taking those   packs of creative, take the best   performing creatives, push them into a   winner's bucket, and graduate them into   a scaling campaign at the top of the   account.
+
+
+00:03:19
+ Your scaling campaign is a   single broad campaign. It has no adsets.   It has nothing else mixed into it. No   special targeting. Unless there's a   very, very nuanced case for you where   you can only target females or you can   only target over a certain age.   Generally, this is meant to be as broad   as possible.
+
+
+00:03:35
+ Now, there's two questions   we get asked all the time. One, what do   I do with the ads that I graduate? And   two, how do I determine when to actually   graduate an ad? To answer your very   first question, when you take a creative   that is high performing, let's here   pretend that creative number one is high   performing.
+
+
+00:03:49
+ The last thing that you want   to do is X that creative or pause that   creative where it's actively working   well. A general rule of thumb that you   must follow in Facebook ads is never   pause it if it's working. Don't fix it   if it's not broken. So, what does that   mean for this? When we graduate this ad   into the scaling mechanism, we leave it   existing in two different places at the   same time. It's completely okay.
+
+
+00:04:11
+ Okay,   the ad is proven to work. It has social   proof. Let it continue to run. Never   jeopardize your performance just because   you want things to be a little bit more   organized. And to actually determine   what ads you should graduate to the top   of your account, I want you to go into   your prospecting CBO campaign, go to all   of your ads at once, and then select a   time frame from the last time you did a   graduation.
+
+
+00:04:33
+ Meaning, if the last time   you did a graduation was two weeks ago,   then just select the last 14 days in   your account. Sort by spend in your   account, just like I'm doing right here.   And then I only want you to take the top   performing ads that are over the return   on ad spend that you need and the   highest spending in the account.
+
+
+00:04:48
+ So you   can see this is one of the most obvious   examples. This ad here at the top has   spent in the last 14 days just $766. But   that's the majority of the spend for   this campaign and it has done so at a   5.49 return on ad spend. That is leaps   ahead of everything else. So we   obviously want to take this ad.
+
+
+00:05:04
+ We want   to hard duplicate it into the scaling   campaign. A scaling mechanism is   fundamental. Without a scaling   mechanism, you have this blob of   hundreds of creatives competing against   each other. Your scaling mechanism   should generally represent the majority   of the ad spent in the account. But it   doesn't mean you start it that way.
+
+
+00:05:20
+ You   start a scaling campaign with a low   budget and you grow that budget over   time. The ideal situation for any   scaling campaign is that is the core of   the account with somewhere around five   to maximum 10 pieces of creative. These   are all really, really, really great   creatives.
+
+
+00:05:36
+ they have proven to work and   in most cases you should never have to   pause any of the ads in a scaling   campaign unless they're off-brand or   unless something core changes in your   account like you sell out of that   product. By the way, if you want all   these principles laid out for you really   clearly so that you can share them with   anyone on your team or really your   agency even if you want to.
+
+
+00:05:53
+ You can   click the link down below where I have   the PDF of our entire M3 method   including all the breakdowns that we're   talking about today. really everything   that you need to do to focus on   minimizing your wasted ad spend and   increasing your total return on ad   spend. You can go get it down below in   the description 100% for free.
+
+
+00:06:08
+ Moving on   to the third principle that I think is   most critically important and this   really ties in number one and number   two. So don't just skip ahead to this if   you didn't go back and watch because   this is key. You need to have swim lanes   in your ad account. And what that means   is structurally speaking, you need to   have clear divisions between   prospecting, retargeting, and existing   customers.
+
+
+00:06:31
+ This has literally never been   more important. Every single account   that I've audited in the last 30 days   has had the same complaint. We hit a   wall when we drive to a certain amount   of ad spend. So, the brands that we are   auditing are having these same issues   over and over and over again where they   get to a certain amount of ad spend,   whether it's $1,000 a day, $10,000 a   day, even $300 a day, and they hit a   wall.
+
+
+00:06:55
+ They can't get over that return on   ad spend anymore, and they don't know   what to do. So, you'll notice there are   four main campaigns in this account. We   have at the top a prospecting evergreen   campaign. We have a retargeting   evergreen campaign, a retention also   known as existing customer campaign and   then we have our scaling campaign which   is positioned at the bottom here.
+
+
+00:07:12
+ I want   to start with just the prospecting   campaign. Now every single adset in this   campaign is going to have very similar   custom audience exclusions. This is   going to make sure that this campaign is   100% new customer focused. If we scroll   down in the ads set to our custom   audience exclusions, you're going to   notice I've excluded website visitors   180 days, purchasers 180 days, and then   I've also pulled a list from Clavio, our   CRM, for purchasers over the last 365   days. So basically, anyone who's visited   our website over the last 180 or   purchased from us over the last full   year will not be targeted by this   campaign. That allows me to know with   99% certainty that this is going to   target completely net new customers who   have either not ever heard about the   brand or at bare minimum have never been   to the website. I like this. I know that   for me, if I put new dollars in here,   I'm acquiring completely net new   customers. The next campaign is our   retargeting evergreen campaign. We go   into this, we're going to see two
+
+
+00:08:12
+  primary adsets. The first here on the   left side is visitors 180 days and the   second is add to cart 180 days. The   example I'm showing you here is actually   for a brand that doesn't have a huge   amount of spend per day. So, we're   keeping these broken out and very broad,   right? They're 180day audiences.
+
+
+00:08:26
+ So, if   you're spending very little, you can   group these together and push visitors   and add to cart together. And if you're   spending a lot, you can keep these   broken out and actually reduce these   time frames from 180 days to something   like 90 days or 45 days. So, you're   always targeting the most relevant   people.
+
+
+00:08:42
+ What you're going to notice in   these is that they're going to have   unique settings compared to the first   prospecting piece. Retargeting is meant   to only target people who have been to   the site or done the action that we're   targeting for but have never purchased   before. They have never handed us a   dollar. They are not a customer   officially yet.
+
+
+00:08:57
+ And the way that we want   to define this within our custom   audiences are to include whatever we   want to target in this case add to cart   180 days and exclude purchasers 180 days   and the same clavio list for purchasers   365 days. This is going to make sure   that this again is only focused on   acquiring new customers but these new   customers have done something notable   like added to cart or visited our   website.
+
+
+00:09:19
+ The next campaign that is all   focused on existing customers is called   retention. What we have set up here in   our custom audiences are two main   customer list the same that we excluded   previously. So we have total breakdowns   in the ad account. In this case we are   including purchasers 180 days and   purchasers over the last 365 days from   our Clavio integration.
+
+
+00:09:38
+ The key of this   is that now we have complete breaks in   the ad account. We now know for sure   that prospecting is focused on net new   customers. Retargeting is focused on   people who have been to the site but not   purchased before. And retention is   focused on existing customers, getting   them to come back and purchase over and   over again.
+
+
+00:09:57
+ Each of these is going to   have a different return on ad spend. And   it's very, very important that you treat   them differently with different budgets   and with different targets. The fourth   and final principle that has basically   become the most important principle here   at the Moonlighters is we need to make   sure we're spending money when we're   most likely to make money back.
+
+
+00:10:13
+ We need   to make sure we're focused on spending   money on the best performing days, the   best performing ages, the best   performing platforms, placements,   landing page, etc., etc. This has never   been more important because Facebook is   a master at spending your exact same   amount of money every single day. You   cannot allow Facebook at this stage to   spend the same $1,000 Monday, Tuesday,   Wednesday, Thursday, Friday, Saturday,   Sunday.
+
+
+00:10:36
+ You need to be putting yourself   in a position where you are spending the   most amount of money when people are   most likely to convert. This gets   complex quick. I would highly recommend   that when you do this analysis, you look   at Facebook ads, Google ads, and your   Shopify data as well. The example I'm   going to show you is all three at once,   so we can compare and see if we need to   make adjustments.
+
+
+00:10:55
+ Hopping into our   spreadsheet here, we're looking at the   last 90 days of data. And what you're   going to notice really quickly is that   we see a little bit of red here, meaning   there are some days that clearly   outperform other days of the week. What   we generally want to make sure we're   doing is we're putting more of our spend   on days that are higher performing.
+
+
+00:11:11
+ In   this case, we could see that this brand   outperforms on the weekends versus the   weekday. So, Friday, Saturday, and   Sunday have the highest return on ad   spends in the meta account. All we now   need to do is increase our budgets to   the tune of 5 10 or 15%. And see how the   account reacts.
+
+
+00:11:28
+ I would like to do this   for at least 4 weeks and then reassess   from here. We see the same similar trend   on the Google side. We actually see   Google pulse up starting Thursday,   Friday, Saturday. We see really poor   Monday, Tuesday, Wednesday. So we need   to again make sure we're cramping down   our budgets again 10 20% and increasing   our budgets on the weekends.
+
+
+00:11:46
+ And then   finally, we always want to cross-check   this data with Shopify. We never want to   just make a decision on platform data.   We want to really be 100% sure that this   is for sure happening and therefore we   always want to check the Shopify data.   So what I have here is total orders,   total spend, and total shop sales.
+
+
+00:12:01
+ And   the trend 100% continues to exist. We   see very clearly Friday, Saturday, and   Sunday have by far the most shop sales.   We're seeing ROI, which is total blended   ad spend divided by total Shopify sales.   We're seeing that outperform on the   weekends. Therefore, we really need to   make sure we are overspending on the   weekends and underspending on the   weekdays.
+
+
+00:12:23
+ I know you guys might ask for   this template, but this is something we   only give to Moonlighter clients. It has   taken dozens of hours of work. We've   refined it. It is extremely extremely   detailed. So, if you do want to work   with us and actually get your ads   managed professionally, go down into the   description. We have a link there.
+
+
+00:12:38
+ You   can apply to work with us today. Now, in   this video, we hit a ton of structural   principles, things that you need to be   getting right. But the next logical step   that you absolutely need to be following   is how to create a killer Facebook ads   testing structure ultimately so that you   can take dozens of new ad creatives,   launch them into your account and build   on the strategies that we just hit here.
+
+
+00:12:58
+  You can click the link right here where   I break down my entire strategy. This is   a long form video where you can get a   ton of detail, a lot of value in this   one. And finally, if you have any   questions, let me know in the comments   below. I reply to all of my subscribers.   of seaw wall in the next
+

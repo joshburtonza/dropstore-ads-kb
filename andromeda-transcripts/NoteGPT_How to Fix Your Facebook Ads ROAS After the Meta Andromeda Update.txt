@@ -1,0 +1,68 @@
+
+00:00:00
+So, if you're someone running meta ads   right now and it isn't performing as   well as you expected it to, this might   be the exact solution to it. It is   because Meta has a brand new update with   their algorithm. And so, in this video,   I'm going be breaking down exactly what   has happened with Meta and the brand new   algorithm update.
+
+
+00:00:13
+ So, if you're   currently experiencing any sort of cost   per lead, cost per acquisition, just   CPMs in general rising, or just getting   unqualified leads who aren't your ideal   customer profile, or you tested so many   different ads, it just hasn't worked. Or   maybe you're just running five ads and   it's not working whatsoever.
+
+
+00:00:27
+ Or maybe   you had ads in the past that worked but   doesn't work anymore. I'll explain   exactly why. Right. So back in the day,   what Meta used to do and what a lot of   people used to do, the way the algorithm   worked is people would basically find   one to two winning ads. They would scale   them and then basically milk them until   they die.
+
+
+00:00:41
+ So essentially until it   stopped working, they would just   reiterate it and continue on with the   same sort of ads that worked. Now Meta   now rewards creative diversity and   volume. It punishes repetition. Meaning   there is no such thing as a reiteration   of an ad. No single ad can dominate your   account.
+
+
+00:00:58
+ Back in the day, people would   find one winning ad, scale it, and it   would work. Budget is now evenly spread   across all your creatives and the   algorithm wants volume. They want   literally 50 to 100 creatives a week.   So, the way to think about it now is   think of like chachu. The more detailed   the prompt, the better the output.   Basically meaning the more specific you   are with your creatives, your scripting,   your ideation, your strategy, and as   long as you feed that into Meta's   algorithm, the better results you're   going to be getting, the more detailed   and targeted your creatives will be. At   the same time, there's also something   called creative diversity, meaning you   can't just push 50 of the same sort of   ads that look all similar to the ad set   and expect it to work. People don't want   to watch the same thing again and again.   There's something called frequency on   meta. And this specific term essentially   means the amount of times someone sees   your ad. So if your frequency is above   two, that means they're going to   consistently see the ad. And meta is   going to punish that ad's performance.   So what they want is diversity. They   they don't want the exact same ad. They   want different types of ads at volume at
+
+
+00:01:58
+  scale, right? So one winning ad   essentially cannot carry your ad   account. Andromeda pretty much rotates   between multiple different creatives and   you need to feed it this every single   week in order to keep up performance.   And so, yes, this is very, very   difficult to do, especially if you don't   have any sort of marketing background or   anything like that.
+
+
+00:02:11
+ And if you need help   with this, go ahead and book a call down   below and we'll exactly show you how you   can install this exact system to launch   over a,000 ads per month completely done   for you for your software company. Now,   getting back to it, what actually works   with Andromeda, your ads need to speak   to one specific persona, one specific   angle, one specific awareness level.
+
+
+00:02:26
+ And   every single ad needs to speak to one   specific awareness. So, either most   aware, solution aware, problem aware,   unaware, right? And you need volume of   it as I mentioned. and you need a really   good understanding of your ideal   customer profile. So, if you're not   product market fit, you don't under   understand your ICP, type in   aos.sasaunch.
+
+
+00:02:43
+com   and we'll essentially help you   understand who your ideal customer   profile is. I'll leave a link in the   description below to go ahead and   leverage the software. Now, moving down.   This is basically the old algorithm, the   sequence recommendation model. Now, it   is the deep recommendation model.   going after much much more deeper   intents of people that clicked on ads,   likes, uh, brands showed, and it's just   much much smarter and it can go ahead   and actually, uh, understand way more   intent and cookies and and data from   humans. Uh, and that way it could push   your ads much much better and much   faster when it comes to the learning of   who you're going after, right? So, like   I said, two ways, either volume and   create creative diversity. You need to   go ahead and follow both of these in   order to go ahead and scale, right? And   so what this means is you need to   understand exactly the market segment in   your ideal customer profile, right? And   then you need volume, you need different   formats, um, and you need your budget to
+
+
+00:03:42
+  essentially flow, right? And so if   you're able to do all of this completely   different scripts, pain points,   personas, and you have diversity   throughout all your ad creatives,   whether it's static, whether it's video   creatives, whether it's carousels,   whatever it is, then you're in the green   right now.
+
+
+00:03:55
+ One of the main things that a   lot of people mess up on um is they   don't actually set up the campaigns or   something in their ad account is wrong   or their pixel is incorrect, something   like that, right? And so a lot of people   they're optimizing through clickthrough   rate. This is the wrong metric. It   always should be qualified demos and   conversions, right? That's the number   one thing.
+
+
+00:04:11
+ A lot of people are   reiterating uh their ads. This is the   wrong approach now. And a lot of people   say we need to find the winning   creative. That there's no such thing.   You need to find the winning campaign.   That's what it really is now, right? Um,   and then a lot of people are saying,   "Oh, I had a winning ad. Do I just   reiterate it and make 50 different   variations now and diversify it?" No,   you need to make brand new ads with   creative diversity and find brand new   angles that work in your market,   especially with new learning model. The   other thing is never ever make a edit to   an existing campaign if it is working,   right? Because that sets back the   learning process and it pollutes the   pixel and confuses the algorithm, right?   So, there's that. Um, and don't test,   don't script in a way where you're   testing hooks and bodies. A lot of   people like to script out one body and   then have three different hooks in the   video and that's pretty much it, right?   They expect it to essentially go ahead   and work. That's not how that works.   Now, exactly how exactly how we actually   implement this process for some of our   clients is the first thing we do very   very first 7 to 10 days. The most   important thing is your message, your
+
+
+00:05:09
+  creative strategy and your pixel. Right?   So, the first 7 to 10 days, we clean   your guys' pixel, create a brand new   pixel, we don't overpollute the existing   one, and we install the funnel correctly   and start feeding it data consistently.   Right? And what we're able to do now   with a lot of our clients is literally   go ahead and generate over 50 plus ads   every single week um with completely   different ad concepts, completely   different angles, personas, pain points,   and each ad speaks to one specific ICP.   And on top of that, we add conditional   logic to go ahead and train the   algorithm even more. We also add   conversion APIs to go ahead and send it   offline conversions. We also understand   creative diversity um and awareness   levels and uh how to script out ads with   the new Andromeda update. um and signal   quality and whatnot, right? And as long   as you're doing all of this, you should   be able to go ahead and ultimately get   decently performing ads. Now, keep in   mind, we've done this over the past 5   years, and this is why we've mastered   our sort of approach to this, and we   have our exact system and process that   actually consistently works for every   single SAS company that we work with,
+
+
+00:06:09
+  right? There's over a 100 different   verticals that we work with in SAS. And   so, you're probably wondering, how can   we create 50 different ads at scale,   right? Um, every single week for a lot   of our clients, we basically use our own   proprietary software that we have, which   is AI UGC.
+
+
+00:06:22
+ And essentially what that   allows us to do is go ahead and create   ads at scale. Literally be able to   generate 50 to 100 ads per week with   different angles, different characters   that look hyper realistic. And keep in   mind, this isn't like Arcads. This isn't   Hey Genen. It's way better than V3, Nano   Banana, Gemini, uh, Higsfield, way   better than all of those cling.
+
+
+00:06:42
+ And it   is our own proprietary LLM model that we   have internally that we use for all of   our clients. Right now, if you're   interested in something like this, go   ahead and book a call down below and   we'll show you exactly how we can do   this for you and even create a trial   video if you are interested.
+
+
+00:06:53
+ So, go and   book a call and I'll see you on the   other
+

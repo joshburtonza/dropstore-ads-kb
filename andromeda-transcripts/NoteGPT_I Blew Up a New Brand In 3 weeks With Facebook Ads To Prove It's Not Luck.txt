@@ -1,0 +1,80 @@
+
+00:00:00
+I was able to increase this brand's   purchases by 83%   while increasing spend by less than 1%.   I did this all in just 3 weeks [music]   and in this video, I'm going to show you   how I diagnose exactly what goes on in   ad accounts every single day, how you   could find solutions and in this case,   I'm going to show you the exact solution   that we implemented for this business   that again blew it up by 83% in total   number of purchases.
+
+
+00:00:25
+ So, cost per   purchase during this period shot down   45% and this is mostly coming from their   prospecting and retargeting campaigns   which are all focused on new customers.   We saw prospecting increase in purchases   by 98%, retargeting by 97%, cost per   purchase down 49% and 49% in respective   to those two campaigns as well.
+
+
+00:00:45
+ And to   be clear, this is not Black Friday, this   is not some sales event, this is   literally two evergreen periods in the   middle of April. So, know that   everything I'm talking about here is   purely from the changes that we made in   the solution that I'm going to show. To   keep this as simple as possible, I'm   going to focus mostly at the campaign   level, but please note that all of this   diagnosis can happen at any level of the   ad account.
+
+
+00:01:09
+ So, my focus started on the   prospecting campaign and when I was   looking at the prospecting campaign, I   just wanted to look at all of the ads   and customize the columns to look at   incremental attribution. So, what   incremental attribution is going to do   is allow you to see the conversions that   happened because of Facebook, not just a   conversion that slides in at the last   second.
+
+
+00:01:27
+ When I click this, you're going   to note that there's a huge drop-off in   my number of purchases. In fact, we go   from 108 purchases in this prospecting   to 29. It's like a 75% drop-off, it's   massive, very, very concerning. So, I   then took this incremental attribution   and I wanted to understand why is this   happening and what creatives are   actually driving the most net new   incremental conversions because if   you're trying to blow up your business,   you do it with new customers.
+
+
+00:01:52
+ Everybody   knows this, you're You're going to be   able to milk your existing customers   forever and ever and ever. You have to   grow with net new business. So, the only   thing that I saw is something that is   very often not looked at, and it is post   shares. And you can see post shares   right here.
+
+
+00:02:09
+ We're actually pretty common   for this account. In fact, 36 post   shares at $331 per post share is not   that bad despite these ads doing   terrible. Now, this actually led me to   think of post shares as a proxy metric.   This is going to sound advanced, but it   is important. For example, if you know   that people who share your post are much   more likely to buy later, that is a   proxy metric.
+
+
+00:02:36
+ If you know that when   people add to cart at a certain rate,   they will purchase at a certain stable   rate, that is a proxy metric. It's often   best to keep this as close to the   purchase as possible. And in this case,   for this brand, very shareable in the   beauty category, it was very easy to   understand that post shares were a proxy   metric.
+
+
+00:02:57
+ So, what did we do with this   information? First, we need to   understand that generally speaking,   Facebook works in an avatar-based   system. So, what this means is that you   have your avatar, you run that avatar in   a package or a template, that then   creates a concept. Avatars are matched   to audiences. In the Andromeda era, very   simply put, when you have an avatar,   that avatar actually creates the   audience for you.
+
+
+00:03:23
+ This is what people   mean when they say creative is the   targeting. It doesn't just mean you   throw a bunch of ads in and hope for the   best. It's actually a very particular   strategy. And we see this strategy with   some of the biggest brands in the world   like Grüns. They just sold for $1.2   billion.
+
+
+00:03:38
+ What they have are different   concepts or angles that they focus in   on. This then allows them to target   particular avatars. For example, lose   weight, not your metabolism. Lose weight   without losing your metabolism. Lose   weight, not your metabolism. Then we   have Ozempic's new bestie, missing fiber   on Ozempic, the perfect GLP-1   supplement, right? These are all the   same angle.
+
+
+00:03:59
+ Then we have better poops,   normal poops, poop more, poop like you   mean it. Geez. Then we have healthier   hair, keep hair thick. So we have a hair   angle. And then we have an Athletic   Greens competitor angle. We have all   these different angles that make up   their full breadth of their ad account.   Without angle and avatar targeting, your   ads get lost into the void.
+
+
+00:04:20
+ It is a   hyper-specific algorithm. So, when we   were analyzing this ad account here,   what we noticed is that the top few ads   that were driving the most post shares   were very particular to individual   people. So here's what we did instead.   When we switched this up and when we   looked back at the last 3 weeks since   we've made this change, very perfectly   at the top of April, we'll notice that   we made a shift in our angles of   marketing.
+
+
+00:04:46
+ We took our best ads and we   created duplicates of those best ads   specifically to cater to that avatar. So   now instead of just shooting a huge   buckshot and hoping for the best, we   went very deep and we went sniper. What   this does instead for us is it allows us   to basically take a concept like Groen's   in this case and say, "We know that this   angle works, so let's create a bunch   more of it.
+
+
+00:05:10
+" And in this case, it's   actually allowed us to significantly   decrease the cost per purchase. Let me   explain this in a little bit of a better   way. Every ad that we've uploaded here   focuses on a problem and solution   format. If your product doesn't solve a   problem, there is no point in selling   it.
+
+
+00:05:29
+ So, when it comes to Groen's, take   this ad angle for example. This is their   hair growth angle. The problem is very   clear. People that were struggling with   thickness of hair or just hair growth in   general, they then targeted creative to   that angle, made very specific creative   positioning their product as the   solution to that problem.
+
+
+00:05:48
+ Now, Groom   probably does no better at hair growth   than it does at helping people poop   better. But, even though these are very,   very different angles, it is naturally   targeting two different customers by   just having depth in each angle. So,   when we implemented avatars and angles   into our ad account, again, we saw cost   per purchase drop 50% because we were   able to find the solution to the problem   and position our brand as the solution   to the problem that the customers had.
+
+
+00:06:23
+  This is a 50% reduction in cost per   purchase. It is effectively changing the   way this brand does business. They have   more efficiency, improved return on ad   spend, improved cost per purchase, all   metrics that are positive just as a   result of actually targeting the right   people with the right creative.
+
+
+00:06:36
+ So, if   this is getting the wheels turning and   you actually want to understand this   topic way deeper, then you can do two   things. First, you could always go to   the moonliters.com take this off your   hands, we will do it for you. We do this   with nearly 100 brands right now. This   is everyday work for us.
+
+
+00:06:50
+ Second, if you   want to do this yourself, not a problem   at all. There is a creative strategy   video right here where I go through my   full creative strategy so that you can   copy it. That is all for today. As   always, I hope you got a ton of value   out of this. See you in the next one.
+

@@ -1,0 +1,116 @@
+
+All right, so the internet is going   crazy once again because Google just   dropped some updates to Claude that   gives it full access of Google's tools   like Google Drive documents, Slides,   Sheets, and a bunch of other stuff as   well. And because of that, along with   some other updates that were just   released to Claude, today I'm able to   show you how we can use these new AI   tools to build out digital products that   you can sell for hundreds of dollars a   day.
+
+ Up until now, you haven't been able   to create this type of product using AI.   And doing it manually would take   forever, which is why I think this is   pretty cool. So, in this video, I'm   going to show you what the product is,   how much money you can make selling it   with proof, of course, and then we'll   actually build it out live so you can   see how to do everything using AI.
+
+ These   are one of the all-time bestselling   digital products there is. And I'm of   course talking about budgeting   spreadsheets like the ones that you can   see on my screen. These make thousands   of dollars a month as digital products.   And today I'm going to show you how you   can use Claude to build out the entire   product using AI.
+
+ But before I do that,   let me just show you how well they're   selling. I'm on Etsy, which is a popular   marketplace where people make and post   digital products just like these for   sale. The way this works is the seller   picks a specific problem to solve. So in   this case, they've made a travel planner   and they've built that out using Google   Sheets.
+
+ Once they have the template   made, they just make a mockup image by   putting it in an iPad and then they post   it for sale on websites like Etsy where   it can sell passively over time. And as   you can see just from scrolling through,   these spreadsheets make a lot of money.   Just to pick one out, this one is making   over $5,000 a month.
+
+ Now, it's a   bi-weekly paycheck budget tracker   selling for $11. And it's just a Google   Sheets and Excel download. So, as soon   as the customer buys it, they get a   direct link to access this template.   Here's another product. It's almost the   exact same thing. This one's the   Ultimate Wedding Planner. So, it just   helps you plan something different.
+
+ You   can see it's making an estimated $3700   per month, and it's the exact same   Google Sheets digital download. The idea   here is really simple. The customer has   a problem staying organized in some area   of their life. And they don't want to   spend 18 hours in Google Sheets trying   to build out a custom solution that may   or may not work.
+
+ So instead, they come   to Etsy looking for a pre-made solution   to their problem. They'll come through   and they'll find one that fits their   needs. They'll buy it for between $10 to   $20, saving them not only the headache,   but also the time of having to build it   out for themselves. And because this   type of product solves a real problem,   you get insane listings like this one   that's selling over 900 times per month   and making an estimated $19,458.
+
+  And this is all from one single listing,   not even the overall shop. Once again, I   didn't even clickbait as hard as I could   have. Almost any customer can access   Google Sheets, which makes it the   perfect place to build out and sell your   spreadsheets. And because these are   digital downloads, you don't have any   product costs, which means you keep   around 90 to 95% of the sale in profit.
+
+  You also don't have nearly as much   customer service since it's a digital   product. And that also means that you   don't have to worry about returns,   exchanges, and cancellations because   they're not allowed. People have been   able to start this as a side hustle and   grow it into what you could consider a   full-time business.
+
+ Like this shop that   has only 48 of these spreadsheets posted   for sale, they've been able to make over   144,000 sales. or this shop that opened   only nine months ago. They've already   managed to sell nearly 6,000 of their   spreadsheet templates, bringing in an   estimated $11,000 per month, and they've   only posted 15 of these spreadsheets for   sale.
+
+ I wasn't lying when I said this is   one of the bestselling digital products   that you can make. There's dozens of   shops that sell spreadsheets just like   this that make tens of thousands of   dollars per month. And some of those   shops have scaled to seven figures and   beyond in just a couple years, all from   selling these spreadsheets.
+
+ There's even   gigs on Fiverr that offer to create   these planners for you. And this   specific gig with around 300 orders at   their cheapest price of $65 has made   over $19,000. That doesn't even include   if people bought the standard or premium   package. So, now that you can see how   well this product actually sells, how do   we actually go about building it using   AI? I've broken it down into three   really simple steps.
+
+ First, we'll do   some research to figure out which   specific type of spreadsheets sell best.   Then, we'll use Claude's new GWS CLI,   which is a fancy way to say Google   integration, to automate the process of   building these out in just a few   minutes. And then, we'll use AI to build   out a full marketplace listing with   images so that we can post it for sale.
+
+  So, the first thing we need to do is   figure out what's selling and why. And   I'll show you my simple research system   that I've used to sell over $2 million   of digital products in the last 3 years.   First, you find an already best-selling   product. Then, you pick one area to   improve on it or pivot and make it   slightly different.
+
+ And then, you   recreate that product and post it for   sale. This method lets you sell to   customers who are already coming to the   platform to buy a product, but sell them   something that's original and unique to   you. The first option is to find   longtime best-selling evergreen products   like this one.
+
+ So, what you'll see here   is that this is a bookkeeping   spreadsheet targeted towards small   businesses. And it's been on Etsy for 36   months, which is quite a while. But what   you'll see is because I have this   listing view plugin, I can see that this   is an evergreen listing and it's sold   consistently over time. It's still   making an estimated $4,700 per month.
+
+  But at the same time, something like   this could also be a good option. It's   an ultimate budget planner, but you can   see this one was posted only two months   ago and it's already making an estimated   $1,700 a month, which basically just   means this product was posted recently   and it's growing really quickly.
+
+ Now,   what you'll find is that bundles tend to   sell the best. A bundle is just a   listing that has several other   spreadsheets all bundled together and   sold as one. So, what I like to do is   instead of building out the entire   bundle in one go, I'll pick one part of   the bundle to start with. I'll build   that out so that I can post that for   sale and then reuse it as a part of a   bundle later on.
+
+ So, for our example, I   think we're going to go with something   like this 5030 20 dashboard. This is   basically just a budget tracker, but we   know that this idea is popular and that   it sells super well. And so, that's   where we'll start with. Now, because I'm   using the listing view plugin, if I make   a separate search for this specific type   of spreadsheet, I can see that there's   only 1,200 other listings showing up for   this search, which means there's hardly   any competition.
+
+ and they're making an   average of $713   per month. And that's an average based   on all of the listings on this search   page. So although some of them might not   sell, there's enough in this niche that   are selling every single month, which   tells me that this is a great place to   start. Now, before we can start building   this out, you're going to have to   install the Google Workspace CLI on your   computer so that you can actually do   this with Claude.
+
+ And this is much   easier to do if you have the Claude app   installed on your computer so that you   can switch between the chat and Claude   Code, which we'll be using to install   the Google Workspace CLI. Now, don't   worry, you don't have to code anything   out. You just have to use Claude Code to   install it on your computer and actually   build out the spreadsheets, but I'll   show you how to do everything.
+
+ I'm going   to have all of the prompts that you need   right below the subscribe button. So,   you can just open this document and copy   and paste the prompts. But the first one   we need is this prompt to install the   GWS CLI. So I'm going to copy and paste   it in and make sure that Claude is just   pointed to a generic folder that you can   read and write some files to.
+
+ It doesn't   really matter where you're doing it. And   we'll run this prompt. It's basically   going to read through all of the   documentation here for what needs to be   set up so that we can control our Google   account through Claude. It should give   you a few different options on how to   install it depending on your machine.
+
+ So   I said let's try installing it via npm.   It's asking me to allow some commands.   So, I'm just going to run these. And   then once it's installed, you'll have to   go through the authentication process so   that we can actually link it to your   account. Now, during this installation   process, there's really two things we're   installing.
+
+ The Google Workspace, which   gives Claude the ability to create and   manipulate files in our Google Sheets   and other Google tools in our account.   And we also have to install G-Cloud,   which is basically how Claude will   authenticate itself and actually get   connected to your Google account. This   is where it gets just a little bit   technical, but if you follow the   instructions, you don't have a problem.
+
+  So, first we have to configure an OOTH   consent screen. So, we just need to   click on the first link that Claude   gives us. And this takes you to the   Google console where we need to create a   new project. So, I already have a   project here, but we're just going to   make a new project.
+
+ I'm going to call it   Claude GWS. And I'm just going to hit   create. Then, inside your project, click   on overview, get started. For the app   name, just use GWS CLI. You can put your   own email as the support email. You're   going to select external for the app.   Once again, you can put your own email   address as the contact information.
+
+ Hit   I agree and just create the OOTH screen.   Then you can click create an OOTH   client. Choose a desktop app. You can   call this whatever you'd like and just   hit create. From here, it's going to   give you some keys that I'm going to   have to blur out, but you want to   download those to your computer.
+
+ You can   also just drop them into Claude and have   it create the directory for you. And the   very last thing you need to do so that   all of this can actually work is come   over into audience, add a test user, and   add your own email address as a test   user. Hit save. Sometimes there's a   little bit of back and forth debugging   with Cloud Code, but eventually you   should get a link like this, which lets   you authenticate your account.
+
+ And once   you complete the authentication process,   it'll bring you back into Cloud Code.   And we're finally ready to go. So now   that the installation is done, we can   move on to the fun part of actually   building out the product. To get the   best results, Claude Code needs a   superdetailed prompt that it can use to   go and build out the spreadsheet.
+
+ And   the way that I like to do this is to   start by grabbing a screenshot of a   product that's already selling super   well so that we have a visual reference   to get started with. So, I'm going to   paste that into Claude and then I'm   going to grab the second prompt that   I'll have in my Google Docs and upload   that as well.
+
+ You also have this little   file which I'd recommend adding into   your prompt to get the best result. I'm   going to hit generate and we're going to   give this a few seconds to build out an   entire prompt. From here, it should ask   you a few questions about how you   actually want to build out your product,   which is super helpful if you haven't   done this before.
+
+ And I'm going to go   with a new color scheme just so that we   can build out something original. All   right. Honestly, that took a little   while, but now what we should have is a   full prompt that we can use to create   one of these spreadsheets hopefully in   one shot. This is a super detailed and   really long document.
+
+ So, all I really   need to do is just copy it. We'll come   back into Claude Code and we can paste   this in. I'm going to hit enter and   we're going to give it a few minutes to   see what it comes up with. What makes   this really powerful is I can launch   multiple agents in parallel. So I can   start Cloud Code building out one   spreadsheet and then go back into my   original chat and create a plan for the   next spreadsheet all simultaneously.
+
+ So   basically, if you're willing to go   through all those steps to get it set   up, you can build these out really   quickly. I could come back into the   regular Cloud and ask, "What's another   spreadsheet planner I could make?" It's   going to think and then give me a few   options to choose from. I can grab the   next prompt, paste it in with my   instructions file, and then just let it   do its thing.
+
+ Now I have two of these   running simultaneously in the   background. I could go create more   prompts, do more research, or just let   them finish up. Just remember, you might   have to come back in here and click to   allow permissions every once in a while.   And now that it's finished, we have this   link where we can test it out.
+
+ So, I'm   just going to open up the link. And from   here, you can see everything it built.   So, this is our actual product uh opened   up in Google Sheets. Now, there's a few   like formatting issues, like these kind   of overlay on some of the text, but   honestly, it's nothing that big of a   deal.
+
+ We can adjust some of these   columns and organize it depending on   what we want, but overall, I didn't have   to do anything to build this besides   write a couple prompts. So, just by   taking a look at this, there's a bunch   of different fields here. We have our   savings goals, uh my goal allocation,   where your money went, so kind of   tracking where you're spending your   money.
+
+ We have some pie charts and we   even have bar graph over here that shows   you how you're spending on wants and   needs. It also built out a couple tabs   here. So, we have the transactions log.   So, this is where we would come in and   actually input some transactions. You   can see we have certain things   colorcoded as well.
+
+ We can categorize   everything. And we also have the setup   page. Again, there's a few styling   details that we might want to come in   and modify just a little bit so that it   looks a little cleaner. But overall,   this entire document looks really good.   And everything in here should be dynamic   and linked.
+
+ So, for example, uh if we   come through and we change this rent   payment to something crazy like $10,000   for January, if we come back into the   dashboard, what you'll see is that   everything updates. So, our needs column   absolutely spikes. You can see we   overspent on needs there. Our pie chart,   you can see we way over spent in the   needs category.
+
+ And basically,   everything in here is updated. So, the   idea is that now a customer could use   this template, start filling out and   categorizing and staying organized with   things like their transactions and they   can monitor the progress over time. And   when you compare something like our   spreadsheet to some of the ones out   there that are already selling super   well, it's not even that far off.
+
+ Sure,   we could come through and update some of   the colors just to make it look a little   bit better, but all of those   customizations are purely visual. I   definitely don't think that this is a   bad start for just a few minutes of   work.   And just like that, we have another full   spreadsheet that's ready to go.
+
+ This one   would be like a side hustle P&L that we   could include as a separate resource or   we could bundle these two together. This   one, you can see honestly might look   better than the first one. This would   basically let someone track how their   side hustle is performing over time   depending on what they're doing.
+
+ Again,   we have a few different tabs here. So,   we have a tab for revenue, a tab for   expenses, and once again, it's fully   functional. So, if I come back into the   revenue tab and we make some kind of   crazy revenue like $75,000   and we come back into the dashboard, if   we come down into the month of February,   you can see that we made an insane   amount of profit.
+
+ And so, assuming   someone used real numbers and for their   actual side hustle, this would fully   allow you to track pretty much   everything that you needed to. It's just   insane you can build something like this   out in a couple of minutes. But now that   we have a final product, it's time to   actually build out a listing that we   could post for sale online.
+
+ Almost all   of the listings that are selling really   well display their spreadsheets in some   kind of mockup. Typically, it's just a   computer or an iPad with the spreadsheet   inside it. And it's really easy to get   this type of effect. So, for example, on   a website like Freepick, you can find a   bunch of these tablet and computer   mockups.
+
+ Something like this one might   work really well. If we download the PSD   file, we can use a free tool like photop   to edit it. So, if we just drag that   file in, it'll open up that mockup and   we can just doubleclick on the smart   object window. And then, if we grab a   screenshot of the spreadsheet that we   just made, we can paste it in and   position it how we want it to appear.
+
+  This gives the customer a much better   idea of what they get before they buy   it. And it also makes it look nicer. But   if we wanted, we could also just use AI   to build out our listing image. So, if   we come over into Google's Gemini and we   turn on image mode, I can grab a   screenshot of one of the spreadsheets   that I made, paste it in, and write a   prompt telling it to put it on a   computer screen mockup so that I can   sell it.
+
+ It'll create an image using   that dashboard that we could use to post   this for sale. This gives us a   professionallook mockup using our   spreadsheet that we could use as a   listing image. An image like this is   going to sell the product much better   than just uploading a screenshot of the   dashboard itself. So once we have the   spreadsheet and the images to sell it,   all we need to do is create the actual   marketplace listing.
+
+ Now to actually   sell this product, the challenging part   is that it's a template. So when the   customer buys it, there's nothing to   really download because we're basically   just selling them a link to the   template. So when a customer buys it   from us, we need to deliver that link to   them.
+
+ The easiest way that I know of to   do this is to use a listing management   tool like Listing View. Listing View is   this tool that shows us sales data for   listings right on Etsy. And it also lets   us create and manage listings that we've   posted for sale. So, I'm in listing view   and I'm just creating a single listing   for my shop.
+
+ I've already got the image   uploaded, but we can use AI to basically   fill out all of the details for this   product. So, I can literally just grab   the title of one of these products   that's selling well and open up listing   views AI. And from here, I can paste   that into the custom prompt. I'm going   to change the mode to Claude Opus since   that gets you the absolute best results.
+
+  And then if I hit generate, this gives   me full optimized details that I can use   in my listings to post it for sale. And   what's really cool about this is if I   scroll down into the product section,   since this is a digital product, listing   view gives me the option to sell a URL   and listing view takes care of   delivering that to the customer.
+
+ So all   I'd have to do is grab my template link,   paste it into listing view with a brief   description of what it is. And if I hit   add, you'll see that now this URL is   part of the listing. So now whenever a   customer comes to buy this from me,   they'll get a downloadable PDF with   their spreadsheet download link that   they can just click to get their own   copy.
+
+ And from here, I could publish   this product straight to Etsy's   marketplace, which is kind of like a   social media platform for selling   products because you can post these   products for 20 cents each. And you   don't even have to run paid ads. A lot   of these listings that are making   hundreds to thousands of dollars a   month, they're not even running paid   ads.
+
+ They're just ranking organically in   search. So, you can start with a   strategy like this and then turn on the   paid ads once you have some profit   coming in. But all of that really just   scratches the surface. So, if you want   an even more detailed and comprehensive   guide, make sure you click subscribe   because I have a completely free, fully   comprehensive digital product course   dropping soon. So you won't want to miss

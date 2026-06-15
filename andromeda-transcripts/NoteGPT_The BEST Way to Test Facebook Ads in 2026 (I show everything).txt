@@ -1,0 +1,636 @@
+
+00:00:00
+Over the last couple days, we were able   to find six new winners over the course   of six different brands and it has   helped a couple of them scale all the   way up to 10K days with their Facebook   ads. And in today's video, we're going   to be going over exactly the creative   testing process that we leverage in 2026   with Facebook ads.
+
+
+00:00:19
+ And we're going to be   showing everything. We're going to be   showing step-by-step of everything you   need to be doing from the ideation   phase, the creative creation phase, the   ad account structure phase, and the   learning phase to where you can   consistently keep optimizing the   structure. So, that being said, let's   dive in and look at a couple of these   results over the last couple days.
+
+
+00:00:37
+ To be   fair, so we have one brand that's uh   we're able to increase by 25%   of uh weekly revenue in this case right   here. Last 7 days, we were able to do   about 44, 45, 46,000 dollars in revenue   with them and they're up about 23%. Uh   this one particular brand right here,   they're up 18% in net profit over the   last 7 days doing roughly 82,000 dollars   in revenue of week over week.
+
+
+00:00:59
+ This   particular client right here, we spent   over 35,000 dollars last week. So, uh   that's just what we spent. We made way   more than that. And this particular   brand right here, we cut down cost per   lead. So, this is a legion account. So,   you'll notice that we have some ecom   offers and some legion offers.
+
+
+00:01:13
+ This   works for both ecom and legion. In this   case right here, we cut down CPA and we   also cut down cost per lead by nearly   probably what 40, 50 bucks. And then   also to cut down cost per acquisition,   which obviously is going to make them a   lot more money in the back end. And then   this particular client right here, you   know, to be fair, they've been pretty   much just coasting over the last couple   weeks.
+
+
+00:01:32
+ CPL has been getting lower and   lower and lower. We found a couple new   winners for this particular account and   it's just been consistently keep   improving. And this account right here,   we did over 46,000 dollars in net profit   just over the prior week. And then   lastly, or second to last right here, we   found a new winning ad for this one   particular client yesterday and uh   helped them scale her up to 15K day in   revenue doing roughly 5,500 dollars a   day in net profit.
+
+
+00:01:55
+ We saw a huge   decrease in new customer cost per   acquisition, ROAS, all of that looks   good. And lastly, we have a course uh   with a community and stuff like that   that we just launched everything running   ads and everything to it. And this   particular offer right here, we were   able to use the same structure and   creative approach and stuff like that to   close a 1,500 dollar um monthly paying   subscriber and stuff.
+
+
+00:02:18
+ Now, let me just   kind of break down that these are all   different creatives, different niches,   different types of clients, but they all   have one thing in common and it's the   creative system of how we were able to   create these creatives, launch these in   ad accounts, test them, find the winner,   and then be able to scale it.
+
+
+00:02:33
+ Again, all   things we'll be going over in today's   training. Scrolling over, let's take a   look at this creative system itself and   kind of just what the creative system   looks like uh in this case. And   obviously, we're going to go in depth of   all of these throughout this video, but   obviously, step number one is the idea   of which you want to actually create.
+
+
+00:02:49
+ Uh   then you have the creative creation,   which is actually creating that creative   after you generate that idea. And then   you have the ad account structure of how   you actually test it uh within inside of   the Facebook ad accounts. And then you   have the learnings, which is, "Okay,   hey, what went right, what went wrong,   and what can we improve within this   creative?" And how that drives the next   creative ideas we actually launch in   these ad accounts.
+
+
+00:03:12
+ And then again, this   is all things that we used to scale up   those particular accounts, find those   winning creatives that we just showed   you, and then actually go ahead and, you   know, boost revenue day over day or, you   know, even some of these brands month   over month. So, going over into this   creative system here, we're going to   start off with number one, which is the   idea.
+
+
+00:03:31
+ Now, the idea itself is just   simply what we want to create. That's   all the ad idea is. I used to call this   batch or I used to call this concept. A   lot of people are so confused with   concept and I just had to drill it even   further down that this is literally just   idea. So, example here where it's like,   "I had an idea today to recreate an ad   of a guy tossing a pills inside of a red   solo cup talking about different pills   you would need to get X benefits that   people want.
+
+
+00:03:58
+ I would love to recreate   this, but with one of our clients who   sells a multi-functional bag." The ad   could start with a showing off different   bags you would need for different things   and then the total price to get them   all. Then we could show our bag, the   price of it, and how it does all those   things without needing multiple bags.
+
+
+00:04:15
+  This helps convey our USP of being a   multi-functional and doing it so in such   a unique way. So, this is my idea right   here. This is all that is. Now, how do I   actually get that idea? Well, this is   where we're going to do research. And   there's different levels of research and   we'll go through all these different   levels uh today, but the first one   always starts off with product research.
+
+
+00:04:37
+  I find a lot of people they try to jump   to these other levels and they barely   even understand their product itself. My   favorite just example of product   research is one of the great legendary   ads at 60 miles an hour, the greatest   loudest noise in the new Rolls-Royce   comes from the electric clock.
+
+
+00:04:53
+ This   particular ad right here, this headline   right here actually came from one of the   Rolls-Royce engineers and the copywriter   who was writing an ad for this   particular product and trying to   understand, "Hey, how do I differentiate   the Rolls-Royce compared to all the   other vehicles on the market?" Well, he   heard this line come from one of the   engineers after doing hours and hours   and hours of interviews with various   different engineers to understand more   about the car itself.
+
+
+00:05:18
+ That's where he   was able to mine this particular idea   and actually use it as a headline. Your   goal in the ideation phase is to not   create. Your goal is to find good stuff   and piece it together. That's the   biggest perspective shift that I've seen   personally with ideation and creation of   new ads.
+
+
+00:05:38
+ A lot of people will think that   they actually have to go sit down in   front of a piece of paper and try to   write it, type it up, and stuff like   that, and they get nowhere. You have to   assemble great copy. Great copy is   assembled and pieced together from   things you find with research. And this   is why research is the most important   thing and why we start off with   research.
+
+
+00:05:56
+ So, just kind of going a   little bit further with an example here,   I pulled up one of the great ads, iPod,   1,000 songs in your pocket. And we   always start off with the features. We   want to list all the features of the   product. This iPod, obviously you have   like the screen size, you know, you have   like the different functionality of the   buttons and stuff right here.
+
+
+00:06:16
+ And then   you also have like the uh battery life,   the memory, and all of those things. So,   the feature here could be like 80   megabytes, right? And that's the   physical part of the product itself. The   performances is what the features do.   So, if you have 80 megabytes, what does   that allow you do? Well, it allows you   to store a lot of stuff, right? Now, in   this case, we turn that performance   into, "Hey, if I can have 80 megabytes,   the feature, the performance means that   you can fit 1,000 songs in your pocket."   The benefit part, this is going to be in   your pocket. So, the 1,000 songs is like   performance-wise, that's the feature,   1,000 songs. The benefit is you can have   1,000 songs in your pocket now. And the   pocket is where it is actually like, how   does this performance benefit the   consumer? You have to benefit the   consumer. The consumer benefit is going   to be what does that performance allow   you to do? That's the big part right   there. The benefits what the consumer
+
+
+00:07:13
+  actually gets to enjoy and benefit from,   whereas the performance is just what it   does for him. So, that's the difference   between a performance and a benefit and   then a feature. Again, a feature is the   physical part right there. Now, in our   research phase for the product research   phase, we're looking at all of this   research.
+
+
+00:07:28
+ We're going on uh   all the different platforms and stuff.   We're going on Google. I want to know   everything about it, especially too for   people who sell supplement brands and   stuff. I want to understand everything.   I want to understand all the ingredients   in that particular supplement. I want to   understand where these ingredients came   from.
+
+
+00:07:45
+ I want to understand our unique   manufacturing process for these   ingredients. I want to understand it   all. I want to understand the story   behind these ingredients and how they   were first made. I know they used to   have that revitalizing gum that   apparently like prevents like cavities   and stuff like that. The one of the   ingredients in there actually was   discovered by NASA.
+
+
+00:08:03
+ So, some of the ad   angles that people were using for that   particular gum was like how NASA solved   um   uh cavities, right? And that was one of   those things by talking about that nano   hydroxyapatite, which is one of those   ingredients inside that uh   like appetizing gum and stuff like that.   Now, the next thing we have is   competitor research.
+
+
+00:08:21
+ And competitor   research right here is where we actually   want to go and understand, "Hey, what's   the good and what's the bad about our   competitors, right?" So, if I was   selling some type of ashwagandha, for   example, and I go look at the one-star,   two-star, and three-star reviews for   other ashwagandha products and stuff, I   may see something like this.
+
+
+00:08:39
+ "Hey, this   ashwagandha is giving people anxiety,   right?" Now, this is just one review.   Obviously, I need to see a lot of people   state that that, "Hey, if a lot of   people are saying something negative,   right?" Then there's an opportunity for   us to improve our product, our offer to   have an ashwagandha that does not give   people anxiety.
+
+
+00:08:59
+ Then we could run some   type of headline like, "There's a reason   some ashwagandha spikes your anxiety.   Here's the fix, right?" I also like to   uh think about pre-workout, for example.   They made stim-free pre-workout because   the beta-alanine inside of pre-workout   was actually going ahead and causing   people to itch.
+
+
+00:09:16
+ And beta-alanine, I   personally love the itch, right? I I get   off on that [ __ ] But for other people,   they didn't like the itch. So, they made   like pre-workout with the itch without   the beta-alanine and stuff like that.   So, level two is competitor research.   You have level one, which is   understanding your product.
+
+
+00:09:31
+ Level two is   where you actually understand the   competitors, what type of ads they're   running, the negative reviews about   them, the good reviews about them, and   start to understand what can we do   differently than our competitors so we   can stand out in a crowded market. The   next one is level three, which is   different niches, right? And you want to   focus on level three as more of where we   start to get our ad ideas and stuff of   okay, hey, this is the core messaging we   want to hit on.
+
+
+00:09:56
+ We want to hit on the   core messaging of a thousand songs in   your pocket, but how do we actually   visually articulate that to people? And   that is where we go ahead into um   different niche research. And different   niche research, this is where we start   to look at, "Okay, hey, if I'm in the   clothing space, for example, I may go to   the supplement space and start to   understand what type of creative ideas   and stuff that people are leveraging in   the creative space or supplement space   that's crushing and bring those into my   clothing brand." I actually got this   idea specifically from Mr. Beast, where   Mr. Beast would literally go ahead and   take his um his best performing video   ideas came from other niches and   understanding what's working from other   niches and just doing it better for his   niche. That's all he was doing. So, in   his case, he looked at uh those   hydraulic press videos that were getting   crazy amount of views. He just took that   video. He did the same thing, but the   only thing he did was he took it a step   further. Instead of hydraulic press   versus a bag of candy, he went ahead and
+
+
+00:10:54
+  did a hydraulic press versus a   Lamborghini. So, my favorite platform   for finding this is Trend Track. I've   been using Trend Track the last couple   months, and it's a phenomenal platform   to find the brands that actually have   ads that are scaling. You get to see   like things like monthly visits in the   example.
+
+
+00:11:09
+ You can see growth,   month-over-month growth for that   particular brand and everything. So,   because I can see all that data for if   that brand's scaling or not, I can then   see and only look at stores that are   scaling and pull their best ad ideas and   bring it over to my niche. The one rule   of thumb here, if you're going to   recreate ad ideas from other niches, is   that you cannot do your competitors.
+
+
+00:11:30
+  This allows you to stay different. It   allows you to bring new ideas into your   niche, um and that's the important thing   right there for that part. Now, level   four is where you actually start doing   customer surveys. And some people may   not have this opportunity to do customer   surveys, especially if you're a new   brand and stuff, but I know for all of   our clients at our advertising agency   and stuff, we always have them run some   type of like Typeform survey all their   existing customers to understand, "Hey,   what's good and what's bad?" You know, I   want to know why they bought the   product, who are they are, why they   bought, what they love about it, what   they hate about it, what are other   products they love to see, all of those   good things right there. This is one   right here that was done recently for a   client, and uh you know, we got over 652   responses. And like this is like one of   the questions we had asked for them so   we can have a good understanding of,   "Hey, who are these people that are even   buying?" And we actually had a clear   winner right here, and it was also the   one avatar that we were kind of curious   about if it was a winner or not. And   then we now we can isolate all of our   language uh all of our language in our
+
+
+00:12:28
+  ads and all of our new products to that   specific avatar. Now, this is right here   is the level four of the customer   surveys and stuff. Again, if you're a   new brand, you may not have this   opportunity, uh but at least for most   people that we work with, they're all   brands doing anywhere from 30k a month   to 100k a month who want to scale to a   million dollars a month, and uh they all   have customer data here.
+
+
+00:12:47
+ Now, lastly,   level five is Reddit threads. And these   are all ranked two from easiest to   hardest. And Reddit threads become the   hardest for most people. And if we go   here to the Reddit threads, I'm actually   scoot down all the way over here. This   is where I'm literally going on Google.   I'm typing in site, these two little   dots, reddit.
+
+
+00:13:06
+com, and then I'm I'm   typing in some type of symptom, some   type of problem, I'm typing in a   benefit, I'm typing in uh a avatar, one   of those things right there. And it's   going to show me all the Reddit articles   related to that thing. And I'll start   going through these and I'm reading   them.
+
+
+00:13:24
+ And I'm trying to understand more   of like who are these people are. So,   right here, first-time mother of a   nine-month-old. This is her before   situation, which again, great ads show   the before, the after, and how to get   there, the vehicle to get there. So,   before, she was struggling with or she   had an amazing memory, blah blah blah,   like she could remember things, etc.
+
+
+00:13:43
+ Her   current situation is she can't even   remember how old I am. She basically has   a bunch of these issues of like, "I   forget halfway when I'm talking, you   know, I stutter." All of these issues   right now. Here's even like a a scenario   recently, "I lost my phone the other   day, looking around the house for it, it   was in my hand the whole time.
+
+
+00:14:00
+" So,   she's basically has this problem. She's   has this before situation. She has this   desired situation she wants to go, and   then she has like all these issues   that's basically currently going on. So,   I just basically took this, and I put   this in an ad right here. And I made   this as an example ad just to show you   guys about how this was like mined and   used this to actually go ahead.
+
+
+00:14:18
+ So, I   first to start off, "When was the last   time you finished a sentence you   started?" I could tweak this and make it   a little bit better for first-time moms.   A great question or a good one right   here would be, "As a first-time mom,   when was the last time you finished a   sentence you started?" Just to make it   more towards that one specific person.
+
+
+00:14:36
+  Here, it's going into basically   describing the problem. Now, you forget   what you're saying mid-sentence, you   search for a basic word and just isn't   there. You looked everywhere for your   phone, it was in your hand. This isn't   you. This is a a brain running on no   sleep, no brakes, and zero margin for   error.
+
+
+00:14:50
+ Notice how it's giving them the   like basically the reason for the   problem here. Notion is your second   brain. First one is completely occupied   having a tiny human alive. Uh I just   used Notion as a random product for this   video as an example here.   Um every appointment, every thought you   had at 3:00 a.m. that actually mattered,   everything you were going to do before   you forget it, it lives in Notion, not   in the fog. Your memory will come back.
+
+
+00:15:11
+  Until it does, we've got you. I also   love the positioning of this right here,   where it's like, "Hey, mom brain is not   something that's going to last forever,   but at least for right now, here's the   best thing to help you out." Um and   there's also like giving them a a good   trial here to try it out.
+
+
+00:15:23
+ So, this is a   really cool way to where you can   actually use Reddit to actually go ahead   and create that messaging and stuff. And   this could be right here your uh UGC   script. This could be a AI voiceover   script where it's like a AI voiceover,   you do a bunch of B-roll talking through   this.
+
+
+00:15:40
+ You can take this and make this a   long-form primary text and and create   some type of native image with this.   There's a couple different things you   could do with this. Now, I just want to   show y'all another way cuz Reddit's not   the only way. Uh we'll also go ahead and   use things like YouTube, for example.   YouTube right here.
+
+
+00:15:54
+ This is one of my um   I just searched mom brain on YouTube. I   saw this video, "How the Brain Changes   of Motherhood." And that's what actually   be a cool like VSL type of video to even   go for. Uh but then I like looking at   the comments. The comments were one of   my favorite things. And especially too   with Reddit thread as well, I love   looking at the comments.
+
+
+00:16:12
+ But here, I'm   just going on YouTube. I see, "It's   frustrating how much society downplays   the hardship of raising babies,   especially if no help." So, we see   someone right here who's in emotional   pain right there. So, it's like, "Hey."   And we also see that people are   resonating with that. I see this person   in emotional pain.
+
+
+00:16:28
+ I understand that   there's also going to be a large group   of people that also are going to face   that. So, now, let's go right and add to   it. Nobody talks about how hard this   actually is. Again, could tweak this a   little bit to be more towards my target   customer, but I wrote this quickly just   for this video real quick.
+
+
+00:16:42
+ Uh they throw   you a shower, hand you the baby, and   disappear. And then somehow you're   supposed to be grateful, glowing, loving   every second of it. Meanwhile, you   haven't slept, you haven't eaten a hot   meal, you haven't had a single   conversation that didn't in revolve   around nap schedules. And the worst   part, you're doing it all alone.
+
+
+00:16:58
+ Peanut   is where the moms go when they're done   pretending it's fine. Real woman, same   season of life, no performance required.   Cuz you don't need someone to tell you   it goes fast. You need someone who's   also been awake since Tuesday. Peanut,   find your people free on the App Store.   Uh pretty decent.
+
+
+00:17:13
+ Again, I just, you   know, wrote this with a random product   in mind and stuff like that. But   basically here, this is a more of like a   mental health product right here,   helping moms to, "Hey, this is hard.   This is frustrating and stuff. So, now,   here's this uh place right here to where   you can actually get that support and   stuff you need.
+
+
+00:17:28
+ But again, another great   example here, and we can turn this into   AI UGC, create this into a regular UGC,   we can create this into AI voiceover   with some B-roll footage, we can create   this with a long-form primary text.   There's a couple different creative   styles that we can actually use and test   this with right here.
+
+
+00:17:42
+ This is all the   ways we actually go ahead and generate   ad ideas. All right. Now, once you   actually have an ad an ad idea, what do   you do next? And also just to clarify   here, an ad idea can be sometimes start   with a hook. An ad ad idea sometimes   starts with a creative style, sometimes   a new desire, sometimes a new avatar,   new awareness stage, new sophistication   stage, new offer, or new iteration or   variation.
+
+
+00:18:07
+ There's not a not just like   a, "Hey, one, two, you got an ad idea."   Sometimes it's one, then it's like four,   then it's like three or five, and then   it's like 10, right? Like it it's not a   clear just A to B. So, you have to have   a system to where you can track all   these ad ideas and stuff. And this is   why I love having some type of Google   Sheet, right? And this Google Sheet has   a couple things going on here.
+
+
+00:18:29
+ We have   what's called the batch number, and   basically every row in this sheet is a   different batch, right? And this is how   we keep track of everything through the   next stage, which you guys will see in a   second here. We have the results, which   this is going to be after we test   everything. And then we have the idea.
+
+
+00:18:47
+  This is the idea that basically what we   want to execute on. We have our   hypothesis. Our hypothesis for why do we   want to test this? What gives us   confidence it's going to improve overall   performance for like what we're trying   to accomplish and stuff like that. And   what are we creating here? And basically   that's what the hypothesis is.
+
+
+00:19:02
+ This is   how we can actually understand the   thinking behind our own brain or uh by   our creative strategist. So, if you have   like a team and stuff and they're all   doing creative strategy and stuff like   that, having this sheet right here   allows them to understand the idea, uh   so what you're trying to create, why do   you want to create this, and then after   it's created, we'll go into creative   learnings, which we're going to uncover   that in a little bit.
+
+
+00:19:24
+ Step two is the   creative creation. And everything starts   off in a Google Doc. I like to just   create these like an ads tab and then   have like a different ad for each one.   If we go back over to that little Google   Sheet, that's the same number right   here. This sheet right here is just a,   you know, older sheet with more ad ideas   and stuff.
+
+
+00:19:43
+ And then each of these little   like numbers, like let's say it's 142.   This is what 142 here is. It's the idea,   it's the hypothesis, the visual hook   variations we want to do, and then the   copy. And this is just becomes our   creative script right here. So, this is   basically what that UGC creator is going   to say in that particular video, or this   might be our long-form primary text, or   this might be the creative instructions   for some photo ads.
+
+
+00:20:06
+ It could be a lot of   different things right here. Just   depends on what needs to be created.   Now, from here, this is where we   actually use Asana for our team   management and stuff like that. And we   have a couple different tabs, a to-do   tab. We also have like a project per   client cuz again, we're an agency and   stuff.
+
+
+00:20:23
+ Uh we have our doing tasks, our   ready to launch, our launched, our   learnings, and completed. So, we have   quite a few different things going on   and we have our full team inside of that   Asana project and stuff. So, this is   where you can actually start to create   your creative team and stuff. And if   it's just you, build this out now so   that way you have the right foundation   to where you hire someone on a board to   come help you with all this, it makes it   so much easier for them to integrate in   your own current systems and stuff.
+
+
+00:20:48
+  Now, everything starts off again with a   Asana task. So, we type in our number,   so this is 188 right here.   Um and then we also are doing an   iteration off 117 here. So, that's why   117 is also highlighted right here.   Um and then here, we're assigning it to   our editor um because this is something   that we already have like the footage   and stuff like that and we're going to   use some AI stuff with this.
+
+
+00:21:12
+  Uh the [snorts] due date.   Uh the status, we have different   statuses for like different things. So,   because it's going into creative   production, it just means that hey,   here's the script. It's all ready for   you. Uh so, we link that script. It's   all ready for you. And then the creative   strategist creates that task and then   either assigns to our visual creator.
+
+
+00:21:30
+  Our visual creator is just someone who's   skilled with photo design and video   design. They're good with AI create   visuals and stuff. They're good with   like Adobe Suite and stuff like that. Um   they can do a lot of different things,   right? And the visual creator will take   stuff we already have on file or the   places we give them access to and   they'll create that creative with it.
+
+
+00:21:45
+ Or   our creator manager, which is the person   actually goes and hires that UGC   creator, gets it   filmed, and then brings it back and   sends over to our creative strategist.   Now, again, we have a couple different   tabs inside of our Asana project. So,   our to-do right here, uh this is again   where like we just assign it to either   our visual creator or our creator   manager.
+
+
+00:22:07
+ And we use a lot of different   stuff uh what I would say as apps and   stuff like that. We use Incense for all   of our content uh creators. That's where   we hire our content creators. We've been   using Incense 2000 since 2021 and   absolutely love the things they've done   on that platform. They're someone that,   you know, we've been using for a while.
+
+
+00:22:25
+  We spend a lot of money, well over a   couple thousand dollars a month on   Incense hiring creators, and it's   phenomenal. Um most of our editors love   Adobe Creative Cloud. You're not wrong   if you use CapCut and stuff like that. I   just find that uh like Photoshop,   Premiere, After Effects gives you a   little bit more advanced editing and   stuff like that that you can do.
+
+
+00:22:43
+ Um but   sometimes even my editors will jump on   CapCut, which is perfectly fine. And   then Hixfeld. And Hixfeld's what we've   been using lately to actually do all of   our AI stuff. And again, all my editors   are trained on AI as well. We have a   full AI creative mastery that uh all my   editors go through and stuff like that   so they understand all the ways to do AI   and stuff.
+
+
+00:23:06
+ And if we don't have a clip   for a YouTube video or not a video, if   we don't have a clip for a Facebook ad,   then all we'll do is have our editor go   make it in AI. And our rule of thumb   with AI is if it doesn't look AI, run   it. But if it looks AI, then we're going   to hire a creator or a photographer or a   videographer to film that piece of   content so we can make the ad not look   like AI slot.
+
+
+00:23:27
+ And then another amazing   platform I love is Grid Bank. There's a   lot of like basically stock footage uh   platforms out there like Shutterstock   and things like that. Grid Bank I find   is one of my favorites because Grid   Bank, unlike Shutterstock for example   that uses a lot of like high-definition   like 4K cameras and stuff, basically   what I'm filming this YouTube video on,   Grid Bank, everything is based off your   iPhone.
+
+
+00:23:48
+ So, it actually looks like   non-stock footage for ads and it's   awesome. I love Grid Bank. That's also   helped us a lot for when hey, we don't   have a clip that we need, can we create   it with AI or can we go to Grid Bank?   And having these platforms readily   available for our editors makes a huge   difference from a production standpoint.
+
+
+00:24:08
+  After basically the production is done,   we go over to ready to launch. And   here's just like the things that are   sent to our media buyer. And our media   buyer has to launch all of these ads   tomorrow. All we simply do is as things   come off production, we launch ads. I   don't have a I can only launch ads on   Monday. I can only launch ads on Friday.
+
+
+00:24:28
+  Just as things come off the press, come   off the editing bay, we launch it. Very   simple. Don't overthink that. And then   here, uh we basically send over a   frame.io link to our uh media buyer. And   then our media buyer is going to get   either three videos or three photos. And   that's because my editors are instructed   that when you get this script, this   script is made to either be a photo or a   video.
+
+
+00:24:53
+ It's not both, it's one of the   two. So, how can I create a photo from   this if it was instructed to be a video?   You can't because it was instructed to   be a video. So, what our editors do is   that they either create three photos or   three videos. So, just to give y'all   breakdown of videos first, all of these   videos are going to have the same text   hook,   right? And the same body, but they're   going to have a different visual hook on   each one, three different visual hooks.
+
+
+00:25:21
+  So, if I look at this particular ad that   we just got back, we got three videos,   one, two, three. We got three videos,   all of them are at the same time, but   they all have a different visual hook.   And these will all perform at different   levels. This gives us three   opportunities here to basically go ahead   and make this ad work.
+
+
+00:25:41
+ The other thing   people always ask, "Winnie, what about   text hooks?" Well, we don't really test   text hooks often because every single ad   idea we test all has a different text   hook. So, technically, the ad idea   around that text hook is the new hook   that we are testing testing. That's   three videos.
+
+
+00:26:00
+ Three photos are the same   thing here. So, here's example, they all   have the same text hook, just a   different background. Here is three   examples, one, two, three. All have the   same text hook, all have just slightly   different visuals on it.   Now, here's a very rare example where we   wanted to fit the same, what you call   it, like photo, but we didn't really   have like a new photo idea background we   wanted to do for this.
+
+
+00:26:30
+ So, we just kept   the text the same because we wanted to   test this meme here. This again is one   of those rare scenarios. You have to   understand that I have my basic   fundamentals that I follow 85, 90% of   the time. Then I have the times where I   do things slightly different at times.   It's just not black and white.
+
+
+00:26:48
+ It's not   hey, you can only do this and nothing   else. This is just what we do majority   of the time. I'm not trying to say,   "Hey, this is the only way to do it. If   you do anything else, you're wrong."   That is completely false. I'm just   showing y'all what we do majority of the   time and then the rare times where we do   something slightly different just to fit   that particular creative idea we want to   do.
+
+
+00:27:09
+ This is pretty much the creative   production here. Now, let's actually get   into the ad account structure. So, the   ad account structure is pretty simple   here for all of our clients. So, this   account right here, this client sells in   the USA and Canada. They have one   product and one core avatar. So, here we   have one CBO campaign that we do all of   our scaling in.
+
+
+00:27:31
+ This bid cap campaign   was a campaign we tested, but we just   don't really have anything to report on   it. We tested it to see if it will   improve performance, etc. Everyone was   talking about bid caps online, so we   gave it a try and it did horrible. So,   yeah. And we only spent 1,900 bucks on   it.
+
+
+00:27:45
+ Landing page test, this is where we   used to test landing pages in a separate   campaign. We don't do it anymore. We   just do it in our main campaign. And I   don't even know what that was. So, yeah,   but we didn't spend any dollars. So,   majority of our spend last 7 days,   $26,000 in this account was on this one   CBO campaign that did 571 purchases at a   $46 cost per acquisition with $4,300 in   ad spend.
+
+
+00:28:07
+ We actually bumped up ad spend   before. So, um this doesn't add up   completely and that's just cuz the   original was like 3,900, 3,800. All we   do inside of this is that if you look at   this account, you'll notice that 187,   180, 178, 175, 179. Why do you see this?   Because these are all the numbers from   our creative production here.
+
+
+00:28:27
+ And in our   creative production phase, once you get   that number attached to you, it's   married through with you. It goes into   Asana, it goes into our Google Sheet, it   goes into our marketing doc, it goes   into all of the different like sheets   and ad sets and everything like that.   That number follows that creative around   until the day it dies.
+
+
+00:28:44
+ All right? And   then inside of here, each of these ad   sets, we basically just have three ads,   right? Cuz again, we do three photos or   three photos. And then we have -3, -2,   -1. And then we upload those to that ad   set. And then inside of here, what we're   going to do is we're going to upload   that one video.
+
+
+00:29:02
+ And then for the most   part, we do one primary text, but   sometimes we'll do two primary texts.   When uh we want to test new primary   texts, we'll just upload a second   primary text and that way we have two   primary texts, one winner, and one new   one. And then same thing for the   headlines right here. So, it basically   comes out to like what, one, two, one? I   don't know in that case right there.
+
+
+00:29:23
+  Anyway, so we have our three ads. This   one has one visual hook, this one has   another visual hook, this one has a   different visual hook. Cuz again, these   are three videos, exactly the same   videos, just a different visual hook.   All right? If you remember what we just   went over, you know, all the way over   here, this is what that is.
+
+
+00:29:38
+ This is how   that looks right there inside of that ad   set. All right? All have the same body,   all have the same text hook, just   different visual hook for each. Okay?   So, just so you you understand that.   >> [laughter]   >> Basically, what happens is and just for   you to understand this again, we have   one CBO campaign, we have one CBO   campaign per business goal.
+
+
+00:29:59
+ So, this one   particular account right here, we don't   have any new business goals, so we only   have one CBO campaign right now. But,   let's say they wanted to launch   tomorrow, and let's say they want to go   out of USA and Canada, and they want to   launch to Germany, for example. I do not   want to go mess up this campaign.
+
+
+00:30:14
+ I will   literally just go and make a German, you   know, campaign right here. You can even   see where we did uh Euro broad over   here. I mean, tested those, right? So,   let's say we do a new country expansion,   I'll just create a new campaign, make it   easy. Or, I want to do a new product   category launch.
+
+
+00:30:29
+ Let's say I have a   men's collection and I want to launch a   female collection. Or, I'm running ads   for a t-shirt collection, I want to   launch a pants collection. All right?   That's where I'll create new campaigns.   We have some accounts already have five,   six campaigns in the account. That's   okay, because each one has a different   goal of what they want to do.
+
+
+00:30:44
+ So, as   long as you're following the one CBO   campaign per business goal, like we're   doing, you're you're okay.   Now, again, Google sheet ad idea equals   batch number, batch number equals per ad   set, and then we do in three videos or   three photos, depends on the idea. There   is rare cases where we may do 12 images.
+
+
+00:31:03
+  Or, for example, um Black Friday, I know   for Black Friday we want to launch a lot   of creative. So, per ad idea we had for   Black Friday, we did like five and 10   versions versus just three. Okay?   85, 90% of the time we're doing three   videos or three photos per ad set. Okay?   We're not really doing a mixture because   the whole planning phase, it either   plans it to be a video or plans it to be   a photo.
+
+
+00:31:26
+ So, there's no real reason why   um you should have different ones. And   then here, we're going to let it run for   7 days, unless it takes a lot of spin   and tanks overall performance. So, I   just every new test, I launch it, I let   it run for 7 days. I don't have to think   about it. In a rare case where you   launch a new ad, it took overall spin,   and it just tanks overall performance,   you let it run for at least 24 hours,   then that following 48 hours we want to   see if performance improves.
+
+
+00:31:50
+ If it's   still doing horrible, we're going to   turn it off. After 7 days, leave on if   no negative impact on performance. We're   not turning any ads off right now, we're   just leaving everything on unless it has   a negative impact on performance. We're   going to record creative learnings in a   Google sheet, and we're going to update   Asana.
+
+
+00:32:05
+ So, if we look at Asana right   here, you're going to launch and test   it, or put it put it launch testing and   stuff, and then you're just going to put   this as 7 days later, and then that's   your new due date and stuff, and then   boom. Now, like this media buyer right   here, he needs to go in and it's the   26th at this time, but because we're I'm   filming this video, it's over the   weekend, so it's a couple days late and   it just goes over the weekend and   everything, but this media buyer   tomorrow, Monday, he's going to go, he's   going to update the um learnings here,   and then my creative strategist right   here is going to actually like review   all these ads, understand what went   right, what went wrong, and what can be   improved. Just to show y'all real quick,   here's a ad right here, 180. We launched   this on the 27th. At the time I'm   filming this video, it's the 29th. And,   you know, this is just looking at the   27th as well, and we go over here to   yesterday, the 28th. This ad is taking   majority of spin, and we can see overall   performance, right? We went from a $56   cost per purchase to a $33 cost per
+
+
+00:33:04
+  purchase, right? So, um and we're also   getting way more purchases. This has got   71, this has got 99. We improved overall   cost per acquisition for this particular   account. And here, we can even look at   this campaign and overall, again, 27th,   before it took overall spin, $56 cost   per purchase, and then yesterday, the   28th, so a day later, $33 cost per   purchase, right? So, the big thing I see   a lot people complain about is that,   "Hey, my ads do not get spin.
+
+
+00:33:30
+" And that   goes down for a couple different   reasons. They do not resonate with new   creatives, so you create new creatives   and they just simply don't resonate with   people. You're talking about winter   stuff when it's the summer. I had a   person the other day come to me, ask me,   "Hey, Nick, why or my ads specifically   for um a hunting product, deer hunting   and stuff like that, are not working?   Why are they not getting spin? Why are   they not working well?" Well, we look up   deer hunting, deer hunting is not even   in season right now, so it does not   resonate with people based off what they   currently are experiencing. So, we have   to actually go find a new way to   position that product. Or, you may be   targeting a small demographic people.   This may be a very small demographic of   people, like you went from doctors to   neurosurgeons. Or, this might be because   you've been doing top of funnel ads, and   you created a bottom of funnel ad, and   then you didn't realize it, and that   bottom of funnel ad is trying to compete   with a top funnel ad. Not going to work.   Very little or very clear, your ads are   boring. If you watch your ad and you're   just like, "Damn, this is boring," it's
+
+
+00:34:29
+  not going to work. And honestly, that's   what a lot of our uh our big review   before we upload an ad, that's what it   comes down to. A simple question, are   the ads boring? Yes or no? And then if   it is boring, what can you do to improve   it to make it not boring? You're   creating ads that are not better than   the top spender.
+
+
+00:34:43
+ A lot of people   complain about the top spender hogging   like all the spin and stuff, and not   allowing the new ads get spin. And it's   well, yeah, because you're not creating   new ads that actually beat the top   spender and stuff. And then, next one,   you're creating a lower funnel ads when   you create top funnel ads, we already   kind of went over that.
+
+
+00:34:58
+ You're not   spiking emotion. Every ad that has been   a winner for us always spikes emotion.   So, if you don't understand how to   create a hook and a script that invokes   emotion within someone to take an   action, then what's going to happen here   is your ads are not going to get spin.   The ones that are the most   emotion-baiting and spike the most   emotion always get the most spin and   stuff like that.
+
+
+00:35:20
+ What a lot of people   get this wrong is that they try to sell   to an emotion, whereas the ad should   create an emotion. One of my favorite   examples of this is those sad dog   commercials you see at 2:00 a.m. when   you forget to leave the TV on after a   long day of work, and you fall asleep,   and at 2:00 a.m. you hear this sad   little music going on, all these dogs in   the shelter and stuff like that, and you   feel so sad.
+
+
+00:35:40
+ But then, at the end of the   video, it spikes your emotion back up   again saying, "Well, for just a dollar a   day, you could, you know, give these   people more food and these dogs more   food and like all of these things like   that." And they show happy dogs, and   it's like, "Oh, it brings you back to   here's how you can actually get rid of   that sad emotion now and invest into our   products.
+
+
+00:35:59
+" And then the last one, you   keep doing the same creative style over   and over. And we're going to be going   over that here in a second as well. And   the thing here is that in a situation   like this, where, you know, looking at   triple L overall, 5 12 12,000 dollars a   day in sales, 3K a day in profit, these   were running the ads that we currently   run.
+
+
+00:36:16
+ And this is with that new winner   that took overall spin, it boosted   performance, boosted profit and stuff,   and obviously, you know, it took overall   spin, etc., and improved performance.   This spin This ad spins a lot because it   resonates with a large group of people,   and it spikes dopamine with people. When   people go on these social media   platforms, they scroll with the   intention of feeling something.
+
+
+00:36:34
+ So, if   your ads are boring, they don't invoke   any emotion, they're the same ads as   everyone else, they are predictable ads   and everything. Predictable just means   like, let's say for example, if you saw   a creative concept for a long time.   Creative concept might be like the   apology ad, where like the apology ad's   like, "Oh, we're so sorry, blah blah   blah.
+
+
+00:36:53
+ That's why we're doing a 50% off   sale today, and come buy now." That ad   worked amazing couple months ago when no   one was running it. But now that   everyone's running this ad, it became   predictable, and predictable it creates   boredom within consumers. And you need   to spike that dopamine again in people   to get them like invested to come back   up, um you know, and like get that ad to   spin and stuff like that.
+
+
+00:37:13
+ Some other   people also ask like, "Hey, Nick, what   if my ads get a lot of spin but bad cost   per acquisition?" Well, if it gets a lot   of spin but it has a bad cost per link   click, then there's going to be a   creative issue. Your ad might be doing   really good job at grabbing attention,   but it's a bad job actually converting   that attention over.
+
+
+00:37:30
+ That might be   because you're calling out the wrong   audience, or that might just simply be   that you're not really doing good in the   body part of actually going ahead and   transferring, "Hey, we called that out.   Now, here's our solution. Here's how   we're going to transform your life and   stuff like that."   of the offer here.
+
+
+00:37:46
+ Now, if it's good   cost per link click, but you have a bad   cost per acquisition, then there's a   landing page issue. And I'll actually   show you guys that right now. Here's a   client that we actually just took over.   So, you know, no real amazing success   story yet, but just show y'all some of   our decision-making and stuff.
+
+
+00:37:59
+ This was   the last 30 days when we came into the   account, and you can see right here,   they're spending, you know, a couple   thousand dollars a day in ad spend,   right? Or actually less than a thousand   dollars a day, cuz that's thousand   dollars over 30 days. But, spending I   think like two, three hundred bucks a   day.
+
+
+00:38:13
+ Anyway, they're getting a $7 cost   per link click. Very, very high cost per   link click. Okay? Nick, what's a good   cost per link click? Honestly, I don't   have a good cost per link click for me.   A good cost per link click is anything   better than you have. A good add to cart   rate is anything better than you have   now.
+
+
+00:38:29
+ I just knew this was pretty high   because on average we see roughly a   dollar to two dollars on our highest   spending accounts. So, I knew that this   was high, and after I modeled out um the   numbers with this cost per link click,   it just wasn't going to work for this   person. All right, for this business. We   looked at AOV, conversion rate, all of   those good things.
+
+
+00:38:46
+ And in this account,   like the ads had a good frequency and   stuff, but they had a really bad cost   per link click and really bad CPM. What   this signals to me is that, "Hey, this   CPM is really high, and Facebook is   taxing you because your ads are not   good. They are pushing people away from   the platform.
+
+
+00:39:04
+ It's like if you were the   worst guest ever at a bar. You walk into   this bar and were just a complete like   terrible person to everyone, and it's   like, 'Hey, you either have to pay $100   a night to start coming here now, or you   can no longer come here.' And you have a   lot of money, so you're like, 'Whatever,   here's $100 a night.
+
+
+00:39:20
+' This is what   Facebook is doing. When you have really   high CPM, is that they're taxing you cuz   you have bad ads. They don't really have   a way to tell you you have bad ads. So,   the way they do it is charge you a lot   of money per thousand people right   there. I also like to look at CPM as the   number of people that you resonate with.
+
+
+00:39:37
+  A high CPM means you have a small group   of people. A really low CPM means you   have a big group of people that you   resonate with. Cuz this makes it more   difficult for Facebook to find uh people   to serve your ads. If if hard for   Facebook to find people to serve ads   that um they like and stuff, it's going   to charge you a lot more on that CPM   side right there.
+
+
+00:39:56
+ So, lowering it is   just means that, "Hey, we need better   ads in this account." We can also see   that from the cost per link click side.   So, CPM, cost per link click were really   high. We knew we need better creatives   in this account. Now, after looking at   their creatives, analyzing their   creatives and stuff like that, I knew   they had the wrong creatives for what   they were trying to communicate to these   people.
+
+
+00:40:16
+ So, what we did was is we ran a   new round of creatives that were   actually molded to this particular   consumer, and we just launched these   like literally 2 days ago. So, we don't   have any amazing success story yet to   show y'all. Um but again, just showing   you more of the decision matrix, how   we're going about it. You can see right   here, cost per link click really went   from a couple dollars to a $1.62.
+
+
+00:40:34
+ Uh CPM   also dropped, which was really good.   Still not like ideal what we wanted, but   honestly, I don't use CPM as the   decision main decision tool. I use cost   per link click and cost per acquisition.   These are the two main ones. CPM just   kind of gives me a little extra like,   "Okay, hey, like this could also, you   know, be a limiting factor down the   line.
+
+
+00:40:55
+" But cost per link click, cost per   purchase are the main two right there.   So, I knew that, "Hey, cost per link   click was really good." And we see that   right here, $1.62. But cost per purchase   was still bad. So, I was like, "Okay,   we're driving a lot more traffic to the   page and stuff, but the cost per result   is good or bad.
+
+
+00:41:10
+" So, it's not   necessarily a creative issue at this   point. We fixed the creative issue. So,   now we need to start looking at it from   a landing page issue. And in this case   right here, what we were saying in this   ad, you know, like let's just say you   look at the creative to our LP, what we   were saying in the ad right here and in   the landing page did not mix.
+
+
+00:41:27
+ It was   like if you literally spoke English, you   clicked on an ad, and you landed on a   website that spoke German. The whole   website was in German, everything was   German. You're like, "I don't know how   to [ __ ] read this." Exit out. So,   when you're making your um ad or your   creative, and you're sending traffic to   your landing page, everything needs to   be congruent to where people like, "Yes,   I was sent here.
+
+
+00:41:48
+ I understand what I   clicked on." And that's basically what   we did. We rebuilt the landing page, we   relaunched that ad, and then cost per   link click actually improved a little   bit further, CPM improved further, and   cost per purchase also dramatically   dropped because now we're saying things   that people resonate with.
+
+
+00:42:03
+ Why? Because   Facebook uses our Why did CPM drop in   this case, and why did cost per link   click drop even further? Because   Facebook actually scans your ads and   your LP when you upload a new creative   to the platform, and that right there is   what's going to help Facebook target um   the people you want to go after.
+
+
+00:42:22
+ So, now   that we have congruent ads, congruent   landing pages, and stuff like that, our   CPM drops, our cost per link click drops   cuz now Facebook can target more   effectively, and now we're even seeing a   lower cost per purchase. Now we're or   finally in a position now where we can   actually really start lower uh scaling   this account.
+
+
+00:42:38
+ And again, just coming   literally from a over $162 cost per   purchase all the way down to a $30 cost   per purchase. Keep in mind, we've only   had one so far, so I'm also saying this   with a grain of salt. But again, just   showing you the decision matrix of how   we look at a lot of these accounts here.   We found some new winning ads.
+
+
+00:42:54
+ Now, how   do you actually scale these accounts?   Very simple. We just go and click on the   little budget thing right here on the   campaign. We just click on that little   budget, and then we just up the budget.   And we do a 20% up if yesterday's target   in CPA are better. So, we set a target   cost per purchase, and specifically in   CPA.
+
+
+00:43:12
+ NCPA just A just means that new   customer cost per acquisition. Facebook   is all about acquiring new customers.   So, we want to focus on new customers,   and that's how we measure the success of   Facebook. So, we set a in target in CPA,   and this is basically modeled out to see   which one works the best for the   business.
+
+
+00:43:30
+ And then once we model that   out, we can actually go ahead and set   that target. If we're seeing a lot of   volatility in the account, instead of   looking at yesterday, we'll look at the   last 70 day average. So, we'll either   we'll jump back and forth between   yesterday and last 70 average. It just   depends on the volatility in the   account.
+
+
+00:43:46
+ We'll always start off with   yesterday. If that's hitting target,   then we'll up the budget. But if it's   one of those things where we keep doing   that, and it constantly just destroys   performance, we'll look at the last 70   average and do it based off of that   every day. And then the other thing is   is we'll hold budget if we we can't   break our current target CPA, we'll go   ahead and uh hold the budget right   there, figure out the bottleneck like we   did in this particular situation right   here, and improve the bottleneck, and   then that way we can actually go ahead   and get back to scaling. So, you can see   right here, in this particular account   right here, uh we literally went ahead,   pending processed to active, and then we   took that budget from 3,900 to 4,300 by   increasing it by 20% cuz we're hitting   our target in CPA. You can see NCPA   right here, it dropped a lot cuz of our   new winning creative, and then now we're   going ahead and we're increasing that   budget uh following that platform right   there. And this is pretty much   everything for our ad account structure   side. We keep it very simple, so that   way we can focus on the main things that   actually impact performance, which is   going to be offer, creative, landing
+
+
+00:44:45
+  page, all of that good stuff. But now,   how do you actually further keep   improving this? And this is the stuff   that I see 95% of advertisers, creative   strategists, and all that completely   overlook, and their creatives are   suffering due to it. So, recording   learnings here, this is basically where   we go ahead and continue to optimize our   brain, is basically what it is.
+
+
+00:45:02
+ All   right? So, after we launch and test an   ad, we basically record the learnings in   the Google sheet of like, "Hey, was it   successful or was it unsuccessful?" And   this is what the media buyer does. The   media buyer does this. But then, he   assigns it over to our CS, and our   creative strategist right here does this   creative learnings right here.
+
+
+00:45:23
+ This is   where the creative strategist comes in   and fills out basically everything that   was good, everything that was bad, you   know, what went right, what went wrong,   what can be improved. Regardless if it's   unsuccessful or successful, we still ask   the same three questions because even   losing ads, you can learn, "Hey, like   good things about it.
+
+
+00:45:43
+" I've found plenty   of losing ads that's like, "Hey, this   went really well in this losing ad, but   this went wrong, and this is what we can   improve to actually make this a winning   ad right there." So, we ask the same   three questions for the learnings part   right there. This is the creative we   did, and then we ask those three   questions, and we document it right   here.
+
+
+00:46:01
+  This may also stem new ideas for   iterations and variations as well. Just   completely depends on, you know, the   learnings and stuff that for that   particular ad. And we'll just go add in   those as new ideas. I don't continue to   use that same batch number. Once I use   that batch number, and it goes through   that whole process of launched,   learnings, and complete it, we're done   with that batch number.
+
+
+00:46:23
+ And then from   there, if I have iterations and   variations I want to make, all I'll do   is just go create a new batch number,   and then I'll just do something like   shorter video formats focused around   benefits or something like that. It   would just have basically like basically   call out the fact that, "Hey, this is an   iteration off of 133, you know, 135 is   an iteration of 133.
+
+
+00:46:41
+" And that's what we   do. And I like to think about this as   like this circle right here. Where this   is where you start off, and as you keep   doing this process, you keep expanding   your ideas, your knowledge, and you keep   getting better and better and better and   better at, you know, this creative   structure.
+
+
+00:46:57
+ And as you go up right here,   you start scaling up the account as   well.   And almost like to even think about it,   too, from like an AI perspective, right?   Like when AI, for example, first   started, you know, the brain was very   small in AI. Like AI had like a, I don't   know, 70 IQ, right? But then, over the   years, from like 2020 to 2026 now, AI is   a lot bigger, better.
+
+
+00:47:20
+ AI now has like   800 100 IQ. Let's just say that, right?   A lot better, bigger brain. Why? Because   it's had more time to consistently keep   optimizing. And this is what we like to   look at from our ad account structure,   right? Or our our own brain as we're   doing these learnings and stuff is that   we're going to constantly improve our   brain, right? And our the way we see the   ad account, the way we see what works,   what doesn't work, all of those good   things.
+
+
+00:47:47
+ And if you want to know, how do   you get better at analyzing ads? This is   where I always like to recommend people   doing 15 minutes a day of reading a   direct response advertising book. My   personal pre-favorite is Breakthrough   Advertising. You can get it from   breakthroughadvertisingbook.com.   Any other website will charge you a   couple hundred dollars.
+
+
+00:48:02
+ I've bought   probably a dozen copies from that   website, Breakthrough Advertising Book,   for a couple students and team members   and stuff like that. Um and I think it   charged like roughly 100 bucks. I highly   recommend you reading that book at least   five times. Then, 15 minutes a day of   handwriting winning ads from other   companies.
+
+
+00:48:18
+ Um so, I'll literally go and   find winning ads. I'll go use Trend   Track, for example, find ads that are   scaling other businesses and stuff, take   one of those ads, and literally just   type up the whole ad word for word as I   see it. Because it allows me to actually   see what good copy looks like coming   from my hands.
+
+
+00:48:35
+ Next one's 15 minutes a   day reviewing a winning ad from other   companies. So, after I handwrite that   ad, I'll then go and review that ad,   what went right, what went wrong, and   what can be improved. And then lastly,   any new techniques I learn from either   this direct advertising book or from   handwriting the ad or reviewing the ad,   I'm actually going to go create an ad   now practicing that new technique.
+
+
+00:48:56
+ And I   can use AI and do more of like the AI   cheat right there, copywriting cheat   right there, of how do we tweak it and   all that stuff.   Now, as you keep growing that brain and   stuff like that, this is what's going to   allow you to consistently improve that   creative system right here. And the more   you do this is going to be like that   circle where it's going to start off   small, but keep getting bigger and   bigger and bigger.
+
+
+00:49:20
+ And this is why after   step four, learnings, we just go all the   way back over, and this will be done   hundreds of times. We have an account   right now that we've done well over a   hundred million dollars for over the   last couple years. This is a client, you   know, they've been with us for last, I   think it'd be 5 years this November, for   example.
+
+
+00:49:36
+ We've done this system, this   process now over 300 times making well   over 900 creatives for this particular   client. We scaled them up from $1,000 a   day to $15,000 a day in ad spend   and they have a 5x return on ad spend on   that particular ad spend right there. So   yeah, they've done well over $100   million probably a little bit more   exaggeration.
+
+
+00:49:56
+ It's probably more closer   like 45-50 million dollars. But again,   at this point it's like it's insanity   right here. So this is exactly how we   made all of these creatives that has   crushed it and scaled all of these   particular accounts and stuff. But   there's one thing I do have to point out   here, right? And the the unfortunate   reality is that now you have the same   system, but you're not going to get the   same results as me, okay? And I want to   go over a few reasons why.
+
+
+00:50:20
+ Well, number   one, you come up with good ideas that   sound good, but you overthink what to   test and you get stuck in analysis   paralysis. I can't talk to you or can't   like remember how many times I've talked   to people with good ideas, but they get   stuck, right? Whereas like for us, we   know exactly what ideas to to test, we   know exactly what to prioritize and we   knew we know how to move fast with   conviction without having that analysis   paralysis.
+
+
+00:50:43
+ Or there's the people that   get stuck in the data, right? You look   at metrics, you second-guess decisions,   you don't know how to do the whole   decision matrix like I did, you kill   winners early or you don't trust what   the data is saying. And then whereas us,   we read the data with clarity and   confidence, we know exactly when to   kill, cut or scale, we make decisions   without hesitations, right? How do I do   a whole decision matrix that I just did   with y'all? It's because we have   confidence in our data and we know how   to read data effectively.   Or from a creative side, you make ads   that look good but don't scale, you copy   competitors without understanding why,   or you don't know what a real winner   looks like. There's still so many people   that don't understand what a real   winning ad looks like. We know exactly   what winning creative looks like   immediately. We build ads designed to   scale and not just convert and   understand why something works so we can   repeat it. This whole creative system   and the whole way we've been able to   find six winners in the last 7 days   right there was all because of our   ability to create great creative. Now,   positioning. This is also something I
+
+
+00:51:43
+  don't see people talk about often, but a   lot of creatives I I knew people that   create amazing creatives, but they don't   know how to position their products   inside of the creatives, they don't know   how to position the right avatar, you   know, the problems they're going after   or you know, they don't really   understand from an avatar perspective   like the urgency factor, right? Whereas   us, we can identify the exact avatar,   position products around people actually   care about and create messaging that   cuts through instantly. And that's a   huge part of it right there from that   messaging side. And then the last thing   is that the execution side. You try to   do everything yourself or hire too late   or you don't know who to bring on first   and you become the bottleneck. Whereas   we know how to build and hire a team, we   know how to build systems that produce   consistent creative output and scale   without relying on. This is all things   right here that, hey, even though you   have the same system as us, you're not   going to get the same results. And right   now there's two types of people watching   this, right? There's the operator, which   these are people that like being   hands-on, they want to understand how
+
+
+00:52:41
+  everything works, they want to control   over their ad account, is willing to   learn, test and improve, but right now   you're second-guessing your ideas,   you're unsure how to read your data and   you don't know what winning creative   look really looks like or you're moving   slower than you should.
+
+
+00:52:53
+ And then we have   the owner, doesn't want to be in the   weeds, values speed over learning   curves, wants it done right the first   time, would rather focus on growing the   business. But right now you still need   ads to scale, you can't afford to burn   money figuring out and you need a team   that already know what works.
+
+
+00:53:05
+ Neither   one is wrong, but both break if you do   it alone. And this is why we have two   different programs for this. We have the   Inner Circle, which if you're an   operator, this is how you break past   your plateau. You got you must be doing   at least 30k a month and you must be   actively running ads.
+
+
+00:53:22
+ And we'll tell you   which ideas are actually worth testing,   we break down your ad account so you   don't you understand your data, we show   you what winning creative looks like, we   help you dial in your positioning and   avatar and we guide you your execution   so you move fast. You stop guessing and   start executing like someone scaling to   100k a month.
+
+
+00:53:40
+ And then we have the   agency. And this is if you're the owner,   this is how you scale without being the   bottleneck. You must be doing at least   100k a month, you must be ready to scale   aggressively. We handle ideation,   creative and testing, we read and act on   data correctly, position your product to   win and we bring the team and execution.
+
+
+00:53:56
+  You remove yourself from the process and   scale faster. And both of those offers   is down below and you pick your path   here. I'm going to leave links below for   you to choose which one is best for you   and I appreciate you watch this training   here. I'm confident that we can get you   some absolutely amazing results and help   you take your business to the next   level.
+
+
+00:54:14
+ We've done it countless of times   in the agency and the Inner Circle.   We've helped multiple brands now scale   to million dollar months, dozens of   brands scale to six-figure months and   helped a lot of people in the way   dialing their creative, their offer,   their positioning, scaling, all of that   good stuff right there and all of that   information can you can find out more   below. Thank you for watching.
+
+
+00:54:32
+ Have a   good rest of your day.   Peace out.
+

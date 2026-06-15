@@ -1,0 +1,144 @@
+
+00:00:00
+The traditional meta structure is dead,   and so frequency has become one of the   most important metrics now for being   able to identify where your spend is   actually going through the funnel. Is   the campaign retargeting? Is it top of   funnel? Is this ad actually scalable?   There's a lot that sits within frequency   that people don't understand.
+
+
+00:00:16
+ So, we're   going to be going end to end on the four   rules that you need to keep in mind when   you're using frequency to make decisions   and some benchmarks as to where it   should be sitting.   Firstly, frequency isn't a vanity   metric. It ends up being one of the best   leading of creative fatigue and also a   lack of diversity within an account.
+
+
+00:00:35
+  Here's an example of an account where   there's wildly different frequencies   across all these campaigns despite them   all being cold targeting campaigns. And   so, this tells us a lot about the actual   quality of the creative as well as   potentially the size of these different   countries and how we need to balance the   strategy moving forward.
+
+
+00:00:53
+ Now, to start   at the basics, frequency is impressions   divided by reach. It's effectively   telling us how many times does a user   see our ads over the time period that   we've selected.   Date range becomes the most important   thing here because what you hear a lot   of is people throwing out frequency   benchmarks, but there's no time   component associated.
+
+
+00:01:12
+ If you go and open   up the account and you look at the last   14 days, you will have a different   frequency number to if you look at the   last 7 days or the last 30 days. Now, we   like to generally always look at a   14-day period anytime we're looking at   frequency. Reason for that is that this   encapsulates majority of the retargeting   that's going to occur.
+
+
+00:01:31
+ Generally, when   you're targeting a cold user, Meta will   serve ads to them over the course of a   few days. Generally, if there's a long   time to purchase, that might go all the   way up to 14 days of serving ads, and   then they'll stop. Now, where this   differs is in retargeting. Generally,   retargeting campaigns will retarget   people for a very long time, and that's   where you'll see frequency continue to   increase and increase as you increase   the time horizon in which you're   looking.
+
+
+00:01:54
+ But, the first thing is you   need to decide at least internally what   is going to be the date range in which   you're assessing frequency on. So, that   when someone internally says, "Hey,   frequency on this ad has gotten up to a   three, what does that mean? Are you   talking about a 14-day period, a 7-day   period? We need to define this first.
+
+
+00:02:11
+  The next thing we need to define is what   actual level of the account structure   are we looking at because frequency at   the campaign level is different from   frequency at the ad set level and the ad   level. Now, why is this the case? Well,   you could have two different ads here.   Okay?   Each ad has a one frequency when you go   down and look at it at the ad level.
+
+
+00:02:31
+  But, because these both sit under an ad   set, the frequency at the ad set level   might actually be a two   because each individual user is always   seeing ad one and ad two. Now, this is   very rarely the case. Realistically, if   you were in this uh position, frequency   is probably going to sit at something   like a 1.4.
+
+
+00:02:52
+  Which means that the average user is   seeing one of these ads, and then 40% of   users will also see a second ad, which   will be the other one.   And then you go all the way up to the   campaign level. So, realistically,   there's probably a bunch of different ad   sets that sit in here that all have   maybe like a 1.3, a 1.6, on and on.
+
+
+00:03:10
+  And so, then when you look at the   campaign, which houses all of these ad   sets,   the campaign might actually have a two   frequency. So, frequency will always   increase as you go up the account   structure because it's encapsulating   more audience.   And so, once again, when we make a   statement like a three frequency is bad,   that means you have creative fatigue,   what are we talking about? Are we   talking about a three frequency at the   campaign level, the ad set level, or the   ad level? You need to make sure that   those definitions are always included   anytime you're going to make a decision   based on a frequency number.   What's the date range? What level of the   account structure are we actually   looking at here?   From there, we have our first rule,   which is that at the ad level on a   14-day basis, your frequency should   never be greater than a two.   If you go down to the ads in your   account and you're looking at cold   targeting campaigns and the frequency of   an ad is greater than a two, you have an
+
+
+00:04:10
+  issue. There is likely either creative   fatigue or   that ad is sitting at bottom of funnel   and actually just doing a bunch of   retargeting.   So, here's an example of an account that   spends a lot of money, and this is just   one   campaign and 14 days worth of data. And   what we can see here is that frequency   sits under a two on all of these ads   except for the ad down the bottom here.
+
+
+00:04:33
+  Now, this immediately is a red flag.   That means that we should look into why   this ad is doing this. Is this because   the ad's retargeting and it's very   bottom of funnel?   Is this because the creative is   fatiguing? There's a lot of different   troubleshooting that now needs to go   into this creative down the bottom here.
+
+
+00:04:51
+  But, the rest of these ads look all   good. Frequency is fine. In fact, 90% of   the time when you do this exercise,   frequency is probably going to be under   a two and you're fine, and you can move   on.   That's rule number one.   Rule number two. Anytime you check   frequency, you actually don't just want   to do this.
+
+
+00:05:05
+ You want to go down and   delineate into new audience frequency   only   because what ends up being the case   quite a lot of the time is you'll have   existing customer spend that will blend   in if you're not doing proper   segmentation. And because of that, the   existing customer frequency will be   high, and it will inflate this number.
+
+
+00:05:25
+  And so, you want to make sure that if   you are going to look at this frequency   number, you're actually looking at it on   a new audience basis because engaged and   existing will skew it up. The third rule   of frequency is that it is relative to   average time to purchase. So,   if your brand average time to purchase   is, let's say, four days, well, that   means that realistically,   people might see one, two, maybe three   ads within that four-day period, and   then they convert.
+
+
+00:05:56
+ Now, if your average   time to purchase is instead 14 days, you   will obviously need more ads served to   the user to get them to convert so you   can continue to stay top of mind over   that uh customer journey.   And so, because of that, frequency on   longer time to purchase products or   brands will require a higher frequency,   which is why frequency shouldn't be   compared brand to brand because you   likely have different average time to   purchase   dynamics within the business.
+
+
+00:06:30
+  And so, if you take a, let's say, a   high-ticket furniture brand that's   selling $5,000 couches, you might want a   higher frequency than a direct com- uh   let's say a friend of yours who owns a   fashion brand with a $70 average order   value. You're going to have much higher   time You're going to have much quicker   purchase cycles on a lower ticket item.
+
+
+00:06:50
+  So, when you're looking at frequency,   what you actually want to do is you want   to keep it relative into your own ad   account. Now, I gave you a hard rule up   the top here, which is if it's greater   than two at at an ad level, you have an   issue. But, then once you start going   into the ad set level or the campaign   level and you look at frequency across   the account, frequency on some accounts   is fine all the way up to a five on a   14-day basis.
+
+
+00:07:11
+ We have clients that sit   on a five frequency, and we're   absolutely happy with it because they're   performing unbelievably well, and it   does take a high frequency of touch   points to convert their customer.   Then we have other clients where we're   not happy if we see it go above a 2.7   because they have a much faster time to   purchase.
+
+
+00:07:28
+ We actually see very strong   results at sub 2.7. We don't need it   going above that.   And so, you need to understand what the   baselines are within your account when   you're performing well,   and then use that as a relative measure   for where frequency should be over time.   There also is a another component of   this, which makes frequency actually   quite a confusing metric, which is that   frequency does not sit on a uh evenly   distributed distribution curve like   this.
+
+
+00:07:55
+ And so, when you see frequency in   the account of, let's say, two,   what people think is it looks something   like this, which is that most users are   seeing an ad twice, some people are   seeing an ad two to three times, other   people are seeing an ad once.   This is not what the distribution curve   for frequency actually looks like. The   issue is you can't actually get   visibility into the distribution curve   because Meta removed that feature like   six years ago.
+
+
+00:08:21
+ But, you used to actually   be able to get a breakdown of your   audience and how many times each   individual segment of user was seeing an   ad. And so, for some brands, you   actually might see frequency looks like   this.   In which when you put an average on this   graph, average frequency sits here at a   three, and you go, "Okay, this frequency   is reasonable.
+
+
+00:08:43
+ Most of our uh audience   is only seeing ads three times." But,   the reality is there's actually tons of   people that are seeing your ads, let's   say, seven plus times, but it's not   getting encapsulated. An actual very   common frequency distribution um   is   this. And so, you'll end up with an   average somewhere here, which might be   like a 2.4.
+
+
+00:09:07
+  But, then the reality is is that 10% of   users are actually getting targeted like   11 plus times. And so, the frequency in   the account is getting dragged up   substantially because it's a mean value,   and it's getting dragged up by these   users. This happens a lot if you have   existing customers getting pulled within   your targeting because existing   customers will just get targeted a   bunch.
+
+
+00:09:26
+ Um but, this is also for very   high-intent audiences. And so, if Meta   thinks someone's very high-intent and   unlikely to buy, they'll end up serving   ads to them a ton, which drags the   frequency up, but you don't realize how   much wasted spend actually sits up here.   A really good example of this is you as   the owner or a marketing manager within   the business, you probably see your ads   all the time.
+
+
+00:09:46
+  And the reason being is that Meta   identifies you as super high-intent and   therefore continues to serve to you.   Despite the average frequency being low,   there's a small pocket of people seeing   your ads a ton of times.   Now, this is just information about how   frequency works. There's actually not   much you can really do about this cuz   you can't even get visibility into   frequency distribution.
+
+
+00:10:05
+  That then leads us into the fourth rule,   which is that you always want to be   fixing   frequency at the creative level,   not the ad set level. And this is a   really big mistake that people make is   they go, "If your frequency gets high,   you need to fix it."   The frequency isn't the issue, the   creative is the issue, and the frequency   is the product of it.
+
+
+00:10:24
+  And so, people will go and try to fix   frequency or they uh do a rolling reach   analysis and they try to fix their   rolling reach. But, the reach or the   targeting isn't the problem, the problem   is the creative. Because how creative   works is you put it all into the account   and then it goes and finds an audience   based on who Meta believes this will   resonate with.
+
+
+00:10:42
+ Now, the issue is if all   the creative is the same talking to the   same person with the same angle, with   the same offer, they all go and reach   the same pool of people. And so, you can   continue to go and stack more and more   ads into the account   and your frequency will stay the same if   they're all just talking to this same   person over here because they'll just   keep serving to this user and frequency   will continue to get driven up.
+
+
+00:11:03
+  And so, the key to solving frequency is   to actually   launch more ads,   but not have them go and target the same   people, but have them reach and talk to   different people.   And that's how you fix   the frequency issue. Now, tactically   there is one thing you can do to   actually fix frequency, which is   partnership ads   and whitelisting ads.
+
+
+00:11:26
+  And so, whitelisting ads is running your   ads through a page that you own. So, you   just make a new page. Generally, you'll   call it something like um   dermatologist reviews or something that   seems like a third party. And then you   would run ads through that and generally   that will allow you to reach new people   cuz it's running through a new handle.
+
+
+00:11:42
+  Partnership ads are effectively the same   thing. You run through two handles,   which allows you to actually better   reach the uh handle's audience, which is   the influencer, which you might not have   currently been reaching with the ads   that you were putting in the account. It   wasn't reaching that pool of users.
+
+
+00:11:55
+ And   so, these two tactics do help to fix   frequency, but they're ultimately   like putting a Band-Aid on the problem.   It'll fix it in the short term, it will   help, but it won't fix the underlying   issue in the long term.   And so, you really want to improve   your creative strategy. You want to   not have a lack of diversity, you want   to improve diversity in the account.
+
+
+00:12:18
+ You   probably want to improve volume, too.   Volume tends to end up being a limiter   and issue with frequency getting driven   up.   And that's how you want to solve this   issue. So, just to recap, frequency   isn't a vanity metric, it's one of the   best metrics for identifying creative   fatigue before it happens.
+
+
+00:12:32
+ You want to   be deciding on a date range and a ad   structure level anytime you're   referencing a frequency number   internally. You don't want your ad   frequency to be above a two at an ad   level. You always want to be doing an   audience segment to understand what the   frequency is across different audiences.   Frequency is completely relative to your   average time to purchase, so don't go   and compare this with any of your   friends because they have very different   average times to purchase and so, their   frequency is going to look very   different.   And frequency is ultimately a creative   issue, it's not an issue that you can   just solve at the ad set level.
+

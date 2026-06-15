@@ -1,0 +1,18 @@
+NotebookLM Audio Overview — customisation prompt for the R299 SALES TEASER
+
+Paste into the "Customise" box before you click Generate.
+
+---
+
+Create a punchy, high-energy audio TRAILER for the DropStore community: an audience of South African e-commerce and dropshipping store owners. Two hosts, fast-moving and genuinely excited, like two operators who just figured something out and want to share it.
+
+This is a marketing teaser that will be posted publicly, so the job is two things at once: deliver the free value in the source for real (the blended MER and breakeven ideas) so listeners feel the quality, then build genuine excitement for the paid "DropStore Deep Dives" membership at R299 a month.
+
+Rules:
+- Lead with value. Spend the first half actually teaching the two free ideas clearly, so it never feels like a pure ad.
+- Explain every term in plain language (blended MER, breakeven, the pixel).
+- South African context: rand, VAT, local realities.
+- Do not invent numbers beyond the illustrative examples in the source.
+- Keep it tight: 6 to 8 minutes.
+- No cringe, no hard-sell clichés. Confident and credible.
+- End on a clear, warm call to action: join Deep Dives, the link is in the channel, a new drop lands every second day.

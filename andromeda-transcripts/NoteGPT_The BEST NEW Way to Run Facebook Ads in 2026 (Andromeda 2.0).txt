@@ -1,0 +1,208 @@
+
+00:00:00
+We're back. For the second year in a   row, I've partnered with Meta to take   you inside the Performance Summit, and   the dream team is back together. Last   year, we broke down the new way to run   ads, but for 2026, the game has changed   again. In this video, we're breaking   down the exact road map you need to   scale for the rest of the year.
+
+
+00:00:17
+  >> Well, you know, like the last year there   was so much   >> press about Andromeda, you know, it was   like Andromeda this, Andromeda that.   >> What a PR campaign. What's that?   >> What a good PR campaign, Andromeda.   >> But there was also just like so much   misconception,   you know? It was like this is the   Andromeda method.
+
+
+00:00:37
+ This is like   >> like I heard so many people saying like,   "Oh yeah, I'm running Andromeda." Like   as if it's like a choice   >> that you like opt into.   >> Um so I really enjoyed the thorough   breakdown from Matt Steiner today and   like actually walking through how the   whole system works together.   >> Yeah.
+
+
+00:00:57
+ And like seeing Andromeda up there   as like one of five.   >> Yeah.   >> And like it's just a piece.   >> Yeah. With along with like Lattis and   Gem and the signal uh journey.   >> Yep. Yep.   >> Adaptive model.   >> Yeah.   >> And like really connecting the dots   around like this is the way the system   works now.   >> Like they basically built an LLM version   of their ad delivery platform now.
+
+
+00:01:20
+ So   like everything is just so much smarter.   >> Yeah. all the GPUs that they've added to   the system. It's just like   you can't really   distill it down to just being, oh, it's   an Andromeda.   >> Yeah. I remember last year it was like   it was AI, it was incrementality, and it   was like measurement and stuff like   that.
+
+
+00:01:40
+ And I feel like the topics didn't   change, but I love I also really like   that. Like we we've heard about   Andromeda, Gem, and Lattis, but for me,   the signal journey thing was the biggest   piece. It was like pointing out that the   value and even Alex talks about it in   his book, but it's not about one click.   It's about the impressions served   organic and paid and trying the machine   to try to understand what's the best way   to get somebody Maya on Tuesday, on   Thursday, on Friday, on Saturday to get   something done, right?   >> Which I think from a personal   perspective validated the idea that a   ton of ads is not a good thing because   it makes that decision harder.   >> Yeah.   >> But like I also heard probably what I   wanted to hear. You know what I mean?   Yeah. And just like you know it's like   not as simple as people think like okay   I can now I can have my top offunnel   campaign. I can retarget those people   with this ad. I can handle all the   sequencing. But now it's like the   platform does that for you where it   knows every individual's habits. It can
+
+
+00:02:38
+  predict which ad to serve that user in   which order in which context. And it's   just like so much more advanced than the   way media buyers used to have to do   things which is like lookalike audiences   and segmenting everything out and like   trying to map the user journey   perfectly.
+
+
+00:02:53
+ And the reality is the user   journey is completely different for   every single uni uh individual.   >> Yeah. Totally.   >> So it shifts the focus of competitive   advantage.   >> Yeah.   >> Cuz like you're not going to get it from   that which is what you used to do. And   it was a lot easier to run campaigns for   clients and get them results because of   that. Um, yeah.
+
+
+00:03:10
+ So, switches to other   things.   >> What about you? What was your biggest   takeaway?   >> Um,   I'm not sure it's a takeaway in terms of   something new, but the thing that   resonated with me the most was what   Preston from Chubbies said   >> um around   not everything being direct response and   factoring in the brand element. I think   us sitting around here, we get that   because we're   >> we've got personal brands and we   understand the value of brand and   creators.
+
+
+00:03:38
+ So I think when I'm   emphasizing that to people I speak to   running ads probably is easier message   coming from someone that's done it. But   that really resonated and just the   importance of that over the long run.   >> And I'm finding that more and more when   I'm being asked questions from   particularly businesses that are new to   running ads or even new businesses and   they're operating in a really   competitive market   >> and I would just straight up say to them   now like if you don't have brand this   will not work.
+
+
+00:04:05
+  >> Yeah. You are not going to sell your   apparel or your supplements if you don't   have brands. So that either means you   need to build it internally or you need   to leverage other existing brands. You   need to partner with creators etc.   Otherwise just it's just not going to   work.   >> Yeah. You don't have the moat.
+
+
+00:04:21
+  >> They they don't have the moat and they   are competing against businesses that   do.   >> Yeah. Absolutely.   >> Um in that instance. So that just that   just really resonated. That was probably   my favorite part.   >> No, I love that. And also like the fact   that like your spend should not be 100%   focused on trying to get a sale.
+
+
+00:04:33
+ You   need to build relationships, which I   think is a really big thing because   going to a DTOC brand and saying, "Hey,   10% 20% of your budget shouldn't be on a   conversion campaign." They're going to   look at you crosseyed, but if you do   that, you're going to be chubbies versus   somebody else that's not in business   anymore.
+
+
+00:04:50
+  >> But it's also like I've been doing   internet marketing long enough that I   remember going through courses and   consuming content   >> where the narrative was like, "Oh, look   at us smart internet marketers just   focusing on direct response. those silly   big brands all running brand   advertising.
+
+
+00:05:06
+ They don't know what   they're doing and that they're like the   biggest companies in the world and it's   like what may maybe they do maybe they   do. So I think that the that narrative   is coming full circle um around like   actually brand could be tremendously   valuable and it's probably the only   thing that has like enduring value   insulates you against platform changes   and things like that.
+
+
+00:05:26
+  >> And I think the really cool bridge for   like performance marketers to go into   brand is with those new I would say new   ad types like meta moment maker the real   trending ad. I feel like as performance   marketers, we can really like   understand, oh, that's like an ad format   type, but it's like really it's really   conceptualized for me the ability to tap   into like keep culture moments, which I   think as like a performance marketer, I   don't tend to think about, but like now   that they've productized it, I'm like,   okay, this is actually something really   tangible I can bring to my clients and   like my brands on like a performance   level and some like a way they can tap   into those brand moments.   >> Yeah. Like the Target example they gave   felt like back in the day when you could   buy a trend on Twitter for like 100k for   a day, right? Like and you would just   insert this massive distribution thing   on something that just like a complete   takeover in a way that you haven't   really seen on the platform before. Does   that make sense?
+
+
+00:06:25
+  >> Yeah. What is that your biggest   takeaway?   >> I mean I think it's the thing that I'm   excited the most to like talk about my   brands with. And I will say too, the   thing that I really loved that was   underscored is like when you are working   with brands for partnership ads, like   give them a list of bullet points, give   them like a highlevel overview, but   brief like a big brief, a big script is   like not the way.
+
+
+00:06:47
+ And I felt like that   really landed for me today particularly   because I just got feedback from a brand   for like a partnership ad and like they   completely kind of like pulled the rug   out from under me and they were like you   know go with it whatever you want to do   we trust you and then they were like   well actually we want you to like make   this product about   >> who who was it? Who was it? [laughter]   >> No, I think they the   >> a SAS brand is all I'll say.
+
+
+00:07:14
+  >> A come on there SAS brands. I I think   the speaker on stage today, I don't   remember which one so I don't want to   false attribute it was like   >> the creator audience knows what they say   >> and if you script it they will know that   it's not genuine and you lose the whole   value of it completely   >> cuz like as a creator when I am making   content like express expressly to be   like boosted on partnership ads like I   am thinking from the perspective of like   okay it needs to really resonate with my   audience because I know that like the   initial seed lead audience is going to   be for me.   >> And like   >> candidly, I know that the buck stops and   like the brand partnerships stop if I am   making just like ads for   people.   >> So like I'm always thinking about it   from the perspective of like what is   going to be truly helpful for my   audience and can people find value from   my content even if they're not   necessarily interested in the product.   Yeah.   >> And like most brands are down and most
+
+
+00:08:12
+  brands are like interested in that, but   like still there's like this rigidness   to like the brief process.   >> I've had a handful of brands that I've   done some content for where I've like   delivered a script and they give it back   to me and they clearly just uploaded it   to Claude.   >> Yeah.   >> And then I'm just like rolling my eyes   like you really want me to say this like   it's not this, it's this.
+
+
+00:08:32
+ [laughter]   Like everyone's negative.   >> Oh my god. Yeah. What what about you   two? What was your biggest takeaway? You   want to go first, Tiffany?   >> Yeah, I'll go first. Um, I think   reminders were something that really   came to me a lot here, especially in the   context of a business owner and really   how meta tools have really reduced the   barriers to entry for business owners.
+
+
+00:08:52
+ I   just think things used to be so   complicated even for us in general.   there were so many controls and   constraints and overoptimizing we were   doing in certain areas uh to kind of not   game the system but outsmart the system   in a way and that's just not necessary   anymore. It's really clear now that AI   has really enabled us to kind of focus   more on what creative and data are we   supplying the systems with.
+
+
+00:09:18
+ And that's   the same messaging that I'm going to be   really just taking back to my audience   as well, which is like let the system do   its thing. what you should be focusing   is on is on creative diversification and   how do you work with creators and when I   also think about there's a few things   that have become easier so much work was   spent in trying to you know beat the   system in a way back in the day now AI   is covering that and then another side   is that finding creators were was so   much work when I started hiring creators   in 2016 I used to go to Instagram go to   the hashtag search through people then   try to calculate their engagement rate   do all these things. It was just hours   and hours on end. And now I'm like, you   all don't even understand how lucky you   are that creator market exists here for   you. So just thinking about how much   work was involved and how much time we   spent on the ground doing things that   are more automated now is super super   powerful. And then I think what I really   hope business owners and and just   marketers in general consider is how do
+
+
+00:10:16
+  I just create really great relationships   with creators so that I can get the   content get more and more content out   there and then how do I leverage AI like   Genaii tools to really scale that.   >> And I love it that the barrier to entry   thing. I feel like it's easier and   easier for somebody to spend 50 bucks a   day and make it worth it.
+
+
+00:10:32
+  >> Yeah. The barrier the barrier to entry   is so low. The thing that I loved was   the conversion API update that they did   recently. I don't think people   understand how impactful that can be for   brands to be able to quickly get the   signal they need off the bat. And then   also that is feeding off of other   aspects of the AI um integrations for   example like the feed and the catalog   updates that they've made that I thought   was a really really impactful thing um   that they have rolled out to advertisers   and I didn't realize actually how   impactful the product level data was to   be informing optimization which if you   think about it of course it makes sense   like they want to use every point of   data that they have about your business   and so now I'm looking back on my   clients and I'm like I need to go   optimize these cataloges to make sure   they're in the right place, you know.   Um, and at the same time, that plus   partnership ads hub that's rolled out   recently. Um, you you guys both   mentioned this, but that has been such a   huge overhaul, I think, for just the
+
+
+00:11:30
+  Facebook ads ecosystem. Um, alignment   like true alignment between incentives   between brands and creators and Meta   actually helping and making a tool   that's like very effective in connecting   them, I think, has been incredible. It's   something that I've been using a lot   recently in similar way to you said of   like completely eliminating that stress   of trying to manage this crazy   partnership in the past that and plus   all these just AI integrations have been   really really awesome to see.
+
+
+00:11:57
+ I'm very   excited about that.   >> I I don't think enough noise has been   made about it's probably our fault. Um   has been made about like the conversions   API oneclick install. I think that's   like a really big deal for a lot of   >> a lot of people a lot of you know   >> people on Fiverr now needing to find new   avenues of making money right [laughter]   >> does anybody know what actually like cuz   I haven't done it yet but does it cover   as if you went and did like a whole   >> developer should do   >> it I've I've seen it do that   >> yeah I've seen it where it's essentially   with the one click it is   >> I don't know if it's 100% all the time   right because it's new but like it   should do that   >> but I've I've seen match rates go from   like low sevens to like high   >> eights.   And is it like you have to log into your   back end or like how does it actually   integrate?   >> I mean I think it was what I've seen it   was a button inside the business   manager.   >> You have to you have to have the pixel   just the base code installed on the site   and that's like all the permission   basically that's required and then so   met can't do that for you but once   that's in
+
+
+00:12:56
+  >> so it's kind of piggyback piggybacking   off of the   >> cuz it'll also sort pixel setup. So like   it'll improve that too.   >> Yeah. So it's like back in the day when   you would select advanced matching   >> so you could tap into the greater data.   Yeah. And and what you're talking about   with the partnerships and what you're   talking about about the moat made me   think of like they said you know then   your network is your net worth and a   brand defining yourself by the partners   that you work with and really like   letting that define the ecosystem of how   people should think about your business.   Your moat could be easily defined by   having the right creators and it could   be destroyed by not getting people that   are on brand and investing and   essentially investing your ad dollars   and destroying brand equity. So I think   there's an importance there.   >> Yes, I think there's too much fear   around that though.   >> Okay.   >> Like I think it's quite hard to like   you've got to really be stupid to work   with creators that are going to
+
+
+00:13:54
+  >> tempt me. I can be this is like   >> most of the creator partnerships that   don't work. It's just no one cared.   >> Sure.   >> It's not   >> brand spend.   >> We got famous examples for like for the   most part. I think it's so I think I've   had that push back and I'm like like   you'll be fine. Yeah.
+
+
+00:14:09
+ Like just don't be   an idiot.   >> No, I love that cuz Yeah, it's a big   fear.   >> I think what's interesting too is   actually the affiliate play then now   with like creators being able to like   link directly in content. Like I'm   really excited about that because I   think that that's going to actually be   another great avenue for brands to like   be able to activate maybe creator   partners that they wouldn't have thought   of working with in the past if they're   already seeing a lot of great traction   organically. Like a number of brands   that I work with like one of our like   creative flywheels is okay it's working   really well on Tik Tok shop move it over   to Meta like performs really well. And I   think this is going to be like another   one of those type of flywheels that I'm   particularly really excited about from   both the advertising perspective and the   creator perspective because you know   like a brand is going to look at me like   if I wanted to do like a fashion   partnership or a beauty partnership   they're like no dice like with this like   advertising girl but now I'm like hey
+
+
+00:15:08
+  like I can actually kind of like flex a   little bit in and out of that. So, I   think it's just a really cool   opportunity for more like creative   diversity and like getting a lot more   net new eyeballs through like creators   that are already performing that you   probably wouldn't have considered   before.   >> It's about the access too cuz like like   I'm personally making content as a   creator in partnerships where I'm doing   it for free and getting the affiliate   backend and then my because the ad   dollars are then pushing out my   Instagram account. So basically brands   are paying to blow me up   >> and I'm getting the affiliate revenue.   So I'm willing to do that for free and   it's like people are able to access   individuals because of that opportunity.   So if you believe in something but the   brand's like we can't pay you. And it's   like well   >> I'll make you a video, give me 10% of   every sale and then like you'll blow me   up. It's like a a good exchange for   brands that otherwise might not be able   to get anybody.   >> It's derisking it. It's taking the risk
+
+
+00:16:06
+  out of the brand because   >> it's a good incentive.   >> I'm not so sure.   >> Okay. Well,   >> I'm gonna be controversial.   >> Okay. I think I think we gota Yeah.   >> I've seen multiple instances where a   brand has done a deal like that with a   creator.   >> Mhm.   >> And I think when it's in an affiliate   structure, so the creator can see   exactly the sales they're generating,   the return, etc.
+
+
+00:16:28
+  >> If they're big enough, it becomes very   easy for the creator to go, I'm going to   do that.   >> Sure.   >> I'm going to replicate. I'm gonna sell   that thing that I'm promoting under my   own brand name.   >> So, I think it would it drisks it for   really small brands that don't have much   budget because they're paying a   percentage of what they generate.
+
+
+00:16:45
+  >> But I would not advise it to most   brands. I'd be like, pay a flat fee,   keep the creator. I mean, I'm a creator   as well, right? So, I'd very much both   sides keep the numbers from the creator.   >> Yeah. I just like if you have them, it's   just so easy in many instances for a   creator to go, I'll just do that myself.
+
+
+00:17:03
+  I am low confidence on like creators   doing that.   >> Yeah. Also, also like if the creator can   replicate your entire business with one   ad, build a better business.   >> Yeah.   >> So maybe we can get like one insight   from everything like an action item from   today for anybody like what you've got   that somebody should take away with.
+
+
+00:17:22
+  What can they do to be better tomorrow   from what you learned today? Do you want   to start Tiffany? You were nodding your   head. I'd say the the biggest thing is   the experiment,   test, learn, iterate. I'd say iteration   is the big thing. Something iteration is   what gets missed the most is receiving   the data and then just being like this   is great data or cool.
+
+
+00:17:39
+ I don't know what   to do with it. You have to iterate. It   has to teach you something and then you   have to decide, okay, this is what I'm   going to do next. And I think that's   what gets missed. So it's like you can   see information from a conversion lift   test or anything and be like, okay,   that's great.
+
+
+00:17:53
+ But it's what you do next   with that information. So, I would say   uh learn uh experiment, iterate.   >> I'm actually going to jump in right   after cuz ours is like super similar.   Like I think the big thing that I took   away is like making sure that your data   actually turns into insights and   learnings and like you walk away with   that and like you're actually like   translating that properly to your team.
+
+
+00:18:14
+  So like you and I girl,   >> there action. [laughter] I love it. Max,   I feel like you're about to say   something. Yeah, mine was very This mic   mine is very similar to what you guys   are saying in the same way. It actually   kind of takes it a step further going   into I forget the exact names of the   people, but it was the guy who wrote the   book um   >> Alex CMO of Meta.
+
+
+00:18:33
+  >> Yes, CMO of Meta. Shout out to Alex.   [laughter]   what what he what they both were saying   on the panel was to because of the fact   that we have so much AI enabled tech you   really have the ability to play more and   I'm kind of you know extracting that   insight from them because I really think   that the idea of being flexible and   playing with the data in terms of okay   you can take a ad and then say okay well   what do we learn from this persona or   this specific hook or insight and a lot   of people will take that and they'll   make the exact same ads like a hundred   times and they're not stretching the   creative concept out enough. They're not   playing enough with these ideas and how   can you find a creator that aligns with   your brand and then give them creative   autonomy to create something that you   would have never ever generated on your   own. Being able to push your team into   those areas where they're able to have   play and not being overly stressed about   the minutia of the ad account
+
+
+00:19:31
+  optimizations I think is extremely   important especially on the creative   team of course. Um, that was one of the   biggest takeaways I had because it it   was more inspiring honestly as a point   from a technology aspect takeaway. I   would say the biggest one is like run a   conversion lift study.
+
+
+00:19:44
+ If you've never   run an incrementality test, you really   don't fully understand uh the impact or   the causal impact of your advertising.   And so I'm a big fan of that and it's   free in the back end in the experiment   section of Ads Manager. So go run a CLS.   >> I love that. What about you, Caleb?   >> I was going to say play as well.
+
+
+00:20:01
+ Um,   actually, but like cuz I cuz   [clears throat] I agree like you know   some of the biggest wins I've had   throughout my career advertising on the   platform have been from testing out a   new feature from testing out a new   creative that like I saw somewhere and I   was like oh I want to try this and I   feel like when advertisers get stuck   it's because they're just kind of so   they're too rigid   >> and they need to be willing to test and   learn and like   >> make mistakes and like maybe even like   carve out budget   >> Yeah. Yes.   >> In their ad accounts for   >> I've always had 10% to do weird   >> Yeah. This is my R&D budget. I'm going   to like if I'm blowing it and like maybe   I'll have the like 10x 100x win   >> once a quarter from that budget.   >> That's enough.   >> Yeah.   >> Yeah.   >> Yeah. Absolutely. What about you, Ben?   >> Can I go last cuz I've got two options.   I don't want to necessarily do the same   one in case you take   >> I was trying to Okay, got it. I love it.   Um I would say I love the play. I love
+
+
+00:21:01
+  everything else. I'll go into a more   technical aspect which was the very   first thing with Matt Stein or the data.   I think what I got out of that that is   not communicated well by meta is the   signals and I don't think they really   talk about the application of it but how   valuable that is and it's only more   exponentially valuable now.
+
+
+00:21:20
+ The signals   isn't I've got good match rate. It's do   you want new customers? Create an event   that is new customers. Do you want to   sell more couches instead of love seeds?   Make an event that is couches instead of   love seats. Like your ad doesn't always   sell what's featured. So if you have a   clear definition of success, it's   something other than lead or purchase.
+
+
+00:21:41
+  Define what it is or understand that   you're not teaching the machine how to   do a good job.   >> Yeah. I think that something that they   could have done a little bit better is   like they said like tell us what you   want. And I don't think every advertiser   knows how to tell the customer.   >> It's not purchase. It's new customer.
+
+
+00:21:56
+  Yeah. What about you?   >> Okay. That's that's really helpful cuz   that was going to be one of them. So   that leaves me one other option.   >> All right. Good.   >> Um   >> I would say that   coming to a day like this and it's so   much information and we'll all dissect   it up and put it out there and so will   Meta.
+
+
+00:22:12
+ I think that anyone wanting to   implement this stuff because you the   originally phrase is how do you get   better tomorrow? Yeah.   >> So anyone implement this stuff can be   really overwhelmed. So my my number one   piece of advice would be like you are   not the best to do all the jobs that are   required to make it really work. So I   mean just an example my agency spent   more than hund00 million on metads last   year most of which was beyond video ads.
+
+
+00:22:40
+  I don't know how to record. I don't know   how to edit. Um I don't know how to   install a metapixel conversions API   beyond a very basic setup. There's tons   of elements that I think marketers try   and do all of it and you get much better   results if you go, I don't really   understand hooks.
+
+
+00:22:57
+ I'm going to work with   a creator who does. That's how they   became a creator. They're really good at   video ads. Or I'm not I don't really   understand um how to map out the the   customer lifetime journey after that   initial transaction. How can we can we   bring that in? So, it's probably a bit   of a left field piece of advice, but   that's what that's my biggest takeaway.
+
+
+00:23:19
+  When you go through all that, you think   like, let's do it all, but not one   person.   >> No, I love that. It's be a specialist   and hire where you're weak   >> because you'll never catch up. It's   moving way too fast. They had full-on   teams with homework to keep up with AI.   All right, I think that's going to be   our time cuz we're getting we're getting   the red light like seven times.
+
+
+00:23:36
+  [laughter] So, anyway, I just want to   say thank you to everybody. This is   super fun. Thank you. And thank you for   having us. And uh All right. Awesome.   This was fun.   >> Thank you.   >> This was   >> Yeah. [screaming]   >> [music]
+

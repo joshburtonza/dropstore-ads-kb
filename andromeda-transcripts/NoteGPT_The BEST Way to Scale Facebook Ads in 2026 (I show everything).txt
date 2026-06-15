@@ -1,0 +1,156 @@
+
+00:00:00
+So, today, we'll be talking about how we   took this brand right here from   literally $28,000 a month in profit all   the way over to $113,000 [music] in   profit over the last 30 days. And   specifically, how we were able to spend   more on Facebook ads at a lower cost per   acquisition, which has increased   profitability and increased sales.
+
+
+00:00:19
+ So,   today, we'll be talking about the best   way to scale Facebook ads in 2026, and   the way we currently leverage after   spending over $2 million a month on   Facebook ads. Let's dive right into it.   First thing we'll talk about is the ad   account structure. If you were on the   channel for a while, you know I pretty   much consolidate everything down into   one CBO.
+
+
+00:00:39
+ We do have these other   campaigns currently active, but we don't   really use them at all. These were   things we were just testing and stuff   because all of my YouTube videos are   based off things that I test, I validate   with my clients, my ads agencies, and   then I make this video content. So, this   is all just [ __ ] you can just completely   ignore because it's little things we   tested in the background.
+
+
+00:00:58
+ Really got us   any results. But, we have this main CBO,   and this CBO right here, uh we have one   product in it, okay? That's terrible,   but we have one product in this CBO   campaign, and you can see right here   over the last 30 days, we spent over   $151,000.   And we're actively spending right now   $5,200 a day on ads, which is   substantially more than, you know, what   we were originally spending on this   particular account.
+
+
+00:01:25
+ Inside of this CBO   campaign here, we just have one product.   We do have USA and Canada in this   campaign, and that's just because like   we just launched this campaign with   those countries. I typically don't like   to do more more than one country in a   campaign, and that just gives me better   control over those countries of what's   performing better and stuff.
+
+
+00:01:42
+ But, this   one, we just tossed USA and Canada and   let it roll. It's not the end of the   world, and it's not something that you   really need to like go way too deep   into. Inside of this CBO campaign, we do   have a ad idea per ad set. Y'all can see   right here, we have over a lot of ad   sets running right now.
+
+
+00:01:56
+ We have 95 ad   sets in this campaign, and I would say   probably about 20 or 30 active ad sets   right now. Each ad set has one ad idea.   An ad idea is going to be three photos   or three videos. Each of those ad ideas   is just going to be the ad idea we want   to test. So, very simple. And in each ad   set, we have three creatives basically.
+
+
+00:02:17
+  So, like in 180 right here, we'll   basically have like 180-1, 180-2, 180-3.   We're only seeing one of these 180s, and   that's because I just have all of the   ads in this campaign sorted by amount   spent. So, that way, you know, we can   just kind of see everything that's been   performing this campaign going on.
+
+
+00:02:34
+  Lately, for this particular client,   we've been having a lot of success with   the cigar avatar, and that's been giving   us a really good audience for us to   scale into. Now, again, going back to   the video here, how to scale Facebook   ads. Well, the procedure we follow is if   we just go back to our campaign level,   we just simply go ahead into the daily   budget part, and I just increase this   budget right here.
+
+
+00:02:54
+ I click on it, and I   can increase it, and I just increase it   by 20%. So, if I do a 20% increase on   this, it's going to basically transform   over to here, where this is going to be   $6,300, and then I hit publish. That's   all I do. I guess I could do like this,   publish. And that's it. That's how I   scale Facebook ads.
+
+
+00:03:15
+ But, you know, there   obviously needs to be a more methodical   approach just for you guys to follow as   we guys follow this channel. So, every   day, I run this SOP. Hey, yesterday, did   we hit our KPI? So, what is KPI? Well,   for me, every account's going to have a   different KPI, but a KPI is basically   going to be our key performance   indicator.
+
+
+00:03:38
+ This is the North Star for   the account, of which all of our   decisions are based upon. So, in this   case right here, this campaign's getting   a $46 cost per purchase right now. This   particular client is happy with anything   below a $50 cost per purchase. So, as   long as we're getting $49.99   or $49.99   less, we can keep scaling this campaign   up by 20% every single day.
+
+
+00:04:02
+ So, if I go   back to this particular uh SOP,   yesterday, did we hit our scaling KPI?   Yes, we were at a $46 a second ago. So,   we're going to increase that ad spend by   20%, and then basically, our scaling SOP   is complete, and we just come back the   next day and repeat this again. What if   you're not hitting KPIs? What happens   next? Well, the first thing I like to do   is when we don't hit a KPI, we let it   run for 3 days without touching.
+
+
+00:04:29
+ So,   let's say today, I look at yesterday,   and yesterday, we didn't hit our KPI.   Cool. Well, tomorrow, I'll look back at   again, which would technically be today   now, and it's like, oh, we hit KPI   yesterday? Cool. Now, let's scale up   budget. But, no, if not, have we have   had at least 3 days of just letting the   KPI be bad before we start touching   things? Why do I say that? Because I've   been in so many scenarios where   performance will go terrible for like 2   or 3 days, and then Facebook just like   optimizes itself back. And I've seen   that so many times now that it's in our   SOP to when performance goes terrible,   don't do anything, give it 3 days   because 80% of the time, it always   resets itself back. So, why do I want to   disrupt it even more? In that case, hey,   we haven't waited 3 days. Cool. Wait   another 24 hours, and then boom, and   then we just come back and repeat the   SOP again. But, let's say we did wait 3   days, and after 3 days, performance is   still terrible. My next question is, are
+
+
+00:05:28
+  we at the hard deck? So, for me, let's   say we're scaling. Let's say we're   spending $100 a day on Facebook ads, we   scale all the way up to $1,000 a day on   Facebook ads, performance gets terrible,   we have to start decreasing ad spend. I   don't want to decrease all the way back   down to $100 a day because that's less   budget for us to leverage in our testing   of new creatives, new landing pages, and   stuff.
+
+
+00:05:50
+ So, I like to still have a good   amount of budget that we can leverage,   and that's why I always like to set a   hard deck. A hard deck is a budget   number that we normally never go below.   This is going to be different for   everyone because it's purely dependent   on cash in the bank. There's some of our   clients that they're happy with losing   $1,000 a day on Facebook ads for 30 days   while we're trying to find something   new.
+
+
+00:06:14
+ There's some people who, you know,   they're spending 100 bucks a day, and   they can't afford to go really much more   than that at a loss. So, you just have   to kind of determine that hard deck. But   again, for me, typically, a higher   number is better because at a higher   number, we get more data at a faster   rate, allowing us to test more creative,   test more landing pages, and do all the   optimizations we need to be able to   improve performance.
+
+
+00:06:37
+ If we're at the   hard deck, cool, we're not going to   decrease spend, and we're just going to   pretty much hold at that particular   budget until we we can lower our cost   per acquisition uh or hit and hit our   KPI to where we can start scaling. If   we're not at the hard deck, well, cool,   then we'll decrease spend by 20%, and   we'll keep that simple.
+
+
+00:06:55
+ SOP's done, and   then we just simply come back tomorrow.   So, this is the SOP we follow. It's very   simple. It's nothing crazy. We don't do   bid caps, we don't do cost caps, we   don't do duplication of campaigns. We   just keep scaling up this campaign, and   we keep testing new ads in that   campaign.
+
+
+00:07:13
+ And then as the new ads take   over and lower that cost per purchase   and we're hitting our KPI, we increase   budget on it. We keep it simple, and I   still get questions from people, "Wait,   Nick, do you do a testing campaign?   Nick, Nick, do you do a scaling   campaign?" Like, here's literally a   screenshot of the ad account.
+
+
+00:07:28
+ Like, what   else do I need to show y'all? So, no, I   don't, right? Like, these were some   other things that we tested just cuz   again, I test things, and I bring video   content back for you guys to show y'all   what works and stuff. And even this, and   y'all still are questioning, "Do you use   a scaling campaign or testing campaign?"   Like, no, I do not.
+
+
+00:07:48
+ I do not use a   scaling campaign, I do not use a testing   campaign. I use one campaign per   business objective, and then from there,   I just keep testing my ads and scaling   up the campaign as KPIs hit. And there's   some accounts where we have five CBO   campaigns cuz we have five different   business objectives, right? We want to   start advertising in this country, we   want to start advertising this product   line, we want to start advertising to,   you know, hey, we're we're dominant   women right now, and we want to launch a   men's line, so let's launch a men's   campaign. So, there's different business   objectives for some of our higher   spending accounts. But for most people,   80 to 90% of people watching this   YouTube channel, you should have this   one campaign in it, and you're fixing   and solving that campaign. The other   portion of it is, hey Nick, I've been   constantly decreasing spend, and I have   no clue how to fix performance. So, this   is where we want to go back into, hey,   if we're decreasing spend and not   scaling, we want to identify the   bottleneck fast and break through it.   So, for me, for you guys, I'm usually
+
+
+00:08:47
+  going to see two bottlenecks. I'm going   to see an offer bottleneck or a   retention bottleneck. Now, an offer   bottleneck, this is not 50% off. There's   some of you guys that are just brain   dead, and you think an offer is 50% off,   buy one get one free, buy two get one   free, bundle deal, flash sale, that's   not an offer.
+
+
+00:09:02
+ An offer is going to come   down to three things: people, perceived   value, and packaging. Yes, there's some   people that say 50% off or buy two get   one free or bundles as an offers. No,   those are offer enhancers, and you have   to understand the difference between an   offer and an offer enhancer. So, an   offer is the core foundation.
+
+
+00:09:22
+ If you,   you know, go look at a house being   built, here would be my terrible house   right here. Under the house, there's   this thing called the foundation. This   is the foundation. It's the cement slab   they pour before they build the house on   that that cement slab. If this is [ __ ]   this whole house is going to fall down   and fall and just break, right? The the   slab will break, and it's just it's   terrible, right? And this is what a lot   of you guys are doing.
+
+
+00:09:45
+ Y'all are   building these multi-million dollar   houses on these shitty slabs, and the   whole thing comes and [ __ ] crashes.   So, for you, you need to make sure your   offer is dialed in. And again, I have   people, perceived value, and packaging.   These are the three things that I think   about when I think about an offer,   right? So, for us, with this particular   client right here, and where we were   able to do with this particular account,   where we were able to increase ads, we   literally doubled ad spend, but we   almost 4x net profit on a monthly basis,   and we lowered new customer cost per   acquisition by $8. And a big reason why   we were able to do that is because we   found a new customer. All right? People,   these are the people you're selling to,   all right? And we had two different   people. We had originally college kids   when we were coming on board, it was   horny 18-to-21-year-old college kids who   this brand was originally selling to,   and then we introduced a new avatar of   cigar smokers. And then we positioned   this product as a a product that they
+
+
+00:10:44
+  can bring with them to the cigar lounge,   and you know, cigar smokers have way   more money than horny 18-to-21-year-old   college kids. We're selling a not a   high-ticket product, but it's the most   expensive product compared to all the   other solutions for the problem we're   trying to overcome here.
+
+
+00:10:58
+ So, we   introduced a new person, and then all   sudden that increased profitability   because we were able to get a lower cost   per acquisition with the cigar smokers.   So, people is just who you are selling   to, and you want to get go as deep as   you can into that avatar right there.   Avatar, persona, niche, all of the same   thing. Target persona, target person.
+
+
+00:11:20
+  All of these things are the exact same   thing, right? It's just the person you   are selling to. That is it. So,   different target or different people you   go after will net you different levels   of results. And we preframe our offer or   position our offer around that market.   And some of our accounts, like for   example, this account, we're still   selling to college kids, and that's why   we have different product pages, one for   the college kids and one for like the   cigar smokers here.
+
+
+00:11:45
+ The next one's   perceived value, right? And this is the   next one. And I love to follow Alex   Hormozi's value equation for this. So,   shout out to Alex Hormozi, where you   take the dream outcome, you take the   perceived likelihood of achievement, the   time delay, effort and sacrifice, you   fill all that out, and that's your offer   right there.
+
+
+00:12:03
+ Some offers are not that   strong. I just kind of give you guys   like an overview of this. Like for us,   cigar smokers, the dream outcome is   for this particular client right here is   to have fresh breath after smoking a   cigar. Perceived likelihood of   achievement, this is going to be all the   case studies you have of other cigar   smokers getting that result that you're   promising in the dream outcome.
+
+
+00:12:23
+ And then   time delay is how quick. This offers   instant basically fresh breath. Um and   then effort and sacrifice, the only   thing here is that this is an expensive   product, you know, relative to like the   things that other things on the market.   It's so easy to use, and it lasts so   long that it's little effort for a large   outcome, for a very fast result that   people want, and it's a you know, the   dream outcome that we're offering to   them, right? And the perceived   likelihood is going to be all your   testimonials and case studies and stuff.   So, this is what I like to follow for   that. And that's going to be my   perceived value. So, this is the   transformation we're offering for cigar   smokers. Now, packaging here, this is   the creatives, this is the landing   pages, this is your product page. So,   like for us, we have dedicated ads for   cigar smokers. We have dedicated, you   know, product page for cigar smokers.   And then we've even created like some   listicles now for the cigar smokers, and   helping them show them the
+
+
+00:13:21
+  transformation they'll get with our   product right here. And this allowed us   really to help us lower that NCPA. You   can see right here, lowered it by $8,   which allowed us to go ahead and scale   and spend a lot more. And literally, in   this particular case right here, we were   able to go from $97,000 in ad spend to   $198,000   last 30 days compared to, you know, this   time frame right here.
+
+
+00:13:44
+ So, this is a big   part, and this is how we literally go   went and tripled or almost 4x net   profit, and how we were able to get out   of the constant decrease of ad spend and   get back into the increase of ad spend   by 20%, and also keeping everything   just, you know, simplified in the ad   account and stuff.
+
+
+00:14:02
+ So, this is what   works for me. This is what we do for   over $2 million a month in ad spend for   our clients at our advertising agency   and stuff. So, it's what works for us.   We've tried a lot of different ways.   This is the best way for us to run our   ads and stuff. I recommend you try the   other ways.
+
+
+00:14:17
+ For me, personally, this is   what works best for us. It's simple,   it's repeatable. We've been doing this   for the last couple years now, and I   just haven't seen anything else to be   able to beat this. It could be seen as   technically slow with 20% increases, but   if you literally start off with $100,   and you increase it by 20% for 30 days   straight, it comes out to like 20,   22,000 dollars a day in ad spend, which   is insane.
+
+
+00:14:41
+ And that's just a 30-day   period. We don't like working with   people that want like crazy, "Hey, I   want to go from $100 a day to 22k a day   within 30 days." cuz it's very   unrealistic, and often times what   they'll do is they'll keep crashing and   burning and just lose all their   inventory, to be fair. Um or all their   financials and stuff.
+
+
+00:14:56
+ So, we personally   prefer this. It's slow, it's steady, and   slow is fast when you think about it.   So, uh thank y'all for watching. Make   sure to like button. Hit the subscribe   button for new videos every Monday,   Wednesday, and Friday. And if you want   me to run your Facebook ads and you're   doing at least 100k a month with your   brand, then click link below to have   Nick Terrier run your ads.
+
+
+00:15:15
+ If you want   me to hop on calls with you and mentor   you and coach you and show you what   you're doing wrong with your   then click link below to have Nick   Terrier mentor you. Thank y'all for   watching. Hope you have a good rest of   y'all day. Peace out.
+

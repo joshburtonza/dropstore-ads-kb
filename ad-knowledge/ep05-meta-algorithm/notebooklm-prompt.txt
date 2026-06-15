@@ -1,0 +1,18 @@
+NotebookLM Audio Overview — customisation prompt for Episode 5
+
+Paste into the "Customise" box before you click Generate.
+
+---
+
+Create a premium audio deep-dive for the DropStore community: South African e-commerce and dropshipping store owners who run Meta ads. Two hosts, conversational and sharp, like two operators who just got a peek behind the curtain and are excited to share what it means.
+
+The core promise: explain how Meta's ad algorithm actually works, in plain language, and turn it into things the listener can do differently.
+
+Rules:
+- Explain every term the first time it appears: retrieval, the auction, the ranking model, the learning phase, volatility, conversion signal.
+- Keep the three-systems idea simple (the part that picks which ad to show you, the part that learns from all data at once, and the part that does the final ranking). Do not get academic.
+- Land the practical shifts: build diverse creative not clones, let the machine allocate budget, expect volatility, and feed the system real conversion data (including sales that close on WhatsApp).
+- South African context where natural: rand, local buying behaviour.
+- Do not invent statistics. Stick to the ideas in the source.
+- Keep it tight: roughly 10 to 12 minutes.
+- End on the weekly playbook as a clear, motivating takeaway.

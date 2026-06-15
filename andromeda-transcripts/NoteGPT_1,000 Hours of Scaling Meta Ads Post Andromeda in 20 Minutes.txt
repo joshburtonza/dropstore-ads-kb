@@ -1,0 +1,196 @@
+
+00:00:00
+In 2026 alone, I spent more than 1,000   hours analyzing, testing, and scaling   Facebook ads specifically for e-commerce   brand spending between 10K all the way   up to 500K a month. And in this video, I   want to share with you the most common   mistakes that I see brands are still   making in 2026 that are costing them a   huge decrease in return on ad spend or   either an increase in CPA and a big loss   in profits that could have been invested   elsewhere.
+
+
+00:00:27
+ Because the thing is that in   2026, the Facebook ads game completely   changed and the ad strategies and   Facebook ad structure that were used to   work are just not working anymore. For   instance, if you're still running a   testing and scaling campaign, this is   most likely not going to work anymore,   especially after Andromeda and all the   updates that Meta released in the last 3   months alone.
+
+
+00:00:47
+ And each mistake that I'm   going to share with you today will also   involve some specific details and   actions that you can take literally   today and go fix your performance most   likely in the next few days. In fact,   just by applying the following fixes, we   were able to increase the return on ad   spend of this supplement brand in 30   days of 80.
+
+
+00:01:06
+64%   while increasing the ad spent by 19.91%   or triple the ad spend of this toy brand   in 30 days with only a small 3% decrease   in return on the ad spend or increase   the return on ad spend of this fashion   brand by 76.17%   while also increasing the ad spend by   59.22%   and everything that I'm going to share   in today's video actually come from my   own experience running ads for   e-commerce brands for our own agency   client as well as auditing ad account of   other e-commerce brands that right now I   almost do every week. And before we move   forward with the video, if you need my   help to scale your e-commerce brand,   feel free to reach out directly to me by   clicking the link in the description of   this video. So, let's start with the   mistake number one. The mistake number   one is that you let Meta fool you with   wrong ROAS data. And I see this very
+
+
+00:02:04
+  often happening like a lot of different   people that I speak to in during   different like ad account audits. And   the issue here is that people judge only   based on ROAS without actually going   into the details what this actually   means. It means that people judge by   looking   at the ad attributed ROAS   over like an attribution window that   most likely is not going to be   incremental for the revenue.
+
+
+00:02:28
+ And then   what usually happen is that when people   increase the ad spend on this specific   ad here which has 2.44 45 for instance x   return on the ad spend, there is no   incrementality in additional revenue. So   what is going to happen is that you   increase the ad spend and then the ROAS   goes down   because you're not looking at the actual   incremental data.
+
+
+00:02:49
+ And so what you should   do instead, you should go into the   breakdown and look at the incremental   attribution. So if you go into the   breakdown here, you will be able to see   or within the column, most likely within   the columns, you will be able to click   attribution window. You can select   incremental attribution and you will be   able to see the actual incremental   attribution that that specific ad is   bringing to your business.
+
+
+00:03:12
+ What this   basically means is that if the   incremental attribution is actually   good, so it's high and very similar to   the overall 7-day click point of view or   7-day click return on the ad spend, then   it means that that ad is very   incremental. And so you need to judge   based on the incremental attribution   rather than the just general ROAS   because if you judge in this case on the   incremental attribution, you will be   able to actually see stable ROAS while   you increase the ad spend on that   specific ad or while you try to scale   that specific ad or ad set. The second   mistake that I see is that people still   split between a testing and scaling   campaign. So they use these two   different campaigns, one for testing   different angle and convert it into an    setup or a CBO setup and then take   the winning ad, posted the duplicate   them into a scaling campaign, single   asset, whatever uh the campaign is. The   issue with this is that most of the time   when you do this, the winning ad that   you see inside testing campaign, you   duplicate it inside scaling campaign and   then inside the scaling campaign all of
+
+
+00:04:10
+  a sudden the winning ad is not a winning   ad anymore. So, it it it either doesn't   get any spent or the performances are   not the same of the performances that   you see inside the testing campaign. And   the issue is that this approach doesn't   work with Meta Andromeda anymore. So,   rather than splitting your campaign in   something like this or testing and   scaling and having different asset to   test different angle, different batch,   whatever there is and having three to   six ads only inside each single asset   and having a separate scaling campaign,   whatever, um you should have another   different kind of approach which is more   Meta Andromeda friendly which works well   especially for brands spending less than   50k a month which is this approach here.   So, you want to have basically one   campaign as a test and scale campaign   per product, per country or per category   of product and then you want to minimize   the number of asset within this campaign   and maximize the number of ads. We have   some asset for some of our clients where   inside a single asset we even have 50 or   like 100 different creatives and there   is no way this setup, as much as crazy
+
+
+00:05:09
+  you think it is, can be beat by this   other setup here. It's all all the time   that we switch from a testing and   scaling approach to this approach, we   always see an improvement in   performance. And uh this is the best   incremental structure that we have found   to have better incremental return on ad   spend.
+
+
+00:05:26
+ So, the most scalable one at   least if you're spending less than 50k a   month in ad. Then, mistake number three   is do not leverage bid cap to maximize   profit. So, if you analyze your ads   right now, you probably see it yourself.   You have some days where you have a   better return on ad spend, other days   where you have a worse return on ad   spend.
+
+
+00:05:43
+ So, as you can see there is this   roller coaster effect day by day and   this is on a graph how the performance   look like. So, some days the return on   ad spend is high, other days is low,   other days is high. So, what you want to   do,   you want to capitalize on the highest   day where the return on ad spend is   highest possible,   uh and spend more budget on these days   because it basically means that in this   day meta is more able to find the   perfect audience for your ad, and so the   performances are most likely higher.
+
+
+00:06:06
+ And   so, you want to spend more because you   want to maximize the profit on the good   days, and you want to uh minimize the   profit on the worst day, so the days   here, right? And the way you do this is   by using a bid cap. So, the way that   this one works, you basically set the   bid cap.
+
+
+00:06:23
+ As you can see here, this is   like the liquid screenshot from one of   our client ad account. As you can see in   this bid the cap campaign, we're able to   give to to spend almost twice of the   highest cost campaign with a much lower   frequency, so this campaign does not go   to a bottom funnel audience, while   generating a very good return on on the   ad spend with a lower CPA compared to   the highest volume campaign.
+
+
+00:06:44
+ And every   time we're trying to scale the highest   volume campaign, we were always seeing a   lower return on the ad spend, but with   the bid cap campaign, we solved this   issue because we were able to spend more   on the best days, spend less on the   worst days, and so the balanced ROAS at   the end of the month is higher.
+
+
+00:06:59
+ And this   is basically what you want. Mistake   number four, create too many top of   funnel or too many bottom funnel ads   because people don't know what the   actual balance is. And let me actually   dive into the details. So, most of the   time I either see this situation where   people create a lot of top of funnel ads   and few bottom funnel ads, uh even   though the most common situation is this   one where people create only 10% of top   of funnel ads and a lot of middle funnel   bottom funnel ads.
+
+
+00:07:28
+ So, 90% of the ads   usually are like uh more uh middle   funnel bottom funnel. And the thing is   that   both situation don't work. This   situation here, where you create a lot   of top of funnel ads, what you will see   is that you will see a low frequency,   which is good, but will see also low   ROAS, and a high incremental reach,   which which is good as well, but you   will see very bad performance because   since you're targeting very top of   funnel audience, most likely they need   more time in order to convert.
+
+
+00:07:51
+ And so,   you will see a lower performance on the   ad. That's why most likely, if you go   inside your ad account right now, you   will see that the ad with the highest   frequency, they also have the highest   ROAS because they target more the middle   of the funnel or bottom of the funnel.   While the ad with the low frequency,   they also have a low return on ad spend   because they target more the top of the   funnel audience.
+
+
+00:08:10
+ And the other scenario   is this one here, where you focus 90% of   the ads into a middle of the funnel or   bottom of the funnel   audience, user awareness stage. And so,   what you see here is you you will see a   high frequency, high return on ad spend,   which might seem good, but you will have   a low incremental reach, which is very   bad for scalability.
+
+
+00:08:28
+ It's good when you   spend less than 500 USD per day, but you   can't scale further because you need   more top of the funnel ads in order to   reach more unaware audience. Now, what   is the actual balance? What is the   solution? The solution is that you need   to find yourself in this situation where   the lower the ad spend, the more you   spend towards a you know, bottom funnel   and middle of funnel type of creatives,   and then the more you increase the ad   spend, the more the situation flips.
+
+
+00:08:53
+ So,   let's say you're spending less than 500   per day. In this case, what you can do   is have 70% of your ad into middle of   the funnel or bottom of the funnel   messaging, and then 30% of your ads into   unaware and more top of the funnel   audience. While the more you increase   the ad spend, you want to slowly move   into the situation where you have only   30% of your ads into middle of the   funnel or bottom of the funnel audience,   and have more ads towards the top of the   funnel because you want to   make sure that you are reaching new   audience. So, you have the incremental   reach that you need in order to scale   your brand. Of course, in this   situation, the ROAS will be lower, but   that's normally totally normal when you   try to scale a brand, right? When you   try to scale the ads. The mistake number   five is that people really don't know   how to set up their audience into the ad   account. So, when you run ads, you need   to be able to target new audience and   you need to be able to see the reporting   from Meta seeing where the actual budget   gets spent. And what you need to do, you   need to go in this section here in the   ad account advertising setting on the
+
+
+00:09:52
+  sidebar, and then you need to go inside   uh you will find yourself in the inside   this situation. And if you click on the   engaged audience or either existing   customer in here, you'll be able to   upload your engaged audience and your   existing customers. Now,   where do people make the mistake? People   make the mistake here because usually   when they try to add an engaged   audience, they either forget to exclude   purchases from the engaged audience   because engaged audience is only people   who engage, but they did not buy. So,   you can see, but have not made a   purchase. Meta is telling you that. So,   if in here you include website visitors   or the Facebook engagers without   excluding the existing customers, Meta   will have the wrong data. And so, it   might start targeting this audience,   which is technically wrong because it's   not an engaged audience, but it's   existing customers because it's a mix,   okay? And then on the other side, you   have the existing customers. But even   people in the existing customer, usually   they they just upload a Klaviyo list   without actually filtering by number of
+
+
+00:10:51
+  order equal or greater than one. And   this is super super super common. And   another mistake that I see is that   people usually include these social   media engagement or social media   followers inside the engaged audience,   but they forget that like this actually   wrong because people forget that inside   this social media engagement audience or   followers, there are also some existing   customers.
+
+
+00:11:10
+ And you cannot exclude them   within this setup. So, the only thing   that you can technically include inside   the engaged audience is either going to   be the website visitors or the Klaviyo   list of all your emails by excluding but   excluding all the existing customers.   So, the segment of people inside Klaviyo   who are within the number of purchase   equal to one or more.
+
+
+00:11:30
+ Then we have the   mistake number six, which is a super   common one and most dangerous one, which   is basically take turn off or on   decision based on ROAS only. So, where   the mistake here is, let me give you an   example. So, if you look at this um ads   here dashboard, you will be like, "Okay,   uh this ROAS is good.
+
+
+00:11:49
+ I want to spend   more budget into this campaign uh this   ad set here. Or this one is also good,   3.16. So, let's invest more. Or I don't   know, like this is also good, right?"   But the issue is that you need to judge   you need to evaluate the frequency   together with ROAS. Why? Because if the   raw if the ROAS is high and the   frequency is high as well, it means that   when you going to increase the ad spend   on a specific creative, so when you try   to scale that creative, you will not see   any incremental profit or revenue or   ROAS coming in. So, you spend more, the   ROAS goes down, you're making the same   amount of money. Most likely you're   going to make even more losses in this   case. And so, what we want to do   instead, we want to only scale the ads   that have a higher ROAS above your   target, but a low frequency, technically   below than two, below than 1.7 as well.   So, let me give an example.   If you turn off this this um   ad here because you see that the ROAS is   like 2.26 and there are other ads like   let's say your target is is three,
+
+
+00:12:49
+  right? And then you see other ads that   have higher ROAS because you want Meta   to spend budget into this other into   this other ad here. Um what you will see   is that the entire campaign performance   will drop. Why? Because Meta is pushing   more budget toward this creative here   because this creative can hold a larger   spend as you can see is the creative   spending highest amount of budget inside   this specific ad set, but   is also having a uh considerable low   frequency compared to for instance these   two creative here. They're spending much   less, but they have even a higher   frequency. This one here for instance,   okay? So, you can turn off actually   these two. Why? Because their return on   ad spend as you can see is 1.73, 1.86,   which is low compared to this one here   at the top, but the frequency is high.   So, it's almost the same is if not even   higher than the best performing ad, the   frequency, and the rows even lower. So,   technically you don't need you don't   need this ad. You can turn this off ad   off.   On the other side, you want to keep an   eye on these ads here that have a low   frequency, 1.56 compared to the others,
+
+
+00:13:48
+  but they have a high return aspect,   3.55. Even though the spend is not the   best in here compared to the top one,   most likely this one means that you can   technically scale a little bit more   these ads. So, this ad has potential,   and this is something very important for   you to know, and the reason why I   mentioned most likely not spending   budget in this one probably is because   the ad doesn't have a very good   experience in terms of engagement rate   ranking or conversion rate ranking.
+
+
+00:14:08
+ And   so, what you want to do in this case,   you want to analyze this ad and be like,   "Okay, so the engagement is bad. How can   I actually improve the engagement while   keep the same messaging and the same   format?" Because this format apparently   is working very well. Then, mistake   number seven is just using the wrong   campaign structure based on business   stage.
+
+
+00:14:26
+ And the first thing that I see   here is that people just try to copy   other campaign structure without any   business context. So, you just go   online, see a video from a YouTuber, and   then you see like, "Oh, this is the best   Facebook ad account structure." And then   you just copy it, and it doesn't work.   Of course it doesn't, because you need   to find the best account structure for   your business based on your SKU,   product, AOV.
+
+
+00:14:47
+ There are like a lot of   different variables. I even made a video   specifically about this. So, I highly   recommend you to go watch it. The second   thing here is that people usually overdo   an over-fragmentation or   over-simplification. They cannot balance   in terms of they have they either have a   lot of different campaigns with a lot of   different ad sets or only one campaign   with one ad set, and that's it.
+
+
+00:15:06
+ So, you   need to find the balance between   one   opposite and the other. Mistake number   eight, which is misunderstand the   creative landing page strategy. So, it's   very common, and if If know yet, let me   tell you that usually, and most likely,   uh you will have much better performance   if you can   uh match the angle of your ad with angle   of the landing page.
+
+
+00:15:29
+ And the mistake   that I see here is usually split into   different scenarios. Scenario number one   is that you have a top ad which is   working very well, and you drive people   off this winning ad to a general product   page. What you want to do here instead,   you want to have your winning ad, you   want to create a specific landing page   that match the same angle of your   winning ad.
+
+
+00:15:47
+ And you want to drive   traffic to this landing page that has   the same angle of the winning ad.   Because in this case, you will be able   to improve the performance. On the other   side, what I see also people do, which   is also not efficient, is like they try   to test multiple ad angles, and they   have one landing page for each angle.
+
+
+00:16:04
+  So, they already start from scratch   without even have proved or validated   any angle, creating a lot of different   landing pages for different angles just   to match them with the ads, which is   technically very inefficient because   you're going to end up spending a lot of   time in creating multiple landing pages   for different angles, and you don't even   know if the angle works or not yet.
+
+
+00:16:19
+ So,   the most efficient way is basically to   test multiple ads angle first to a   general landing page, uh like a general   product page. Then you find the winning   angle, and then what you do, you want to   create a landing page for each winning   ad angle, and then test basically when   you want to scale. Mistake number nine.
+
+
+00:16:38
+  Over testing winning variations rather   than find new winners or the opposite.   Now, the issue here is that people, they   either focus, let's say, find one   winning ad, and then try to create a lot   of different variations and iterations   of that ad, and then they get stuck   because when the angle um saturate and   you basically like the performance of   the angle start decreasing, you have no   more angle, and so the performance drop   drastically.
+
+
+00:17:03
+ On the other side, you have   people that find a winning angle, and   they actually don't scale it properly,   and they go test other angles. So, there   is an actual strategy that I recommend   you to do in this case, and this is   basically explained in this graph here.   So, let's say you start uh by testing   different ad angle.
+
+
+00:17:20
+ In this case, you   will find winner, you will find loser.   If it's a loser, you   scratch it and then you test a new ad   angle. If it's a winner, you scale the   winner and then you test variation of   the winner and here you will find   winning variation and losing variation.   The winning variation, you want to scale   them.
+
+
+00:17:38
+ The losers, you just stop, okay?   And the issue here is that the number of   the balance between variation and new   concept is   dictated usually by the amount spent and   the number of winning of winning angles   that you already have. So, let's say   this is like an example for you to have   just like a visual   example of how you need to look at it.
+
+
+00:18:00
+  So, let's say you have only one winning   angle. In this case, you want to have   spend 30% of your budget and time into   winning variation of the winning angle   and 70% of the time and resources into   creating new angles because only one   angle is very risky. You at least you   want to have two or three angles.
+
+
+00:18:14
+ And   so, the moment you start increase the   amount of winning angles that you have   inside the account, then you can slowly   switch and rebalance the actual approach   and be like, "Okay, now I can invest 70%   of my time into winning variation   because I have more angle and more   winning angle and 30% of my time and   resources into test new angles.
+
+
+00:18:34
+" And   finally, we have the mistake number 10,   which is focus on creative volume rather   than creative quality. And this is super   common now especially with the AI. Cuz a   lot of people even tell you, "Okay, AI   can help you create hundred of thousand   of variations." But, what nobody tells   you is that AI just copy what is already   inside the market or create concept   based on what you feed it with.
+
+
+00:18:57
+ Like,   what kind of resource and information   you send to the AI in terms of like   either example from competitors, in   terms of ads layout or these kind of   things. But, doesn't create or But very   difficult for AI to create net new   concept.   Or when it does, it fail. And you want   to use AI, which is very good, to create   variations and iteration of winning ads   or existing angles.
+
+
+00:19:20
+ But it's bad for   creating new concept, new ideas,   basically. And this is where human needs   to take care of because AI cannot,   basically, is not good enough yet to   create net new concept. And the goal   here is to find the net new creative   concept that are trendsetting in the   market. And this is very important   because if you just copy what other   brands are doing, especially your   competitors are doing, there is no   market for it because your competitor   most likely already scaled the ads.
+
+
+00:19:50
+ Most   likely they even have a bigger budget   than yours. So they already saturated   the audience with a specific concept. So   what you want to do, you want to focus   on net new concept. You want to find a   concept you want to scale as fast as as   fast as possible and avoid your   competitors copying you because you are   the trendsetter.
+
+
+00:20:06
+ You are setting a new   concept that is working. You're scaling   it. Your competitor notice and then they   try to copy, but you already now have   saturated the audience. You already   scaled the ad. You are scaling that ad.   And so Meta is definitely going to   prioritize your concept. And that's why   a lot of people fail while making new   ads.
+
+
+00:20:23
+ They always focus on creating ads   with AI rather than having people   actually thinking about net new concept,   maybe just, you know, getting some   inspiration from Pinterest, doing manual   research, and find some ideas that are   net new in the market and no one is   running this type of concept or ads   across your competitors or other brands.
+
+
+00:20:41
+  And for this video, that's basically it.   If you have any question, feel free to   leave a comment under this video. I try   to reply to everyone as usual. Leave a   like, subscribe to my channel, and I'll   see you in the next video.
+

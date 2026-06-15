@@ -1,0 +1,92 @@
+
+00:00:00
+Today I want to talk about Meta and   Andromeda in a way that's simple, easy   to explain and understand. There is an   abundance of YouTube videos from   guru-style people and I my opinion   people aren't qualified to talk about it   and I think they over complicate it for   the purpose of actually making people   feel stupid, but it's actually not that   difficult to wrap your head around to be   honest.
+
+
+00:00:22
+ It's very common thing to for   people to be talking to right now   obviously with the   needing it to scale up any kind of   advertising. If you're new here, my name   is Leighton. I been running Facebook ads   since 2016 and I have an agency based in   Ireland that helps Shopify stores with   acquisition, creative strategy,   retention, and financial   planning/forecasting   for their stores.
+
+
+00:00:42
+ There's plenty of   other videos around here for more   information on that if you want to check   it out. Okay, let's get into it.   For years, Meta was unbelievable from a   targeting perspective. I even remember   being about 16 and set up my first drop   shipping site and I think within 24   hours I had made my first sale, a couple   of hundred quid.
+
+
+00:01:05
+ I was selling a   necklace. It was It had like the layout   of Africa, the continent. And yeah, it   just worked really well and all I did   was drop ship it. I got an image off   Google and used it in the ad, bit of   copy, and yeah, whatever it was, 150   quid I think I made in 24 hours. I   remember first off when lookalike   audiences were like the new thing, being   able to like make a replica of your   customers was such a huge deal and they   worked so well as well.
+
+
+00:01:28
+  Um   but naturally over the years, privacy uh   changed. iOS updates and data   restriction killed a lot of the   precision that Meta was using against   you essentially. Like there used to be a   phrase people would say that Facebook   knew you better than your own mother and   that's that's true. It probably did   because it was able to follow you around   the internet and then recommend products   that you were most likely going to   purchase.
+
+
+00:01:51
+ And then policy changed and   governments got involved and things have   changed a lot and the pixel probably   isn't well it as effective as it used to   be.   But last year something really   impressive changed. They brought in   Andromeda and this was essentially a new   AI retrieval system that they built into   the back end that really does completely   change how the platform views its users   and how it uses their information to   sell it to advertisers.
+
+
+00:02:17
+ So instead of   you choosing who sees ads, Meta predicts   who is most likely to take take action   based on patterns across the platform.   So you're probably hearing now a lot   more that it's it's good to have broad   audiences because it you really are   actually handing over that control to   Meta whereas   10 years ago like I would be um testing   out different interests.
+
+
+00:02:42
+ So like if   you're trying to sell like a car   cleaning set, you'd be able to target   people who like Mercedes and Audi and   BMW and what you'd find is people who   are interested in BMW tend to the   purchase it more. So you double triple   the budget on the BMW interests. But now   what's happening essentially in quite a   simple definition is it looks at   thousands of signals that you've never   seen and probably never considered.
+
+
+00:03:03
+ So   for example, what content someone   watches and how long they're watching   it, what they click, save, share, scroll   past, send to friends,   past purchase behavior across Meta's   ecosystem that it has data points on,   device type, time of day, buying   frequency is a big one, how they   interact with ads that are similar to   yours, not necessarily purchase but how   do they interact, and how fast they move   from content to checkout.
+
+
+00:03:29
+ So it's   building a live buyer profile for every   user and matches your ad to the people   most likely to convert. So the platform   is moving away from interests and into   intent.   So this means instead of people who like   fitness, it looks for people currently   showing buying behavior for products   that are in the fitness world.
+
+
+00:03:49
+ It's less   about who they are and more about what   they're doing right now, which is a   really kind of almost like Black Mirror   style kind of thing   to think about, but it's really just   using all of the data that it   can grab from your interactions   online to be able to create this persona   about you and document things about   yourself that you're not even aware of.
+
+
+00:04:14
+  I've actually personally kind of removed   social media from my phone. I haven't   logged into Instagram since October. And   LinkedIn is gone and the only thing I'm   on now is actually YouTube.   Conversation for another day. But I   would recommend it.   So let's go into what's changed for   advertisers.
+
+
+00:04:32
+ So like I said, broad   targeting networks better than detailed   interest stacking. I'm pretty sure   everybody's aware of that. And AI has   more freedom to find converting users   instead of being boxed in, which is   great.   Creative matters more than audiences.   This is something I've had to adapt to   over the last 2-3 years, even as a   service provider in this space.
+
+
+00:04:54
+  And I love it too because, you know, I   really feel like advertising is coming   back, brand building is coming back. You   know, rather than just talking about the   technical   Like I was never actually really much of   a technical kind of person from a   interest stacking and scaling up ad   campaign perspective.
+
+
+00:05:07
+ I actually was   really first very involved and   interested in advertising and   print advertising and headlines and   Ogilvy in the '70s and '80s, all that   kind of stuff. Creative really coming   back, which is great. And your ad is now   the targeting. So the message, visuals,   hooks, and offer tell the algorithm who   should see it.
+
+
+00:05:26
+ And, you know, naturally   if fitness content performs, Meta pushes   it to fitness, skin care, skin care   bars. And what I've definitely noticed   over the last 18 months is for sure has   faster learning with more volume and   variety. So more creative naturally   gives your account more data signals or   gives Meta more data signals in terms of   what your customer is interested in.
+
+
+00:05:44
+ And   it's also really important to have the   variety element. If you're skin care   brand, you know, having it in the   bathroom, the bedroom, in the car, in   with with a different uh customer   avatars, whether that be ethnicity or   hair color or whatever uh that looks   like. It's really about giving it that   variety and letting it understand who   your customer truly is.
+
+
+00:06:09
+ Each video I'm   going to hook teaches the system who   converts best. And this speeds up your   optimization massively. So, good   creative scales harder, bad creative   dies quicker. Strong ads get rewarded   with cheaper CPMs and a wider reach, and   weak ads get cut fast by the system.   There's less forcing spend on poor ads   than before.
+
+
+00:06:30
+ So, you have to think about   it again. Meta want people to stay on   the platform. They want to show ads, but   they don't want to show rubbish ads.   They want to show ads that uh people are   actually enjoying.   And that's why we're really steering   away from making them not look like ads.   I know we've been doing that for years,   but it's really important now more than   ever.
+
+
+00:06:51
+  So, what actually wins now? Hooks in the   first 2 seconds. I know everybody talks   about hooks, but yeah, you want to try   and make them as native as possible to   Reels or TikToks. Clear product benefits   and problem-solving.   Strong offers and positioning are   totally okay, too. And uh yeah,   consistent creative output every week.
+
+
+00:07:08
+  And what Andromeda reads from your   content, faces, product shots, where it   is, and movement style. Spoken words and   captions are really good. Uh topics and   themes. So, what's happening in the   video from a theme perspective. Uh   engagement quality is obviously a   no-brainer.
+
+
+00:07:24
+ And which type of people are   converting after seeing each creative.   So, like I said, it's kind of building   that map out, and it understands that   this message works for this type of   buyer. So, that's pretty much Andromeda   in a nutshell from in a very simple   simply put way, it is a machine that is   understanding or that's what I say is   evaluating everything that's that you're   giving it from it's where is the product   who's talking with the product how is   what words are they using to describe   the product using that to then find   potential buyers who are showing similar   engagement interest purchasing behavior   on their platforms and like you have to   think about it meta does want you to win   and it does want you to get sales on the   platform so you can spend more so all   the all the information is out there and   they do put publish papers on this to to   study so yeah keep it all in mind and   happy scaling.   Would appreciate any likes comments or   shares on this video if you have any
+
+
+00:08:22
+  other questions drop them below and I   will get to it. Cormac Mahon good.
+

@@ -1,0 +1,132 @@
+
+00:00:00
+Meta ads have changed drastically in   2025. Meta has announced the Andromeda   update. And in this video, I'm going to   show you exactly what kind of campaign   structure you need to use to become   successful. And I'm also going to show   you how targeting works in 2025. So,   this is going to be a crucial video if   you want to crush meta ads in 2025.
+
+
+00:00:18
+ So,   grab a cup of coffee, make sure you   subscribe, and now, let's get started.   Hey, what's going on everybody? Welcome   back to the channel. In case you're new   here, welcome. I'm super excited to have   you. My name is Julian. I'm an   entrepreneur and a content creator and   I'll say marketer.
+
+
+00:00:32
+ And in this video,   I'm going to show you how you can run   ads in 2025 with Meta because I hear   this so often that Meta ads are dead and   it's not working anymore. And to be   honest, like this could not be further   from the truth. Like as of recording of   this video on the 10th of November in   2025, by the way, um our ads are   crushing it and they are working better   than ever before.
+
+
+00:00:52
+ So, um, it's actually   not true at all that it's not working,   but things have changed. Like how you   ran ads, I don't know, like three, four,   five months ago. This is not how you do   it today. So, in this video, I'm going   to show you how it works. And the good   part is it's actually a lot easier   compared to how it was in the past.
+
+
+00:01:08
+ But,   let's kick things off. So, I'm here   inside of a, you know, inside of a   sample ad account. So, that's also why   there is nothing here inside. Um, and   let's get started with creating a   campaign. Um, when it comes to the   campaign objective, what kind of   campaign objective should you use? In my   opinion, for like 99% of all of you   guys, it should be either a sales   campaign or a leads campaign.
+
+
+00:01:28
+ Um, if you   want to run awareness traffic or   engagement campaigns, what you're going   to do is you're going to get a lot like   a big reach. You're going to get lots of   likes and interactions, but it's not   going to translate into any sales and   into revenue at the end of the day. So,   that's not what we want.
+
+
+00:01:42
+ leads is going   to be really good if you are, I don't   know, if you're running a local business   and you want to collect um information   like contact information of potential   clients that you then call later on or   in case you want to have like a very   simple book a call funnel. That's when   you're going to do a lead form or like   leads as a campaign objective.
+
+
+00:01:58
+ But in   like every other scenario, sales is   going to be the way to go. So just click   on continue here inside of the inside of   the ad uh inside of the campaign level,   excuse me. Basically the only question   that we should talk about is campaign or   adset budget and in my opinion it   depends a little bit for the campaign   that we are setting up right now which   is going to be a sting campaign.
+
+
+00:02:18
+ Um the   way and how I like to test is through   adset budget. So that way I have more   control and that way I can test on what   I want to test whether it's different   geographical regions whether it's   different creatives I just have a lot   more control. I do like to have this   toggle on where I I still want to give   Meta more control because the AI is just   so damn good already that I I I actually   trust it more compared to how it was in   the past.
+
+
+00:02:44
+ But um when it comes to the   testing campaign, um this should just be   a adset budget optimization. Um ideally   you will also have your audience   segmented. So, what you can do here is   you can just click here on this audience   segment reporting and then you can   upload a CSV file of people that are   engaged of like people that were on your   sales page, people that went to your   checkout, people that showed some kind   of an interest, people that are a lead   for you.
+
+
+00:03:08
+ And then you can also upload a   list of existing customers, which is   basically just a paying member list. And   again, also just a very simple CSV file.   Again, since this is just a sample ad   account, I don't have this set up right   now, but this is something that you're   always doing. And this is one of the key   changes with Andromeda is that you're   not segmenting cold audience and warm   audience.
+
+
+00:03:28
+ So you're not using like your   your basic top of funnel, middle, middle   of funnel, and bottom of funnel   campaigns. We're just combining all of   this because Meta just knows better   what's going to perform best. So yeah,   that's everything that we do here. And   then let's talk about the adset. Um   yeah, the adset and the targeting   itself.
+
+
+00:03:44
+ Naming convention is going to be   crucially important. It's not going to   be super important for this video, but   the way on and how I like to use it is   just um have uh the year, then the   month, and then the day, and then it's   like, I don't know, like a USA, I don't   know, interest campaign, something like   this.
+
+
+00:04:00
+ And I also like to have the naming   here. Um the reason for that is um I   want to be able to filter it fast. So, I   do not want to waste like tons of time   to figure out like, okay, what has this   campaign actually been when I'm doing my   data analysis. So with one glance I need   to see like okay when did I start this   who like where am I targeting   geographically is it a lookalike is it   open targeting is it whatever in this   case it's going to be an interest base   and then also the age that's basically   all I need and then I'm good to go from   here on when it comes to the conversion   um side of things my conversion like   destiny is always the um is always my   website I always want to maximize the   number of conversion um you need to have   a pixel setup uh again this would be way   too much to cover in this video. By the   way, um in case all of this is too fast   for you and you want to have this broken   down into bitsized pieces and you also   want to have a community to go alongside   with a training program, make sure you   check out the first link down below that   like button. We do have an awesome
+
+
+00:04:58
+  master class called AI meta ads   accelerator where we are going to show   you how you can use the power of AI on   one side and how you can combine this   and use this to run successful meta ads.   It's an absolute epic master class. I   think we have something like 50   tutorials inside and again a community   alongside with it where I'm going to   show you everything that I'm showing you   also here but in like 10 times more   detail and also everything else like how   you can set up how you can um set up   your tracking, how you can create   creatives, um how like all of this we   also give you custom AI tools. Um again   check out the link down below. It will   be the first link below that like   button. But yeah, the way and how I came   to this was you need to have a pixel   setup and you also need to set up a   custom conversion. And in this case for   me it's going to be a purchase. If   you're collecting leads, if you're   trying to collect phone numbers,   whatever, um then this might be complete   registration. But usually, and also the   way and what we found is uh it's just   going to be uh it's just going to be   purchase. That's how you can get the   best quality leads. If we scroll further
+
+
+00:05:57
+  down, um we could create custom rules.   That's all going to be um way too much   for now. When it comes to the budget, um   again, it depends a little bit on the   type of product that you're selling. It   also depends a little bit on your target   market. like are you selling something   locally? Is it going to be only relevant   to where you live plus 10 km or are you   selling worldwide? Um I would say   something like the minimum budget would   be um not 50 but actually €5 per day for   one adset and like maybe one or maximum   two ads. But in this case I'm just going   to get started with let's say €10 per   day. And this is going to give me like a   very good starting point and then I can   test um two creatives afterwards. So $10   per day. I do not like to set an end   date for some reason. Like whenever we   set an end date, the performance is just   dropping and it's not performing as well   compared to what it used to do. So we   just leave that open. And that's when   we're talking about the audience. And   this is going to be crucially important   and this is probably what you have been   waiting for. So listen very closely. So   in the past if I would have made this
+
+
+00:06:56
+  video let's say 5 months ago I always   told our students that um go to further   limit the reach of your ads and make   sure that you nail down and narrow down   the audience as detailed as somehow   possible. Um this is how you used to   advertise but again with the Andromeda   update this is no longer how it's   actually done.
+
+
+00:07:13
+ So we actually stay in   this advantage plus targeting area. What   you can see here at the top these   controls here at the top these are hard   boundaries. So you can click on more   controls and for example if we go in   here and I I named this um USA. So I'm   just going to type in United States. And   now it's only going to target people in   the United States.
+
+
+00:07:32
+ Sometimes it might   happen that you know also someone in   Canada or in I don't know Mexico or   something is also going to see this. But   this is going to be very rarely and this   is a hard boundary. So it's only going   to be people in the US. Same thing also   applies for the minimum age. So, in case   I don't know, I'm selling something   that's only relevant to people that are   like a certain age, then we can set up   the minimum age to 25 is the maximum   that we can set here.
+
+
+00:07:56
+ But usually these   days, we just leave it open. And then we   could also exclude people. So, in case I   don't know, I have a list of paying   members, what I told you before. In case   I absolutely do not want them to also   see the ad that I'm running, then I can   just create a custom audience over here   in the audience area and then I could   exclude them. That's how it works.
+
+
+00:08:13
+ Super   easy. And then also in case I don't know   like if you're targeting people I don't   know in in in Switzerland where some   people are talking French others are   talking English other are talking I   don't know German then you could just   say like I only want to target people   that are talking in German I don't know   like in the US it's not going to make a   lot of sense and you can also see that   the target audience is really small just   to show you this is what you could do   and then below here when you click on   here you can see we are suggesting an   audience so in the past what we did very   often is we were testing like one simple   detail targeting. So for example, if we   go here to detail targeting and we type   in like film making something like this   um then I would go to yeah interest in   film making and then I would test this   and then I would just duplicate   everything and then I would have I don't   know like one that would be I don't know   movie making or DSLR or something like   this and this is how it used to work.   But what you can see here is like meta   is actually telling us that this is just   a suggestion. Um, so no matter what we
+
+
+00:09:12
+  put in here, the algorithm and the AI of   meta is still going to do its thing. So   the way and how I like to do this is I   like to keep this very broad these days.   It's like I'm not narrowing it down like   it used to be of like I don't know I   only want to target people that are 18   to 33 or like something really specific   like this and only people that are   interested in this in this and in that.
+
+
+00:09:32
+  these days what I'm doing for example if   we're targeting people for our avatar   for our AI avatar course then I'm just   saying I don't know like something that   are people that are interested in social   media marketing for example social media   marketing and then people that are   interested in digital marketing and   maybe one more like content marketing   something like this and then you can see   we have a ginormous target audience   because we're targeting the entire UK uh   US excuse me and in the past we always   told our students like you need to be   like below Ow 10 million these days.   It's like I keep it as broad as it is   and that's going to be fine. If you have   your tracking set up properly, if you   have a good offer and if you have good   creatives, this is going to conf convert   awesomely. Um placements, we just leave   it as it is. Like we keep it standardly.   We're also targeting or we're also   advertising on threads. And this is   basically how we're um how we're setting   up our um targeting these days. Then   it's all about the creatives. And again,   this would be way too much to cover for   this video. Um, again, in case you want
+
+
+00:10:32
+  to learn this, check out the AI meta ads   accelerator. But this is how how we set   up testing campaigns. And then, for   example, I would have um not only one ad   here, but I would maybe have something   like two ads in here. And this would be   add one with hook one. And then this   would be add one with hook two.
+
+
+00:10:49
+  Something like this. And then I would   maybe have, I don't know, two, three,   four different options depending on the   budget that I have here. Again, with   $10, I would say like at least five   euros or five dollars per ad that you   have um just as a rule of thumb. It's   not like something that you have written   in stone, but that's like just a rule of   thumb, a guideline for you.
+
+
+00:11:06
+ And that's   how you can get started with your   testing campaign. And then, for example,   if you wanted to also target different,   you know, types of regions on the on the   earth, you could just duplicate this   entire adset here, original campaign.   And then for example what we could do is   we could just instead of USA we could   just target the UK or Europe in general   something like this.
+
+
+00:11:26
+ Then of course we   would go down here and change the actual   location. And then we would let this run   for let's say 5 days or something like   this. Again this is going to depend on   your budget. But um considering we have   $10 per day. Um I would say like at   least 5 to 7 days is the time range that   I would give this ads to actually   deliver result.
+
+
+00:11:44
+ Especially if you are   starting out and and you have not ran   lots of ads before, I would maybe even   give it a little more ads unless it's   like super super bad, then cut them off   earlier. So this is our testing campaign   and then after a couple of days once we   figured that okay, I don't know the US   is performing a lot better and   especially I don't know hook one is   performing extremely well.
+
+
+00:12:04
+ That's when   we're going to come over here not only   to our testing campaign but we're going   to create a new campaign and this is   going to be a scaling campaign. And   inside of this scaling campaign, there's   only going to be those ads that are   absolutely crushing it. So, those ads   that have a a high click-through ratio,   a low cost per click, and a high, you   know, like a high conversion rate   overall and a low cost per acquisition.
+
+
+00:12:27
+  And that's what we're going to do here.   Again, we would have um basic more or   less the same adset as we had before,   the same ad as before, and then we would   just crank up the budget a lot. Um   that's going to be like just a quick   overview over how meta ads work these   days.
+
+
+00:12:41
+ Of course, like we cannot cover   absolutely everything in this video   because then it would be like 3 hours   long. Again, in case you are interested   in this, in case you want to have a   community where you can also ask your   questions, share your work and get   feedback from myself and from the entire   team and make sure you check out the AI   metadata ads accelerator.
+
+
+00:12:57
+ We also have   eight proprietary um AI tools that is   trained with everything that we know   that's trained with our frameworks that   we're using for ad copy, for ad   scripting, for everything. also when it   comes to checking your offer, building   your funnel, everything. Um, it's   absolutely awesome and we also have a   money back guarantee, so you might as   well just give it a shot.
+
+
+00:13:16
+ But thank you   so much for watching. I really hope this   gave you a good overview and I'll see   you inside the accelerator.
+

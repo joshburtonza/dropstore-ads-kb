@@ -1,0 +1,41 @@
+Alex: Quick question to kick us off. What is the one number you think most store owners get completely wrong?
+Sam: Oh, easy. The ROAS inside the ads manager. Everyone treats it like gospel, and it quietly lies to you.
+Alex: Okay, big claim. Unpack that for me.
+Sam: So ROAS just means return on ad spend. The platform shows it to you. You spend a thousand rand, it says three times return, so you think you made three thousand. Feels like the truth, right?
+Alex: Right, that is the number I would look at.
+Sam: Here is the thing. That number is built only from what the tracking pixel can see. And the pixel is just a little piece of code trying to connect a sale back to the ad that caused it. The problem is, real buyers do not behave in a neat straight line.
+Alex: How do you mean?
+Sam: Someone clicks your ad on their phone in the taxi to work. They get distracted. That night they come back on a laptop. Maybe they message you on WhatsApp with a question. Then they finally buy two days later. Every one of those jumps breaks the trail.
+Alex: So the pixel loses the thread.
+Sam: Exactly. So the platform credits some sales to the wrong ad, misses others completely, and double counts a few. On a tiny budget the error is small. But the moment you start to scale, that gap gets wide, and now you are making big money decisions off a number that is half fiction.
+Alex: Okay, that is mildly terrifying. So what should we look at instead?
+Sam: One number. It is called blended MER. That stands for marketing efficiency ratio, but do not let the name scare you, it is dead simple.
+Alex: Give me the simple version.
+Sam: Take all the revenue your store actually made this week. And I mean from your own back office, your real sales, not the ad platform's guess. Then divide it by everything you spent on ads that same week. That ratio is your blended MER.
+Alex: So if I did fifty thousand rand in real sales and spent twenty thousand on ads...
+Sam: Then your blended MER is two and a half. And here is why it is beautiful. It does not care about cookies, or browsers, or which ad got the credit. It just answers the one question that pays your bills. For every rand I put in, how many came back?
+Alex: That is the whole game in one number.
+Sam: That is the whole game. Make that your scoreboard, and you stop scaling losers that only looked like winners on the dashboard.
+Alex: Love it. But how do I know if two and a half is even good?
+Sam: Great question, and this is the second free nugget. You cannot judge any return number until you know your breakeven.
+Alex: Breakeven being the point where I make zero profit.
+Sam: Exactly. So work out what you actually keep on a typical order. Start with the price, then subtract the product cost, the shipping you really pay, the payment fees, and the slice of VAT that was never yours to keep. Whatever is left is your margin.
+Alex: Say I keep forty five cents of every rand.
+Sam: Then your margin is zero point four five. And your breakeven is just one divided by that. One divided by zero point four five is about two point two.
+Alex: So I need a blended MER of two point two just to stand still.
+Sam: Just to stand still. Which means a two point zero that looked totally fine on your dashboard is actually quietly bleeding you. And a three point zero is genuinely healthy. But you only know that because you worked out your two point two first.
+Alex: So step one is literally know your breakeven before you spend a cent.
+Sam: Before you spend a cent. Now, can I add the part that catches everyone in our world specifically?
+Alex: Go for it.
+Sam: The biggest reason the pixel misses sales for stores like ours is the WhatsApp detour. The ad sends someone to chat, you close the sale in the conversation, and they check out later in a fresh browser with no memory of that first ad click.
+Alex: So the platform sees a sale appear from nowhere.
+Sam: From nowhere. It cannot connect it to the ad that paid for it. The fix is not to drop WhatsApp, it is often your best closer. The fix is to feed the platform that missing link with a server side connection, so the sale gets matched back to the click.
+Alex: And the bonus is the algorithm actually learns.
+Sam: That is the real prize. Better tracking is not just cleaner reporting. It teaches the machine what a real buyer looks like, so it goes and finds more of them.
+Alex: Okay, before we let people go, give me the routine. How do I run this every week without a fancy dashboard?
+Sam: Once a week, pull your real revenue from your store back office, and your total ad spend from the platform. Divide one by the other for your blended MER. Compare it to your breakeven. Then look at whether it held up as you spent more.
+Alex: And then one decision.
+Sam: One decision. Push the winners, hold the steady ones, and cut whatever is clearly below breakeven and not improving. That is it.
+Alex: Judge by blended MER, respect your breakeven, fix your tracking.
+Sam: And that, right there, is the difference between scaling on hope and scaling on the numbers that actually matter.
+Alex: Perfect place to end it. Go work out your breakeven today, people.

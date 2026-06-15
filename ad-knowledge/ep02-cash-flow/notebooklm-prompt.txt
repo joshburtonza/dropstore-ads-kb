@@ -1,0 +1,15 @@
+NotebookLM Audio Overview, customisation prompt for Episode 2.
+
+Paste this into the "Customise" box before you click Generate on the Audio Overview.
+
+Create a premium audio deep dive for the DropStore community: an audience of South African e-commerce and dropshipping store owners who already run a store and want to scale. Two hosts, conversational and credible, like two experienced operators talking shop over coffee. Confident and plain, no hype.
+
+Focus the whole episode on the single source document. The core idea to land: the silent killer of a growing store is running out of cash, not running out of sales. Stores that are profitable on paper go broke because money goes out (ad spend, stock, fees) before money comes back in, since the payment provider pays you out days later and refunds can claw revenue back. The fix is to understand your cash conversion cycle, respect the float gap that opens when you scale, hold a real cash buffer, and only reinvest money that has actually cleared into your bank.
+
+Rules:
+- Explain every piece of jargon in plain language the first time it appears (profit versus cash, cash conversion cycle, the float gap, cash buffer, payout timing, rolling reserve, VAT).
+- Use South African context throughout: rand, VAT due dates, local payment provider payout delays and rolling reserves, supplier prepayment.
+- Do not invent statistics or specific numbers that are not in the source. The only numbers used should be the illustrative examples already in the document (for example the ten-day cycle and the seven-day payout), and they must be flagged clearly as illustrative, not real figures.
+- Never reference any specific store's internal ad spend, budgets, or results, including your own. This teaches listeners how to think about their own stores.
+- Keep it tight: roughly 10 to 12 minutes.
+- End with one clear, motivating takeaway the listener can act on this week: the fifteen-minute weekly cash check (cash on hand, cash going out over two weeks, cash coming in), then one decision (push budget only if runway is comfortable and cleared payouts are arriving).

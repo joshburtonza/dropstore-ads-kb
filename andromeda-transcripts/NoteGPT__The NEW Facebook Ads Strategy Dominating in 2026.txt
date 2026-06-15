@@ -1,0 +1,148 @@
+
+00:00:00
+Facebook ads are completely different   than they were just 12 months ago,   especially with all the huge updates   like gem and Andromeda. And the brands   and advertisers who figured out what was   working early have had a major advantage   for the last 6 to 8 months while   basically everyone else is trying to   figure out what the heck happened.
+
+
+00:00:16
+  [music] In just the last 6 months we've   managed $35 million across the accounts   that we manage at the Moonlighters. We   work with brands in all categories   across nearly every single vertical. And   over the last few months we've been   taking a completely different approach   to the way that we structure our ad   accounts.
+
+
+00:00:31
+ We've had multiple brands that   we work with increase their overall   revenue to all-time highs after the   fourth quarter. Just like this member of   my community who grew and scaled their   business from $66,000   per month to $100,000   per week. So, in this video I'm going to   break down high-level what this exact   strategy is and what's changed.
+
+
+00:00:51
+ And then   I'm also going to show you step-by-step   in the ads manager how to create the   prospecting side of this system   completely for yourself. So, to properly   understand what's changed, you first   need to know what used to work. Now,   what's worked for us for the last 3   years prior to this major shift was a   system that looked just like this.
+
+
+00:01:12
+ I'll   take you through it very briefly.   Essentially, we had a core prospecting   campaign where we launched a broad packs   every week or so and we launched   individual creatives in each of those   packs. We then scaled the best creatives   that spent the most and drove the most   amount of revenue into a scaling   campaign that lived at the top of the   account.
+
+
+00:01:33
+ After this prospecting   campaign, we would set up a retargeting   campaign that had 14-day Facebook and   Instagram engagers, 30-day visitors, and   90-day add to carts. You should always   know that in all these cases for both   old and new strategy that they are   always subject to change based on the   brand.
+
+
+00:01:51
+ And then finally, we would set up   a retention campaign. This is for your   existing customers, people who   previously purchased from you. And we   would target all-time purchasers and   180-day purchasers. Now, here's what's   changed because it's fundamentally shift   because of Andromeda. Our prospecting   structure looks a whole lot sexy and a   whole lot more complex, but don't worry,   it's not overwhelming.
+
+
+00:02:11
+ If you're already   using what we used to call the M3   method, then the M4 method, which I'm   going to break down in terms of the   structure, is exactly the same minus a   few changes. Is actually going to be a   very easy transition for you, whether   you're using an old structure, new   structure, or if this is your very first   time seeing this.
+
+
+00:02:30
+ In the M4 method, we   have a core prospecting CBO campaign,   multiple ad sets with all minimum   budgets, and don't forget I'm going to   show you exactly how to set this up. And   we are grouping our creatives by avatar   or concept. We then have the same   retention campaign to hit our existing   customers with all-time purchasers and   180-day purchasers mixed in.
+
+
+00:02:51
+ And the ads   that we're showing these folks in   particular are evergreen ads, sale ads,   new products, and upsells and downsells.   And then one of the biggest sweeping   changes is now our retargeting campaign   is optional. Now, this is optional based   on the data in your ad account. So, you   have to be skilled enough to actually   understand if you should have it or not.
+
+
+00:03:12
+  But basically, you're looking at your   audience breakdowns and you're making a   determination based on the data on   whether or not you should have a   retargeting campaign or not. Okay, so   let's get into the ad account. I'm going   to show you everything step by step. And   by the way, if you want the full   in-depth tutorials on this, I'm talking   eight plus hours of the entire M4   method, structure, creative, deep dives,   advanced optimizations, and digging   deeper into how to actually scale in   this method, then you can click the link   down in the description or go to   school.com/facebook.   We are the fastest growing e-commerce   community with over 400 brands right now   scaling of every shape and size, whether   you are just starting out or you're an   extremely advanced operator. We have   people that are spending $100,000 a day   and people that are spending their very   first dollar on Meta Ads right now along   with the live Q&As every single week   where you can ask me any question and   even if it's not the day of that live   Q&A, you can ask me a question right now   in the school community and guarantee an   answer by the end of the day today.   We're going to be setting a campaign
+
+
+00:04:10
+  budget and just for this example, I'm   going to set my daily budget to $100 per   day. It doesn't matter. This is just a   placeholder. We're keeping our campaign   bid strategy at highest volume or value   and then we're not editing our budget   scheduling. You should have here in your   engaged audience, your add to cart 90   and your 30-day site visitor and then   for your existing customers, anyone   who's purchased over all time.
+
+
+00:04:28
+ Next   thing is we're going to go into our ad   set. Now, this is going to be pack   number one. Every single time we launch   a new pack, we're thinking about the   avatar in that pack. So, we're grouping   our ad concepts by avatar and by   concept. So, in this case, I would name   my pack number one and I would put my   avatar name plus concept name.
+
+
+00:04:49
+ For my   website location, I'm choosing website.   For my performance goal, I have two   choices here. Maximize number of   conversions or maximize value of   conversions. If everything you sell in   your business is the same price, I would   generally recommend number of   conversions. If you require people to   buy multiple times, meaning more items   to the cart to get over the free   shipping threshold, then you can choose   value of conversions.
+
+
+00:05:13
+ In many cases,   it's actually strategically positive to   run both of these and have two separate   campaigns, but that is a conversation   that is way more complex. Next, we're   selecting our correct data set and we're   always choosing the conversion event,   purchase. If you do not see the   conversions API tag right here, be   warned and go into your data set and   make sure your conversions API is set   up. We don't want duplicate data.
+
+
+00:05:36
+ We   always want to be set up with the   correct accurate data coming into the   pixel. Without that, to be completely   honest, you are doomed. The correct data   into the pixel is so critical. So, you   click purchase right here, and then   you're going to have the prompted option   to choose a ROAS goal.
+
+
+00:05:52
+ For now, we're   not selecting that. If you chose max   number of conversions here, you're going   to see cost per result goal. We are not   choosing that as well. Our attribution   model is going to be standard, although   there are times when incremental makes   sense. We're going to choose standard   for now, and then we're going to change   our attribution setting to 7-day click,   1-day engaged, 1-day view.
+
+
+00:06:11
+ By the time   you're watching this, the upcoming   changes to engage view attribution are   going to be more clear. They're going to   be public to everyone. We have beta   tested this in multiple accounts because   we have early access, and I can   confidently tell you that running 7-day,   1-day, 1-day is going to long-term be   more beneficial, or at least give you   the most amount of signals for your   pixel.
+
+
+00:06:34
+ Next, we are on the budget and   schedule section. The budget and   schedule section here is different than   it ever has been. We are actually going   to be setting ad set spending limits.   Now, if this is your first pack and your   only pack, then you don't need to set a   limit. The limit is actually only going   to be applied when we're launching new   packs moving forward.
+
+
+00:06:51
+ So, think about it   like this. If I had pack number one   avatar and concept, and I launched this   this week, and then a couple weeks went   by, and I launched new creatives, then   it would be time for me to actually set   an ad set spending limit. Now, because   you're watching this, you're probably   smart enough to actually understand that   I don't need to duplicate a bunch of ad   sets to show you one setting change, but   all you need to know is that every time   you launch a new pack, you're going to   be setting an ad set spending limit   typically equal to one time your target   CPA. So, for this case, we're clicking   set a minimum. We're choosing use dollar   value, and we're setting our minimum   equal to our target CPA. If you're only   spending a little bit of money, then you   might not have the flexibility to do   this. This is going to be most   applicable and most effective for   businesses that are spending a lot. If   you're spending a thousand dollars a   day, two thousand, five thousand dollars   a day, this is going to be particularly   helpful to actually get the most amount   of spend to your best ads while also   testing a small amount on new ads that
+
+
+00:07:50
+  are running. Next, we're going down to   our audience settings. Obviously,   include all the locations that you can   target, and I don't mind grouping these   locations in one. For your minimum age,   truly set this to your minimum age.   Don't lie to Facebook. Don't put 21-plus   if you actually aren't exclusively   limited to 21-plus.
+
+
+00:08:05
+ In most cases, it's   better to go broad and then narrow down   later. Next, we go to exclude these   custom audiences. This is very   important. This changed recently in the   new Facebook UI. This used to be   something that was a suggestion. It's no   longer a suggestion. If you exclude   these audiences, as we can see from the   info button here, any custom audiences   added here will be excluded from the   audience for this ad set.
+
+
+00:08:28
+ So, if we go   back to our flowchart here, because   right now the only thing we're focusing   on is prospecting here, which are new   customer acquisition, and then retention   here, which is milking as much cash out   of our existing customers. Here, in the   prospecting campaign, we need to exclude   everything here in the retention   campaign.
+
+
+00:08:46
+ And we are excluding anyone   all time who's purchased. So, this is   going to be from a Clavio or a CRM list   manually uploaded into Facebook, which   you could also insert right here. In   your audience settings, this is a small   change that might have a big difference.   Change your languages to the actual   languages that your ads are written in.
+
+
+00:09:06
+  Do not allow your ads to be   auto-translated into a bunch of   different languages, especially if they   don't apply to those languages. If   everything you're doing is in English,   do not allow all languages to be   targeted. So, instead, if I was running   English ads, I would choose English all,   and then awkwardly I would type it   again, and type it again, and I would   choose English all, English UK, English   US.
+
+
+00:09:25
+ In this next section here, this is   where we could quote suggest an   audience. This is the launchpad that   Facebook works with. 99% of the time, I   am leaving this blank. We could sit back   and let this work from here. That is how   we set up our ad set. There is nothing   that we're doing on the placement side.   We're just simply allowing Facebook to   run wherever it wants.
+
+
+00:09:45
+ The analysis   happens after we run the ads, not   before. And we're not over optimizing,   we're just having some control at the ad   set level. So, we have our first ad set,   our first pack created. Now, when we add   new packs, new creatives, whenever   they're available for us, all we're   doing is we're duplicating the exact   same ad set.
+
+
+00:10:04
+ We're changing this from   pack one to pack two. We're including   whatever unique avatar and concept we   are launching here. And if you're   launching iterations, then mention that   it's iterations. We're keeping all of   these settings exactly the same, and   then we're launching the new ads inside   of this new pack.
+
+
+00:10:20
+ Now, the next phase of   this setup is interests. Interest groups   follow a very similar function, except   there's a small tweak. In this case,   we're quickly duplicating our pack.   We're changing this instead of from pack   two to interest underscore winners. In   the interest group, we are only running   our best-performing ads over all time.
+
+
+00:10:41
+  Truly testing the interest, not testing   the ads. So, in terms of our ad set   settings, everything in the conversion   block stays exactly the same. Our budget   and schedule generally will not need an   ad set minimum, cuz we're launching our   best-performing ads. If you cannot get   the interest to spend, don't be afraid   to set an optional minimum spend here.
+
+
+00:11:01
+  And then when it comes to your audience,   this is where things do in fact change.   We're going to click further limit the   reach of our ads, switch setup. You   might have a couple of different toggles   there. Just make sure you're always   clicking further limit, further limit,   further limit.
+
+
+00:11:14
+ We're then going to   detail targeting. Describe your audience   before. Don't worry, just go to use   original options, and then go into here,   and what you are doing is selecting a   single interest target. You are not   selecting a whole lot of targets, you're   selecting a single interest, and you   want it to be adjacent to your brand.
+
+
+00:11:31
+  For example, if I was Nike, I would not   select Adidas. I would not select   Reebok. I would not select Under Armour.   Those are exactly the same as who I'm   currently targeting. The point of an   interest is to expand your audience. So,   if I was Nike, what I would target   instead is something like Range Rover   because Range Rover is a different group   of people, kind of like Nike likes to   position as a luxury brand.
+
+
+00:11:52
+ Now, in time   with this kind of a setup, you're going   to notice you start to launch a lot of   packs and you might find 30, 40, 50   active ad sets. Now, that is all fine if   you're scaling the actual ad spend as   you're launching new packs. But, if   you're not scaling your ad spend and   you're stuck at a specific ad spend or   you don't even want to and you just want   to get a slightly higher return on ad   spend, then you're going to have to   pause down certain ad sets and certain   ads to maintain a good flow and allow   the account to breathe. And the next   stage of this is setting up your   retention-based audience. This is an   algorithm-friendly approach that gives   you some control. And the reason it   works so well is because it allows you   to actually see where your ad spend is   going so that when you increase your   spend, you actually know if it's going   to new customer acquisition and not   being wasted on engaging existing   customers that were likely to convert   anyway. But, as you can imagine, not   only is this strategy hard to implement,   maintain, and grow, but it requires a
+
+
+00:12:51
+  whole lot of oversight. I'm not going to   pretend this is the easiest strategy to   run. But, the strategy that I just   showed you is legitimately going to be   rolled out for over 100 businesses that   are on pace to spend over 75 million   dollars in the next year. So, if you're   a brand that's scaling and you actually   want this implemented for you, then   click the link down in the description   or go to the moonlighters.com/apply.
+
+
+00:13:14
+  And if you're not the right fit to work   with us today, then you could also go to   school.com/facebook   where I teach everything in slow motion   along with live Q&As that you can access   me anytime. And finally, if you don't   want to pay for anything, then   everything on this YouTube channel,   including this video right here where I   walk through my entire creative   strategy, is 100% free.
+
+
+00:13:32
+ As always, I   hope you got a ton of value out of this   video, and I will see you very soon.
+

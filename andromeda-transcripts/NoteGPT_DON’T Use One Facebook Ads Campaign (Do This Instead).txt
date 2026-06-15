@@ -1,0 +1,148 @@
+
+00:00:00
+If you're running Facebook ads, then   you've probably heard about the one   campaign method, a method that claims to   be so good that all you need to do is   throw all your ads in one ad set inside   just one campaign. Now, as with most   things, this is in fact too good to be   true, and I'm going to completely debunk   this strategy as someone who has spent   over half a billion dollars in ads   across 80 accounts that we manage at The   Moonlight Ers and has driven well north   of a billion and a half dollars in   revenue for the clients that we manage   and throughout my 10-year marketing   career. In this video, I'm also going to   show you exactly how you can set up your   campaigns while using some of the   methodology of the one campaign method,   but not actually just using one   campaign. So, I'll break down each of   the campaigns that you need. I'll share   exactly precisely why you need them, and   we're going to debunk some of the issues   right now because I don't want to see   hundreds and hundreds of advertisers   wasting cash at the wrong place at the   wrong time, which you absolutely will do   with a one campaign method. First things
+
+
+00:00:59
+  first, let me show you the one campaign   method and why it completely does not   work. Okay, so this first account is   using the one campaign method. Now, in   this case, this brand is doing quite   well with it, but they could be doing so   much better, and that's the key thing we   need to understand.
+
+
+00:01:14
+ When we look inside   this account, we see a single campaign   that's been active for this period. It   spent $128,000,   which is a lot of money. It's driven   4,900 purchases at a $26 cost per   acquisition to drive over half a million   dollars in revenue at a ROAS of 4.39.   So, really, really good metrics.   However, the devil is in the details as   it usually is because when we just do   two breakdowns, we completely debunk   this method 100%.
+
+
+00:01:42
+ So, first things   first, what we need to look at is our   audience segments. So, if you go to   breakdowns and audience segments, we're   now going to see the distinction between   new audiences here, existing customers,   and engaged customers. Now, if you don't   already know what these are, I highly   recommend setting them up.
+
+
+00:01:56
+ This is going   to show you, if set up correctly, where   you're spending your money on new   audiences versus existing customers   versus engaged customers. And you can   see in this case, around $55,000   is being spent   on engaged and existing customers,   where new audiences spends $73,000.   And because this is just using one   campaign, Facebook has the ability to   freely shift your budget from new   audiences to existing customers to   engage customers.
+
+
+00:02:25
+ You have absolutely no   control over who specifically is   receiving what ads, and way more   important than that, you have no control   over how much spend your existing versus   your engaged versus your new audiences   are spending. Now, on top of this being   an issue, the more important question   strategy work tremendously well for? If   you're a brand spending $10,000 plus a   day, even 20, 30, 40,000 dollars plus a   day, this could actually work.
+
+
+00:02:51
+ And the   reason this could work is because as you   spend more and more and more,   Facebook can't just keep hitting your   existing customers. They have to go find   new customers. But if you're one of   those businesses that's spending $500 a   day, $1,000 a day, $2,000   a day, Facebook is going to overspend   like crazy on your existing and your   engaged customers.
+
+
+00:03:16
+ Imagine if you were   this brand right here that I have on   screen, and you thought for sure that   when you're putting money into your   prospecting campaign, you think you're   spending on more new customers and new   customers, but in actuality, you   continue to spend on engaged and   existing customers. And I'm going to   show you one more breakdown that proves   this even further.
+
+
+00:03:35
+ When we go to our   column set, we go to compare attribution   settings, and we click incremental   attribution. Now, what incremental   attribution shows us is which   conversions happened because of Facebook   ads. This is not accounting for people   who would have converted without these   ads, and I think this is a very, very   important distinction to make,   especially in this campaign setup.
+
+
+00:03:56
+  Reason being is very clear. So, if you   look first at our return on ad spend new   audiences right here, the first thing   you would think is it's only at a 3.3   compared to existing at a six and   engaged at a 5.4. Therefore, you should   absolutely spend more on engaged and   existing, right? Cuz that's where you're   getting your highest ROI.
+
+
+00:04:13
+ Now, that's   debatable in and of itself, but let's   ignore that argument for a second. When   we use incremental attribution,   incrementally, our engaged audience only   drives a two all the way down from a   5.4. That's a 66% reduction. And our   existing customers only drive a 1.3.   That is a massive 80% plus reduction in   return on ad spend, where our new   audience, of course, it drops.
+
+
+00:04:40
+ It drops   from 3.3 to 1.6, which is a 50%   reduction, but it is the least reduced   of them all.   So, where do we actually want to spend   our money? We actually want to spend our   money on new audiences and engaged   audiences. We are way overspending on   existing customers. And the final thing   I'll show you to absolutely validate   this is our reach to impressions ratio.
+
+
+00:05:05
+  Look at our existing customers and our   engaged customers. They cap out at   165,000 and 155,000, which means our   frequencies on these are really high,   which we can see right here. Our   frequency is eight on engaged customers   and 14.8 on existing customers, where   our new audiences are only getting hit   on average five times, and we're able to   reach an entire new market of 1.
+
+
+00:05:25
+75   million people. Okay, so what should you   do? What is the actual best strategy   that aligns with Andromeda, that aligns   with some parts of the one campaign   method, but ultimately doesn't ever put   you in this situation where you're way   overspending on existing customers, way   overspending on engaged customers.
+
+
+00:05:45
+ Now,   first thing I'll say is if you are one   of those huge brands spending $20,000 a   day, go ahead and try something like   this because you will be able to outpace   and spend a whole lot more on new   customers. It is the businesses that are   spending $1,000 a day, $500 a day that   are going to get wrecked by this   strategy.
+
+
+00:06:03
+ They might get higher return   on ad spends in a very short period of   time and then get toasted because   they're not acquiring new customers,   which if you don't look at these   breakdowns, you're never going to know.   So, what would I suggest? What do we do   here at The Moonlight Ers? I'm going to   show you the inside of an account and   exactly how we run it.
+
+
+00:06:18
+ We run all of our   accounts on a modular setup. We call   this the M3 method. Now, the first part   of the M3 method is structure, and that   structure always has swim lanes. Swim   lanes are so important. We have clear   prospecting, clear retargeting, and   clear retention. I don't want anyone to   get this confused with top of funnel,   middle funnel, bottom funnel because it   is very different.
+
+
+00:06:40
+ We are not curating   creative to different parts of the   funnel. We are not saying that the user   starts here and works their way down the   funnel eventually purchasing all the way   at the bottom of the funnel. What we are   saying is that we want to treat new   customer acquisition, engaged   acquisition, and existing customer   retention as three different swim lanes.
+
+
+00:07:02
+  So, how do we actually set this up?   We're going to work backwards. We're   going to start with our retention-based   campaign setups, retargeting next, and   then prospecting finally, which is the   biggest, most important thing you need   to focus on. Starting at retention.   Inside the retention campaign, you're   generally only going to have a few   different packs or a few different ad   sets.
+
+
+00:07:19
+ In this case, we have one cuz   we're not spending that much on   retention. Now, the most important thing   on retention is that we have all-time   purchasers and 180-day purchasers mixed   together. That's your Klaviyo audience   combined with your pixel audience. I'll   show you exactly what that looks like.   Inside the ad set, if we scroll down to   our audience section, first things   first, you're going to notice Advantage   Plus is off.
+
+
+00:07:40
+ Next thing is we have our   location set up properly, our ages are   wide, our genders are all on, and we are   including purchasers 180 days and our   two lists from Klaviyo, which are our   Klaviyo purchasers 180 and our Klaviyo   purchasers all time. You'll notice also   we do not select use as a suggestion,   and that's it.
+
+
+00:07:59
+ That is our entire setup   of retention. We're just putting all of   our creatives into this as long as they   apply to existing customers. For   example, we're not going to be putting   in, you know, new customer offers within   here, but we are going to put in new   products, new arrivals, anything that's   specifically curated to existing   customers or just best sellers for them   to keep coming back and buy again.
+
+
+00:08:19
+ The   next campaign is retargeting. Now,   retargeting gets slightly more complex.   We have three active campaigns that are   recommended campaigns for retargeting.   Again, you can go beyond this, but these   are our initial recommendations. Every   brand is slightly unique. In this case,   we have add to cart 90 days, website   visitors 30 days, and then Instagram   plus Facebook engagers over the last 14   days.
+
+
+00:08:43
+ These are really, really important   because they cover the base of who's   engaged with our brand in a short period   of time. You have your add to carts,   anyone who's actually gotten to the very   bottom of the funnel and actually added   a product to cart. You have your website   visitors over the last 30 days, and then   finally, you have anyone who's   interacted on your Instagram posts and   even your ads over the last two weeks.
+
+
+00:09:05
+  Now, I'll just show you one of these   audiences so you have a better idea of   what exclusions we set in place. You'll   notice right off the bat, our audience   definition is going to be narrow. That's   cuz we are strictly targeting a very   small cohort. And if we go down to the   audience, Advantage Plus is off.
+
+
+00:09:16
+ We have   our custom audiences inclusions and   exclusions. Our inclusions are our   Klaviyo website visitors and our website   visitors, so that's a hard list from   your CRM plus your normal website pixel   30 days, and we are excluding purchasers   180 days, purchasers 180 from Klaviyo,   and purchasers all time from Klaviyo.
+
+
+00:09:37
+  And then finally, we are never using the   use as a suggestion because that would   take this audience and completely ignore   all the exclusions, completely ignore   all the targeting. We want to uncheck   this box. And then finally, last but not   least, the prospecting CBO. Now, we were   just talking about that one campaign   method.
+
+
+00:09:53
+ The one campaign method has a   great philosophy behind it. It's a   philosophy that you could just throw all   your ads together and create a hyper   competitive environment. And if you've   been watching my content for the last 2   years, I have been stressing the   importance of a hyper competitive   environment. It has never ever ever been   more important, especially with   Andromeda,   to put all your creatives in a   competitive place.
+
+
+00:10:17
+ And that's exactly   what we do in our prospecting CBO. The   prospecting CBO is set up in such a way   where we have dozens of packs. And you   could see this right here. This is   someone's account on my team who's doing   this perfectly perfectly well. You could   see one pack has spent the majority of   the cash because those are the winners.
+
+
+00:10:38
+  And the cool thing about this is this is   not the first pack we launched, right?   In fact, there's dozens of other packs   that we've tested. So, the way that we   set this up is very simple. We have a   primary prospecting CBO campaign. And   every time we launch new creatives,   those get launched into a new ad set,   aka a new pack.
+
+
+00:10:55
+ Now, this whiteboard is   something you may have seen before. And   I really really want to focus this on   the prospecting campaign. If we scroll   into this prospecting campaign, I want   to explain why this is hyper competitive   and why this actually does exactly what   the one campaign method is supposed to   do.
+
+
+00:11:11
+ In this environment, what you have   are individual packs. And every time you   launch new creative, you launch a new   pack.   The winning ads rise to the top   naturally. And the losing ads get very   very little spend. And most of the time,   we actually keep those ads active.   That's your choice if you want to pause   those ads that are only getting a few   dollars in spend, or if you want to   continue to keep them active.
+
+
+00:11:31
+ The great   part about this setup and why I like it   more is because the ads each have   learnings. And every time you add a new   ad to an existing ad set, you exchange   the learnings. Meaning, we add a new ad   up here. And then suddenly, the budget   needs to be distributed to not only   these four creatives, but an additional   ad in the mix.
+
+
+00:11:51
+ That's what happens in   the one campaign method. The reason we   always launch new ads in a new pack is   because they don't interfere with any   budget allocation only on the campaign   level. So, we're not interfering with   any audience learnings, which are   happening on the ad set levels. We're   only interfering with campaign budget   optimization, which is literally the   function of campaign budget optimization   is to add more ads so that it could   spend the cash in the appropriate best   performing spot for you.
+
+
+00:12:20
+ The other big   key difference of this campaign   structure is that it allows you to   easily graduate winners to the top. So,   in this setup, we graduate winners in   two places. If you have a winning ad, a   killer ad, you graduate that into the   winners bucket, which goes into two   spots. It goes into the scale campaign   at the top of the account, and it goes   into interest groups, single interest ad   sets, which increases the efficiency of   the broad ad sets because it actually   finds new pockets of audiences that   expand your total broad audience again   and again and again. Now, keep in mind,   every single strategy can change. Every   single strategy will change. I have   changed my strategy on this channel   right here over the last 2 years with a   little tweaks and modifications based on   the millions and millions and millions   of dollars that we spend across our   entire client portfolio here at The   Moonlighters. So, look, if you want a   real pro that's actually going to take   the learnings across dozens and dozens
+
+
+00:13:19
+  of different ad accounts that we manage   at The Moonlighters to make sure you   never misstep, you never implement the   wrong strategy, you never kill what's   already working, and that you can get   your hands off of ads management within   your business, then click the link down   below in the description.
+
+
+00:13:33
+ And by the   way, I also have a link to my entire M3   method, which breaks down this structure   plus M2 plus M3, which you can get 100%   for free, again, down in the   description. If you have any questions,   let me know in the comments below, and I   will see you all in the next one.
+

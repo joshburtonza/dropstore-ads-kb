@@ -1,0 +1,17 @@
+NotebookLM Audio Overview — customisation prompt for Episode 6
+
+Paste into the "Customise" box before you click Generate.
+
+---
+
+Create a premium audio deep-dive for the DropStore community: South African e-commerce and dropshipping store owners who run Meta ads. Two hosts, fast and tactical, like two operators trading hard-won hacks.
+
+The episode is eight practical Meta ads hacks. Keep the energy high and move briskly through all eight, but make each one land with a clear "do this" the listener can act on.
+
+Rules:
+- Explain any term the first time it appears: creative fatigue, static vs video, cost per result, broad vs interest targeting, congruence, retargeting, blended return, breakeven.
+- Adapt every example to e-commerce and dropshipping, not lead generation.
+- South African context where natural: rand, local buyer types, no studio needed.
+- Do not invent statistics. Use only the figures in the source (for example the fifteen to twenty percent conversion lift from page congruence).
+- Keep it tight: roughly 11 to 13 minutes.
+- End on the simple routine: one hour of fresh creative a week, multiply your winners, and a monthly look at your real numbers, judged on net cash not percentage.

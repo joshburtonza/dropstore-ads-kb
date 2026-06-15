@@ -1,0 +1,352 @@
+
+00:00:00
+The average Shopify brand only converts   at a 1.4% conversion rate. If that   sounds like you, I'm going to show you   how to 4x that in 2026. The typical   brand tries to scale by spending more on   ads. But here's the problem with that.   No matter how much you spend, you are   already barely converting on that   traffic as it is.
+
+
+00:00:18
+ And if you were doing,   for example, $50,000 per month, 4xing   your conversion rate would mean you are   now over $200,000 per month in sales   without spending a single extra penny on   paid ads. So, in this video, I'm going   to give you my conversion rate framework   where we have audited over 16,000 plus   Shopify stores between the three of my   companies, which has generated over $2   billion in sales for our clients, where   we are seeing conversion rates of 3%,   5%, 8%, even 10% [music]   on Shopify.
+
+
+00:00:47
+ And after I break all of   that down, I'm also going to give you   the full funnel that we use and install   with brands from A to Z for you to copy.   Starting with step number one in 4xing   your conversion rate. What is CRO? CRO   stands for conversion rate optimization.   Just like we optimize our ads, we also   want to optimize the way our website is   converting on the traffic we send it.
+
+
+00:01:09
+  For example, if you're spending $10,000   per month in ads and that brings back   $30,000 in sales, but you only have a   conversion rate of 1%. Once we optimize   that website, if we increase it to a 2%   or 3% conversion rate, you immediately   overnight making double or triple the   sales without spending any more money on   paid ads.
+
+
+00:01:26
+ In addition to that, your   rorowaz skyrockets because more people   are converting. Now, you're spending 10K   on ads, but are making back 60,000 or   $90,000 in sales. This is why it is so   important and why big brands like   Skiims, AG1, Nike, and Apple spend   millions per year on improving their   conversion rates.
+
+
+00:01:44
+ And today, I'm giving   it all to you for free. So, the first   step in this is your website speed. For   every 1 second delay, there is a 7%   decrease in your conversion rates. So,   when we're looking at a brand like   Graza, whenever people visit their   website, there's a lot of imagery. And a   lot of you have images on your website   showcasing your product, breaking down   how it works.
+
+
+00:02:05
+ There's a lot of visuals   that go into educating people, walking   them through every step, showing   ingredients, you know, the lifestyle,   the imagery, and all of this space takes   up time to load. In fact, most stores   have the biggest conversion rate drop   because of their site speed loading so   slowly from the high-res images that   they upload.
+
+
+00:02:26
+ And you want high-res   imagery because it helps with   conversions. You don't want it to take   away from conversions by slowing down   the website too much. Because in today's   age, frequency and the speed to being   able to access a website is extremely   important. If it takes too long for your   website to load, people are less likely   to check out and complete the [music]   purchase.
+
+
+00:02:46
+ So, what we want to do is make   sure all of our images on our website   are optimized. So, that way we can   decrease our website page speed. And one   of the easiest ways that you can do this   is by going to a tool called Tiny Image   Optimizer. And this Shopify app will   automatically optimize all of your   images, keep them high- res, but make   them load instantaneously.
+
+
+00:03:04
+ That way,   when people visit your website, all of   the images are ready to go, and it   doesn't slow down your site, but it also   keeps them high- res. And this tool,   once installed, will automatically make   these adjustments for you. And once we   do that, this will allow us to improve   our site speed.
+
+
+00:03:19
+ So that way we don't   have to worry about friction when people   visit our website from our ads. And now   that your website is loading faster.   Step number two in this is understanding   your data on the actual website itself.   So here we are inside of one of my   clients Shopify dashboards. And as you   can see, they've done nearly $500,000 in   sales in the last 30 days.
+
+
+00:03:38
+ And their   conversion rates are going up. They're   roughly at a 2.9% 3% conversion rate.   >> [music]   >> And the main metrics that you want to   pay attention to when looking to   optimize your conversion rate on Shopify   is not just your overall conversion   rate, but your conversion rate   breakdown.
+
+
+00:03:55
+ Because what the conversion   rate breakdown does is it allows us to   understand where the drop offs   bottlenecks are in our PDP and [music]   product pages. Because when somebody   visits our website, now that we've sped   them up, we have more sessions hitting   our site. The next step is to understand   add to cart ratio.
+
+
+00:04:12
+ If you have a low ad   to cart ratio, that points to a whole   list of problems. If you are at two or   three or even four or 5% add toart   ratio, that means not enough people are   seeing your add to cart button. There's   friction. They're not being educated.   Maybe there's no ingredients listed. The   model sizing isn't there.
+
+
+00:04:31
+ The offer or   price is too high, which is preventing   people from adding to cart. Or your   buttons are just not that visible, and   it's hard for them to see. So therefore   you have a low ad to cart ratio. Now if   you have a high add to cart ratio but a   large drop off in reach checkout that   pinpoints a problem where you have drop   off between when they add to cart and   check out.
+
+
+00:04:52
+ Meaning it could be your add   to cart page. If you're taking them   directly to an add to cart page that can   end up having a negative effect because   you're now loading a second page. So if   you don't have a draw cart or a slide   cart or whenever they go to checkout   they don't see the complete payment   badges or their payment options.
+
+
+00:05:07
+ they're   less likely to go to checkout or maybe   they see that shipping costs money or   your discounts didn't load properly and   this causes friction. So that's where   we'll start to fix those issues. Now if   you have a good ad to cart ratio and a   good reach checkout ratio but a small   complete checkout where they actually   make the payment that could point to   your actual checkout page.
+
+
+00:05:29
+ It could be   to do with your shipping thresholds,   your pricing, the different payment   methods that you offer, not having   enough trust or review badges, or too   slow of a shipping time. There's so many   things that go into each of these   metrics that we need to understand. And   I'm going to be breaking down in this   video how to solve for each of these   stages so that way you can maximize your   overall sales.
+
+
+00:05:53
+ So now that we understand   what our conversion rate breakdown looks   like, let's go find the bottlenecks that   a website that is not very well   optimized would encounter. So here we   are on a Shopify website that is not   very well optimized at all. And there's   so many different friction points that   we can discover and learn from with a   store that looks like this.
+
+
+00:06:14
+ [music] The   first is our shipping banner doesn't   really stand out. It's on a white   background. Our menu items are all   stacked up together. And if we look at   mobile here, we're not taking up enough   space with our imagery. We don't have   enough educational imagery. As we scroll   down, we have these different curl   types.
+
+
+00:06:33
+ And if you don't know what this   is, this can be very confusing. So, we   don't have enough information on exactly   how this works. And then our links,   we're taking up a huge amount of space   on mobile right here. I mean, look how   far we have to scroll to get to the ad   to cart. So, a Shopify store like this   is going to have a very low ad to cart   ratio because we have to scroll very far   down just to find the add to cart.
+
+
+00:06:54
+ And   not only that, the add to cart blends in   with the website. It's white-on-white.   And we have this all stacked up. This   should be on a scroller. Our pricing   isn't very big. We're taking up too much   space with our headline. There's so much   going on here. We have popups. And by   the time we make it to add to cart, not   only is it a low add to cart ratio, it   then has a popup add to cart [music]   with no upsells, no guidance, it tells   us to view cart.
+
+
+00:07:20
+ So now we've clicked   twice just to be able to see our cart.   And then we're taken to a cart page.   This destroys conversion rates. And then   on our cart page, we're getting a popup   at the exact wrong time that we want to   show something. So now we're in our cart   and we have to then hit check out and   it's saying 97 cents which is a little   confusing for package protection.
+
+
+00:07:42
+  Checkout without is unhighlighted which   is even more bizarre. And then we have   our payment options. So we have to go   through multiple clicks which is going   to destroy our add to cart to checkout   ratio. This is causing a lot of   friction. And so when we finally come   down here, if we were ever able to make   it here as a customer, and by the time   we make it to the checkout, we don't   have trust badges.
+
+
+00:08:03
+ We don't have   shipping times mentioned, we don't have   much information really at all. We see   additional pricing, and it can cause   people to just bounce at this point,   too. So, a lot of things are going wrong   with this website, which is preventing   people from being able to convert. So if   your website looks like this, there is a   lot of things that we can improve on to   be able to fix your conversion rate and   drive more sales.
+
+
+00:08:26
+ Now for step number   three in this, and it is one of the most   important out of all of these, it's   understanding the landing page   experience from the ad to the actual   product page itself. And let me show you   what I mean. This is where most revenue   is either made or lost. and you want to   keep things super consistent from ads to   lander, whether it's a product display   page or just a product page in general.
+
+
+00:08:51
+  So, let's look at Graza. So, here we are   on Graza's Facebook ad library. We have   their colorful branding in their green.   We're showing the product. We have   headlines. We have emojis. It's very   dialed in for their creatives and   overall brand. And this is very   important because we want people to   recognize our brand because it can help   increase conversion rates whenever ads   are consistent and synergistic between   each of our creatives.
+
+
+00:09:15
+ We want our   creatives to be well color oriented and   have the right branding between each of   them. So no matter which ad they see,   they recognize our brand and are more   likely to click through, which drives up   our conversion rates because we have   more sessions on our website. What's   equally important here is whenever we   click on an ad, it takes us to the exact   same thing.
+
+
+00:09:36
+ So what you'll notice is   here, you see this product packaging?   When I click this, the very first visual   I see is that exact same thing. And this   is what we call a first load experience.   When you click on an ad, your mind is   expecting to see what you just clicked   on. And when the website loads that   exact thing, it validates the very thing   that they were looking for, which   increases the chances that they are   going to move to the very next stage.
+
+
+00:10:00
+  And so whenever we have a product page   and a PDP page like this, which is for   gift shopping, we now can expect the   customer to move to the next stage from   here, which then has our well-branded   site. And all of that same information   is being shown here. And when I go to   their product pages, it is very well   optimized.
+
+
+00:10:19
+ We have clean and clear   images of the products showing how to   use it, actually baking and applying it,   what it looks like in a kitchen setting.   And this is a masterclass in conversion   rates because we have both the glass   version, the squeeze bottle if people   prefer that. We have quantity order   bumps which is going to help increase   AOVs and this drives higher conversions   because we're giving options to people   now allowing them to decide whether or   not they want to save money and buy   more. We have subscribe and save if they   want to put this on an autorecurring   subscription so that way they don't have   to come back to the website and buy   every time which helps increase   conversions. We have refill options and   additional upsells. And Grazza makes it   very easy for somebody to add to cart   with a drawer cart. We see all of the   items in our cart. We have upselles and   a very clean checkout. The experience is   very easy to understand. And then we   break down the actual details of how big
+
+
+00:11:17
+  the bottle is, how it's harvested, how   you can use it, as well as the refill   options. And when we go down, they go   into the details of the ingredients from   where it's grown, how it's made, the   distribution, and what the finished   product looks like. And then we have   recipes showcasing how you can use this.
+
+
+00:11:35
+  Because if people don't know what they   should do with this product, well, those   are objections and questions that people   might ask. So, Graza does a really good   job of showcasing how they have order   bumps, bundles, packs, and   subscriptions, allowing [music] them to   maximize sales and drive higher   conversions.
+
+
+00:11:51
+ and it's all consolidated   in one view, making it super easy to   navigate. Notice how on the other   website, there was so much stacking and   so much stuff going on, whereas Graza   makes it super easy to just select   everything in one view and check out   without having to load another page.   Now, let's look at Everyday Dose and how   they break down a very clear offer with   their hero mechanism.
+
+
+00:12:15
+ So, from their ad   to landing page, we have a very clear   offer, 86% off today. get 30 servings, a   free creamer, a free week of coffee,   bonus gifts. They frame this as a hero   mechanism which solves all things in one   specific offer. This increases their   conversion rate and allows more people   to make a decision to buy.
+
+
+00:12:35
+ Not only   that, but we have the breakdowns of $36   refill. We have the skip, pause, or   cancel anytime on subscription. We have   free 3-day shipping, so that way they   know when they receive it. We break down   the product in simple steps. We show the   ingredients and what's included and   everything they need is all called out   and they have their entire offer all   framed right here in first view.
+
+
+00:12:57
+ You can   see all of the deals that you're getting   with this making this offer seem almost   irresistible to buy. And everyday dose   does a really good job of objection   handling because they break down the   credibility from other brands and what   they had to say because sometimes people   don't just want to hear it from you,   they want to hear it from somebody else.
+
+
+00:13:19
+  And so they're leveraging credible   sources like Tasting Table or Who, what,   where, which are known publishers that   review websites and products. And people   trust these brands. And not only that,   but they're breaking down how this   coffee is beneficial, transforming your   mornings.
+
+
+00:13:34
+ Over 10,000 research   publications support the ingredients in   everyday dose. That's a very credible   call out, which is going to build a lot   of trust. So all of these things handle   more objections. over 6 million orders   delivered. Well, why wouldn't you buy   this product if 6 million other people   have? And not only that, but 93.
+
+
+00:13:53
+6% of   people say they love the taste. 88% of   people say they feel a positive impact.   Those are pretty trustworthy statistics   that make it easier for a consumer to   make a decision to buy because humans at   the end of the day are like sheep and   they move with the crowd and trust   others opinions.
+
+
+00:14:12
+ And then we break down   the benefits of the coffee. Maybe you   don't understand why you need this. They   break down the taste. What does it taste   like? That's an objection. They break it   down. What is it going to make me feel   like? Am I going to be jittery? Am I   going to be mellow? Is it too much   coffee? Is it drinkable? They break it   down.
+
+
+00:14:29
+ Then they bring in their customers   and allow the customers to do the   speaking for them. We're not just   showing a review. We're showing the   faces of people smiling, using the   product, building up the emotion, and   then maybe they're like, "Well, you   know, all this sounds great. People are   saying they love it, but maybe I'm happy   with my current coffee.
+
+
+00:14:46
+ Well, what does   Everyday Dose do? They break down the   objection of why they're better than   everyone else. So, you may be a regular   coffee drinker and realize that you're   not getting collagen to improve your   skin. You're not getting gut and brain   support. You're not getting 100% real   mushrooms.
+
+
+00:15:02
+ You're just getting maybe   some caffeine and a little bit of a   vanilla flavor. And so, this allows you   to start understanding the key   differences between what you're doing   now versus what you should be doing. And   they continue to break down this offer   and they do a beautiful job of   showcasing social proof in UGC, which is   very important.
+
+
+00:15:20
+ They're not just showing   product imagery. They're not just   breaking it down. They're not just   putting statistics in, but they're   driving in videos that have real life   stories, education, walkthroughs, behind   the scenes, and user generated content   that allows people to build up even more   trust to buy.
+
+
+00:15:37
+ Now, let's look at another   website that is doing very well in their   conversion rate and is on pace to become   a billiondoll company off of what   they've done by disrupting the deodorant   industry. There are so many deodorants   out there, but what Carp has been able   to do is build a funnel that is so high   converting that people come in expecting   to spend four bucks, 10 bucks, 12 bucks,   but come out spending hundreds of   dollars and still converting.
+
+
+00:16:02
+ And they   do this by breaking down some of the key   features in bullet points and making it   super easy for you to pick between the   different scents and buy because every   stick you add, you're getting a major   discount, which is incentivizing people   to add more. And because you're training   the person to be able to click more   times and start to build up the suspense   of getting all these different sins in   their cart, they're more likely to click   through.
+
+
+00:16:30
+ And they have benefit   breakdowns. You're getting a VIP   discount. It's renewing every 4 weeks.   You can adjust your delivery frequency.   You can cancel any time. We have   dermatologist recommended. Apply at   night. 100% satisfaction guarantee.   These are clear benefit driven callouts   that make it much more easy for people   to not only scan, but make a quick   decision to buy.
+
+
+00:16:52
+ And when we hit   continue, we have our simple drawer cart   where we're claiming free shipping, 15%   off, 20% off, 25% off, and 30% off   allin-one. And we can see the strike   through pricing. We can see all of our   products on first view. And we're even   throwing in another product for 20% off   and making it super easy for the   continue button to move forward.
+
+
+00:17:12
+ They're   not just saying check out, they're   saying continue because what Carpay does   is it doesn't stop there. They then   offer post-purchase upsells, additional   offers, and it just keeps going until   they've maximized not only the total   number of sales, but the overall   conversion rate that they could possibly   get.
+
+
+00:17:30
+ And if you hadn't moved forward by   this point and you continue to scroll   down, they show you the exact steps on   how to use it. And they even break down   a beautiful before and after. If you   have sweaty pits, smelly pits, or have   this issue, here's what it looks like   with Carpay. They stop sweat and odor.   simple and safe ingredients   dermatologists recommended.
+
+
+00:17:50
+ Carpay is   really good at benefit driven and before   and after transformations to convince   you to buy. So the goal from all of this   helps you boost add to cart rates, AOVs,   and conversion rates by applying all of   these things. And at this point, if   you're wondering how you can make all of   these adjustments, I've gone ahead and   linked a tool from Surge where we've   audited thousands of Shopify websites   and know exactly what converts.
+
+
+00:18:13
+ And   inside of this free audit builder, it   will show you everything you need to   know and what changes to make in real   time. So, I highly recommend checking   that out. For AOVs and LTVs, this is   where we can do two things. It's where   we maximize our average order value or   maximize our lifetime value.
+
+
+00:18:31
+ Both are   great strategies, but it just depends on   how your funnel is set up to do it.   Maximizing your LTV on the front end is   a little more advanced. So, I'm going to   show you how to maximize your AOV for   any brand that's under 100K per month. I   recommend this setup. So, just like I   was showing you with Graza, where you're   able to switch between different   products and be able to add multiple   products to cart and do bundling and   subscribe and one-time orders all in one   view. You can do this by using this tool   here. It will allow you to pair your   products to where you have bundles.   People can toggle between different   products. You can set up custom offers   all in one view. So that way you can   increase your average order value going   from $30 to $40, $50, even $60, $100   plus, allowing you to make more money   off of every order and simplifying it in   a process that is conversion rate   friendly. Now, I highly recommend   checking out this tool because whether
+
+
+00:19:29
+  you're a clothing brand, supplement, any   brand where you can pair products or   sell bundles or packs, this is a tool   that you must have. And just like on   Carpay's website where we have our Black   Friday offers, we have our free shipping   banners, our special discounts where we   show the different tiers that people are   going through.
+
+
+00:19:46
+ And when you add multiple   items to cart, and we hit continue, you   see all of it pop up in a draw cart or   slide cart for a very intuitive and   seamless checkout, allowing you to   increase your ad to cart ratio and your   reached checkout ratio. and the exact   tool for how you can set this up in a   very easy to understand manner and have   these special offers being shown in   these pop-ups and the upsells in cart to   increase AOVs and drive more conversions   is this tool right here.
+
+
+00:20:14
+ It allows you   to input your trust badges, urgency   timers, free shipping bars, your upsell   slider to sell them on additional   products in cart before they check out,   as well as the payment badges to build   trust. This will increase your AOVs and   your conversion rates. So, this tool is   linked below the video, and it's a   drawer cart that pops out when they add   to cart, allowing them to check out   faster and spend more on every customer   that visits your website.
+
+
+00:20:39
+ And this   allows you to convert more people that   visit your website while getting them to   spend more. And all of the tools and   things that I'm showing you in this   video are all linked below for you to   quickly access and install in one click   on your Shopify. So, the goal from this,   bump AOVs on people who are ready to   buy.
+
+
+00:20:59
+ Next is our checkout and cart   recovery. This is where we recapture   missed opportunities by increasing add   to cart recovery via email and SMS. So   when we're looking at a website that has   a very high add to cart ratio where we   have nearly 35,000 orders that have been   sitting in add to carts that have not   purchased and we've only gotten 8,600.
+
+
+00:21:22
+  That means over 20,000 people are still   having a product in their cart but have   not checked out. That is a massive   opportunity that we do not want to miss.   Without even increasing our spend on   ads, we can start liquidating all of   these add to carts and recovering them   to drive more sales.
+
+
+00:21:38
+ And to be able to   do that, if you have a very high ad to   cart ratio and a very low conversion   rate, this is one of the quickest ways   you can recover them is with email and   SMS. So, here we are with a brand that   went through the mentorship and this is   Heights District. They are a street wear   clothing brand.
+
+
+00:21:55
+ And literally within his   first month of installing this tool that   I'm about to show you, he was able to   capture an additional $60,000 in sales   off of this one SMS tool. All from the   amount of ad to carts that he had on his   Shopify that were not converting. So if   you have a lot of add to carts, you want   to be able to recover them with SMS and   email.
+
+
+00:22:16
+ So what I've gone ahead and done   is link below this exact tool. And I   highly recommend this, especially if you   want to recover more sales and make more   money because you can literally be able   to install this cart recovery tool. And   what it does is is it automatically sets   up an AI and a phone number and for   every person who adds a cart and bounces   from your website, maybe they got busy,   something happened and they did not make   the purchase.
+
+
+00:22:39
+ That doesn't mean they   necessarily didn't want to buy, but now   that they've left, the opportunity of   recovering them goes down if you do not   have something like this. And what this   cart recovery tool does is it'll have an   AI conversation where somebody adds the   cart and they bounce and the AI will   reach out to them and say, "Hey, I saw   that you added this item to cart, but   you did not buy.
+
+
+00:22:58
+ Anything I can help   with?" And then the person responds and   says, "Well, it was a little pricey. I   really want the product, but I don't   want to spend that much money." The AI   bot will automatically respond and say,   "Would a 5% or 10% discount help you?"   and then that person ends up checking   out, allowing you to recover more   individuals.
+
+
+00:23:17
+ So, this tool only really   needs to be set up once and it will do   the automatic add to cart recovery for   you. Imagine if you were able to recover   up to 30% of the people who added to   cart but did not buy. That is a huge   increase in sales and a huge increase in   conversion rate all by doing one thing,   activating cart recovery with SMS.
+
+
+00:23:35
+ So   once you install this tool, it will run   on autopilot and recover anywhere   between 15 to 30% and on average   increase your ROI by 10 [music] to 15x.   The amount of times I've seen people   explode after doing this is unreal.   [music]   Next up is email recovery. And one of   the quickest ways to recover more people   from email is by having more emails to   begin with.
+
+
+00:24:00
+ And before we start sending   out email recovery reminders, add to   cart recovery flows, checkout   abandonment flows, post-purchase flows,   we have to be able to build up our email   list in a much more efficient and   quicker way. And one of the best ways to   do that is by having a full width popup   where people can interact and be able to   submit their email.
+
+
+00:24:18
+ So that way you   build your email list, increase your   matchback ratios with Meta, and be able   to send more emails to drive more sales.   And one of the ways you do that is a   great example from Photon Candle here,   who literally came into our mentorship,   scaled up to 300K months, transferred   into the agency, and will do over $3   million this month from following all of   these steps exactly.
+
+
+00:24:39
+ And we did this   with one of these tools, which helps   with email capture. And you pick between   one of these items. If you're selling   candles, these could be candles. If   you're selling, you know, supplements,   you could have pick between one of our   supplements. And it's a mystery   discount.
+
+
+00:24:54
+ and you unlock it and enter in   your email address and [music] the   average email opt-in ratio is roughly   15% with this tool. Imagine if you're   only capturing roughly 3 to 5% and you   were able to triple that volume. What   does that mean for you? Well, it's   totally free to send out emails. So, if   you have a much bigger list and you have   a much higher capture ratio, you're   going to be driving way more   conversions.
+
+
+00:25:17
+ So, to be able to do this   exact setup and have a very clean and   intuitive popup that is full width, I   highly recommend checking out this tool   where you can have these beautiful   visuals of full width pop-ups that   absolutely crush it on mobile and   desktop view. And you simply can pick   between products or you could do some   fun offers.
+
+
+00:25:37
+ You could ask them questions   and it's more interactive. It's very   clean and it has a very high opt-in   ratio, which allows us to start sending   out email recovery and reminders   whenever people leave items in their   cart. But what this also will allow us   to do is build out even more flows to   drive more sales, which I'm about to get   into.
+
+
+00:25:55
+ So, the goal from this increase   add to cart and purchase recovery. And   now we can get into post-purchase and   subscriptions. This is where we turn a   $40 customer into a $120 customer   instantly. So to show what this looks   like back on Graza, we have the   subscribe and save. So if we spend $10   to acquire a customer and they spend 81   bucks on the subscribe and save option,   not only are we getting an 8x return   announcement, the very next month this   subscription renews, allowing us to make   an additional $81 on top of what it only   costed us to acquire them [music] for 10   bucks. This increases our LTVs and   allows us to build up our returning   customer rate and get more post   purchases. So, if you have a product   that could be on a subscription, you   need to install a subscription app that   allows you to increase your returning   customer rate and recurring revenue. So,   that way your revenue is stacking every   single month. This allows us to not only   spend more on ads, but make more money   by having people on subscribe and save
+
+
+00:26:55
+  options. And the ways that you can do   that are are by using a tool called   Reby. And this allows you to put people   on a recurring subscription. So that   way, every single month, you're able to   not only bill them, but they receive the   product without having to come back to   the website. This makes the   post-purchase experience much better.
+
+
+00:27:08
+ So   that way, they don't have to think about   ordering the product every time. It   automatically comes to them. They can   cancel any time, and it increases the   revenue that you make every single month   by multiples. So, if you have a product   that is a consumable or skincare,   anything where you could buy that   product multiple times every month and   it runs out, you want to have a   subscription.
+
+
+00:27:32
+ Next up is the   post-purchase experience. And Carpay   does a really good job of this. Once you   buy the first time, they're going to   offer you a product immediately after   you buy. And this is what we call the   post-purchase upsell. And if they go   from spending $100, well, now you're   offering an additional product to them   at a discounted rate for say $20 more   dollars and because they already bought   from you and trust you, the chances that   they're going to buy again go up   significantly.
+
+
+00:27:57
+ So, you definitely want   to have a post-purchase upsell because   it helps raise your rorowaz. It helps   you get that second purchase, which   makes it even more likely that a   customer will return to your website   again and again to buy more. So, how do   we set up the post-purchase after they   buy? Well, we do that with this   post-purchase upsell, which will help   increase your AOV and the post-purchase   experience.
+
+
+00:28:18
+ So that way, you make more   money after every customer that checks   out on your website. And this tool right   here, all you do is just install it, and   as soon as they buy, they're given   another offer to spend more with you.   And this is one of the easiest ways to   increase your AOVs and gain more sales.   Now, it doesn't just stop there.
+
+
+00:28:34
+ Next   up, we want to have all of the email   flows that allow us to keep bringing   these customers back and back every   single month. So that way, we don't have   to constantly go out and acquire tons of   new customers every single week. And one   of the easiest ways to do that is with   email post purchase flows.
+
+
+00:28:52
+ And this is   where we can go over special offers. We   can break down other products that we're   offering where we showcase, you know,   maybe you bought this product, but did   you know this other product improves   your sleep or has a different feel,   maybe it pairs well with this item. We   can share the founder story to get them   more engaged with us because once they   buy, they're in tune with the brand, but   now we want to integrate them so that   way they become a cult-like fan of our   brand. And what we'll do is we'll send   them down multiple flows where we're   giving them special offers. We'll do   Labor Day sales. We'll do mystery gifts.   We'll end up thanking them for sleeping   with us, right? If they bought a   sleeping product or if they bought a   supplement. You bought our creatine, but   did you know our protein helps increase   your muscle growth on top of the   creatine that you're using? This is a   great way to communicate to our   customers after they've already bought.   So, you want to build out multiple email   flows to increase conversion rates   because now we have an easy route of
+
+
+00:29:52
+  bringing people back to the site and   buying again. And we can continue to   educate and be able to give out more   offers to drive more sales by using   these email flows. An example of   somebody who's doing a really good job   of not only sending out emails, but   getting customers to review so that way   they build up the credibility and social   proof and drive more trust like we were   talking about earlier is everyday dose.
+
+
+00:30:14
+  In order to get all of these reviews, it   doesn't just come by natural people   buying and reviewing. There's an entire   science behind the scenes that you're   not seeing. And that is where they're   incentivizing and sending out   notifications immediately after a   customer buys. They're asking for   reviews, videos, and offering referrals   to get people to spend more money with   them, refer their friends, and provide   them with videos of their product and   more reviews because they know if they   get a ton of reviews and social proof,   they're going to have a higher   conversion rate. So, what you want to do   is set up an email flow to be able to   reach out to these customers to get them   to buy more. And how you do that is by   using a tool like this review app which   is linked below this video. And it sends   out requests to not only get people to   review but also get photos, videos,   images of people actually using the   product because it builds more social   proof, drives higher conversions and   allows you to be able to drive more   sales. So if you want to get way more   reviews, be able to recover and increase
+
+
+00:31:13
+  your sales and conversion rate, then you   definitely want to use this tool. So the   goal from this increase your LTVs from   day one and sell to them again and again   through email and SMS so we can shift ad   budget towards net new people which   lowers our ad spin increases our LTVs   and brings in more people into our   ecosystem.
+
+
+00:31:32
+ Now I want to make one thing   crystal clear. CRO doesn't mean just   fixing pages. It's continuous   experimentation AB testing and   maximizing every metric from the front   end to the back end of the funnel. So to   recap what all was learned in this video   is number one, we learned what a proper   website foundation looks like with our   speed and overall trust.
+
+
+00:31:53
+ Number two is   we now understand our data and all of   the analytics and leaks in our site that   is preventing people from converting.   Number three, we now understand how to   properly set up our landing pages and   make sure that our messaging from our   ads align with our landers or PDPs. In   number four, we have all of our offers,   bundles, and upsells all set up along   with a properly structured checkout   cart.
+
+
+00:32:18
+ And number five, we have add to   cart recovery set up through email and   SMS and not always relying on ads. And   finally, we have a clear understanding   of maximizing our LTV on the back end to   get more repeat customers every single   month. And earlier in this video, I   mentioned I was also going to give you   the full funnel that we roll out with   all of our clients.
+
+
+00:32:39
+ And once you   understand how to structure your website   for conversions, this funnel will bring   you traffic 40% cheaper and be able to   scale to 100K, 500K, 1 million, and even   $10 million per month on Shopify. And I   put all of it in this next video for you   right here. I'll see you inside.
+

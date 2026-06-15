@@ -1,0 +1,42 @@
+Alex: So you watched that interview with the Meta insider. Give me the real version. How does the algorithm actually work?
+Sam: Okay, so the biggest thing is most people picture it wrong. They think there is one machine deciding if their ad is good or bad. That is not it at all.
+Alex: So what is it?
+Sam: It is really three systems doing three jobs. The first one is retrieval. Picture one shopper opening the app. Hundreds of advertisers want that slot. Retrieval's job is to look at everyone who could show this person an ad, and instantly pick the few most likely to actually interest that specific person.
+Alex: So it is not asking, is this a good ad.
+Sam: Exactly. It is asking, is this the right ad for this person, right now. Different ads win for different people. That one shift changes everything.
+Alex: Okay, what are the other two?
+Sam: Second one is consolidation. Meta used to run loads of tiny models, one guessing clicks, one guessing purchases, and so on. They found that if you smash them all into one big model trained on everything, it predicts way better, because it has seen so much more about how people behave.
+Alex: More data, sharper guesses.
+Sam: Right. And the third is the ranking brain, a massive model that makes the final call on which ad to show. The wild part is it spends more of its effort on people who engage and buy a lot, the ones with long histories, because there is more to learn from them.
+Alex: So the heavy buyers are exactly who it is best at finding.
+Sam: If you give it what it needs, yes. Which brings us to what you should actually do differently.
+Alex: Go.
+Sam: First, creative. Because it is matching specific ads to specific people, your job is to give it a spread of genuinely different ads to choose from. Different angles, different hooks, different buyers.
+Alex: So make a hundred ads.
+Sam: No, and this is the trap. The insider was clear, a giant pile of near identical variations does not help you more than a sensible set of truly different ones. A handful of real, distinct angles beats fifty clones.
+Alex: What about when you upload a batch and only two or three actually spend?
+Sam: That is not failure. That is the system doing its job, running the ones it thinks will perform and setting the rest aside. The ones it skipped were not necessarily bad, just a weaker match. So stop nursing the ad that gets no delivery. The machine already told you something.
+Alex: Okay, this next one I know people will not like. Budget.
+Sam: Yeah. You are never going to beat the machine at moving money around. It shifts budget to what is working faster and more accurately than any human staring at a dashboard, because it reacts to live data every second.
+Alex: So all the manual budget tweaking.
+Sam: Mostly wasted, and worse, big manual changes can reset its learning and make everything jumpy. The machine wants to do the allocation. Your value is upstream, in the creative and the strategy.
+Alex: Speaking of jumpy. People feel like their results swing for no reason. Is that them, or the system?
+Sam: Often the system, and it is not broken. He compared the auction to a stock market. Millions of bids change every second as new info about shoppers moves through it. Someone who looked like a buyer this morning already bought the thing by lunch, so it stops chasing them. That is happening constantly, across everyone.
+Alex: So my results move because of everyone else too.
+Sam: Partly you, partly everyone. And there is a trade-off. Lower volatility comes with higher prices, lower prices come with more volatility. You cannot have rock steady results and the cheapest cost at the same time.
+Alex: Is there anything I control there?
+Sam: Big one. The more you spend and the more conversions you feed it, the more confident it gets, and the calmer it runs. A well fed campaign with steady sales is calm. A starved campaign spread across too many ad sets is jumpy, because it never gets enough signal to settle.
+Alex: Which leads to the tracking thing you keep banging on about.
+Sam: Because it is the whole game. The algorithm gets smarter the more real sales data you feed it. Every genuine sale teaches it what your buyer looks like, so it finds more of them.
+Alex: And if some sales happen where it cannot see them.
+Sam: Then it is learning from only part of your results. Say a sale starts on an ad and finishes in a WhatsApp chat. If the system never sees that sale, it is half blind. Close that gap, make sure it sees all your real sales, and you are not just fixing a report. You are feeding the ranking brain better signal, which makes it more confident, less volatile, and better at targeting.
+Alex: Okay so if the machine does the optimising, what are we even for?
+Sam: The encouraging bit. Machines are unbeatable at computation and moving money. They are useless at having ideas, and they cannot reason about why a message landed with a certain kind of person the way you can.
+Alex: So that is the human job.
+Sam: That is the high value job. Come up with the angle. Write the hook for a specific buyer. Then look at the results and ask, why did this one resonate and that one flop. Form a real opinion, make new creative from it, feed it back in. Human insight in, machine optimisation out, human insight in again.
+Alex: Alright, land it for me. What do I actually do this week?
+Sam: Build a small set of genuinely different angles, not clones, and accept it will only run the ones it likes. Let the machine allocate the budget instead of hand tuning all day. Keep your spend concentrated enough that campaigns get the conversion volume to be confident. Make sure your tracking catches every real sale, including the ones that close off to the side. Expect daily swings and judge over a rolling week, not in a panic each morning.
+Alex: And the one thing only we can do.
+Sam: Study why your winners won, and make more of those. Do that, and you stop wrestling the algorithm and start steering it.
+Alex: Feed the machine, let it drive, and put your brain where it actually counts.
+Sam: That is the whole episode.

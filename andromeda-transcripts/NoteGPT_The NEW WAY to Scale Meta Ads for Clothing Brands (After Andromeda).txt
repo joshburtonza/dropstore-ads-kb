@@ -1,0 +1,208 @@
+
+00:00:00
+In this video, I'm going to show you the   exact Facebook ad testing strategy that   we used to make over a hundred million   dollars for clothing brands in the last   12 months. First, I'm going to share   with you the exact setup. Then, I'm   going to share with you inside of a live   ad account to walk you through how to   structure your ads the right way.
+
+
+00:00:14
+ And   I'll even share with you our audience   code framework that we use to speak   directly to our audience. So, everyone's   focused on bidding, testing, scaling,   but your creative concept is the reason   your ads still fail. So, with this   Andromeda update, and we'll get into   this here in a second, but with the   Andromeda update, what we did was we   took a lot of ads, tons of them, most of   them bad.
+
+
+00:00:36
+ Meta said, "Hey, I'm going to   filter this through. I'm going to stop   showing bad ads. I'm actually going to   give a very specific experience to our   customer because they want them to stay   on the platform longer. So, bad ads   don't get spinned. But it also means   that if you create more specific and you   are able to diversify your creative, you   are able to reach more people.
+
+
+00:00:55
+ and   honestly beat out every single other   person out there because most people are   still following old strategies which is   like let me do this adset budget testing   and let me do this like guaranteeing   every single ad gets spinned and let me   do a different campaign for basically   everything. All of those do not work.
+
+
+00:01:18
+  Okay, there are sometimes you will have   success by throwing a dart against the   wall and hitting the bullseye, but most   of the time you're not going to be   consistent. This is the framework that   I'm going to put at the top here. This   is how we want to look at a structure   for our campaigns and for all of our   targeting, all of our ads.
+
+
+00:01:35
+ So, very   simply, we got a campaign. We have an ad   set which used to be a lot of the   targeting. Technically, this is I mean,   we live it we leave it as open as age,   gender, location. Meta is also pushing   the advantage plus shopping. Doesn't   matter, right? We have very little   control over that.
+
+
+00:01:50
+ You don't need to use   interest. We don't need to use   lookalikes. But this is going to be an   ad set. We're going to basically set   this up as our concepts, which I'll talk   about here in a second. And then the ads   are going to target the individual   concept or theory that we're going   after. And then individual. So we should   define this.
+
+
+00:02:08
+ I put it on here for my   notes. We should define a concept. So I   put on here, a concept is a clear idea   for one ad that we can test. The ad says   who we're talking to, what we promise,   why it works, and how we'll show it.   Now, this will all make a little bit   more sense here in a second, but first,   I wanted to say a quick hey, howdy, and   hello.
+
+
+00:02:27
+ So, my name is Aaron, and   alongside my business partner,   Christian, we created this channel for   you guys to help you guys grow and scale   online, to help you generate more   revenue, give you freedom, to help you   and your family. And if you have found   any value in this video at all, please   give us a nice little like and   subscribe. It is 100% free.
+
+
+00:02:43
+ If you do it   in the next 3 seconds, I will share with   you the best movie that I have seen   recently. Shout out to Nick from Thread   Bird. I just watched the Ghostbusters   Afterlife. I know that I am late, but   curious, which is uh your guys's   favorite Ghostbusters. All right, so I   have broke this down into several   different areas and we can just put them   onto the screen for you guys.
+
+
+00:03:03
+ So the 4F   lens, so I put on here, and this is all   specific to apparel. So fit, fabric,   function, and fashion. We want to choose   one dominant F per concept so that the   promise is clear. Okay, all of this will   start to make sense here in a second.   The other thing we want to do is moment   in motion.
+
+
+00:03:24
+ Okay, a real life scene plus   action that writes the visual hook,   body, identity, archetype. All right,   it's a bunch of fancy words there, but   who are we going after, right? Tall,   petite, curvy, athletic, is this a   minimalist? Is this a skater? Is this a   new mom? Care and longevity. So, this is   one wash, right? one shape.
+
+
+00:03:48
+ Everything   stays the same. It's a boxy shape. Is   this one of those like stitching type of   things where this is made out of a   really strong material or fabric? Price   psychology. This is a big one. So,   what's the cost per wear? How much is   this actually worth? Right? If you're   going more premium, is this the pro   standard? Is this luxury proof? I would   love to see like a a time lapse of like   the amount of wees or the amount of   times it's gone through a washer, like   comparing one to the other.
+
+
+00:04:17
+ You could do   I don't know if torture test is the best   way to put it, but like something where   it's like, all right, you're just one   person stretching on one end, one person   stretching on the other. You could go   that route. The other part here is offer   mechanics for apparel. So, what I mean   by offer, and we have a whole GPT for   this, but basically like, can you bundle   these together? Buy these two shirts,   get one.
+
+
+00:04:36
+ Buy one hoodie, get a free   shirt. Buy two hoodies, get a free hat.   What whatever it may be. We've got one   of our program members, OSO program   members, who gives away like free   basically describe them as like pens for   the clothes based off of like if you buy   a hoodie or not. So that could be an   offer that you have.
+
+
+00:04:53
+ What does this   concept mean? All right, we have   different examples of concepts. If you   focus or these concept types make sense   to you, great. Like I said, the 4F lens   that you have, again, we're looking for   several different factors here, but you   do not need all of these at one time.   But when it comes to creating content or   creating ads specifically to apparel,   it's not like you're going to be able to   grab, for example, we've got, you know,   these disinfecting wipes.
+
+
+00:05:22
+ You would sell   this completely different than something   that somebody actually wears. So, you   have to approach this differently than   different types of ads. Most of the time   when I see videos online for people   teaching meta ads or specifically the   Meta Andromeda update, they talk about   things that are not possible with   clothing.
+
+
+00:05:40
+ They talk about things that do   not make sense for clothing. So that's   why this four lens to me, right, the 4F   lens makes sense, right? Fit, fabric,   function, fashion. Pick one of those and   then dive deeper into them. We also have   this and if you want this, just comment   the word scaling below. I'll send it to   you.
+
+
+00:05:59
+ We have for example before and   after links inside of a tool called   foreplay. And so you can link here and   this could be a concept. Okay, before   after before after those are all just   examples that you go after uh go on to   for example bullet points. These are all   bullet point examples but you have   carousels. That would be a concept.
+
+
+00:06:19
+  Features benefits. Nads does a really   great job. Honestly they're really good.   Go check out their ads. What what are   the features and benefits? I think this   is AG1. I know this is real. All right.   So if we're going to draw out a   campaign, again, this is kind of the   layout of how we have it.
+
+
+00:06:33
+ So I'm going   to draw this. So we have a campaign, the   adsets, which are concepts, which are   exactly what we talked about over here,   right? Features and benefits, brand   founder, or what we mentioned earlier   here, okay, which is that or 4F   framework going through here. Again, you   can use I would say either one of them.
+
+
+00:06:54
+  This framework here for lens the 4F lens   probably maybe a little advanced but if   you can use it extremely powerful   extremely valuable I would say at a   surface level top level you could use   the concepts over here both of them will   work both of them will add value to your   audience but all we're trying to do is   take a campaign pick a concept   diversification of that concept so for   creative testing we're no longer going   to have images that look the exact same   videos that look the exact same we're   looking for different images, right? It   could be the same flatlay, but it could   be not only a different colored   background, it could be a different   headline, it could be different motion,   right? If it's a video, it could have a   different call out, it could have a   different piece of creative there. So,   or a different piece of like call to   action there. But each individual ad,   this concept will go after an individual   person that's going to meet them. This   is what we also suggest. For example,   this one could be a video, this could be   an image. The same one in here could be
+
+
+00:07:54
+  a carousel. You could have another one   that is a flatlay. You could have   another one that's on the rack. You   could have another one that is an us   versus them. You could have one that's a   headline. You're looking for different   or diversification, right? Which is what   Meta would like inside of Andromeda.
+
+
+00:08:07
+ And   you want to focus on this. Okay. So, I   want to get into a couple of quick tips,   but first hold up one second. And I want   to say that if you are a clothing brand   owner and want to jump into the   specifics of your brand and how to grow   it profitably online, you can schedule a   free 45minut strategy session with us.
+
+
+00:08:26
+  There are limited spots, so go find a   time that works best for you right now.   Just check out the link in the   description down below. Also, real   quickly, if it is still 2025 and you are   still thinking about your brand, do   something today. Schedule that strategy   call now. Do not wait till 2026.
+
+
+00:08:40
+ That is   when everyone else is doing it. January   is also a slower month for clothing   brands typically. So, do something now.   Even if it's the last week in December,   do something. Nobody ever regretted   starting sooner. Now, something I've   talked about in previous videos is to   focus on first imitating much like we   have on the screen here with the   features and benefits, right? Imitate   something like that for your brand, then   iteration.
+
+
+00:09:07
+ So instead of this using your   brand name and calling out organic   cotton, use different headlines. Do not   use icons. Maybe you could use text.   Maybe you have a different call to   action at the bottom. Maybe it's not   even boxes. Maybe it's something else.   Focus on iterations. Right? I would say   an iteration if I was going to put this   to it like I would say at this point   give me 20% difference in the image or   the video. Give me 20% of the iteration.
+
+
+00:09:34
+  Most people won't get to innovation, but   innovation you can get inspiration from   these and and think of your own concept.   But honestly, I would do a lot less   innovating there. The misconception with   Andromeda is that you need so much   innovation, you need so much   diversification, you need all of these   different things.
+
+
+00:09:52
+ I don't think that   you're creating much more ads. You're   just creating variations of different   types of ads for the same concept. And   so what I mean by that is you can create   your same seven or eight ads. They just   all look slightly different versus what   we did before. Give me a blue   background, a green background, an   orange background.
+
+
+00:10:16
+ So it was easy to   pump out because it was basically three   ads times four because you just had   variations of them. But there really   wasn't that big of a change. Now Meta is   saying, "Hey, look, those other   variations, we're not even going to   spend on them. So don't waste your   time." Okay. So, as you can see here, we   actually do have two campaigns set up.
+
+
+00:10:35
+  One of them was a DPA, and this was   prior to September, October. We're not   spending a ton per day on this. We are   spending about $200 per day. The other   one, the main one, is spending about   $1,000 per day. Full transparency, at   this point, we are in a position where   we are low on stock, and so we are   watching what we are scaling.
+
+
+00:10:55
+ Hopefully,   we will get in products before the   biggest sales of the year so we can   actually push this because we would like   to be pushing significantly more dollars   per day. However, so the DPA pretty   straightforward. We have honestly quite   a wide openen targeting and the DPA is   very simple.
+
+
+00:11:12
+ It is going through based   off of the bestselling products that we   have for the brand and then we're going   after individual type of and this is you   know they're selling a lot of hats,   selling a lot of t-shirts, selling a lot   of um like hoodies. So we're selling   bestsellers and then we also have   products that are specifically going   after let's just say affinities for   people that they may have within like   the sports arena.
+
+
+00:11:37
+ So this is a brand   that's specifically into the sports. As   you can see here, last significant edit   100 days ago. There are probably things   that we could do. It is well within our   cost per acquisition. It is not   something that we are super focused on   right now because we have been pushing   very hard on the creative side over   here.
+
+
+00:11:53
+ You can see we have multiple   adsets going. What is an adset? An adset   is a concept. The concepts are based off   of individual things. So, this may not   mean much to you, but these are every   single one of them. For us, we have   different batches that we're going   after. And each one of them is going   after a specific type of audience based   off of the concept. Okay.
+
+
+00:12:16
+ So, let's look   at I'll show you the one that's spent   the most. This one. So, inside of here,   we technically only have one ad that is   running. Okay. These other ones here   that are blurred out, uh, to be fully   transparent, we turned off in the last   week or so. What is a common   misconception? And this one, just so   everybody knows, this is social proof.
+
+
+00:12:41
+  Um, as you can see, the other ones had   social proof, but graphic. It was um I   can't get into this to the actual ad um   too much just because of uh an NDA here,   but it looked like this. Okay, this   works really well for people. Obviously,   it doesn't look like this drawing, but   it was product product.
+
+
+00:12:58
+ So, three   variations of the product and then   individual wearing the product. Okay,   this particular individual happened to   be one who people recognize. So   obviously that worked really well.   Common misconception that people have is   that one ad can't carry the account.   Everybody says, "Oh, one ad cannot   create and carry this account.
+
+
+00:13:18
+" However,   it actually can. For this one in   particular, it spent the majority of its   budget. It actually got I mean, this had   369 purchases. The rest of them had 11   and two. Okay, we're building out new   concepts at this point because we had to   turn the other one off. However, it it's   pretty straightforward.
+
+
+00:13:34
+ An ad can carry   you. Now, will it be able to scale   forever? No. But we have had ads, one of   these ads, I won't get into the specific   one, but one of these ads had actually   been scaling and actually been live   since what is it about five months   spending at $400 or $500 a day. It's   been getting the majority of the spend.
+
+
+00:13:51
+  So, it's been running for a long time.   It's been getting a lot of spin and it   continues to get social proof from all   the engagement and it's still working.   So, these are all individual concepts.   Again, could be us versus them, it could   be headline, could be all different   types of concepts that they have and   then the individual ad are all   different.
+
+
+00:14:11
+ Okay, you could also look at   as a concept as a different angle. I'm a   fan of that as well, right? Which is   like let's say we're selling something   that's specifically to like youth   basketball. Okay. So, the concept could   be like new basketball approach   basically for at this point the let's   just say the parents are buying it.
+
+
+00:14:30
+ So,   they have no clue what to buy any of   their kids. And so all of our ads are   focused on a carousel of like how to get   your kid ready, a POV of like a mom as a   first-time basketball mom, you know, a   storytelling of like, hey, look, we   started this brand because we are also   parents and we also had issues with   trying to find the right clothes for our   kids for basketball because they're so   unregulated, right? That could be a   concept as well.
+
+
+00:14:55
+ An angle or a position   in the marketplace could go off of that   here. So, I also wanted to show you this   really quickly as well because this is   one campaign. It is spending $7,000 a   day. You can see this right now. Last 30   days, we've spent $150,000. It is an   average purchase cost per purchase 58   bucks.
+
+
+00:15:16
+ Some people say that's super   high. I promise you for this brand, our   average order value is over $200. It is   more than profitable. Okay, there are   several different concepts that are   going on inside of here. We actually   have a DPA inside of this ad set that is   combined. I wouldn't normally do this.   It just is the way that it ended up   happening internally.
+
+
+00:15:34
+ Honestly, we make   uh mistakes too. It it is doing well.   And then every single one of them,   right? For example, we have so many   different things going on for holiday.   So Thanksgiving, Christmas, this is very   holiday specific. This is a boutique for   everybody who is curious. One campaign   ad set based off of concept individual   type of ads that are targeting all these   different types of people.
+
+
+00:15:55
+ We have a lot   of ads running. Obviously, it's $7,000 a   day, but they're all going after a   different type of customer based off of   the ad, based off of the individual. All   right, so number one, launch on the same   day every single week for consistency.   We prefer Mondays. You can pick   whichever day you would like, but just   stay consistent.
+
+
+00:16:12
+ Number two, I like to   scale like this. So 5% every single day,   but I look at the three previous days,   and then if it's above my target return   on ad spend, I scale by 5%. So today, if   it's a Monday, I'm looking at Sunday,   Saturday, Friday. If Friday, Saturday,   and Sunday average to be better than my   actual return on ad spend that I need,   my return from my the investment I have   on ads, I will scale by 5%.
+
+
+00:16:38
+ On Tuesday,   I will do the same thing, but I will   look at Monday and Sunday and Saturday   and rinse and repeat. That is how I like   to scale. You will scale very quickly.   It is very effective. It doesn't mess   with the system. There's other ways to   do it. That's what I would do. Number   three, each ad targets new people.
+
+
+00:16:54
+ So,   make sure the changes you have or the   iterations that you make are big enough.   Right? What I mentioned here, 20%   iteration differences. Number four,   diversification of creative is good, but   diversification of creative format is   just as important. Carousel, image,   video.
+
+
+00:17:15
+ Okay, those are different ways to   get in front of your audience. Please   look at those different formats. Okay,   so now you know how to test your ads   inside of Meta the right way, especially   with Andromeda. Go watch this video on   how to tell stories that print money for   your brand right here next. All right,   y'all have a great rest of your day.
+
+
+00:17:33
+  Thank you so much for watching. We will   see you next time. And uh PS, make sure   you subscribe.
+

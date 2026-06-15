@@ -1,0 +1,200 @@
+
+00:00:01
+[music]   >> Well, hello everyone.   Thank you for being here.   I'm Jenny Streets. I lead our CPG,   financial services, and health teams   here at Meta. And I'm joined by Matt   Steiner, who leads our ads   infrastructure and ranking AI org.   Their job is making sure that the   billions that we invest show up as   performance, efficiency, reliability,   and scalability.
+
+
+00:00:30
+ The things you all   feel.   Matt's been a driving force behind our   AI capabilities and the new features   helping you drive higher ROAS, and also   making it easier to build campaigns that   work.   Thanks, Matt. Appreciate you being here.   I'm happy to be here. Everyone always   loves to have you join us. Um all right.   So, Matt is an OG, if you didn't know,   here at Meta.
+
+
+00:00:52
+ Um he's been here for over   a decade with a front-row seat to all of   our AI investments. Um tell us, though,   right now, what makes you most excited   about this moment in ad tech? Okay, so   this is a little bit of an interesting   question because 10 years ago, when I   joined the ads team at Meta, I was very   excited about uh building technology uh   because of the amazing capabilities that   AI was bringing to the advertising   space.
+
+
+00:01:19
+ And here we are a decade later,   and that has never been more true. I'm   thrilled and excited to build technology   that leverages the amazing capabilities   that AI has today. And that pace of   innovation has just amazingly   accelerated bringing way more powerful   capabilities than ever before. Yeah. So,   it's funny because I think AI's having   such a moment that we forget that AI has   been having a moment for over a decade   internally with our ad stack.
+
+
+00:01:46
+ So, I'm   still exciting.   All right. So, let's talk about your   teams. They're building the   infrastructure behind really every ad   that comes out of this room. So, how do   these investments translate into what   advertisers care about? Yeah, that's a   great question. I mean, every AI   investment that we make directly   contributes to our advertising partners   return on their investment, return on   their ad spend.
+
+
+00:02:08
+ In Q4 of 2025 alone,   something like 5% lift in ads quality   came directly from these AI investments,   3 and 1/2% more clicks on Facebook ads,   and over 1% increase in conversions on   Instagram came from AI investments in Q4   alone. Now, that kind of performance   improvement is happening every quarter   with these investments in AI, and these   investments compound quarter over   quarter and year over year to improve   the performance that you see every year   when you advertise with Meta.
+
+
+00:02:45
+  All right, so some of this, as we know,   comes from our   our ML models. We call them   affectionately Gem, Andromeda, Lattice.   These are the systems that are actually   deciding which ads get served or shown   to people in real time billions of times   a day. So, will you break it down for   us? Tell us about what each of them does   and how they work together.
+
+
+00:03:05
+ This is   really fascinating. If you haven't heard   this before, it's a good time to listen.   It's a really interesting piece of   technology. Maybe let me start with one   of the pieces we developed first, that   was Lattice.   Lattice is basically a technological   breakthrough in the way that we combine   machine learning models.
+
+
+00:03:22
+ Intuitively,   this should make some kind of sense to   you, specifically if you take two   machine learning models that predict   outcomes for different objectives, if   you combine them, you can produce better   results on each objective   than when the when the models were   separate. And that's intuitively because   each model now gets to see more data,   more data about what people like, what   people click on, what people wind up   purchasing, Uh, and that data about what   people are interested in helps improve   the performance of each model. So,   that's Lattice, the technology   breakthrough that allowed us to combine   machine learning models together. Uh,   the second is Andromeda.   With a large proliferation of generative   AI-driven creative, specifically text   variants and background variants that   advertisers are using to uh, better   target specific audiences and find   messages that resonate with them, there
+
+
+00:04:20
+  is a proliferation   of ads creatives in our ad system. And   that caused a problem at the ad   retrieval layer for us as a   infrastructure and delivery team. So,   the two basic parts of the ad system are   finding the ads that are targeted to the   person who is logged in and there's an   ad slot to fill, and then ranking those   ads.
+
+
+00:04:42
+ So, prior to Andromeda, ad   selection, retrieval, the first stage,   uh, was effectively not super smart. We   could find the ads that were targeted to   you, uh, and then just pass them on to   the ranking system.   Now, we do a much more intelligent,   personalized retrieval stage. We worked   with our hardware partners at Nvidia to   design a custom hardware skew with GPUs   to bring 10,000 times more compute to   the retrieval stage, and that allows us   to run a machine learning model that we   co-designed for that hardware and for   the retrieval application   to personalize the retrieved ads that we   pass on to the ranking stage. And that   has driven a huge lift in performance   for the retrieval stage. Now, that   matters because, uh, ads, uh,   retrieving ads that are targeted to you   is good, but retrieving ads that are   targeted to you that you're going to be
+
+
+00:05:42
+  interested in is way better. And so, we   want to be able to sort that list of ads   that you're likely interested in before   we hand it to the ranking system so we   can spend more time understanding and   ranking the ads that you're more likely   interested in and less time on the ads   that you're not likely interested in.
+
+
+00:05:58
+  So, that's Andromeda.   The next step in this evolution was   sequence learning. Sequence learning was   the big breakthrough that led to   technologies like large language models.   Large language models are are   effectively sequence completers. Right.   If I give you the sentence to be or not   to blank, I bet everybody in the room   could fill in what the most likely word   is.
+
+
+00:06:23
+ That's effectively what a large   language model is doing. It's filling in   what that most likely next word is.   So, that's the large language model   problem. The ranking version of the   problem is very different. Cuz if I were   to ask what is the next ad that we   should show, there's no objectively   correct answer like be in that first   sentence, right? There's only a highest   probability answer for me and that's   going to be different than the highest   probability answer for Jenny.
+
+
+00:06:52
+ So, in   sequence learning, we look at the   sequence of ads that you've been shown   and whether or not you clicked or   converted on one of those ads and then   we try to predict what is actually going   to be the next best ad to show in that   sequence for you.   That kind of sequence of purchases that   people tend to make is very informative.
+
+
+00:07:16
+  If I just bought a a road bicycle, Mhm.   well, that probably increases my   probability of buying road biking shoes,   uh   water bottle for a road bike, a bicycle   helmet, a bike computer, maybe some   spandex. That's right.   Um   and so sequence learning gives us a lot   more ability to predict with higher   confidence what the right ad to show you   next is because we've moved from   point-wise predictions, what ad should I   show Matt next, to given the sequence of   things that Matt has purchased   previously or interacted with   previously, what should we advertise to   Matt next?   So, that breakthrough in sequence   learning enabled the next step, which is   our generative ad recommendation model,   which we call GEM. The generative ad   recommendation model allowed us to feed   those sequences into a machine learning   model with an architecture that was   similar to the transformer machine   learning architecture, which is the
+
+
+00:08:15
+  basis of large language models. And then   we can process a lot more data at   training time, cuz instead of processing   a point-wise example, now we're teaching   the machine learning model to process a   sequence of examples. And that's given   us a breakthrough in the amount of data   that we can feed into a machine learning   model to train that model,   which then gives us the ability to   improve the prediction quality of that   model because the model has seen a lot   more data, and therefore its prediction   quality goes up by quite a bit.   So, that was a huge breakthrough for us,   and we've talked about that on our Meta   Engineering blog, and we're very excited   about some of the results that that has   demonstrated.   And then just this year,   4 weeks ago, we announced our adaptive   ranking model.   One of the key observations is that some   people are not very clicky and   interactive online, and other people are   very clicky, very online spendy very   online and very online spender. Yeah,   exactly. Probably some folks in this
+
+
+00:09:14
+  room. Um and uh the set of folks that   have a lot more interaction history, we   were not previously able to feed a long   enough sequence of interactions into   that foundational ranking model to   improve the quality of the predictions   given the longer sequence of interaction   history that we have.   Now, obviously, if we have more examples   of what you like and what you're   interested in, we can better predict   what ad to show you next.
+
+
+00:09:39
+ So, for those   users who are clicky and spendy, we   launched the adaptive ranking model   where we feed in much longer sequences   of interaction history. And that allows   us to drive substantial prediction   improvements about what is the next best   ad to show a clicky spendy type of   person. And that's shown up in the   results that you see   in the last quarter.
+
+
+00:10:01
+ So, we're very   excited about that. I mean, wow.   I mean, this is also what people call   our algorithm. That's right.   Um all right. So, not to say that all of   that isn't cutting-edge technology   because I think we can all agree it is.   I mean, some of it lay breaking in the   last month or so, but your teams aren't   just maintaining these systems.
+
+
+00:10:20
+ They're   also thinking about what's next. I mean,   you really are building state-of-the-art   technology state-of-the-art AI   technology in our ads   uh stack. So, tell us what are some of   the most significant things that your   teams shipped recently. Obviously, you   just named one, but beyond that and also   what's coming.
+
+
+00:10:37
+ Basically, tell us what   you're going to tell us about next year.   >> [laughter]   >> Uh so, the adaptive ranking model is uh   maybe our first launch of this very   powerful piece of technology. We are   going to continue to iterate on the   adaptive ranking model because it   provides LLM scale and complexity   for predictions at sub-second latencies   such that we can put that ad in front of   a person in a timely manner.
+
+
+00:11:03
+ Uh this   really uh   has provided uh better predictions for   Meta, but also   uh better better predictions for   advertising partners and thus Meta, uh   but also sustainable economics because   we're now able to more efficiently   represent data and scale these models,   which leads to these kind of conversion   improvements.
+
+
+00:11:23
+ Uh the adaptive ranking   model led to a 3% conversion increase   and a 5% higher click-through rate for   that segment of users that we were   talking about earlier, those clicky   spendy users with long segment long   interaction histories.   I think the second piece of technology   that we've updated just in Q1 is   Lattice.
+
+
+00:11:49
+ We have updated Meta Lattice   with better deep funnel performance.   And that deep funnel performance for   Meta's Lattice model has led to a 13%   click-through rate lift and a 16%   conversion rate lift on app event   optimization. Now, those are big numbers   and we're very excited about the kind of   results that the technology has driven   in that particular advertising space.
+
+
+00:12:17
+  We're going to continue to expand that   across all of the objectives to benefit   all of our advertising partners.   In the in the future, I think we're   really looking at how generative AI can   be used for ranking overall. Instead of   having that kind of retrieval paradigm   that we were talking about earlier, can   we get the   recommender system, a generative AI   system to generate the right ad   candidates based on what it knows about   you and what you've interacted with   recently.
+
+
+00:12:47
+ That is   kind of early indications are that   there's some real opportunity in terms   of driving performance from generative   ad rankers. And we're very excited to   invest in that. I think the other domain   that is really interesting to us   technologically is of course agentic   optimization.
+
+
+00:13:06
+ Everybody's talking about   agents these days. You have an agent   that can do a thing, that's really cool.   It'll save you some time on this or time   on that. But one of the real cool   breakthroughs in our space is using   agents to iterate on the infrastructure   systems and ranking systems that drive   performance improvements and efficiency   improvements for all of our ranking   models and infrastructure systems that   deliver ads for all of you and to people   that see these ads every day.
+
+
+00:13:39
+  Um, these these kind of big bets, these   future bets, are really about getting   the most intelligent performant system   possible uh delivering your ads so we   can provide better value for advertising   partners and then better experiences for   the people that see these ads every day.   We want to make sure that we are   connecting people with products and   services that they're going to love.
+
+
+00:14:05
+  I think that's wild. I think that   just when you think that you've thought   of it all, your team thinks of something   else. Um, but my especially I really   like your formal clicky spendy people.   That's my favorite parts of that.   >> Yeah, yeah. That's a technical term.   Yeah, not not lattice or even using   agents.
+
+
+00:14:20
+ Although um, I do want to hear   about your agent back case. I'm curious   if you're if you've named it.   >> [laughter]   >> Your personal one. All right, so let's   shift gears. I think um, we could talk   about honestly the models all day and I   they're super fascinating, but there's a   couple things I want to get to for you   to give some uh some advice to this   group.
+
+
+00:14:35
+ Um, this one comes up in a lot of   my client meetings. So folks in this   room are trying to figure out how to   balance um, investment across objectives   as well as the funnel. And so I would   love to get your honest take. How should   marketers thinking about picking   objectives and allocating budget uh   across the funnel do so in a way that   gets the most out of Meta AI and all of   the systems that you just talked about.
+
+
+00:14:59
+  Yeah, I mean that's a really great   question. We hear this from a lot of   clients that we talk to as well. Uh,   very specifically the ads ranking system   and the machine learning models that   power them will deliver the objectives   that you select at whatever uh   price you specify in the volume that's   available that specific day.
+
+
+00:15:17
+ But those   systems do not know what the objectives   of your business uh are, right? And they   don't know the ratios at which you need   those objectives. Maybe you're in an   earlier stage company and you are much   more focused on growing your brand and   getting your products and services in   front of people.
+
+
+00:15:37
+ And you're optimizing   for upper funnel objectives, awareness,   reach, and and recall.   Maybe you are a very profit driven   company and you are focused on getting   me the best marginal ROI for every   additional conversion.   There's a model that will optimize for   that for you. But we don't know how to   trade off against those objectives for   your business cuz every business is   going to have a different trade off   function.
+
+
+00:16:06
+ You have to tell us what you   want in what ratios and then the machine   learning models can optimize for you and   what you need. But we don't have any any   unique insight into your business across   those two objectives. That's a business   decision that you need to make and tell   us about and then we can optimize for   that for you.   Yes, I think this is your first   takeaway, right? The more you share, the   better we can perform for you, right?   Yeah, that's exactly right.
+
+
+00:16:31
+ I mean,   these are machine learning systems. They   are powered by data. Data   that any data that you have about who's   interested in your products and   services, the better information you can   provide to these machine learning   models, the better they can deliver   results for you. Cuz at the end of the   day, they live and breathe based on   data.
+
+
+00:16:55
+  All right, I have to be honest.   Even working here surrounded by all of   this stuff, it gets really overwhelming,   especially right now the pace   the consumption of AI and how we're   using it. I'd say even just for everyday   work, but even beyond now and in our ad   stack. How do you keep up with it? I'm   curious to hear about you personally and   then also what your teams are doing   themselves or and building to make it   easier. Yeah, it's a great question.
+
+
+00:17:18
+ The   pace of innovation is absolutely crazy.   I've never seen anything like it in a   25-year technology career. This is wild.   And the rate of change in the AI world   is so fast. We have dedicated teams of   researchers that are doing hundreds of   researchers doing research in AI systems   every day.   They're reading all the papers that come   out.
+
+
+00:17:42
+ We have study groups where we   assign one person to read each paper,   write some bullet points, summarize it   with an LLM, compare it with the notes   that they read, share it with the group.   It is a wild time to be in the   technology world and working on AI. So,   I spend a lot of time reading both the   papers directly and the summarized   notes.
+
+
+00:18:02
+ I ask LLMs about what have they   seen or heard or read recently. I ask   them to summarize papers for me. It is   hard to keep up even investing the time.   But   one of the things that we are also   really excited about is using things   like our agentic   system for optimization. We call it the   ranking engineering agent because it can   read papers and come up with hypotheses   and test those hypotheses on machine   learning models and systems.
+
+
+00:18:33
+ And so,   we're going to keep investing in systems   like that because it allows us to   accelerate the pace of development   internally as well.   But yeah, it's a   This is an amazing astounding time to be   alive. It's really wild. My takeaway   from that is is book clubs no longer. We   all need AI clubs so that we can come   together and share.
+
+
+00:18:54
+ I do think having a   buddy is a big way. Like I know I   personally have really benefited from   that cuz there's so much to take in. My   other favorite thing as I already   mentioned is naming my agent. It makes   it much more fun.   >> Yeah. Mine's Coco. I feel like you   should name   the Reg. I feel like you're going to say   ranking   >> [laughter]   >> engineering agent.
+
+
+00:19:12
+  >> I'll have my agent talk to your agent.   We'll compare notes.   >> Coco does talk to other agents.   >> [laughter]   >> Wow.   Okay, sorry. We digress. Okay, so it's   only accelerating. I feel like it just   keeps going. I think that's clear and   everyone in this room is feeling it.   But I also feel like there's a lot   that's going to come at them today.
+
+
+00:19:29
+ If   you think about what you've all shared   and if there's one thing walking out of   here today or tomorrow,   what should they be doing right now to   take advantage of everything that you   just shared? Yep. This is a really great   question and and I think the the way   that I like to describe this is the   secret to performance on Meta's   advertising systems has always been to   test and iterate.
+
+
+00:19:52
+  The way that you learn is to look at the   data, look at the performance data, come   up with hypotheses. Why did this message   resonate with this audience? Why did   this message not resonate with this   audience? And then test those with   different campaigns for different   audiences with different messages.   You really want to be able to reason   about what's happening and why and then   test that hypothesis with different   campaigns.
+
+
+00:20:17
+  You need to be able to provide data back   to these machine learning systems to   teach them like what is working for your   business, what is not working for your   business. The more accurately you can   tell the machine learning model what is   working for you and what is not working   for you, the better your   recommendations, your predictions will   be for your business.
+
+
+00:20:36
+ Tell us what   matters to you. That's going to drive a   lot of the performance that you see. And   and again, the real secret is to test   and learn, test and iterate. Spend more   on what's working, don't spend on what's   not working and really look at the data.   Well, you heard it here first from the   man who has spent over a decade building   AI into our ad stack.
+
+
+00:21:00
+  The technology behind your campaigns is   advancing faster than ever and the teams   that are focused on building it are   focused on one thing, making your   results better.   And now it's up to you and your teams.   So, test, learn, test and learn fast,   iterate. But thank you all for being   here.
+
+
+00:21:16
+ And Matt, thanks so much for   giving us a peek behind the scenes.   Thanks, Jenny. Thank you all.
+

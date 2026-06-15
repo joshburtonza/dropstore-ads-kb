@@ -1,0 +1,115 @@
+Alex: Okay, so last time we did the algorithm as a learning brain. Today is the mechanical version. What literally happens when an ad gets shown to someone.
+
+Sam: Right. And the number that blew my mind when I first got it: every single ad you see is its own auction, decided in about 200 milliseconds. Not a few auctions a day. Billions of tiny ones, one per impression.
+
+Alex: An impression being one ad, one person, one time.
+
+Sam: Exactly. So when your Reel loads while you are scrolling on the couch in Durban, Meta just ran a decision out of tens of millions of possible ads, and picked one, faster than you can blink.
+
+Alex: How does it even compare that many ads that fast?
+
+Sam: It does not compare them all. It funnels them through four steps, each one narrower than the last. Step one is retrieval. Widest net. It takes that giant pool and cuts it down to a manageable set almost instantly.
+
+Alex: And this is the "your creative is your targeting" step.
+
+Sam: This is the one. The system is matching your actual ad, your video, your hook, your offer, to the person in front of it. So when people say run broad and let the creative find the buyer, this is the mechanical reason it works. Your creative is telling Meta who you are for.
+
+Alex: Okay, step two.
+
+Sam: Light ranking. A fast, cheap scoring pass. Takes the candidates down to the thousands. Just a rough sort to clear out the obvious non-contenders before the expensive maths runs.
+
+Alex: Then step three is where it gets serious.
+
+Sam: Heavy ranking. Thousands down to hundreds. This is where the value equation runs. The system properly estimates how valuable each ad is for this exact person in this exact moment.
+
+Alex: And step four is the actual auction.
+
+Sam: The few hundred survivors compete, highest total value wins, gets shown. And the word that matters there is total. It is not the highest bid that wins. It is the highest total value.
+
+Alex: So break down that total value for me. Plain words.
+
+Sam: Your ad's total value is roughly your bid, times your estimated action rate, plus a user-experience factor.
+
+Alex: Three pieces. Bid first.
+
+Sam: Bid is just how much you are willing to pay for the result. The money lever. For most store owners the system manages it to spend your budget efficiently, so it is not the one you obsess over.
+
+Alex: Action rate.
+
+Sam: This is the good stuff. It is the system's guess at how likely this person is to do the thing you care about. For a sales campaign it is two things multiplied. One, estimated click-through rate, how likely they are to tap. Two, estimated click-to-purchase rate, once they tap, how likely they actually buy.
+
+Alex: So action rate is click-through times conversion.
+
+Sam: Multiplied. That word matters. And the third piece is the user-experience factor. Meta protecting its own feed. Clickbait, broken landing page, people hiding your ad, that all drags your value down.
+
+Alex: So I can win three ways. Bid more, have a higher action rate, or just not annoy people.
+
+Sam: And the two middle ones, click-through and conversion, are the ones you win with skill, not spend. That is why a small Cape Town store with sharp creative can beat a big spender with lazy ads. The big guy leans on the bid. You lean on the multipliers, and multipliers compound.
+
+Alex: There is also a reward for relevance, right.
+
+Sam: Yes. A high click-through rate signals relevance, and over time a relevant ad wins impressions more cheaply. The system can hit your result without bidding as hard. So good creative literally lowers your costs. Lazy creative makes every impression more expensive.
+
+Alex: Where do you see stores leaking value most?
+
+Sam: The second multiplier, every time. People make a thumb-stopping video, the taps pour in, and then the product page loads slow on mobile data, the price is in dollars instead of rand, shipping time is vague, no clear Add to Cart. Brilliant click-through, terrible click-to-purchase. Big number times tiny number is still a tiny number.
+
+Alex: And the system sees the low overall action rate and stops favouring you.
+
+Sam: Quietly, yeah. The opposite happens too. Perfect product page, boring ad, never earns the tap. Both leaks end with the same small result.
+
+Alex: Let me ask the timing question, because this is where people panic. New ad, day two looks terrible. Kill it?
+
+Sam: No. That is the most expensive habit in the game. New ads are in the learning phase. The system does not know your true action rate yet, so it is testing. At low spend you get a sine wave, up one day, down the next. It means almost nothing day to day.
+
+Alex: So the rule is?
+
+Sam: Zoom out to at least seven days before you judge. Read the trend across the week, not the spike on Tuesday. You are reading noise as signal otherwise.
+
+Alex: And the flip side, fatigue.
+
+Sam: Every ad wears out. Even the great ones. The fresh audience shrinks, the same people see it too often, the action rate decays. Not a failure, just physics. Which is why creative is a conveyor belt, not a one-time job. You always have the next one ready.
+
+Alex: What about the data side, feeding the system.
+
+Sam: Two terms. Event match quality is how well the events you send back, like a purchase, match to a real person. Higher is better, the system learns your buyer faster. And the Conversions API, CAPI, is the server-side way to send those events. Instead of only the browser pixel, which ad blockers and iPhone privacy settings break, your server sends the purchase straight to Meta.
+
+Alex: And in South Africa that matters more.
+
+Sam: Loads of your traffic is on mobile data with privacy settings that quietly kill browser tracking. Server-side routes around a lot of it. Send good data and the estimates get sharper.
+
+Alex: But you have a warning about trusting Meta's own dashboard.
+
+Sam: Take its suggestions with a pinch of salt. It will constantly nudge you to raise budgets, add its recommended audiences, accept its fixes. Some is useful. Some is optimised for Meta's revenue, not your profit. It is a for-profit company giving you advice that helps the for-profit company. Read everything through that lens.
+
+Alex: And it does not actually know your business.
+
+Sam: Not at all. It optimises for the objective you select, full stop. It does not know your margins or that a R200 sale and a R2000 sale are different to you. If you optimise for cheap link clicks, you get cheap clicks and no sales. Pick the objective that matches the outcome you actually need.
+
+Alex: Quick one on variations.
+
+Sam: They work. A few honest versions of a concept, different hooks, different opening frames, gives each idea more at-bats. Like a batsman, more chances to connect. Not fifty random ads, a handful of strong concepts each with a few variations.
+
+Alex: So land the three things and then the action.
+
+Sam: Three truths. Creative is your targeting, so run broad. Make scroll-stopping creative, because click-through is your lever and it earns cheaper costs. And do not wreck the user experience, because the auction punishes a bad feed.
+
+Alex: And this week, specifically.
+
+Sam: Block ninety minutes. Monday, open your best product page on your own phone on mobile data, not wifi. Time the load, check the price is in rand, shipping is clear, Add to Cart is obvious. Fix the worst leak. That is your second multiplier.
+
+Alex: Then the signal check.
+
+Sam: Same day, confirm you are sending purchases server-side through CAPI and look at your event match quality in Events Manager. Weak score is your first technical job.
+
+Alex: During the week?
+
+Sam: Hands off anything under seven days old or still learning. Let it stabilise. And on Friday, ship two or three fresh variations of your best concept. New hook, new first three seconds, same offer. Stay ahead of fatigue.
+
+Alex: And the Meta-advice filter.
+
+Sam: Every time it suggests raising budget or accepting a fix, ask one question. Does this serve my profit or Meta's revenue. Sometimes both. Often not.
+
+Alex: You cannot out-bid the platform.
+
+Sam: But you can out-create it. The auction rewards relevance, and relevance you build yourself. One sharp ad, one clean product page at a time.

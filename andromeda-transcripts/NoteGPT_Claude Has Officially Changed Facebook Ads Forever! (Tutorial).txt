@@ -1,0 +1,140 @@
+
+00:00:00
+Meta just officially integrated Claude   into Facebook Ads and it is genuinely   one of the biggest shifts that we've   seen when it comes to running ads. I run   Facebook Ads for over 87, 8, and 9   figure e-commerce brands and I've   already been running the Claude   integration in these accounts to   actively launch, edit, and make   adjustments to optimize and report on   just about everything for these   accounts.
+
+
+00:00:21
+ So, in this video I'm going to   show you exactly how to set up the   Claude and Facebook integration. I'm   going to show you how it actually   functions. I'll show you some real use   cases for how we're actively editing,   launching, and changing campaigns right   now. Okay, first things first, go into   Claude, go to the bottom left corner,   and click settings, and then click   connectors.
+
+
+00:00:41
+ Once you're here, click add   custom connector. Name this Facebook Ads   MCP, and then paste in   https://mcp.facebook.com/ads.   You then click add from here and you'll   see the official Facebook Ads logo. Then   go ahead and click connect. This is   going to redirect you to your native   Facebook profile. From here, if you've   already connected it like I have, you'll   see the reconnect button.
+
+
+00:01:06
+ If not, you   can click edit settings and then choose   the current business that you're   actively working on that has access.   Click continue and then click save. You   will then be redirected back to Claude   where you can click configure on the MCP   and you'll see all of the permissions.   By default, everything will be in needs   approval.
+
+
+00:01:23
+ Along the way as you use the   tool, you will allow certain things to   be always allow and then of course   you'll have certain things be always ask   and certain things completely blocked.   It's all based on your preference. For   now, just about everything for me is on   needs approval. There's a few things   that I have down here like ad insights   where it can't actually do anything that   I'm actually allowing it to run freely.
+
+
+00:01:43
+  So, from here we're going to create a   new chat and we're going to check our   connector. We're going to go down here   and we're going to see the Facebook Ads   MCP is enabled. I'm just shutting off   all my other connectors. I just want to   use the minimal amount of other   connectors in here and just use my   Facebook Ads MCP.
+
+
+00:01:56
+ For this, I'm now   going to type in using the Facebook Ads   MCP connector, what ad accounts do you   have access to? And we can see as it's   actually doing its work, it's able to   load up the MCP integration, the tool.   Sometimes a logo shows up here as well.   And I can see right off the bat here, I   have hundreds of ad accounts added in   between the audits we do, our school   community, our Moonlighters agency   offer.
+
+
+00:02:19
+ We work with a lot of brands, and   we have 10 MCP enabled accounts. Now,   for this example, I'm going to use this   account right here. I know these are   blurred out just to save the client to   be confidential about it. So, now that   we have the account that we're going to   use, I'm just going to show you some   basic prompts, and then we're going to   get into some more advanced stuff like   detailed reporting, how to actually   launch, edit, make changes.
+
+
+00:02:36
+ But just for   all intents and purposes here, we can   now interact with Facebook Ads using   Cloud. Let's start with a very basic   prompt. For the account, pull the total   ad spend over the last 7 days. Nothing   else. Now, one thing I noticed in using   the tool, keep in mind, I disconnected   it and reconnected it for the sake of   this video, but what I noticed was that   as I continued to use it, it got better   and better.
+
+
+00:03:02
+ It knew which tools to pull,   it knew which skills to use, etc. Now,   this is really cool, super simple. It   can now pull my last 7 days from this   account where range. I could ask   anything I want. I could ask it, for   example, over the last 365 days in a   table format, pull in groups of 7 days   the total amount spent. I want to in a   nice pretty table.
+
+
+00:03:28
+  All right, and you can see this working   in real time. It did take about a minute   to actually gather all of the data, and   now it's pulling this in a nice HTML   table widget format. It's actually going   to look really pretty, really easy for   me to share this with anyone, and   basically show week-by-week data on   spend relative to the proportion of it.
+
+
+00:03:45
+  And I can ask for anything in here,   right? So, it's flagging some patterns,   it's calling out some stuff, but   generally, I could ask for anything I   want. I could ask for total spend, total   revenue, ROAS, I could look for trends,   we could plot charts, we could do it   all.
+
+
+00:03:58
+ For example, if I said, "Take this   data, plot it alongside number of   purchases, and then put it in a nice   interactive chart, or even maybe a few   charts that I could play around with."   And while we're waiting for that to   load, I do want to give you a very   important warning. Now, a lot of people   are going to get this integration and   think that they should trust everything   that Claude says.
+
+
+00:04:16
+ The reality of this is   very far from the truth. Now, there's   going to be some things that Claude does   call out, and really any large language   model would call out. Things like   anomalies, things like standard   deviations away from the norm. These are   things that you want your large language   model or your AI to call out.
+
+
+00:04:31
+ You want   to be notified about things that are   abnormal. It's amazing at finding   abnormalities. What it's not so amazing   at is actually understanding the   holistic strategy of your business. Not   only does it not have the insight to   things like inventory, cost of goods,   and other very important metrics, but   generally speaking, it's going to make   recommendations only on numbers, not   thinking holistically.
+
+
+00:04:52
+ I think maybe in   a few years at most, it's going to get   there where the recommendations are   going to get better and better and   better. But, as of today, I could say   very confidently, be super careful with   the recommendations that you actually   pull out of here, especially when   they're broad. Okay, I won't lie, this   took quite a long time to actually run.
+
+
+00:05:11
+  A full year of data and everything that   I'm asking for is pretty hefty. But, we   have a beautiful chart, spend purchases,   CP over time, and then spend versus   purchases plotted a little bit   differently. I think this is great. We   also have some recommendations from   Claude, or really like call outs.
+
+
+00:05:22
+ These   were all decent call outs, but generally   not things that I'm going to take at   face value. So, you can probably see   when it comes to reporting, you could   just about do anything you want, but   there are some limitations. So, just   want to break down these limitations to   make sure you don't get in here, get   overwhelmed, think you could do a   thousand things, and are only able to do   a few.
+
+
+00:05:41
+ Now, one of the biggest   limitations is we currently can't take   any creative element and actually pull   it out of the Facebook Ads Manager into   Claude. This means Claude can't see your   copy, it can't see your videos, it can't   see your images. Eventually, it may be   able to. This is V1. This is as beta as   it possibly gets.
+
+
+00:05:57
+ But for right now, we   are pretty limited about this. I do   expect this to be the most important   turning point of using any sort of large   language model, whether it's Manus,   whether it's Claude, whether it's   ChatGPT, it doesn't matter. This is   going to be the biggest shift that I   expect. Essentially, when we're able at   some point to take the creative   learnings and then push them into a   multi-step workflow.
+
+
+00:06:17
+ For example, you   might be able to take the top five ads   in your ad account, create iterations of   them directly in Claude, directly in   ChatGPT, directly in any third-party   platform that you use, all through a   single workflow. We're not there yet. I   just wanted to give you that heads-up on   these limitations because it can be   super frustrating to prompt, prompt,   prompt, prompt, and get really nothing   back.
+
+
+00:06:38
+ Right now, the main use case is   reporting, editing, and creation. With   that said, let's move on to number two,   which is editing. So, I'm going to show   everybody the most simple use case that   we could possibly imagine, which is just   editing the name of a campaign. You can   literally apply this to anything. You   could change budgets, you could change   any setting in the Ads Manager, you   could do it all.
+
+
+00:06:59
+ Just going to show you   the basics of editing the name of a   campaign. So, I'm going to copy and   paste this campaign name, and I'm just   going to say, "Find the campaign, change   the title to Claude." So, we're just   going to add Claude to the end of the   title here. And all this is going to do   now is literally locate that campaign   and update the name.
+
+
+00:07:16
+ It's probably going   to ask me for permissions or approval   throughout, which is totally fine. We   want that to happen. Go ahead and type   yes. Okay, this is an important step   here. It's going to ask if I can update   the ads entity, and it's going to prompt   me to say always allow. In this case,   I'm going to allow once.
+
+
+00:07:32
+ If we always   allow, it's going to have free reign to   just edit whatever it wants based on me   just saying yes in little situations   like this, which I don't like. Now, it   says done. Let's go back to our Ads   Manager. Let me exit out here, I'll do a   quick refresh, and we'll narrow down to   that campaign.
+
+
+00:07:47
+ And in fact, we can see   in just about 3 seconds, the name Claude   is now appended to the campaign. We can   obviously do the same for any setting,   any adjustment in the campaign that we   want. To take this a step further,   something that a lot of people are   naturally going to gravitate to, and   this isn't a direct recommendation from   me, but I think something that people   are going to want to do often or   something along the lines of locate any   ad under a 0.
+
+
+00:08:09
+5x ROAS in the last 7 days   that is in an active campaign. Once you   find those ads, we are going to pause   them down. Cool. So, in this case, it   pulled a little bit of a comprehensive   report here in a way on what's actually   happening in these ads, and I can just   go ahead and say, "Yeah, pause all 14,   skip the learning phase ads, only fully   failed warnings, let me pick   individually.
+
+
+00:08:34
+" I'll just click let me   pick individually. How should I handle   ad the one that's right on the line?   Keep it, that'll kill too much volume.   Cool. So, you can probably see at this   stage that it's going to continue to   work down the route of which ads should   we pause. I could eventually tell it to   actually choose the individual ad IDs   that I want to pause, and then it will   pause them down.
+
+
+00:08:50
+ The next thing we can   do is actually launch campaigns. It can   only launch campaigns in the paused   state, which I think is a great   safeguard. So, we can do the same thing.   Let's just say, "Forget it. Let's   instead launch a new campaign with all   of these loser ads." And we'll call it   zombie_claude. Okay, so I've gone back   and forth with Claude here a little bit.
+
+
+00:09:09
+  Long story short, this is going to take   a whole lot of tokens to actually run   and make these complex adjustments. But   what I could easily do is I could just   say, "Instead, just create the shell for   the campaign." This is going to be a   sales objective. It's going to be a CBO,   of course.
+
+
+00:09:23
+ We'll just set this for $100   per day, and I do like how it reminds us   it's going to be created as paused.   Again here, it's prompting the always   allow. We're just going to allow once.   Done. The shell is live in the paused   state before I could even finish my   sentence. Let's click the refresh button   here and we called this zombie_claw.
+
+
+00:09:41
+  Cha-ching, it is set up. Generally   speaking, always pop into here, make   sure your settings are set up properly.   There's always going to be some issues   with stuff like this. It only asked me a   few questions. It can't possibly know   every setting that I want. Of course,   you could prompt it to be more   prescriptive for new launches that you   do.
+
+
+00:09:56
+ Okay, so we have kept this at a very   high level because that's all that's   available for us today. I will keep   everybody updated with any adjustments,   any updates that actually happen to the   Claude MCP and Facebook Ads integration.   So, if you want to be informed of when   those updates come out, click the   subscribe button. I post twice a week.
+
+
+00:10:12
+ I   try to reply to every single comment and   give as much free value as possible. On   the other hand, if you want your ads   managed by a team of killers who are   using tools just like this every single   day, who have early access to tools just   like this, then click the link down in   the description or go to the   moonlighters.com/apply.
+
+
+00:10:33
+  We work with seven, eight, and nine   figure e-commerce brands and help them   go from where they are today to   significantly more scale. That is all   for today's video. As always, I hope you   got a ton of value out of this. I'm   really excited to see what's about to go   down with Facebook Ads and Claude in the   very near future.
+

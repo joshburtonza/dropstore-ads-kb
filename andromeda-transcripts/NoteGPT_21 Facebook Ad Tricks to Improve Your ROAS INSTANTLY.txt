@@ -1,0 +1,288 @@
+
+00:00:00
+I made a simple list of 21 ways that you   can be better at Facebook ads. So, in   this video, I'm going to take you   through all 21 ways, show you the   in-platform examples of everything that   I'm talking about, the inner workings of   the systems that we use here at The   Moonlight Ers.
+
+
+00:00:11
+ And by the way, if you   don't know me, my name is Sam. I've   spent over $500 million in Facebook ads   over the last 10 years to drive over $2   billion   in sales across over 100 businesses that   we actively work with at The Moonlight   Ers right now. So, please take   everything I'm saying here with a grain   of salt, but understand that it still   comes from the place of real experience   and expertise.
+
+
+00:00:31
+ Okay, first on my list is   to always use the purchase objective or   whatever metric you are actually   optimizing for. What I simply mean by   this is when you're creating a campaign   in the ads manager and you are actually   selecting your main objective, you want   to make sure your actual target, your   conversion event, is the thing that you   care about the most.
+
+
+00:00:48
+ So, when we go down   to our ad set level and we select the   conversion, we're selecting our   conversion location, most of the time   it's going to be website, and choose   your performance goal and your actual   conversion event for the actual   conversion that you want. Never add to   carts, never initiate checkouts. Make   sure it is the event that you're   actually optimizing for.
+
+
+00:01:06
+ Facebook is   tremendously good at actually getting   you the actual event that you want.   There's almost been no cases where I've   ever seen someone use add to carts or   add payment info that has driven more   purchases than driving purchases   standalone as the event. Second is to   always use CBO. So, I'm going to put   this for you very simply.
+
+
+00:01:24
+ This green   blob, that's your money. That's how much   money you have that you could possibly   spend on Facebook ads. And each of these   red squares are your campaigns. When you   have a complicated structure, you wind   up setting budgets on an individual   level. You're spending money because you   think you're smarter than the algorithm.
+
+
+00:01:43
+  When you have a simple structure that   focuses on CBO, meaning campaign budget   optimization, you're actually allowing   the budget to be distributed. So, in   this example, if the red blocks were our   ad sets and we had our campaign set to   campaign budget optimization, Facebook   is going to spend the money according to   what is working the best.
+
+
+00:01:58
+ This means   that ad set number one right here might   get literally triple the amount of spend   as ad set number three. This is   completely acceptable, completely   normal. Facebook is spending your money   where it's most likely to convert. At   this point, I basically exclusively use   CBO. is reserved for extreme   situations. 99.
+
+
+00:02:17
+9% of the time, you don't   want to be the outlier. Do not use CBO.   Number three on my list is new creative   always goes into a new pack. Now, what I   really mean by this is new creative gets   launched into a new ad set. So, if we go   into the Facebook Ads Manager, we pull   up a sales campaign, what you'll notice   is that the accounts that we run and the   accounts I've shown many, many times   before is that we use what's called a   pack-based system.
+
+
+00:02:39
+ This means that every   time we launch new creatives, we do so   in a grouping of avatar and concept   together in a new ad set. For example,   if I were to launch new ads, I would   name this and group it by avatar   concept. So, the avatar could be woman   who really want to get their nails done   and have beautiful nails. That's an   avatar.
+
+
+00:02:57
+ The concept could be us versus   them, three reasons why, UGC in car,   whatever your concept is, that's   attached here. This allows us to easily   see groupings of creatives at the ad set   level. And then, of course, we want to   have somewhere around four to six ads.   That seems to be the sweet spot these   days of number of ads in an individual   ad set.
+
+
+00:03:14
+ Number four, evaluate over 7 to   14-day windows. One of the biggest   mistakes that I see most advertisers   make these days is they launch ads and   they immediately jump in and try to make   adjustments a day later, two days later.   They think that their new ads aren't as   good as their old ads. They make a bunch   of changes and destroy what they just   spent so much time creating.
+
+
+00:03:31
+ So, what I   like to do is very simple. I like to   look back on a 7 to 14-day window to   evaluate which ads to pause, which new   ads to create, and so on. And the reason   for this is very simple. Impressions   take time to convert. So, if I impress   person number one and person number two   after a one-day window and expect them   to convert, then to be completely   honest, I'm delusional.
+
+
+00:03:53
+ These people are   going to take a number of ad placements   along the way to actually convert on my   product. Now, if you're selling $3   products, $5 products, sure, you might   need them to convert in a one-day window   because you simply can't afford multiple   impressions for the conversion. That's a   completely different story, but that's a   1% of people watching this.
+
+
+00:04:10
+ Everybody   else has a journey that the customer   needs to go on. The advantage you have   when you actually start to spend   consistently on Facebook is different   people marked by my little circles here   will be at different parts of the   journey. Because of that, you're always   going to have people close to the   purchase, and you're going to have other   people that are just starting.
+
+
+00:04:29
+ As you   spend more money, more people will be at   the start, naturally. So, I don't like   to look at yesterday. I don't like to   look at 2 days ago. I always like to   look at 7-to-14-day windows. Of course,   look at yesterday's numbers, get an idea   of what's going on, but especially when   you scale or make changes, always look   back on a 7-to-14-day window.
+
+
+00:04:47
+ Number   five, we're going to go in the platform   platform for this one. Use incremental   attribution to evaluate your creative.   Now, this is a very simple thing that   everybody could do these days, and it's   incredible that this is available to us.   So, if you go into your ad account, you   click columns and compare attribution   settings, you have the option to select   incremental attribution.
+
+
+00:05:06
+ This is going   to show you the conversions that   happened because of Facebook, and you're   most likely to see a drop-off in these   conversions from your normal 7-day   click, 1-day view, 1-day engage   conversions. So, what I like to do is I   like to evaluate our prospecting   creative from the perspective strictly   of incremental attribution.
+
+
+00:05:22
+ So, what I   really mean by this is you can see my   drop-off here is 379 to 206. This means   my cost per acquisition went from $14 to   $26, still very, very efficient. And if   I pulled in my ROAS metrics in here,   we'd see changes as well. I am focused   on the creatives that did the best job   of driving incremental attribution.
+
+
+00:05:41
+  These creatives are most scalable.   They're not sneaking in at the last   second to steal a conversion that may   have been attributed elsewhere. They are   strictly grabbing the conversions for   the most part that happened because of   the ad. That's important. Moving on to   number six, compare Meta and any ad   platforms to Shopify constantly.
+
+
+00:05:58
+ So, one   of the things that I like to do, we   basically do this for every client that   we work with, is we like to have our   data side by side. So, this is going to   seem like an overwhelming amount of   data, but this is what we do for every   client that we work with. What we like   to look at is our total spend in the   platform next to our Shopify total   sales.
+
+
+00:06:17
+ This gives us a better idea of   the actual business health and it   doesn't force us to rely just on the   platform metrics. For example, this ad   account is getting around a 5x return on   ad spend, which we can see right here,   but the actual business is getting an   8.5 total return on investment across   the blended business.
+
+
+00:06:34
+ So, what this   means is we spent $84,000, but the   business drove $727,000   in total sales. Then we also want to   track this daily, so we have a breakdown   that looks like this with our spends by   day, purchases by day according to the   platforms, and then our Shopify metrics   right next to it. We also have this   exact template that you can steal inside   the school community if you'd like to   join.
+
+
+00:06:54
+ This moves us on to number seven,   do regular pixel gut checks. So, we'd go   into our events manager, we click on our   correct data set, and we would scroll   down to the purchase event and select   it. And what we're looking for is parity   between the blue lines. And what we'd   expect is the blue line and the green   line are very similar.
+
+
+00:07:10
+ We click view   details, we'll be able to see the total   events right here and the reported   events against these. I expect a 10%   difference between browser and server   events, where server events are   typically 10% higher. In this case,   we're actually exactly 10% higher, so   that's pretty good. In either case,   10-15% that's where you want to be.
+
+
+00:07:26
+ If   you see these completely whacked out,   your tracking is incorrect, get it   fixed. Number eight is default to broad   targeting. Now, there's a reason behind   this and I will explain it with some fun   graphics. Old school Facebook focused on   interest audiences. You would basically   set your interest, which we'll mark as   INT, and that interest would actually go   out and specifically target the   interest, and you would create ads for   that interest group.
+
+
+00:07:52
+ You would build ads   specific to your interest. New school   Facebook works the exact opposite way.   You actually create your ads first,   specifically targeting an avatar, and   then those ads go find the interest or   people for you. It's a very big   difference. It's the opposite. And in   saying interest here, it's more like it   just finds people.
+
+
+00:08:12
+ Because of this, it's   more important than ever to not restrict   the algorithm, and instead allow it to   be broad. You could still run   exclusions. You could still run   inclusions where they're necessary. But   for the most part, when it comes to your   cold prospecting, we do want broad   targeting. This moves us on to number   nine, iterate on winning concepts.
+
+
+00:08:29
+ I am   not going to stand for people saying you   could only run new concepts, only new   concepts, 100% creative diversity. It's   just not what works. Every big business   is actively running iterations of what's   actively working the best for them. Let   me explain. So, here's how it works. I'm   going to show you with two simple   creatives. This is from AG1.
+
+
+00:08:46
+ Let's say   you have a creative that you upload and   it works, meaning it is driving above   your target KPI and it is actually   spending. It is now your job to   duplicate this creative and create   iterations. When I say duplicate, I   don't mean exactly duplicate. I mean   literally make changes to the creative.   Change the callouts.
+
+
+00:09:06
+ Change the   backgrounds. Reshoot the creative.   Change the headlines. Change your   primary text. You want to leverage this   creative as much as possible, because   you've already found the winner, which   is the hardest part. And then, you   constantly are creating new, different,   diverse creatives.
+
+
+00:09:21
+ And when those work,   let's say this one worked here, then   yes, again, we are creating iterations   of that creative. You go horizontal   first and then vertical with what's   actually working. And to be honest, I   pretty much explained number 10 here.   Creative is the targeting. Everybody has   heard this, but let me explain it very   simply.
+
+
+00:09:39
+ The creative that you put out   into the market has a direct   relationship to who you are targeting   more than your pixel, more than your   website, more than anything else that   you give the system. Even if   historically you have run all 65 plus   age groups, that's only people you've   targeted, that's all of your purchases   on your entire business.
+
+
+00:09:58
+ If you run a   creative in your ad account that is   geared to a younger group, it's going to   get shown to a younger group. So, don't   focus as much on the little levers in   the ad account anymore. Focus more on   the creative input that creates the   output for you. Creative actually picks   who sees your ads.
+
+
+00:10:17
+ Okay, number 11,   scale aggressively when you are over   your goal. I see so many advertisers do   this. They start from a certain spend,   they increase their spend, they wait,   they increase, wait, increase, wait, and   all of these are like 10% adjustments,   right? They go up 10%, they go up 10%.   All of a sudden, a year has gone by and   they've grown 30%.
+
+
+00:10:39
+ I don't know about   you guys, but if I'm running a   million-dollar business and I grew 30%   over the course of a year, that would   not be enough growth when it comes to   e-commerce. And in fact, I'd probably be   swept to the side by 10 other   competitors who grew 300% year-over-year   because multi-hundred percentile growth   is completely possible in early stages   of business.
+
+
+00:10:58
+ In late stages, if you're   Apple, you're not going to grow 300%   unless you reinvent the wheel. need to   reinvent the wheel to go from a million   to three million. It could be done in a   matter of a months. Where instead, when   we scale aggressively, we're going to do   something completely different. In this   case, when the iron is hot, your ad   account will look very different.
+
+
+00:11:15
+ You   might stay steady for a period of time   and then scale massively upwards of 100%   in your total spend. And then, yes, you   might decline a little bit and then   plateau again, only to again increase   massively later on. A shorter period of   time will go by that you were able to   capture more customers truly striking   when the iron is hot.
+
+
+00:11:35
+ Now, I'm not   telling you to go 10x your ad account   today, but what I am telling you is to   look at your incremental new conversions   in your ad account and actually   determine can I scale? Am I far above   goal? If you have a target of 2x and   you're hitting a 4x, you have massive   wiggle room in your ad account to   actually spend more money.
+
+
+00:11:52
+ Okay, number   12, the rule of 10,000. This is a rule   that we use to determine how many new   ads do we need on a weekly or bi-weekly   basis. It's really simple. For every 10k   spend, you want to create one ad per   week. It is actually that simple.   $10,000 spend per month, one ad per   week. If you spend 100k, you're   uploading 10 new ads per week.
+
+
+00:12:14
+ Now, for   some people that sounds like a lot, for   other people that sounds like very   little. If that sounds little to you,   understand that there is a floor. That   floor is two ads per week. So,   basically, if you're spending less than   $10,000 or rather less than $20,000, you   want to be uploading two ads   consistently every single week.
+
+
+00:12:32
+ If   creating two ads a week is a challenge   for you, which I totally understand in   the early stages of a business, then   group these together bi-weekly, meaning   four ads every two weeks or even six ads   every three weeks. Quality is more   important than quantity. Just get these   ads consistently flown into the account.
+
+
+00:12:51
+  Okay, number 13. We've already gone   through what to do when you're scaling   aggressively, when things are working,   when there's a sale, when there's an   offer. But, what do you do during   evergreen businesses as usual times?   Let's say your target is something like   a 2x and you're hitting a 2.
+
+
+00:13:02
+3x, right?   You're 10-15% above goal. I like to   scale in increments of 20 to 30% every 3   to 5 days and I look back, just as we   said before, on a 7 to 14-day window. If   we do that consistently, we ladder up   the account and if we add in, just as we   talked about before, those big   increments, then we have scaling   compounding in multiple places.
+
+
+00:13:22
+ So, we   have our 10 to 30% increments during   business as usual, and when things are   way above goal, we're increasing scale   massively in chunks. So, to put this   into full circle here, when we're at a   4x and we only need to be at a 2, we're   scaling very aggressively. When we only   need to hit a 2, but we're at a 2.
+
+
+00:13:40
+3, we   are still scaling. And in this case,   we're actually just scaling simply by   10% to 30% increments. As simple as   that. Okay, number 14. This is one of my   favorite things. Always view your   account with audience breakdowns. So,   when you're inside of your ad account,   click on this breakdowns button right   here, and click audience segments.
+
+
+00:13:58
+ Once   you do this, you're going to be able to   see your total spend on new customers   versus existing customers versus engaged   customers. I actually like to optimize   everything from this POV. I like to   literally look on a campaign level with   these breakdowns already preset. This   moves me on to number 15.
+
+
+00:14:15
+ Use value   rules over hard restrictions. Now, value   rules were introduced just a few months   ago. They've been a fantastic tool so   far. They allow us to modify the back   end of the algorithm for what our   account deems valuable. This is   fantastic. This is new, and Facebook has   never allowed this before, and we have   seen this be such a good tool instead of   axing things out of accounts.
+
+
+00:14:37
+ For   example, old school, we would have   paused down a specific age group, a   specific gender, something that we   didn't want to target. New school, we   can now just put value changes on that.   In your ad set settings, there's an   option to select value rules and click   apply rule set. From here, you're able   to create rule sets based on what you   think is most valuable to your business.
+
+
+00:15:00
+  A very simple example of this is let's   say you know a specific age group comes   back and purchases over and over and   over again, right? 65-plus, they are   clearly more valuable than other age   groups. But, Facebook doesn't know that   cuz it only looks at the first purchase.   So, what we might do is we might take   the age, we might say 65-plus as we just   showed in the example, increase by   something like 50% based on actually how   much more LTV they provide.
+
+
+00:15:21
+ And we'll   say 65 plus LTV 50% increase. What this   is going to do when we apply it to the   ad set is Facebook will actually use   that as a guide to actually spend more   against the 65 plus. It will literally   look at those purchases as 50% more   valuable. This allows you to shift spend   or decrease spend where you see fit in   your account without just hard excluding   certain ages, certain genders, or other   things. This brings me to number 16.
+
+
+00:15:49
+  Always run an existing retention   campaign. Most ad accounts group   together broad prospecting and retention   together. We always want to separate   these. I like to call these swim lanes.   Swim lanes are really simple. We have   new customers here and we have existing   customers here.
+
+
+00:16:05
+ And when it comes to our   swim lanes, I want to make sure that   when I'm spending more money, I am   spending on my new customer acquisition.   And then when I am monitoring my   existing customer, I'm looking at   different metrics. I'm giving them   different creatives. I'm managing to a   frequency. I want to make sure when I   scale, I'm scaling into new and I'm   keeping my existing customer spend   steady.
+
+
+00:16:27
+ So simply put, we break out new   and existing, we exclude existing from   new, and we allow these to run in two   separate campaigns. Okay, number 17,   study the ad library every single week.   You should be going into the Facebook   ads library, which is free for   everybody, and you should have a list of   competitors that you pay attention to.
+
+
+00:16:45
+  You could use tools like Magic Brief   Motion that allow you to do the same   exact thing, but just understand that   what's in the Facebook ads library is   actually what's running inside ad   accounts. So type in your competitors,   take a look at what they're actually   running.
+
+
+00:16:58
+ And one of the things I like to   do is sort by most recent, so you'll be   able to see the ads in chronological   order for what they're actively   launching. And you can see they started   running certain ads on different dates.   So we can actually pay attention to what   they're launching, who they're launching   it with, so we can see like sponsored   placements as well.
+
+
+00:17:15
+ We get ideas, we can   steal from our competitors. Book I   always like to reference is Steal Like   an Artist. We're not stealing, we're   using it as inspiration for what we're   actually going to create. This brings me   to number 18. Quality beats quantity in   ads every single time. If you think you   can get away with just quantity of   creative and launching a boatload of   ads, your ads are going to get lost into   the void.
+
+
+00:17:38
+ Look at the accounts on   Instagram or Facebook that have   thousands of posts and all of those   reels or images get a couple of likes   and maybe 10 or 20 views. This is   because the content and the quality of   that content is low. And then you'll see   on the flip side, there are some   accounts that post once a month and they   get millions of views.
+
+
+00:17:55
+ It's because the   quality of that content is so much   better. So before you rush to make a few   ads, focus on the quality of those ads.   It will make all the difference in your   performance of your entire ad account.   Okay, let's get tactical. Number 19,   none of this was in order if you can't   tell.
+
+
+00:18:13
+ This was just a random list I put   together. Do day of week analysis. Day   of week analysis is one of the single   most tactical things that you can do   when it comes to running your ad   account. This can go for actually all   different kinds of ad accounts in your   business in general. Facebook spends the   same amount of money every single day of   the week.
+
+
+00:18:31
+ So you look at Monday,   Tuesday, Wednesday, Thursday, Friday,   Saturday, and Sunday. If you give   Facebook a $100 daily budget, it's going   to spend the same $100 every single day   of the week. Right? It has no choice. It   spends the 100 bucks. Maybe it varies   10% across the week. But, if you look at   your Shopify, which we'll mark in green   here, you would probably see variance   between certain days of the week.
+
+
+00:18:55
+ A very   common variant is Monday through Friday   has a conversion rate of 1% and then   Saturday and Sunday has a conversion   rate of 1.5%. If this was the case, this   means that Saturday and Sundays are   going to be more profitable days. So, we   should increase our expenditure on   Saturdays and Sundays.
+
+
+00:19:14
+ The easiest way   to do this is literally by just lowering   our budget Monday through Friday. We put   like a minus 20% against our baseline   and then using that delta on Saturday   and Sunday. So, it's not plus 20%. It's   greater than plus 20%. Actually, I think   it's plus 33% to not only use the minus   threshold that we have where we're going   above baseline on Saturdays and Sundays.
+
+
+00:19:35
+  This will then in time balance out our   spend and we want CVR conversion rate to   be equal every single day of the week.   That's the goal. ROAS conversion rate   should generally be stable every day.   So, look at your day of week profit and   actually understand should I be spending   more on certain days of the week.
+
+
+00:19:50
+ It's   one of the easiest ways to squeeze some   money out of your account. This brings   me to number 20. Your website means a   lot. Literally, the copy on your website   could have a drastic change in your   CPMs. And one of the ways you could   waste money easier than ever is by   having high CPMs.
+
+
+00:20:05
+ High CPMs or rather   your cost per 1,000 impressions is   really your cost of advertising and   everyone's are slightly different. If   you're at the extreme range of CPMs,   you're going to have a hard time being   profitable. In this example inside of   our school community, their CPMs were   $200   and went down to the $60   range by making adjustments to their   website.
+
+
+00:20:28
+ I don't think this is a promise   to everyone, but if you have claims on   your website, if you have aggressive   copy, Meta is literally reading that   because their pixel is on your website   and they're seeing that this might not   be something we can show to everyone.   So, that's my simple version of   explaining that your website means a   lot.
+
+
+00:20:43
+ And the further version of that is   that all your traffic is being sent to   your website. So, make sure your website   is actually optimized. Look at your   competitors in your space. And if you   don't feel like you have a beautiful   looking website, go to your competitors,   steal their designs, and plop it into   Claude to copy the templates of their   website. It is that easy to do.
+
+
+00:20:59
+ Everyone   could be a developer these days. Number   21. Test your offer before blaming your   ads. I see this all the time. People   think constantly, "Oh, my ad creative   isn't good enough. Let me reinvent,   reinvent, reinvent. New strategy, new   hack, new structure, new ad format." And   they keep running the same offer.
+
+
+00:21:17
+ Your   product and your offer are what give   value to your customer. The better your   product, the better your offer, the   easier it is for you to make your ads.   All of this is what actually drives   value to the customer to get you your   sustainable return on ad spend, to allow   you to scale your ad account.
+
+
+00:21:33
+ Those are   my 21 ways. I hope you all got a ton of   value out of this video. If you want to   see more detailed guides on how we   structure our ad accounts and really   everything you need to know for 2026   post Andromeda, click this video right   here where I go through everything A to   Z.
+
+
+00:21:49
+ A little bit more interactive than   this, but again, I hope you got a ton of   value out of this and I'll see you in   the next one.
+

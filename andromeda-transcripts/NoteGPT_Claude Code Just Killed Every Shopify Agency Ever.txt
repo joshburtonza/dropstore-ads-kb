@@ -1,0 +1,140 @@
+
+00:00:00
+Setting up Shopify stores has been   easier than ever because now you just   combine it with the AI agents you use to   code and let them handle everything. But   just hooking Claude code up to your   store isn't enough on its own. To   actually end up with a shop that doesn't   look generic like every other Shopify   store out there, you need to combine it   with a few key pieces in your setup.
+
+
+00:00:17
+ By   the end of this video, you will know the   entire workflow that you can use to set   up your own Shopify pipeline end to end   so that you can start selling your   products right away. You need [snorts]   to follow a few steps in order to   prepare for building your store. The   first thing you need is a Shopify   partner account.
+
+
+00:00:34
+ So you go to the   browser and sign up. The partner account   matters because it gives you access to   development tools that let you   experiment with the platform. It is   basically a sandbox for your stores   where you can build your app the way you   normally would while also exposing   development tools like fake payments and   test users so you can test the app   before it goes live.
+
+
+00:00:52
+ And later on, if   you think your app is in a ready state   to start selling, you just have to add   payment integrations and you can easily   move the development account to the   merchant account where you can start   selling real products to real people.   Now, once you have created the app in   the project, it is time to install the   Shopify CLI.
+
+
+00:01:09
+ You can do this by copying   the install command from the CLI docs   and running it in the terminal. Once you   run it, you will be prompted to select   between a React app or an extension app.   We chose the React app because that is   what we mostly develop in and it is   easier to customize the app that way.   After that, you can choose the language   you want to use and we picked TypeScript   because of its type safety and security   features as compared to JavaScript.
+
+
+00:01:31
+ Once   you have run through this setup, it will   install all the dependencies needed to   run the app. After the dependencies are   in, the project will be ready and when   you run it, you will see a basic   template of the app from where you can   start making further changes. So once   the CLI has been installed, there are   other things you need to install   starting with the Shopify AI toolkit   which adds onto the building process.
+
+
+00:01:53
+  The most important part of it is the MCP   and the install command for this MCP for   all AI coding agents can be found in the   docs. Since we were using Claude code,   we copied the command for Claude and   installed the MCP, and you can do the   same with any coding tool of your   choice.
+
+
+00:02:07
+ Once the MCP is installed, it   exposes its tools to Claude, but the MCP   alone is not enough because all the   tools in it are basically there to help   Claude build better. The MCP has no way   to push changes to your store running in   the cloud. It just contains docs and   knowledge about the Shopify API along   with other validations.
+
+
+00:02:24
+ So, this setup   was not enough for building on its own,   and that is why the CLI matters because   it is actually the bridge between the   Shopify app and the local setup. Aside   from the MCP, you also need to install   the plugin. The plugin matters because   it contains multiple agents and skills   bundled together.
+
+
+00:02:40
+ You can install it by   following the install commands. After   running the installation commands, run   the reload plugins command, and all the   agents and skills will be ready to use.   Now, the main [snorts] setup is done,   but before you actually start building,   you need to prepare the project itself.   The first thing to set up is the   Claude.
+
+
+00:02:56
+md file, which is basically the   file for guiding the agent on the   practices you want it to follow. The   Claude.md we added contains all of the   best practices that we always talk   about. We have a dedicated full video on   this where we walked through the best   practices for the Claude.md file, which   you can check out on the channel.
+
+
+00:03:12
+ Aside   from Claude.md, you need some other   things in place as well. By default,   Claude generates SVGs and uses them as   placeholders for images, but these SVGs   won't do for our shop's visuals. So, we   created a skill to cover the gap. We   created a Gemini image generation skill,   which lets whichever agent you install   it in call the Gemini CLI and prompt it   to generate images for the website.
+
+
+00:03:33
+ The   skill contains instructions on how to   call the Gemini CLI and where to save   the generated images. And because Gemini   CLI has image generation integrated,   there is no need for a separate API key,   so you can use this skill directly just   by relying on Gemini CLI authentication.   Aside from image generation, we also   built another skill for our own ease.
+
+
+00:03:55
+  The prototype skill works in a way that   whenever you ask the agent for a design   change, it first creates an HTML file   that you can preview, and once you have   previewed it, it applies that change to   the app's design. The skill.md file   contains details about the whole   workflow divided into two phases.
+
+
+00:04:09
+ Once   these skills are in place, there are   some hooks that you also configure and   connect in the settings.json inside the   .cloud folder. These hooks basically act   as guardrails for Claude. For example,   the pre-tool use script can stop Claude   before it pushes changes directly onto   the app without your approval.
+
+
+00:04:25
+ You can   configure as many hooks as you want. So,   with this setup in place, we were ready   to actually build the app. But before we   move forwards, let's have a word by our   sponsor, Willow Voice. If you spend most   of your day typing emails, Slack   messages, docs, and prompts, you're   working way slower than you need to.
+
+
+00:04:42
+  Willow Voice lets you speak instead of   type anywhere on your computer, and the   text appears instantly. It's not like   your built-in dictation that gets every   other word wrong. Willow is three times   more accurate, and it actually formats   everything properly with paragraphs and   structure.
+
+
+00:04:55
+ The best part is it adapts to   what you're doing, formal when you're   writing an email, casual when you're on   Slack, and technical when you're in   code. It learns how you write over time,   so the output sounds like you, not a   robot. Over 100,000 professionals use it   daily, and it's SOC 2 certified with   HIPAA compliance and zero data   retention, so your words stay private.
+
+
+00:05:14
+  I've been using it for the past week,   and going back to typing feels painfully   slow now. Download Willow Voice free   using the link in the description. Now,   [snorts] once this is in place, you can   just prompt Claude on what you want to   build. You need to describe the landing   page you want, just like how we   mentioned the style we wanted the   landing page to follow.
+
+
+00:05:30
+ And because we   had configured the skill, it loaded the   prototype skill first. So, instead of   making the changes directly on the   actual app, it wrote HTML code in which   it finalized the design, and then waited   for our approval. It also opened the   design in a new tab so that we could   preview it.
+
+
+00:05:45
+ The first version it built   looked clean and worked well visually,   but it used placeholder sections on the   landing page where the images should   have gone. Since we had installed the   image generation skill, it should have   loaded that directly and used image   generation in the first place. So, we   prompted it again to use the image   generation skill and actually generate   images for those placeholder sections.
+
+
+00:06:05
+  After we gave that prompt, it launched   multiple Gemini CLIs through the bash   tool and opened them in Yolo mode so   that the Gemini CLI would not be blocked   by any permission prompt. Claude   launched multiple terminals and all of   them started generating images in   parallel. Image generation takes a   longer time, so you have to wait for it   to finish.
+
+
+00:06:23
+ Once the images were ready,   you can check the website and it will   look much more polished. And since the   image generation prompts were also   controlled by Claude, the images matched   the UI style very well. Now, with the   visuals added in, the website was   complete. You can iterate over the   design at this point. Since we had no   more changes to make, we asked Claude to   proceed and implement the app in the   store.
+
+
+00:06:43
+ It will ask you a few questions   related to how you want the app to be   implemented, like whether you want it   synced with the live store or not, which   we did. So, we chose that option. Once   you answer its questions, it proceeded   to convert the HTML design into the app   itself, not directly to the main app,   but to the development app we had   created.
+
+
+00:07:00
+ It mimicked the design   one-to-one, and you can preview the app   yourself to see that it has completely   mimicked the design. Now, it was a good   thing that we used the HTML preview   before actually implementing it in the   app because this process takes a lot of   time. And if you were iterating on the   design using this process, it would have   wasted a lot of time and tokens.
+
+
+00:07:16
+ HTML   prototyping was much faster and easier   to iterate with. Also, if you are   enjoying our content, consider pressing   the hype button because it helps us   create more content like this and reach   out to more people. Up to this point,   the app isn't synced to the actual store   URL.
+
+
+00:07:31
+ The design you just built is on the   local server for preview on the local   machine, and it also sits inside the   theme preview, which is where it   basically shipped the theme to the   development app so we can live preview   it. It is not the final version, it is   just a draft. So, we simply told it to   sync the live and it used the Shopify   CLI and the MCP tools to sync the design   to the main URL configured for the   Shopify store.
+
+
+00:07:54
+ And after this, Claude   will have updated the design live on   your app. Now, similarly, you can ask it   to update all of the other pages on your   website and it will follow the same   process. It will first prototype the   sections, then update them in the actual   app and then sync them to the hosted   store.
+
+
+00:08:09
+ But, there are a few things you   will still need to do to your store to   make it ready. At this point, you won't   be able to add products because updating   the products and making them ready for   implementation requires the Shopify   admin API. It cannot be done without the   admin API because this is what gives you   access to the main parts of the store,   like the about page, products, and other   management features.
+
+
+00:08:28
+ Up to now, we were   just making changes to the theme and   applying that theme to the store itself   for visuals. In order to connect the   admin API, you need to authenticate it   with the store using the Shopify CLI.   Once you enter the authentication   command with your auth link, it will   open the browser from where you can   authenticate.
+
+
+00:08:45
+ After that, you will be   able to create store-related pages and   it will use the Shopify MCP and the CLI   tool together to update the other   sections of the page. Now, you can tell   it to add in other products to your   store so that you can start selling.   But, for adding products, you need to   configure the permissions for the   Shopify store so that it can access the   tools via the admin API.
+
+
+00:09:04
+ Adding products   needs more permissions than the ones we   gave previously. We had only added   content permission. But, for adding   products, we need additional   permissions, like writing products and   reading and writing publications. So,   you need to run the auth command again,   but with added permissions. Once that is   done, you can ask Claude to add products   to your site.
+
+
+00:09:22
+ And once it does, you can   check out the app and see the products   listed there along with the store being   ready with product details and cart   features. And can also check the   products in the admin panel. But,   whoever visits your store still won't be   able to make purchases at this point.   For the store to actually be ready to   sell products, you need to add payment   details so that payments can be   processed.
+
+
+00:09:42
+ You would also need to select   a plan because unless you do so, whoever   visits your store will need to enter a   password to view it, which is obviously   not feasible. So, once you have selected   your plan, you will be able to start   selling your products. Now, the whole   setup guide and all the skills created   here can be found in AI Labs Pro for   this video and for all our previous   videos from where you can download and   use it for your own projects.
+
+
+00:10:04
+ If you   found value in what we do and want to   support the channel, this is the best   way to do it. The link's in the   description. That brings us to the end   of this video. If you'd like to support   the channel and help us keep making   videos like this, you can do so by using   the Super Thanks button below. As   always, thank you for watching and I'll   see you in the next one.
+
