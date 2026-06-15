@@ -1,5 +1,8 @@
 # DropStore — DO THIS NOW (Brand-New Build)
 
+> **BUDGET (updated 2026-06-15 per Josh): 4 ad sets × R1,500/day = R6,000/day to start — NOT 6 × R600.**
+> R1,500/ad set ≈ 6 conversions/day at ~R250 CPA → exits Meta's learning phase in ~1 week (R600 ≈ 2–3/day, never exits cleanly, Meta starves the weak sets). Start with the 4 strongest concepts (Proof/Big-number, First AI System, Pain, Student win — seeded with proven winners), add Package-clarity + Founder + step winners +20%/48h once a set clears 2x. At ~3x ROAS, R6,000 spend → ~R18,000 income → **~R10k profit/day from day one** (still ~R6.9k at 2.5x). The R3,600 / 6×R600 figures below are superseded by this line.
+
 Fresh ABO from zero. Numbers are at your current 3.04x ROAS, margin model `profit = income×0.95 − spend×1.15 − income×0.03` → **R1.65 profit per R1 spent**. Store: dropstoresa.co.za. Recovery engine: `/Users/henryburton/.openclaw/workspace-anthropic/clients/dropstore/platform`.
 
 ---
